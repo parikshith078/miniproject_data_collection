@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "The processes which together perform this maintenance job are life processes. These maintenance processes are needed to prevent damage and break-down, energy is needed for them. This energy comes from outside the body of the individual organism.",
+      "question": "What are life processes?"
+    },
+    {
+      "context": "For this, a series of chemical reactions in the body are necessary. Oxidising-reducing reactions are some of the most common chemical means to break-down molecules. For this, many organisms use oxygen sourced from outside the body.",
+      "question": "What reactions help break down molecules?"
+    },
+    {
+      "context": "In multi-cellular organisms, various body parts have specialised in the functions they perform. It is therefore not surprising that the uptake of food and of oxygen will also be the function of specialised tissues.",
+      "question": "Why do multi-cellular organisms have specialised tissues?"
+    },
+    {
+      "context": "When chemical reactions use the carbon source and the oxygen for energy generation, they create by-products that are not only useless for the cells of the body, but could even be harmful.",
+      "question": "What happens during energy generation?"
+    },
+    {
+      "context": "The process of acquiring oxygen from outside the body, and to use it in the process of break-down of food sources for cellular needs, is what we call respiration.",
+      "question": "What is respiration related to?"
+    },
+    {
+      "context": "These waste by-products are therefore needed to be removed from the body and discarded outside by a process called excretion.",
+      "question": "What is the process called for removing waste?"
+    },
+    {
+      "context": "If the body size of the organisms is to grow, additional raw material will also be needed from outside. Since life on earth depends on carbon-based molecules, most of these food sources are also carbon-based.",
+      "question": "What sources do organisms need for growth?"
+    },
+    {
+      "context": "The outside sources of energy, therefore, need to be broken down or built up in the body, and must be finally converted to a uniform source of energy that can be used for the various molecular movements needed for maintaining living structures.",
+      "question": "Why must outside energy sources be converted?"
+    },
+    {
+      "context": "In the case of a single-celled organism, no specific organs for taking in food, exchange of gases or removal of wastes may be needed because the entire surface of the organism is in contact with the environment.",
+      "question": "Why is diffusion sufficient for single-celled organisms?"
+    },
+    {
+      "context": "This situation creates a need for a transportation system for carrying food and oxygen from one place to another in the body.",
+      "question": "What is needed in complex organisms for food transportation?"
+    }
+  ]
+}

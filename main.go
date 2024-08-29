@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"encoding/json"
 	"fmt"
 	"log"
 	"os"
@@ -10,17 +11,18 @@ import (
 	"github.com/sashabaranov/go-openai/jsonschema"
 )
 
+type Result struct {
+	Samples []struct {
+		Context  string `json:"context"`
+		Question string `json:"question"`
+	} `json:"samples"`
+}
+
 func main() {
 	apiKey := os.Getenv("OPENAI_API_KEY")
 	client := openai.NewClient(apiKey)
 	ctx := context.Background()
 
-	type Result struct {
-		Samples []struct {
-			Context  string `json:"context"`
-			Question string `json:"question"`
-		} `json:"samples"`
-	}
 	var result Result
 	schema, err := jsonschema.GenerateSchemaForType(result)
 	if err != nil {
@@ -54,12 +56,52 @@ func main() {
 	if err != nil {
 		log.Fatalf("Unmarshal schema error: %v", err)
 	}
-	for i, item := range result.Samples {
-
-		fmt.Println("\nSample: ", i)
-		fmt.Println("Context: ", item.Context)
-		fmt.Println("Question: ", item.Question)
-
+	outputFile := "output.json"
+	err = saveResultToFile(outputFile, result)
+	if err != nil {
+		log.Fatalf("Error while saving result: %v", err)
 	}
 }
 
+func readJSONFile(filePath string) ([]string, error) {
+	// Read the JSON file
+	jsonData, err := os.ReadFile(filePath)
+	if err != nil {
+		return nil, fmt.Errorf("failed to read file: %v", err)
+	}
+
+	// Define a slice to hold the decoded data
+	var content []string
+
+	// Unmarshal the JSON data into the slice
+	err = json.Unmarshal(jsonData, &content)
+	if err != nil {
+		return nil, fmt.Errorf("failed to unmarshal JSON: %v", err)
+	}
+
+	return content, nil
+}
+
+// saveResultToFile function takes a file path and a Result variable, and saves the JSON data to the file.
+func saveResultToFile(filePath string, result Result) error {
+
+	type ResultForTraining struct {
+		Samples []struct {
+			Context  string `json:"input"`
+			Question string `json:"ouput"`
+		} `json:"samples"`
+	}
+	// Convert the Result struct to JSON
+	jsonData, err := json.MarshalIndent(result, "", "  ")
+	if err != nil {
+		return fmt.Errorf("failed to marshal JSON: %v", err)
+	}
+
+	// Write the JSON data to the file
+	err = os.WriteFile(filePath, jsonData, 0644)
+	if err != nil {
+		return fmt.Errorf("failed to write JSON to file: %v", err)
+	}
+
+	return nil
+}
