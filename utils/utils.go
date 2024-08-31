@@ -42,3 +42,15 @@ func SaveResultToFile[T any](filePath string, result T) error {
 
 	return nil
 }
+
+// ReadFileToString reads the content of a text file and returns it as a string.
+func ReadFileToString(filePath string) (string, error) {
+	// Read the file content
+	content, err := os.ReadFile(filePath)
+	if err != nil {
+		return "", err
+	}
+
+	// Convert the content to a string and return
+	return string(content), nil
+}
