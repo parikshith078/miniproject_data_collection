@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Every kidney has large numbers of filtration units called nephrons situated close together. These nephrons are essential for removing waste products from the blood.",
+      "question": "What are the main filtration units in kidneys?"
+    },
+    {
+      "context": "Nitrogenous waste such as urea or uric acid is removed from blood in the kidneys, similar to how CO2 is cleared in the lungs.",
+      "question": "What waste products do kidneys filter from the blood?"
+    },
+    {
+      "context": "Each nephron is comprised of a cluster of very thin-walled blood capillaries associated with Bowman’s capsule, which collects the filtrate.",
+      "question": "What structure collects filtrate in the kidneys?"
+    },
+    {
+      "context": "The basic filtration unit in the kidneys consists of a cluster of very thin-walled blood capillaries and a coiled tube called Bowman’s capsule.",
+      "question": "What two main structures make up a nephron?"
+    }
+  ]
+}

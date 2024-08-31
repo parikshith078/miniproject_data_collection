@@ -1,0 +1,64 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Lactic Acid Formation",
+      "Content": "This build-up of lactic acid in our muscles during sudden activity causes cramps."
+    },
+    {
+      "sub-topic": "Role of ATP in Energy Transfer",
+      "Content": "The energy released during cellular respiration is immediately used to synthesise a molecule called ATP which is used to fuel all other activities in the cell."
+    },
+    {
+      "sub-topic": "ATP Synthesis and Function",
+      "Content": "In these processes, ATP is broken down giving rise to a fixed amount of energy which can drive the endothermic reactions taking place in the cell. ATP is the energy currency for most cellular processes. The energy released during the process of respiration is used to make an ATP molecule from ADP and inorganic phosphate."
+    },
+    {
+      "sub-topic": "Oxygen Intake and Gas Exchange in Plants",
+      "Content": "Since the aerobic respiration pathway depends on oxygen, aerobic organisms need to ensure that there is sufficient intake of oxygen. We have seen that plants exchange gases through stomata, and the large inter-cellular spaces ensure that all cells are in contact with air."
+    },
+    {
+      "sub-topic": "Photosynthesis and Respiration in Plants",
+      "Content": "During the day, CO2 generated during respiration is used up for photosynthesis, hence there is no CO2 release. Instead, oxygen release is the major event at this time."
+    },
+    {
+      "sub-topic": "Respiratory Adaptations in Animals",
+      "Content": "Animals have evolved different organs for the uptake of oxygen from the environment and for getting rid of the carbon dioxide produced. Terrestrial animals can breathe the oxygen in the atmosphere, but animals that live in water need to use the oxygen dissolved in water."
+    },
+    {
+      "sub-topic": "Respiratory Mechanisms in Aquatic vs Terrestrial Animals",
+      "Content": "Fishes take in water through their mouths and force it past the gills where the dissolved oxygen is taken up by blood. Terrestrial organisms use the oxygen in the atmosphere for respiration."
+    },
+    {
+      "sub-topic": "Human Respiratory System Structure",
+      "Content": "In human beings, air is taken into the body through the nostrils. The air passing through the nostrils is filtered by fine hairs that line the passage. The passage is also lined with mucus which helps in this process. From here, the air passes through the throat and into the lungs."
+    },
+    {
+      "sub-topic": "Alveoli and Gas Exchange",
+      "Content": "Within the lungs, the passage divides into smaller and smaller tubes which finally terminate in balloon-like structures which are called alveoli. The alveoli provide a surface where the exchange of gases can take place."
+    },
+    {
+      "sub-topic": "Role of Haemoglobin in Oxygen Transport",
+      "Content": "When the body size of animals is large, the diffusion pressure alone cannot take care of oxygen delivery to all parts of the body. Instead, respiratory pigments take up oxygen from the air in the lungs and carry it to tissues which are deficient in oxygen before releasing it. In human beings, the respiratory pigment is haemoglobin which has a very high affinity for oxygen."
+    },
+    {
+      "sub-topic": "Transport of Carbon Dioxide and Protection of Airways",
+      "Content": "Carbon dioxide is more soluble in water than oxygen is and hence is mostly transported in the dissolved form in our blood. The upper part of respiratory tract is provided with small hair-like structures called cilia. These cilia help to remove germs, dust and other harmful particles from inhaled air."
+    },
+    {
+      "sub-topic": "Structure and Function of the Heart",
+      "Content": "The heart is a muscular organ which is as big as our fist. Because both oxygen and carbon dioxide have to be transported by the blood, the heart has different chambers to prevent the oxygen-rich blood from mixing with the blood containing carbon dioxide."
+    },
+    {
+      "sub-topic": "Circulatory Efficiency in Different Animals",
+      "Content": "The separation of the right side and the left side of the heart is useful to keep oxygenated and de-oxygenated blood from mixing. Such separation allows a highly efficient supply of oxygen to the body."
+    },
+    {
+      "sub-topic": "Circulatory Pathway in Humans",
+      "Content": "This is known as double circulation. Oxygen-rich blood from the lungs comes to the left atrium. The left atrium relaxes when it is collecting this blood. It then contracts, while the next chamber, the left ventricle, relaxes, so that the blood is transferred to it. When the muscular left ventricle contracts in its turn, the blood is pumped out to the body."
+    },
+    {
+      "sub-topic": "Functioning of the Heart Chambers",
+      "Content": "Oxygen enters the blood in the lungs. De-oxygenated blood comes from the body to the right atrium. As the right atrium contracts, the corresponding lower chamber, the right ventricle, dilates. This transfers blood to the right ventricle, which in turn pumps it to the lungs for oxygenation."
+    }
+  ]
+}

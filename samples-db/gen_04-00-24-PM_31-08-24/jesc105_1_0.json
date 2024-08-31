@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Plants are autotrophs, which means they can produce their own food through photosynthesis, requiring sunlight as a source of energy.",
+      "question": "What do autotrophs produce through photosynthesis?"
+    },
+    {
+      "context": "The raw materials for photosynthesis include carbon dioxide from the air and water taken up from the soil.",
+      "question": "What raw materials are needed for photosynthesis?"
+    },
+    {
+      "context": "Water is essential as it is used in the photosynthesis process, and other materials like nitrogen, phosphorus, iron, and magnesium are also absorbed from the soil.",
+      "question": "Why is water essential for photosynthesis?"
+    },
+    {
+      "context": "Nitrogen is particularly significant because it is used in the synthesis of proteins and other compounds.",
+      "question": "Why is nitrogen important for plants?"
+    },
+    {
+      "context": "In plants, nitrogen can be taken up either in the form of inorganic nitrates or nitrites, or as organic compounds prepared by bacteria.",
+      "question": "How do plants take up nitrogen?"
+    },
+    {
+      "context": "Can we design an experiment to demonstrate that sunlight is essential for photosynthesis?",
+      "question": "How can we prove sunlight's necessity for photosynthesis?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "This build-up of lactic acid in our muscles during sudden activity causes cramps. It is a byproduct of anaerobic respiration, which occurs when the body needs energy quickly but cannot supply enough oxygen for aerobic respiration.",
+      "question": "What does lactic acid cause during activity?"
+    },
+    {
+      "context": "This build-up of lactic acid in our muscles during sudden activity causes cramps. It usually occurs during intense exercise when the body relies on anaerobic metabolism.",
+      "question": "What is lactic acid a byproduct of?"
+    },
+    {
+      "context": "This build-up of lactic acid in our muscles during sudden activity causes cramps. The production of lactic acid can lead to muscle fatigue and discomfort if not cleared quickly from the muscles.",
+      "question": "What is one effect of lactic acid on muscles?"
+    },
+    {
+      "context": "This build-up of lactic acid in our muscles during sudden activity causes cramps. The body produces energy through anaerobic respiration when there is insufficient oxygen available.",
+      "question": "When does lactic acid build up in muscles?"
+    },
+    {
+      "context": "This build-up of lactic acid in our muscles during sudden activity causes cramps. It's important for athletes to manage lactic acid levels to improve performance and comfort during exercise.",
+      "question": "Why should athletes manage lactic acid?"
+    }
+  ]
+}

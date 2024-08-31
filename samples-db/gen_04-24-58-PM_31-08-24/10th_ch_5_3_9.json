@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "This transport of soluble products of photosynthesis is called translocation and it occurs in the part of the vascular tissue known as phloem.",
+      "question": "What is the process of transporting food in plants?"
+    },
+    {
+      "context": "The phloem transports amino acids and other substances. These substances are especially delivered to the storage organs of roots, fruits and seeds and to growing organs.",
+      "question": "What else does the phloem transport besides photosynthesis products?"
+    },
+    {
+      "context": "The translocation of food and other substances takes place in the sieve tubes with the help of adjacent companion cells both in upward and downward directions.",
+      "question": "How does translocation occur in plants?"
+    },
+    {
+      "context": "Besides the products of photosynthesis, the phloem transports amino acids and other substances.",
+      "question": "What substances does phloem transport?"
+    },
+    {
+      "context": "This transport of soluble products of photosynthesis is called translocation and it occurs in the part of the vascular tissue known as phloem.",
+      "question": "Where does translocation occur in plants?"
+    }
+  ]
+}

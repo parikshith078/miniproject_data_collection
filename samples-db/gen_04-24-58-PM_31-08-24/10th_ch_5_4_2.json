@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Organ donation is a generous act of donating an organ to a person who suffers from non-function of organ(s). Donation of an organ may be done by the consent of the donor and his/her family.",
+      "question": "Who can become an organ donor?"
+    },
+    {
+      "context": "Anyone regardless of age or gender can become an organ and tissue donor. Organ transplants can save or transform the life of a person.",
+      "question": "How can organ transplants affect a person's life?"
+    },
+    {
+      "context": "Transplantation is required because recipient’s organ has been damaged or has failed by disease or injury. Donation of an organ may be done by the consent of the donor and his/her family.",
+      "question": "Why is transplantation necessary for some patients?"
+    },
+    {
+      "context": "Organ donation is a generous act of donating an organ to a person who suffers from non-function of organ(s). Organ transplants can save or transform the life of a person.",
+      "question": "What is the main purpose of organ donation?"
+    },
+    {
+      "context": "Anyone regardless of age or gender can become an organ and tissue donor. Donation of an organ may be done by the consent of the donor and his/her family.",
+      "question": "What must be obtained for an organ donation to occur?"
+    }
+  ]
+}

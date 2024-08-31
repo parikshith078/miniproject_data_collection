@@ -9,11 +9,42 @@ import (
 
 func main() {
 	// generateTopicsDB()
+	// generateQuestionSamples()
+	utils.AggregateSamples("./aggregated-samples", "./samples-db/gen_04-24-58-PM_31-08-24")
+}
+
+func generateQuestionSamples() {
+	files, err := utils.GetFileFromFolder("./topics-db/gen_04-22-15-PM_31-08-24", ".json")
+	if err != nil {
+		panic(err)
+	}
+	folderPath, err := utils.CreateLogFolder("./samples-db")
+	if err != nil {
+		panic(err)
+	}
+	for _, file := range files {
+		fmt.Println("Working on: ", file)
+		res, err := utils.ReadJSONFile[llm.Topics](file)
+		if err != nil {
+			panic(err)
+		}
+		fileName := utils.ExtractFileName(file)
+		for j, topic := range res.Topic {
+			contextString := topic.SubTopic + "\n" + topic.Content
+			questionSamples := llm.GenerateQuestionSamples(contextString)
+			filePath := fmt.Sprintf("%s/%s_%d.json", folderPath, fileName, j)
+			err := utils.SaveResultToJSONFile(filePath, questionSamples)
+			if err != nil {
+				log.Fatal(err)
+			}
+		}
+	}
+
 }
 
 func generateTopicsDB() {
 
-	res, err := utils.GetTextFilePaths("./chapter_text_files")
+	res, err := utils.GetFileFromFolder("./chapter_text_files", ".txt")
 	if err != nil {
 		panic(err)
 	}

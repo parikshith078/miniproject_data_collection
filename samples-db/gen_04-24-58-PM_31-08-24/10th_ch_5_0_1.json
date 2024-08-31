@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "The maintenance functions of living organisms must go on even when they are not doing anything particular. Even when we are just sitting in class, even if we are just asleep, this maintenance job has to go on. The processes which together perform this maintenance job are life processes.",
+      "question": "What are life processes responsible for?"
+    },
+    {
+      "context": "The outside sources of energy could be quite varied since the environment is not under the control of the individual organism. These sources of energy, therefore, need to be broken down or built up in the body, and must be finally converted to a uniform source of energy.",
+      "question": "How are energy sources converted in organisms?"
+    },
+    {
+      "context": "In multi-cellular organisms, all the cells may not be in direct contact with the surrounding environment. Thus, simple diffusion will not meet the requirements of all the cells. We have seen previously how, in multi-cellular organisms, various body parts have specialised in the functions they perform.",
+      "question": "What challenges do multi-cellular organisms face regarding cell needs?"
+    },
+    {
+      "context": "When chemical reactions use the carbon source and the oxygen for energy generation, they create by-products that are not only useless for the cells of the body, but could even be harmful. These waste by-products are therefore needed to be removed from the body and discarded outside by a process called excretion.",
+      "question": "What is the process of waste removal in organisms called?"
+    },
+    {
+      "context": "If the body size of the organisms is to grow, additional raw material will also be needed from outside. Since life on earth depends on carbon-based molecules, most of these food sources are also carbon-based.",
+      "question": "What do organisms need to grow larger?"
+    },
+    {
+      "context": "The process of acquiring oxygen from outside the body, and to use it in the process of break down of food sources for cellular needs, is what we call respiration.",
+      "question": "What is the term for acquiring oxygen for energy?"
+    },
+    {
+      "context": "These maintenance processes are needed to prevent damage and break-down, energy is needed for them. This energy comes from outside the body of the individual organism. So there must be a process to transfer a source of energy from outside the body of the organism, which we call food, to the inside, a process we commonly call nutrition.",
+      "question": "What process involves transferring energy into an organism?"
+    },
+    {
+      "context": "This situation creates a need for a transportation system for carrying food and oxygen from one place to another in the body. When chemical reactions use the carbon source and the oxygen for energy generation, they create by-products that are not only useless for the cells of the body, but could even be harmful.",
+      "question": "What system is needed for transporting food and oxygen?"
+    },
+    {
+      "context": "In the case of a single-celled organism, no specific organs for taking in food, exchange of gases or removal of wastes may be needed because the entire surface of the organism is in contact with the environment.",
+      "question": "Why don't single-celled organisms need specific organs?"
+    },
+    {
+      "context": "Thus, simple diffusion will not meet the requirements of all the cells. We have seen previously how, in multi-cellular organisms, various body parts have specialised in the functions they perform.",
+      "question": "How do multi-cellular organisms solve diffusion issues?"
+    }
+  ]
+}

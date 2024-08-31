@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "During the process of photosynthesis, the following events occur: Absorption of light energy by chlorophyll. Conversion of light energy to chemical energy and splitting of water molecules into hydrogen and oxygen. This process is vital for plant survival and growth.",
+      "question": "What is the role of chlorophyll in photosynthesis?"
+    },
+    {
+      "context": "During photosynthesis, the conversion of light energy to chemical energy is fundamental as it allows plants to create carbohydrates. Moreover, water molecules are split into hydrogen and oxygen, essential components for the process.",
+      "question": "What is produced when water is split in photosynthesis?"
+    },
+    {
+      "context": "Desert plants take up carbon dioxide at night and prepare an intermediate which is acted upon by the energy absorbed by the chlorophyll during the day, illustrating the adaptability of photosynthesis across different environments.",
+      "question": "How do desert plants adapt their photosynthesis process?"
+    },
+    {
+      "context": "Photosynthesis involves several critical steps, including the reduction of carbon dioxide to carbohydrates, which provides energy and structural materials necessary for plant growth.",
+      "question": "What does carbon dioxide become during photosynthesis?"
+    },
+    {
+      "context": "The process of photosynthesis includes absorption of light energy, conversion into chemical energy, and the reduction of carbon dioxide, showcasing the complexity of this vital biological function.",
+      "question": "What are the major steps in the photosynthesis process?"
+    }
+  ]
+}

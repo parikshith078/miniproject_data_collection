@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Carbon and energy requirements of the autotrophic organism are fulfilled by photosynthesis. It is the process by which autotrophs take in substances from the outside and convert them into stored forms of energy.",
+      "question": "What do autotrophs convert into energy?"
+    },
+    {
+      "context": "This material is taken in the form of carbon dioxide and water which is converted into carbohydrates in the presence of sunlight and chlorophyll.",
+      "question": "What materials are used in photosynthesis?"
+    },
+    {
+      "context": "Carbohydrates are utilised for providing energy to the plant. We will study how this takes place in the next section.",
+      "question": "How are carbohydrates used in plants?"
+    },
+    {
+      "context": "The carbohydrates which are not used immediately are stored in the form of starch, which serves as the internal energy reserve to be used as and when required by the plant.",
+      "question": "What is the role of starch in plants?"
+    },
+    {
+      "context": "Photosynthesis is the process by which autotrophs take in substances from the outside and convert them into stored forms of energy.",
+      "question": "What process do autotrophs use for energy?"
+    }
+  ]
+}

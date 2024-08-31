@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Control and coordination are the functions of the nervous system and hormones in our bodies. The responses of the nervous system can be classified as reflex action, voluntary action or involuntary action.",
+      "question": "What are the main functions of the nervous system?"
+    },
+    {
+      "context": "The nervous system gets information from our sense organs and acts through our muscles. The nervous system uses electrical impulses to transmit messages.",
+      "question": "How does the nervous system transmit messages?"
+    },
+    {
+      "context": "The responses of the nervous system can be classified as reflex action, voluntary action or involuntary action. Control and coordination are the functions of the nervous system and hormones in our bodies.",
+      "question": "What types of actions does the nervous system control?"
+    },
+    {
+      "context": "The nervous system uses electrical impulses to transmit messages. Control and coordination are the functions of the nervous system and hormones in our bodies.",
+      "question": "What mechanism does the nervous system use to transmit messages?"
+    },
+    {
+      "context": "The nervous system gets information from our sense organs and acts through our muscles. The responses of the nervous system can be classified as reflex action, voluntary action or involuntary action.",
+      "question": "From where does the nervous system get information?"
+    }
+  ]
+}

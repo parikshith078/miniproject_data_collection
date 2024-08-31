@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Heterotrophic Nutrition involves processes that occur in the cytoplasm and mitochondria. During fermentation in yeast, pyruvate is converted into ethanol and carbon dioxide, which are notable byproducts of anaerobic respiration. Conversely, aerobic respiration breaks down pyruvate into carbon dioxide and water with a much greater energy release.",
+      "question": "What products are formed during fermentation?"
+    },
+    {
+      "context": "The breakdown of pyruvate occurs in two ways depending on the presence of oxygen. In anaerobic respiration, pyruvate is converted to ethanol and carbon dioxide, typically via fermentation in yeast, while aerobic respiration involves breaking pyruvate apart to yield carbon dioxide and water in the mitochondria.",
+      "question": "Where does aerobic respiration take place?"
+    },
+    {
+      "context": "In the context of heterotrophic nutrition, aerobic respiration is a more energy-efficient process than anaerobic respiration. While anaerobic respiration (like fermentation) yields less energy, aerobic respiration uses oxygen to fully break down pyruvate into carbon dioxide and water, releasing a significant amount of energy in the process.",
+      "question": "Which process produces more energy: aerobic or anaerobic?"
+    },
+    {
+      "context": "Fermentation is an anaerobic process that occurs in yeast, where pyruvate is converted into ethanol and carbon dioxide. In contrast, aerobic respiration occurs in the mitochondria and breaks down pyruvate into carbon dioxide and water, requiring the presence of oxygen to be effective.",
+      "question": "What is the main difference between fermentation and aerobic respiration?"
+    },
+    {
+      "context": "During the metabolic processes of heterotrophic nutrition, pyruvate plays a key role. In the absence of oxygen, yeast undergoes fermentation, converting pyruvate to ethanol and carbon dioxide. Under aerobic conditions, however, pyruvate is fully oxidized in the mitochondria, producing carbon dioxide and water as byproducts.",
+      "question": "What happens to pyruvate in anaerobic respiration?"
+    }
+  ]
+}

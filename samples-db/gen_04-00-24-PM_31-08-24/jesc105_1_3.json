@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The human alimentary canal is a long, muscular tube that runs from the mouth to the anus, with different parts specialized for various functions. The mouth begins the digestion process through chewing and mixing food with saliva, which contains the enzyme salivary amylase that breaks down starch into simpler sugars.",
+      "question": "What initiates the digestion process in humans?"
+    },
+    {
+      "context": "Once ingested, food moves down the oesophagus into the stomach, where it is mixed with gastric juices (including hydrochloric acid and the enzyme pepsin) for further digestion.",
+      "question": "What juices are mixed with food in the stomach?"
+    },
+    {
+      "context": "The food then enters the small intestine, where complete digestion occurs with the help of secretions from the liver and pancreas. The small intestine is lined with villi to maximize absorption of nutrients into the bloodstream.",
+      "question": "What structures in the small intestine aid in nutrient absorption?"
+    },
+    {
+      "context": "The undigested material proceeds into the large intestine where water is absorbed, and waste is expelled via the anus.",
+      "question": "What happens to undigested material in the large intestine?"
+    },
+    {
+      "context": "The small intestine is lined with villi to maximize absorption of nutrients into the bloodstream. The undigested material proceeds into the large intestine where water is absorbed, and waste is expelled via the anus.",
+      "question": "What role do villi play in digestion?"
+    }
+  ]
+}

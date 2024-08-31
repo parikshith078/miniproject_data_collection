@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plants detect touch through specialized cells that respond to mechanical stimuli. This initiates a response that enables movement, despite the absence of nervous or muscular tissue. Instead, they rely on electrical-chemical signals to transmit information about the touch across their cells.",
+      "question": "How do plants detect touch?"
+    },
+    {
+      "context": "Movement in plants occurs when specific cells change shape due to water fluctuations. This process is different from animal muscle contraction, as it involves swelling and shrinking of plant cells to create movement instead of using specialized muscle fibers.",
+      "question": "What causes movement in plant leaves?"
+    },
+    {
+      "context": "Information about a touch on plants is communicated from one cell to another through electrical-chemical means. Unlike animals, there is no specialized tissue in plants dedicated to this conduction process, which consists of a series of cellular responses.",
+      "question": "How is touch information communicated in plants?"
+    },
+    {
+      "context": "The mechanism of plant movement is fascinating, particularly because it relies on changes in water content within cells. This results in either swelling or shrinking, allowing for movement without muscle tissue. The process showcases how plants adapt to their environment.",
+      "question": "How do plant cells change shape?"
+    },
+    {
+      "context": "In response to touch, plants must relay information from the point of touch to the area where movement occurs. This coordination is crucial, as the plant lacks a nervous system yet still effectively adapts to physical stimuli through internal signaling mechanisms.",
+      "question": "What must happen after a touch occurs?"
+    }
+  ]
+}

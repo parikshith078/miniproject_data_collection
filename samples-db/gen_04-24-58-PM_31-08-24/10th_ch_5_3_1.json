@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The force that blood exerts against the wall of a vessel is called blood pressure. This pressure is much greater in arteries than in veins. The pressure of blood inside the artery during ventricular systole (contraction) is called systolic pressure and pressure in artery during ventricular diastole (relaxation) is called diastolic pressure.",
+      "question": "What is the definition of blood pressure?"
+    },
+    {
+      "context": "The pressure of blood inside the artery during ventricular systole (contraction) is called systolic pressure and pressure in artery during ventricular diastole (relaxation) is called diastolic pressure. The normal systolic pressure is about 120 mm of Hg and diastolic pressure is 80 mm of Hg.",
+      "question": "What are the normal values for systolic pressure?"
+    },
+    {
+      "context": "This pressure is much greater in arteries than in veins. The pressure of blood inside the artery during ventricular systole (contraction) is called systolic pressure and pressure in artery during ventricular diastole (relaxation) is called diastolic pressure.",
+      "question": "How does blood pressure differ between arteries and veins?"
+    },
+    {
+      "context": "The normal systolic pressure is about 120 mm of Hg and diastolic pressure is 80 mm of Hg. This pressure is much greater in arteries than in veins. The pressure of blood inside the artery during ventricular systole (contraction) is called systolic pressure.",
+      "question": "What is the normal diastolic pressure value?"
+    },
+    {
+      "context": "The pressure of blood inside the artery during ventricular systole (contraction) is called systolic pressure and pressure in artery during ventricular diastole (relaxation) is called diastolic pressure. The normal systolic pressure is about 120 mm of Hg.",
+      "question": "What causes systolic pressure?"
+    }
+  ]
+}

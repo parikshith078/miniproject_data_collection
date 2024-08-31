@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Blood pressure is measured with an instrument called sphygmomanometer. High blood pressure is also called hypertension and is caused by the constriction of arterioles.",
+      "question": "What instrument measures blood pressure?"
+    },
+    {
+      "context": "High blood pressure is also called hypertension and is caused by the constriction of arterioles, which results in increased resistance to blood flow.",
+      "question": "What is another term for high blood pressure?"
+    },
+    {
+      "context": "It can lead to the rupture of an artery and internal bleeding.",
+      "question": "What serious condition can high blood pressure cause?"
+    },
+    {
+      "context": "High blood pressure is caused by the constriction of arterioles, which results in increased resistance to blood flow.",
+      "question": "What causes high blood pressure?"
+    }
+  ]
+}

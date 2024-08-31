@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Iodine is essential for the synthesis of thyroxin. In case iodine is deficient in our diet, there is a possibility that we might suffer from goitre.",
+      "question": "What causes goitre in iodine deficiency?"
+    },
+    {
+      "context": "Thyroxin regulates carbohydrate, protein and fat metabolism in the body so as to provide the best balance for growth.",
+      "question": "What does thyroxin regulate in the body?"
+    },
+    {
+      "context": "One of the symptoms in this disease is a swollen neck.",
+      "question": "What is a symptom of goitre?"
+    },
+    {
+      "context": "Iodine is necessary for the thyroid gland to make thyroxin hormone.",
+      "question": "Why is iodine important for the thyroid gland?"
+    },
+    {
+      "context": "In case iodine is deficient in our diet, there is a possibility that we might suffer from goitre.",
+      "question": "What happens if iodine is deficient in the diet?"
+    },
+    {
+      "context": "Thyroxin regulates carbohydrate, protein and fat metabolism in the body.",
+      "question": "What roles does thyroxin play in metabolism?"
+    },
+    {
+      "context": "Iodine is essential for the synthesis of thyroxin, which is important for growth.",
+      "question": "Why is thyroxin important for growth?"
+    }
+  ]
+}

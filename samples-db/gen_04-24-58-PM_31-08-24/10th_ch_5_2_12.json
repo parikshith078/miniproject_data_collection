@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The separation of the right side and the left side of the heart is useful to keep oxygenated and de-oxygenated blood from mixing. Such separation allows a highly efficient supply of oxygen to the body.",
+      "question": "Why is heart separation important for animals?"
+    },
+    {
+      "context": "The separation of the right side and the left side of the heart is useful to keep oxygenated and de-oxygenated blood from mixing. Such separation allows a highly efficient supply of oxygen to the body.",
+      "question": "How does heart structure affect oxygen supply?"
+    },
+    {
+      "context": "The separation of the right side and the left side of the heart is useful to keep oxygenated and de-oxygenated blood from mixing. Such separation allows a highly efficient supply of oxygen to the body.",
+      "question": "What benefit does heart separation provide to organisms?"
+    },
+    {
+      "context": "The separation of the right side and the left side of the heart is useful to keep oxygenated and de-oxygenated blood from mixing. Such separation allows a highly efficient supply of oxygen to the body.",
+      "question": "In what way does heart separation improve efficiency?"
+    },
+    {
+      "context": "The separation of the right side and the left side of the heart is useful to keep oxygenated and de-oxygenated blood from mixing. Such separation allows a highly efficient supply of oxygen to the body.",
+      "question": "What role does the heart play in oxygen delivery?"
+    }
+  ]
+}

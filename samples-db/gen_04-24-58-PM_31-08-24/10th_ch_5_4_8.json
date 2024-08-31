@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Autotrophic nutrition is a process where organisms, such as plants, produce their own food using raw materials. The essential components needed for this form of nutrition include carbon dioxide, water, and sunlight, along with chlorophyll, which is crucial for trapping light energy. This process enables these organisms to synthesize their own food through photosynthesis.",
+      "question": "What is required for autotrophic nutrition?"
+    },
+    {
+      "context": "Organisms practicing autotrophic nutrition utilize carbon dioxide and water in the presence of sunlight to create food. Chlorophyll is the pigment that enables these organisms, primarily green plants, to absorb sunlight effectively, making the process of photosynthesis possible and efficient. Each component plays a critical role in the overall function of autotrophic nutrition.",
+      "question": "What role does chlorophyll play in autotrophic nutrition?"
+    },
+    {
+      "context": "In autotrophic nutrition, organisms like plants take in carbon dioxide and water, using sunlight as energy to produce glucose and oxygen. Chlorophyll, found in the chloroplasts, absorbs sunlight, which is essential for converting these raw materials into food. Without any of these elements, the process cannot occur effectively, highlighting their importance.",
+      "question": "Why is sunlight important in autotrophic nutrition?"
+    },
+    {
+      "context": "The process of autotrophic nutrition leads to the creation of organic food substances from inorganic ones. Plants absorb carbon dioxide from the air and water from the soil. Using sunlight and chlorophyll, they convert these materials through photosynthesis into energy-rich glucose, which serves as food for the plant and, indirectly, for other organisms in the ecosystem.",
+      "question": "What do plants produce through autotrophic nutrition?"
+    },
+    {
+      "context": "Autotrophic nutrition can be classified into photoautotrophic and chemoautotrophic, with plants primarily being photoautotrophs. These organisms rely on sunlight, carbon dioxide, and water for the synthesis of food. In photoautotrophs, chlorophyll acts as a catalyst that enables the absorption of light energy, which is necessary for the conversion of raw materials into food.",
+      "question": "What classification includes organisms like plants that use sunlight?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Respiration is the process by which organisms break down glucose to release energy, and it can occur via two pathways: aerobic and anaerobic respiration. Aerobic respiration occurs in the presence of oxygen, where glucose is fully oxidized into carbon dioxide and water, yielding a significant amount of energy.",
+      "question": "What is aerobic respiration?"
+    },
+    {
+      "context": "In contrast, anaerobic respiration occurs in the absence of oxygen, resulting in the partial breakdown of glucose to form pyruvate, which can further be converted into products like ethanol and carbon dioxide in yeast during fermentation.",
+      "question": "What products are formed in anaerobic respiration?"
+    },
+    {
+      "context": "Overall, respiration processes are crucial for converting food into usable energy for cellular functions. It can occur via two pathways: aerobic and anaerobic respiration.",
+      "question": "Why are respiration processes important?"
+    },
+    {
+      "context": "Anaerobic respiration occurs in the absence of oxygen, resulting in the partial breakdown of glucose to form pyruvate, which can further be converted into products like ethanol and carbon dioxide in yeast during fermentation.",
+      "question": "What happens to glucose in anaerobic respiration?"
+    },
+    {
+      "context": "Aerobic respiration occurs in the presence of oxygen, where glucose is fully oxidized into carbon dioxide and water, yielding a significant amount of energy.",
+      "question": "What does aerobic respiration require?"
+    }
+  ]
+}

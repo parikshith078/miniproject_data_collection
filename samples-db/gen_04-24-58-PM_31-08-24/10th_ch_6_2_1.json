@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Adrenaline is secreted directly into the blood and carried to different parts of the body. The target organs or the specific tissues on which it acts include the heart. As a result, the heart beats faster, resulting in supply of more oxygen to our muscles.",
+      "question": "What is the role of adrenaline in the heart?"
+    },
+    {
+      "context": "As a result, the heart beats faster, resulting in supply of more oxygen to our muscles. The blood to the digestive system and skin is reduced due to contraction of muscles around small arteries in these organs.",
+      "question": "How does adrenaline affect blood flow to the skin?"
+    },
+    {
+      "context": "This diverts the blood to our skeletal muscles. The breathing rate also increases because of the contractions of the diaphragm and the rib muscles.",
+      "question": "What happens to blood flow during an adrenaline response?"
+    },
+    {
+      "context": "The breathing rate also increases because of the contractions of the diaphragm and the rib muscles. All these responses together enable the animal body to be ready to deal with the situation.",
+      "question": "Why does breathing rate increase with adrenaline?"
+    },
+    {
+      "context": "As a result, the heart beats faster, resulting in supply of more oxygen to our muscles. The blood to the digestive system and skin is reduced due to contraction of muscles around small arteries in these organs.",
+      "question": "What does adrenaline do to muscle oxygen supply?"
+    }
+  ]
+}

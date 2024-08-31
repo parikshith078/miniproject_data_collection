@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "During the day, CO2 generated during respiration is used up for photosynthesis, hence there is no CO2 release. Instead, oxygen release is the major event at this time.",
+      "question": "What gas do plants release during photosynthesis?"
+    },
+    {
+      "context": "During the day, CO2 generated during respiration is used up for photosynthesis, hence there is no CO2 release. Instead, oxygen release is the major event at this time.",
+      "question": "How does photosynthesis affect CO2 levels?"
+    },
+    {
+      "context": "During the day, CO2 generated during respiration is used up for photosynthesis, hence there is no CO2 release. Instead, oxygen release is the major event at this time.",
+      "question": "Why is no CO2 released during the day?"
+    },
+    {
+      "context": "During the day, CO2 generated during respiration is used up for photosynthesis, hence there is no CO2 release. Instead, oxygen release is the major event at this time.",
+      "question": "What process primarily occurs during the day in plants?"
+    }
+  ]
+}

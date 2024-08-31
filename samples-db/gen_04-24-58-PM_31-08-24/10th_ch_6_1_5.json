@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "These tendrils are sensitive to touch. When they come in contact with any support, the part of the tendril in contact with the object does not grow as rapidly as the part of the tendril away from the object.",
+      "question": "What causes tendrils to cling to objects?"
+    },
+    {
+      "context": "Because this growth is directional, it appears as if the plant is moving. Let us understand this type of movement with the help of an example.",
+      "question": "How does plant growth appear like movement?"
+    },
+    {
+      "context": "Environmental triggers such as light, or gravity will change the directions that plant parts grow in.",
+      "question": "What triggers changes in plant growth direction?"
+    },
+    {
+      "context": "These directional, or tropic, movements can be either towards the stimulus, or away from it.",
+      "question": "What are the two types of tropic movements?"
+    }
+  ]
+}

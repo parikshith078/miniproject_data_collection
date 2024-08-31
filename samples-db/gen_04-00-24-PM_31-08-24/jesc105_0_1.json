@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The maintenance functions of living organisms must go on even when they are not doing anything particular. The processes which together perform this maintenance job are life processes. Since these maintenance processes are needed to prevent damage and break-down, energy is needed for them.",
+      "question": "What are life processes?"
+    },
+    {
+      "context": "Energy comes from outside the body of the individual organism. So there must be a process to transfer a source of energy from outside the body of the organism, which we call food, to the inside, a process we commonly call nutrition.",
+      "question": "What is the process of nutrition?"
+    },
+    {
+      "context": "If the body size of the organisms is to grow, additional raw material will also be needed from outside. Since life on earth depends on carbon-based molecules, most of these food sources are also carbon-based.",
+      "question": "Why are carbon-based molecules important?"
+    },
+    {
+      "context": "Depending on the complexity of these carbon sources, different organisms can then use different kinds of nutritional processes. These sources of energy need to be broken down or built up in the body.",
+      "question": "How do organisms use nutritional processes?"
+    },
+    {
+      "context": "A series of chemical reactions in the body are necessary. Oxidising-reducing reactions are some of the most common chemical means to break-down molecules.",
+      "question": "What role do chemical reactions play in nutrition?"
+    }
+  ]
+}

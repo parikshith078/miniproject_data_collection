@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Insulin is a hormone produced by the pancreas and helps in regulating blood sugar levels. If it is not secreted in proper amounts, the sugar level in the blood rises causing many harmful effects.",
+      "question": "What role does insulin play in the body?"
+    },
+    {
+      "context": "Doctors often advise patients with diabetes to take less sugar in their diet. This is important because high sugar levels can lead to many harmful effects on health.",
+      "question": "Why should diabetics reduce sugar intake?"
+    },
+    {
+      "context": "If insulin is not secreted in proper amounts, the sugar level in the blood rises causing many harmful effects. This can lead to complications in diabetic patients.",
+      "question": "What happens if insulin levels are not proper?"
+    },
+    {
+      "context": "Insulin helps regulate blood sugar levels, and without proper regulation, individuals may experience serious health issues associated with diabetes.",
+      "question": "What can occur without proper insulin regulation?"
+    },
+    {
+      "context": "For people suffering from diabetes, injections of insulin might be necessary to maintain healthy blood sugar levels and prevent complications.",
+      "question": "Why might diabetics need insulin injections?"
+    }
+  ]
+}

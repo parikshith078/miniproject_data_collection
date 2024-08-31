@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "The following events occur during this process – (i) Absorption of light energy by chlorophyll. (ii) Conversion of light energy to chemical energy and splitting of water molecules into hydrogen and oxygen. (iii) Reduction of carbon dioxide to carbohydrates.",
+      "question": "What are the main events in photosynthesis?"
+    },
+    {
+      "context": "Let us now see what actually happens during the process of photosynthesis.",
+      "question": "What occurs during photosynthesis?"
+    },
+    {
+      "context": "For example, desert plants take up carbon dioxide at night and prepare an intermediate which is acted upon by the energy absorbed by the chlorophyll during the day.",
+      "question": "How do desert plants adapt their photosynthesis?"
+    },
+    {
+      "context": "If you carefully observe a cross-section of a leaf under the microscope, you will notice that some cells contain green dots.",
+      "question": "What do the green dots in leaf cells represent?"
+    },
+    {
+      "context": "These green dots are cell organelles called chloroplasts which contain chlorophyll.",
+      "question": "What are chloroplasts and what do they contain?"
+    },
+    {
+      "context": "The process of photosynthesis involves the splitting of water molecules into hydrogen and oxygen.",
+      "question": "What happens to water molecules during photosynthesis?"
+    },
+    {
+      "context": "Absorption of light energy by chlorophyll is the first step in photosynthesis.",
+      "question": "What is the first step of photosynthesis?"
+    },
+    {
+      "context": "Reduction of carbon dioxide to carbohydrates is a vital part of photosynthesis.",
+      "question": "What does carbon dioxide reduce to during photosynthesis?"
+    },
+    {
+      "context": "Chlorophyll is essential for converting light energy to chemical energy.",
+      "question": "Why is chlorophyll important in photosynthesis?"
+    },
+    {
+      "context": "The steps of photosynthesis need not take place one after the other immediately.",
+      "question": "Do photosynthesis steps occur in a strict sequence?"
+    }
+  ]
+}

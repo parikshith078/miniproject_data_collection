@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The loss of water in the form of vapour from the aerial parts of the plant is known as transpiration. Thus, transpiration helps in the absorption and upward movement of water and minerals dissolved in it from roots to the leaves.",
+      "question": "What is transpiration in plants?"
+    },
+    {
+      "context": "The effect of root pressure in transport of water is more important at night. During the day when the stomata are open, the transpiration pull becomes the major driving force in the movement of water in the xylem.",
+      "question": "When is root pressure most effective?"
+    },
+    {
+      "context": "It also helps in temperature regulation. The effect of root pressure in transport of water is more important at night.",
+      "question": "How does transpiration help plants regulate temperature?"
+    },
+    {
+      "context": "The loss of water in the form of vapour from the aerial parts of the plant is known as transpiration. Thus, transpiration helps in the absorption and upward movement of water and minerals dissolved in it from roots to the leaves.",
+      "question": "What role does transpiration play in water movement?"
+    },
+    {
+      "context": "During the day when the stomata are open, the transpiration pull becomes the major driving force in the movement of water in the xylem.",
+      "question": "What drives water movement in plants during day?"
+    }
+  ]
+}

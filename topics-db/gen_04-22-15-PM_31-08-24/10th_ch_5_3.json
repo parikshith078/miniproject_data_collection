@@ -1,0 +1,60 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Blood Pressure",
+      "Content": "Blood pressure is measured with an instrument called sphygmomanometer. High blood pressure is also called hypertension and is caused by the constriction of arterioles, which results in increased resistance to blood flow. It can lead to the rupture of an artery and internal bleeding."
+    },
+    {
+      "sub-topic": "Blood Pressure",
+      "Content": "The force that blood exerts against the wall of a vessel is called blood pressure. This pressure is much greater in arteries than in veins. The pressure of blood inside the artery during ventricular systole (contraction) is called systolic pressure and pressure in artery during ventricular diastole (relaxation) is called diastolic pressure. The normal systolic pressure is about 120 mm of Hg and diastolic pressure is 80 mm of Hg."
+    },
+    {
+      "sub-topic": "Blood Vessels",
+      "Content": "Arteries are the vessels which carry blood away from the heart to various organs of the body. Since the blood emerges from the heart under high pressure, the arteries have thick, elastic walls. Veins collect the blood from different organs and bring it back to the heart. They do not need thick walls because the blood is no longer under pressure, instead they have valves that ensure that the blood flows only in one direction. On reaching an organ or tissue, the artery divides into smaller and smaller vessels to bring the blood in contact with all the individual cells. The smallest vessels have walls which are one-cell thick and are called capillaries. Exchange of material between the blood and surrounding cells takes place across this thin wall. The capillaries then join together to form veins that convey the blood away from the organ or tissue."
+    },
+    {
+      "sub-topic": "Platelets and Clotting",
+      "Content": "What happens if this system of tubes develops a leak? Think about situations when we are injured and start bleeding. Naturally, the loss of blood from the system has to be minimized. In addition, leakage would lead to a loss of pressure which would reduce the efficiency of the pumping system. To avoid this, the blood has platelet cells which circulate around the body and plug these leaks by helping to clot the blood at these points of injury."
+    },
+    {
+      "sub-topic": "Lymphatic System",
+      "Content": "There is another type of fluid also involved in transportation. This is called lymph or tissue fluid. Through the pores present in the walls of capillaries some amount of plasma, proteins and blood cells escape into intercellular spaces in the tissues to form the tissue fluid or lymph. It is similar to the plasma of blood but colourless and contains less protein. Lymph drains into lymphatic capillaries from the inter-cellular spaces, which join to form large lymph vessels that finally open into larger veins. Lymph carries digested and absorbed fat from intestine and drains excess fluid from extracellular space back into the blood."
+    },
+    {
+      "sub-topic": "Plant Transport",
+      "Content": "We have discussed earlier how plants take in simple compounds such as CO2 and photosynthesise energy stored in their chlorophyll-containing organs, namely leaves. The other kinds of raw materials needed for building plant bodies will also have to be taken up separately. For plants, the soil is the nearest and richest source of raw materials like nitrogen, phosphorus and other minerals. The absorption of these substances therefore occurs through the part in contact with the soil, namely roots."
+    },
+    {
+      "sub-topic": "Plant Transport",
+      "Content": "Energy needs differ between different body designs. Plants do not move, and plant bodies have a large proportion of dead cells in many tissues. As a result, plants have low energy needs, and can use relatively slow transport systems. The distances over which transport systems have to operate, however, can be very large in plants such as very tall trees. Plant transport systems will move energy stores from leaves and raw materials from roots."
+    },
+    {
+      "sub-topic": "Transport of Water in Plants",
+      "Content": "Water, therefore, moves into the root from the soil to eliminate this difference. This means that there is a steady movement of water into root xylem, creating a column of water that is steadily pushed upwards. However, this pressure by itself is unlikely to be enough to move water over the heights that we commonly see in plants. Plants use another strategy to move water in the xylem upwards to the highest points of the plant body."
+    },
+    {
+      "sub-topic": "Transpiration",
+      "Content": "The loss of water in the form of vapour from the aerial parts of the plant is known as transpiration. Thus, transpiration helps in the absorption and upward movement of water and minerals dissolved in it from roots to the leaves. It also helps in temperature regulation. The effect of root pressure in transport of water is more important at night. During the day when the stomata are open, the transpiration pull becomes the major driving force in the movement of water in the xylem."
+    },
+    {
+      "sub-topic": "Transport of Food in Plants",
+      "Content": "This transport of soluble products of photosynthesis is called translocation and it occurs in the part of the vascular tissue known as phloem. Besides the products of photosynthesis, the phloem transports amino acids and other substances. These substances are especially delivered to the storage organs of roots, fruits and seeds and to growing organs. The translocation of food and other substances takes place in the sieve tubes with the help of adjacent companion cells both in upward and downward directions."
+    },
+    {
+      "sub-topic": "Excretion in Humans",
+      "Content": "The excretory system of human beings includes a pair of kidneys, a pair of ureters, a urinary bladder and a urethra. Kidneys are located in the abdomen, one on either side of the backbone. Urine produced in the kidneys passes through the ureters into the urinary bladder where it is stored until it is released through the urethra. How is urine produced? The purpose of making urine is to filter out waste products from the blood."
+    },
+    {
+      "sub-topic": "Excretion in Humans",
+      "Content": "Just as CO2 is removed from the blood in the lungs, nitrogenous waste such as urea or uric acid are removed from blood in the kidneys. It is then no surprise that the basic filtration unit in the kidneys, like in the lungs, is a cluster of very thin-walled blood capillaries. Each capillary cluster in the kidney is associated with the cup-shaped end of a coiled tube called Bowman’s capsule that collects the filtrate. Each kidney has large numbers of these filtration units called nephrons packed close together."
+    },
+    {
+      "sub-topic": "Excretion in Humans",
+      "Content": "Some substances in the initial filtrate, such as glucose, amino acids, salts and a major amount of water, are selectively re-absorbed as the urine flows along the tube. The amount of water re-absorbed depends on how much excess water there is in the body, and on how much of dissolved waste there is to be excreted."
+    },
+    {
+      "sub-topic": "Artificial Kidneys",
+      "Content": "Artificial kidney (Hemodialysis) Kidneys are vital organs for survival. Several factors like infections, injury or restricted blood flow to kidneys reduce the activity of kidneys. This leads to accumulation of poisonous wastes in the body, which can even lead to death. In case of kidney failure, an artificial kidney can be used. An artificial kidney is a device to remove nitrogenous waste products from the blood through dialysis."
+    }
+  ]
+}

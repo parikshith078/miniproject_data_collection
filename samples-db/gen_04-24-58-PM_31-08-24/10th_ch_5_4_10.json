@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Alveoli are tiny air sacs in the lungs where gas exchange occurs. They have a large surface area and thin walls, allowing oxygen to diffuse into the blood while carbon dioxide is expelled. In contrast, nephrons are the functional units of the kidneys that filter blood, reabsorb necessary substances, and excrete waste as urine. Both structures maximize their functionalities through their specialized designs.",
+      "question": "How do alveoli and nephrons function?"
+    },
+    {
+      "context": "Alveoli consist of a single layer of epithelial cells that facilitate rapid gas exchange. They are surrounded by capillaries, enhancing the diffusion of gases. Nephrons, on the other hand, have a complex structure including the glomerulus and renal tubules that play a crucial role in filtering blood and reabsorbing nutrients, showing a different yet specialized way of performing their roles.",
+      "question": "What are the structural differences between alveoli and nephrons?"
+    },
+    {
+      "context": "The primary function of alveoli is to enable the exchange of oxygen and carbon dioxide as part of the respiratory process. Nephrons, conversely, filter blood to remove waste and excess substances, maintaining the body's fluid and electrolyte balance. These two systems illustrate different yet complementary processes essential for human health.",
+      "question": "What is the main function of alveoli?"
+    },
+    {
+      "context": "Both alveoli and nephrons are highly specialized structures. Alveoli enhance gas exchange with their large surface area and proximity to capillaries. Nephrons use a filtration system to selectively reclaim water and ions from the blood. Despite their different roles, both systems illustrate the importance of surface area in biological functions.",
+      "question": "Why is surface area important for alveoli?"
+    },
+    {
+      "context": "Alveoli rely on diffusion for gas exchange, making their thin walls crucial for rapid transport of gases. Nephrons utilize filtration and selective reabsorption processes, showcasing efficiency in waste management. Both highlight adaptations suited to their specific biological roles in the respiratory and urinary systems, respectively.",
+      "question": "How do alveoli assist with gas exchange?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Oxygen enters the blood in the lungs. De-oxygenated blood comes from the body to the right atrium. As the right atrium contracts, the corresponding lower chamber, the right ventricle, dilates.",
+      "question": "Where does de-oxygenated blood enter?"
+    },
+    {
+      "context": "As the right atrium contracts, the corresponding lower chamber, the right ventricle, dilates. This transfers blood to the right ventricle, which in turn pumps it to the lungs for oxygenation.",
+      "question": "What happens when the right atrium contracts?"
+    },
+    {
+      "context": "This transfers blood to the right ventricle, which in turn pumps it to the lungs for oxygenation. Oxygen enters the blood in the lungs.",
+      "question": "What does the right ventricle pump blood to?"
+    },
+    {
+      "context": "De-oxygenated blood comes from the body to the right atrium. As the right atrium contracts, the corresponding lower chamber, the right ventricle, dilates.",
+      "question": "What happens to the right ventricle during atrial contraction?"
+    },
+    {
+      "context": "Oxygen enters the blood in the lungs. This transfers blood to the right ventricle, which in turn pumps it to the lungs for oxygenation.",
+      "question": "What is the final destination of blood pumped by the right ventricle?"
+    }
+  ]
+}

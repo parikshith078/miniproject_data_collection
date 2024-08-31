@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "If it is so important that hormones should be secreted in precise quantities, we need a mechanism through which this is done. The timing and amount of hormone released are regulated by feedback mechanisms.",
+      "question": "What regulates the timing of hormone release?"
+    },
+    {
+      "context": "For example, if the sugar levels in blood rise, they are detected by the cells of the pancreas which respond by producing more insulin.",
+      "question": "What responds to rising blood sugar levels?"
+    },
+    {
+      "context": "As the blood sugar level falls, insulin secretion is reduced.",
+      "question": "What happens to insulin secretion when blood sugar falls?"
+    },
+    {
+      "context": "The timing and amount of hormone released are regulated by feedback mechanisms.",
+      "question": "What type of mechanisms regulate hormone release?"
+    },
+    {
+      "context": "If the sugar levels in blood rise, they are detected by the cells of the pancreas.",
+      "question": "Which organ detects high blood sugar levels?"
+    },
+    {
+      "context": "Insulin secretion is reduced when blood sugar level falls.",
+      "question": "What triggers the reduction of insulin secretion?"
+    }
+  ]
+}

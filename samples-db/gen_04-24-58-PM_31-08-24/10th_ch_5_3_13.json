@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Kidneys are vital organs for survival. Several factors like infections, injury or restricted blood flow to kidneys reduce the activity of kidneys.",
+      "question": "What factors affect kidney function?"
+    },
+    {
+      "context": "In case of kidney failure, an artificial kidney can be used. An artificial kidney is a device to remove nitrogenous waste products from the blood through dialysis.",
+      "question": "What is the purpose of an artificial kidney?"
+    },
+    {
+      "context": "This leads to accumulation of poisonous wastes in the body, which can even lead to death.",
+      "question": "What happens if kidneys fail?"
+    },
+    {
+      "context": "Artificial kidney (Hemodialysis) is a device to remove nitrogenous waste products from the blood through dialysis.",
+      "question": "How does an artificial kidney work?"
+    },
+    {
+      "context": "Several factors like infections, injury or restricted blood flow to kidneys reduce the activity of kidneys.",
+      "question": "What can reduce kidney activity?"
+    }
+  ]
+}

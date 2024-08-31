@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The spinal cord is made up of nerves which supply information to think about. Thinking involves more complex mechanisms and neural connections. These are concentrated in the brain, which is the main coordinating centre of the body.",
+      "question": "What is concentrated in the brain?"
+    },
+    {
+      "context": "The brain thus allows us to think and take actions based on that thinking. This is accomplished through a complex design, with different parts of the brain responsible for integrating different inputs and outputs.",
+      "question": "How does the brain facilitate thinking?"
+    },
+    {
+      "context": "The fore-brain is the main thinking part of the brain. It has regions which receive sensory impulses from various receptors. Separate areas of the fore-brain are specialised for hearing, smell, sight and so on.",
+      "question": "What functions does the fore-brain perform?"
+    },
+    {
+      "context": "Separate areas of association where sensory information is interpreted by putting it together with information from other receptors as well as with information that is already stored in the brain.",
+      "question": "How is sensory information processed in the brain?"
+    },
+    {
+      "context": "Based on all this, a decision is made about how to respond and the information is passed on to the motor areas which control the movement of voluntary muscles.",
+      "question": "What is the role of motor areas in the brain?"
+    }
+  ]
+}

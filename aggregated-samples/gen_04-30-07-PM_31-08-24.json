@@ -1,0 +1,1418 @@
+[
+  {
+    "input": "To tell the difference between alive and non-alive things, we generally look for movement, growth, or other signs of life. However, using visible movement to define life is insufficient because some organisms, like plants, grow slowly and may not exhibit visible changes often. Additionally, molecular movements occur at scales that are invisible to us, yet they are essential for maintaining life. Viruses lack such movement until they infect a host, leading to debates about their classification as living beings.",
+    "ouput": "What is one challenge in defining life?"
+  },
+  {
+    "input": "Living organisms must maintain their structures because they are organized into various levels like tissues and cells. The environment causes these ordered structures to degrade over time, resulting in a loss of life if not repaired. Therefore, molecular movement is essential as it facilitates the repair and maintenance of these structures, which consist of molecules that are constantly moving around.",
+    "ouput": "Why must living organisms maintain their structures?"
+  },
+  {
+    "input": "Movement is often considered a sign of life, yet some animals can breathe without visible movement, and plants can survive without apparent growth for periods. Therefore, relying solely on observable characteristics falls short of thoroughly defining what constitutes living organisms. Molecular movement occurs on such small scales that we often overlook it, but it is crucial for life processes as it helps sustain the organization of living structures.",
+    "ouput": "How can breathing be misleading as a life indicator?"
+  },
+  {
+    "input": "Viruses present an intriguing case in biology as they do not exhibit molecular movement unless they infect a host cell. This phenomenon leads to discussions about their status as living entities. The necessity of molecular movement for life underscores the complexity of living organisms, highlighting that life is not merely about visible characteristics but also involves microscopic processes that maintain order and structure within cells.",
+    "ouput": "What controversy surrounds the classification of viruses?"
+  },
+  {
+    "input": "Organisms are composed of well-organized structures, which can include multiple levels such as tissues made up of cells, each containing smaller components. This organization is subject to degradation due to environmental effects, which may lead to loss of life if left unchecked. Thus, constant molecular movements are vital to keep these structures intact and functioning, ensuring that living beings can sustain themselves over time.",
+    "ouput": "What happens if living structures break down?"
+  },
+  {
+    "input": "The maintenance functions of living organisms must go on even when they are not doing anything particular. Even when we are just sitting in class, even if we are just asleep, this maintenance job has to go on. The processes which together perform this maintenance job are life processes.",
+    "ouput": "What are life processes responsible for?"
+  },
+  {
+    "input": "The outside sources of energy could be quite varied since the environment is not under the control of the individual organism. These sources of energy, therefore, need to be broken down or built up in the body, and must be finally converted to a uniform source of energy.",
+    "ouput": "How are energy sources converted in organisms?"
+  },
+  {
+    "input": "In multi-cellular organisms, all the cells may not be in direct contact with the surrounding environment. Thus, simple diffusion will not meet the requirements of all the cells. We have seen previously how, in multi-cellular organisms, various body parts have specialised in the functions they perform.",
+    "ouput": "What challenges do multi-cellular organisms face regarding cell needs?"
+  },
+  {
+    "input": "When chemical reactions use the carbon source and the oxygen for energy generation, they create by-products that are not only useless for the cells of the body, but could even be harmful. These waste by-products are therefore needed to be removed from the body and discarded outside by a process called excretion.",
+    "ouput": "What is the process of waste removal in organisms called?"
+  },
+  {
+    "input": "If the body size of the organisms is to grow, additional raw material will also be needed from outside. Since life on earth depends on carbon-based molecules, most of these food sources are also carbon-based.",
+    "ouput": "What do organisms need to grow larger?"
+  },
+  {
+    "input": "The process of acquiring oxygen from outside the body, and to use it in the process of break down of food sources for cellular needs, is what we call respiration.",
+    "ouput": "What is the term for acquiring oxygen for energy?"
+  },
+  {
+    "input": "These maintenance processes are needed to prevent damage and break-down, energy is needed for them. This energy comes from outside the body of the individual organism. So there must be a process to transfer a source of energy from outside the body of the organism, which we call food, to the inside, a process we commonly call nutrition.",
+    "ouput": "What process involves transferring energy into an organism?"
+  },
+  {
+    "input": "This situation creates a need for a transportation system for carrying food and oxygen from one place to another in the body. When chemical reactions use the carbon source and the oxygen for energy generation, they create by-products that are not only useless for the cells of the body, but could even be harmful.",
+    "ouput": "What system is needed for transporting food and oxygen?"
+  },
+  {
+    "input": "In the case of a single-celled organism, no specific organs for taking in food, exchange of gases or removal of wastes may be needed because the entire surface of the organism is in contact with the environment.",
+    "ouput": "Why don't single-celled organisms need specific organs?"
+  },
+  {
+    "input": "Thus, simple diffusion will not meet the requirements of all the cells. We have seen previously how, in multi-cellular organisms, various body parts have specialised in the functions they perform.",
+    "ouput": "How do multi-cellular organisms solve diffusion issues?"
+  },
+  {
+    "input": "Some organisms use simple food material obtained from inorganic sources in the form of carbon dioxide and water. These organisms, the autotrophs, include green plants and some bacteria.",
+    "ouput": "What are autotrophs and their sources?"
+  },
+  {
+    "input": "Other organisms utilise complex substances. These complex substances have to be broken down into simpler ones before they can be used for the upkeep and growth of the body.",
+    "ouput": "How do heterotrophs obtain their food?"
+  },
+  {
+    "input": "To achieve this, organisms use bio-catalysts called enzymes. Thus, the heterotrophs' survival depends directly or indirectly on autotrophs.",
+    "ouput": "What role do enzymes play in digestion?"
+  },
+  {
+    "input": "Even when we are not doing any apparent activity, energy is needed to maintain a state of order in our body. We also need materials from outside in order to grow, develop, synthesise protein and other substances needed in the body.",
+    "ouput": "Why does the body need energy even at rest?"
+  },
+  {
+    "input": "This source of energy and materials is the food we eat. How do living things get their food? The general requirement for energy and materials is common in all organisms, but it is fulfilled in different ways.",
+    "ouput": "What is the primary source of energy for living things?"
+  },
+  {
+    "input": "Autotrophic organisms use photosynthesis to fulfill carbon and energy needs. They take in carbon dioxide and water, converting them into carbohydrates in sunlight with chlorophyll. Carbohydrates provide energy, while excess is stored as starch for later use.",
+    "ouput": "What do autotrophs convert carbon dioxide into?"
+  },
+  {
+    "input": "The process of photosynthesis allows autotrophic organisms to convert substances from their environment into energy. They specifically use carbon dioxide and water to produce carbohydrates which serve as an energy source for the plant's functions.",
+    "ouput": "What substances do autotrophs take in for photosynthesis?"
+  },
+  {
+    "input": "In photosynthesis, chlorophyll is vital as it captures sunlight, enabling the transformation of carbon dioxide and water into carbohydrates. These carbohydrates are essential for the plant's energy needs and can be stored as starch for future use.",
+    "ouput": "What role does chlorophyll play in photosynthesis?"
+  },
+  {
+    "input": "Carbohydrates produced through photosynthesis can either be immediately used by the plant for energy or stored as starch. This storage allows the plant to have an internal energy reserve for times when energy is needed but not immediately available.",
+    "ouput": "Where do plants store excess carbohydrates?"
+  },
+  {
+    "input": "Autotrophs, like plants, utilize photosynthesis to create carbohydrates that they use for energy. Any carbohydrates not needed right away are stored in the form of starch, much like how humans store energy as glycogen.",
+    "ouput": "How do plants store unused carbohydrates?"
+  },
+  {
+    "input": "The following events occur during this process – (i) Absorption of light energy by chlorophyll. (ii) Conversion of light energy to chemical energy and splitting of water molecules into hydrogen and oxygen. (iii) Reduction of carbon dioxide to carbohydrates.",
+    "ouput": "What are the main events in photosynthesis?"
+  },
+  {
+    "input": "Let us now see what actually happens during the process of photosynthesis.",
+    "ouput": "What occurs during photosynthesis?"
+  },
+  {
+    "input": "For example, desert plants take up carbon dioxide at night and prepare an intermediate which is acted upon by the energy absorbed by the chlorophyll during the day.",
+    "ouput": "How do desert plants adapt their photosynthesis?"
+  },
+  {
+    "input": "If you carefully observe a cross-section of a leaf under the microscope, you will notice that some cells contain green dots.",
+    "ouput": "What do the green dots in leaf cells represent?"
+  },
+  {
+    "input": "These green dots are cell organelles called chloroplasts which contain chlorophyll.",
+    "ouput": "What are chloroplasts and what do they contain?"
+  },
+  {
+    "input": "The process of photosynthesis involves the splitting of water molecules into hydrogen and oxygen.",
+    "ouput": "What happens to water molecules during photosynthesis?"
+  },
+  {
+    "input": "Absorption of light energy by chlorophyll is the first step in photosynthesis.",
+    "ouput": "What is the first step of photosynthesis?"
+  },
+  {
+    "input": "Reduction of carbon dioxide to carbohydrates is a vital part of photosynthesis.",
+    "ouput": "What does carbon dioxide reduce to during photosynthesis?"
+  },
+  {
+    "input": "Chlorophyll is essential for converting light energy to chemical energy.",
+    "ouput": "Why is chlorophyll important in photosynthesis?"
+  },
+  {
+    "input": "The steps of photosynthesis need not take place one after the other immediately.",
+    "ouput": "Do photosynthesis steps occur in a strict sequence?"
+  },
+  {
+    "input": "Since the food and the way it is obtained differs, the digestive system is different in various organisms. In single-celled organisms, the food may be taken in by the entire surface. But as the complexity of the organism increases, different parts become specialised to perform different functions.",
+    "ouput": "How do complexities affect digestion in organisms?"
+  },
+  {
+    "input": "For example, Amoeba takes in food using temporary finger-like extensions of the cell surface which fuse over the food particle forming a food-vacuole. Inside the food-vacuole, complex substances are broken down into simpler ones which then diffuse into the cytoplasm.",
+    "ouput": "How does an Amoeba digest its food?"
+  },
+  {
+    "input": "In Paramoecium, which is also a unicellular organism, the cell has a definite shape and food is taken in at a specific spot. Food is moved to this spot by the movement of cilia which cover the entire surface of the cell.",
+    "ouput": "What specialized structure does Paramoecium use for feeding?"
+  },
+  {
+    "input": "The remaining undigested material is moved to the surface of the cell and thrown out. In Paramoecium, which is also a unicellular organism, the cell has a definite shape and food is taken in at a specific spot.",
+    "ouput": "What happens to undigested material in unicellular organisms?"
+  },
+  {
+    "input": "Complex substances are broken down into simpler ones which then diffuse into the cytoplasm. The remaining undigested material is moved to the surface of the cell and thrown out.",
+    "ouput": "What happens to complex substances during digestion?"
+  },
+  {
+    "input": "When we eat something we like, our mouth ‘waters’. This is actually not only water, but a fluid called saliva secreted by the salivary glands.",
+    "ouput": "What is produced when we eat food?"
+  },
+  {
+    "input": "This is achieved by crushing the food with our teeth.",
+    "ouput": "How is food processed for digestion?"
+  },
+  {
+    "input": "The saliva contains an enzyme called salivary amylase that breaks down starch which is a complex molecule to give simple sugar.",
+    "ouput": "What does salivary amylase break down?"
+  },
+  {
+    "input": "Another aspect of the food we ingest is its complex nature. If it is to be absorbed from the alimentary canal, it has to be broken into smaller molecules.",
+    "ouput": "Why must food be broken into smaller molecules?"
+  },
+  {
+    "input": "The food is mixed thoroughly with saliva and moved around the mouth while chewing by the muscular tongue.",
+    "ouput": "What assists in moving food around the mouth?"
+  },
+  {
+    "input": "Since the lining of the canal is soft, the food is also wetted to make its passage smooth.",
+    "ouput": "What helps in the smooth passage of food?"
+  },
+  {
+    "input": "This is achieved by crushing the food with our teeth.",
+    "ouput": "What mechanism helps process food before digestion?"
+  },
+  {
+    "input": "Naturally the food has to be processed to generate particles which are small and of the same texture.",
+    "ouput": "Why must food be processed into small particles?"
+  },
+  {
+    "input": "The exit of food from the stomach is regulated by a sphincter muscle which releases it in small amounts into the small intestine. From the stomach, the food now enters the small intestine.",
+    "ouput": "What regulates food exit from the stomach?"
+  },
+  {
+    "input": "This is the longest part of the alimentary canal which is fitted into a compact space because of extensive coiling. The length of the small intestine differs in various animals depending on the food they eat.",
+    "ouput": "Why does the small intestine differ in length among animals?"
+  },
+  {
+    "input": "Herbivores eating grass need a longer small intestine to allow the cellulose to be digested. Meat is easier to digest, hence carnivores like tigers have a shorter small intestine.",
+    "ouput": "Why do herbivores have a longer small intestine?"
+  },
+  {
+    "input": "The small intestine is the site of the complete digestion of carbohydrates, proteins and fats. It receives the secretions of the liver and pancreas for this purpose.",
+    "ouput": "What is digested in the small intestine?"
+  },
+  {
+    "input": "The length of the small intestine differs in various animals depending on the food they eat. Herbivores eating grass need a longer small intestine.",
+    "ouput": "What affects the length of the small intestine?"
+  },
+  {
+    "input": "Water used in photosynthesis is taken up from the soil by the roots in terrestrial plants. Other materials like nitrogen, phosphorus, iron and magnesium are taken up from the soil.",
+    "ouput": "What materials are needed for photosynthesis?"
+  },
+  {
+    "input": "Based on the two activities performed above, can we design an experiment to demonstrate that sunlight is essential for photosynthesis?",
+    "ouput": "Why is sunlight important for photosynthesis?"
+  },
+  {
+    "input": "Nitrogen is an essential element used in the synthesis of proteins and other compounds. This is taken up in the form of inorganic nitrates or nitrites.",
+    "ouput": "How is nitrogen absorbed by plants?"
+  },
+  {
+    "input": "So far, we have talked about how autotrophs meet their energy requirements. But they also need other raw materials for building their body.",
+    "ouput": "What do autotrophs require besides energy?"
+  },
+  {
+    "input": "This is taken up in the form of inorganic nitrates or nitrites. Or it is taken up as organic compounds which have been prepared by bacteria from atmospheric nitrogen.",
+    "ouput": "In what forms do plants take up nitrogen?"
+  },
+  {
+    "input": "Heterotrophic Nutrition involves processes that occur in the cytoplasm and mitochondria. During fermentation in yeast, pyruvate is converted into ethanol and carbon dioxide, which are notable byproducts of anaerobic respiration. Conversely, aerobic respiration breaks down pyruvate into carbon dioxide and water with a much greater energy release.",
+    "ouput": "What products are formed during fermentation?"
+  },
+  {
+    "input": "The breakdown of pyruvate occurs in two ways depending on the presence of oxygen. In anaerobic respiration, pyruvate is converted to ethanol and carbon dioxide, typically via fermentation in yeast, while aerobic respiration involves breaking pyruvate apart to yield carbon dioxide and water in the mitochondria.",
+    "ouput": "Where does aerobic respiration take place?"
+  },
+  {
+    "input": "In the context of heterotrophic nutrition, aerobic respiration is a more energy-efficient process than anaerobic respiration. While anaerobic respiration (like fermentation) yields less energy, aerobic respiration uses oxygen to fully break down pyruvate into carbon dioxide and water, releasing a significant amount of energy in the process.",
+    "ouput": "Which process produces more energy: aerobic or anaerobic?"
+  },
+  {
+    "input": "Fermentation is an anaerobic process that occurs in yeast, where pyruvate is converted into ethanol and carbon dioxide. In contrast, aerobic respiration occurs in the mitochondria and breaks down pyruvate into carbon dioxide and water, requiring the presence of oxygen to be effective.",
+    "ouput": "What is the main difference between fermentation and aerobic respiration?"
+  },
+  {
+    "input": "During the metabolic processes of heterotrophic nutrition, pyruvate plays a key role. In the absence of oxygen, yeast undergoes fermentation, converting pyruvate to ethanol and carbon dioxide. Under aerobic conditions, however, pyruvate is fully oxidized in the mitochondria, producing carbon dioxide and water as byproducts.",
+    "ouput": "What happens to pyruvate in anaerobic respiration?"
+  },
+  {
+    "input": "This build-up of lactic acid in our muscles during sudden activity causes cramps. It is a byproduct of anaerobic respiration, which occurs when the body needs energy quickly but cannot supply enough oxygen for aerobic respiration.",
+    "ouput": "What does lactic acid cause during activity?"
+  },
+  {
+    "input": "This build-up of lactic acid in our muscles during sudden activity causes cramps. It usually occurs during intense exercise when the body relies on anaerobic metabolism.",
+    "ouput": "What is lactic acid a byproduct of?"
+  },
+  {
+    "input": "This build-up of lactic acid in our muscles during sudden activity causes cramps. The production of lactic acid can lead to muscle fatigue and discomfort if not cleared quickly from the muscles.",
+    "ouput": "What is one effect of lactic acid on muscles?"
+  },
+  {
+    "input": "This build-up of lactic acid in our muscles during sudden activity causes cramps. The body produces energy through anaerobic respiration when there is insufficient oxygen available.",
+    "ouput": "When does lactic acid build up in muscles?"
+  },
+  {
+    "input": "This build-up of lactic acid in our muscles during sudden activity causes cramps. It's important for athletes to manage lactic acid levels to improve performance and comfort during exercise.",
+    "ouput": "Why should athletes manage lactic acid?"
+  },
+  {
+    "input": "The energy released during cellular respiration is immediately used to synthesise a molecule called ATP which is used to fuel all other activities in the cell.",
+    "ouput": "What does ATP stand for?"
+  },
+  {
+    "input": "The energy released during cellular respiration is immediately used to synthesise a molecule called ATP which is used to fuel all other activities in the cell.",
+    "ouput": "How is ATP related to cellular respiration?"
+  },
+  {
+    "input": "The energy released during cellular respiration is immediately used to synthesise a molecule called ATP which is used to fuel all other activities in the cell.",
+    "ouput": "What is the main function of ATP in the cell?"
+  },
+  {
+    "input": "The energy released during cellular respiration is immediately used to synthesise a molecule called ATP which is used to fuel all other activities in the cell.",
+    "ouput": "What role does ATP play in energy transfer?"
+  },
+  {
+    "input": "The energy released during cellular respiration is immediately used to synthesise a molecule called ATP which is used to fuel all other activities in the cell.",
+    "ouput": "Why is ATP important for cellular functions?"
+  },
+  {
+    "input": "Carbon dioxide is more soluble in water than oxygen is and hence is mostly transported in the dissolved form in our blood.",
+    "ouput": "How is carbon dioxide primarily transported?"
+  },
+  {
+    "input": "The upper part of respiratory tract is provided with small hair-like structures called cilia.",
+    "ouput": "What are the small hair-like structures in the respiratory tract called?"
+  },
+  {
+    "input": "These cilia help to remove germs, dust and other harmful particles from inhaled air.",
+    "ouput": "What do cilia in the respiratory tract help to remove?"
+  },
+  {
+    "input": "Carbon dioxide is more soluble in water than oxygen is and hence is mostly transported in the dissolved form in our blood.",
+    "ouput": "Which gas is more soluble in water, carbon dioxide or oxygen?"
+  },
+  {
+    "input": "The upper part of respiratory tract is provided with small hair-like structures called cilia.",
+    "ouput": "Where are cilia located in the respiratory system?"
+  },
+  {
+    "input": "The heart is a muscular organ which is as big as our fist. Because both oxygen and carbon dioxide have to be transported by the blood, the heart has different chambers to prevent the oxygen-rich blood from mixing with the blood containing carbon dioxide.",
+    "ouput": "What is the size of the heart compared to?"
+  },
+  {
+    "input": "The heart is a muscular organ which is as big as our fist. Because both oxygen and carbon dioxide have to be transported by the blood, the heart has different chambers to prevent the oxygen-rich blood from mixing with the blood containing carbon dioxide.",
+    "ouput": "What does the heart prevent from mixing?"
+  },
+  {
+    "input": "The heart is a muscular organ which is as big as our fist. Because both oxygen and carbon dioxide have to be transported by the blood, the heart has different chambers to prevent the oxygen-rich blood from mixing with the blood containing carbon dioxide.",
+    "ouput": "Why does the heart have different chambers?"
+  },
+  {
+    "input": "The heart is a muscular organ which is as big as our fist. Because both oxygen and carbon dioxide have to be transported by the blood, the heart has different chambers to prevent the oxygen-rich blood from mixing with the blood containing carbon dioxide.",
+    "ouput": "What two gases are transported by the blood?"
+  },
+  {
+    "input": "The separation of the right side and the left side of the heart is useful to keep oxygenated and de-oxygenated blood from mixing. Such separation allows a highly efficient supply of oxygen to the body.",
+    "ouput": "Why is heart separation important for animals?"
+  },
+  {
+    "input": "The separation of the right side and the left side of the heart is useful to keep oxygenated and de-oxygenated blood from mixing. Such separation allows a highly efficient supply of oxygen to the body.",
+    "ouput": "How does heart structure affect oxygen supply?"
+  },
+  {
+    "input": "The separation of the right side and the left side of the heart is useful to keep oxygenated and de-oxygenated blood from mixing. Such separation allows a highly efficient supply of oxygen to the body.",
+    "ouput": "What benefit does heart separation provide to organisms?"
+  },
+  {
+    "input": "The separation of the right side and the left side of the heart is useful to keep oxygenated and de-oxygenated blood from mixing. Such separation allows a highly efficient supply of oxygen to the body.",
+    "ouput": "In what way does heart separation improve efficiency?"
+  },
+  {
+    "input": "The separation of the right side and the left side of the heart is useful to keep oxygenated and de-oxygenated blood from mixing. Such separation allows a highly efficient supply of oxygen to the body.",
+    "ouput": "What role does the heart play in oxygen delivery?"
+  },
+  {
+    "input": "This is known as double circulation. Oxygen-rich blood from the lungs comes to the left atrium. The left atrium relaxes when it is collecting this blood.",
+    "ouput": "What is double circulation?"
+  },
+  {
+    "input": "When the muscular left ventricle contracts in its turn, the blood is pumped out to the body.",
+    "ouput": "What happens when the left ventricle contracts?"
+  },
+  {
+    "input": "The left atrium relaxes when it is collecting this blood. It then contracts, while the next chamber, the left ventricle, relaxes.",
+    "ouput": "What occurs during the left atrium's cycle?"
+  },
+  {
+    "input": "Oxygen-rich blood from the lungs comes to the left atrium. It then contracts, while the next chamber, the left ventricle, relaxes.",
+    "ouput": "Where does the oxygen-rich blood come from?"
+  },
+  {
+    "input": "The left atrium relaxes when it is collecting this blood. It then contracts, transferring blood to the left ventricle.",
+    "ouput": "How does blood move from the left atrium to the left ventricle?"
+  },
+  {
+    "input": "Oxygen enters the blood in the lungs. De-oxygenated blood comes from the body to the right atrium. As the right atrium contracts, the corresponding lower chamber, the right ventricle, dilates.",
+    "ouput": "Where does de-oxygenated blood enter?"
+  },
+  {
+    "input": "As the right atrium contracts, the corresponding lower chamber, the right ventricle, dilates. This transfers blood to the right ventricle, which in turn pumps it to the lungs for oxygenation.",
+    "ouput": "What happens when the right atrium contracts?"
+  },
+  {
+    "input": "This transfers blood to the right ventricle, which in turn pumps it to the lungs for oxygenation. Oxygen enters the blood in the lungs.",
+    "ouput": "What does the right ventricle pump blood to?"
+  },
+  {
+    "input": "De-oxygenated blood comes from the body to the right atrium. As the right atrium contracts, the corresponding lower chamber, the right ventricle, dilates.",
+    "ouput": "What happens to the right ventricle during atrial contraction?"
+  },
+  {
+    "input": "Oxygen enters the blood in the lungs. This transfers blood to the right ventricle, which in turn pumps it to the lungs for oxygenation.",
+    "ouput": "What is the final destination of blood pumped by the right ventricle?"
+  },
+  {
+    "input": "ATP is the energy currency for most cellular processes. The energy released during the process of respiration is used to make an ATP molecule from ADP and inorganic phosphate.",
+    "ouput": "What is ATP's role in cellular processes?"
+  },
+  {
+    "input": "ATP is broken down giving rise to a fixed amount of energy which can drive endothermic reactions.",
+    "ouput": "How does ATP contribute to cellular reactions?"
+  },
+  {
+    "input": "The energy released during respiration is used to make an ATP molecule from ADP and inorganic phosphate.",
+    "ouput": "What process generates ATP from ADP?"
+  },
+  {
+    "input": "In these processes, ATP is broken down giving rise to a fixed amount of energy.",
+    "ouput": "What happens during ATP breakdown?"
+  },
+  {
+    "input": "ATP is the energy currency for most cellular processes, driving endothermic reactions.",
+    "ouput": "Why is ATP referred to as the energy currency?"
+  },
+  {
+    "input": "Since the aerobic respiration pathway depends on oxygen, aerobic organisms need to ensure that there is sufficient intake of oxygen. We have seen that plants exchange gases through stomata, and the large inter-cellular spaces ensure that all cells are in contact with air.",
+    "ouput": "How do plants exchange gases?"
+  },
+  {
+    "input": "Since the aerobic respiration pathway depends on oxygen, aerobic organisms need to ensure that there is sufficient intake of oxygen. We have seen that plants exchange gases through stomata, and the large inter-cellular spaces ensure that all cells are in contact with air.",
+    "ouput": "Why is oxygen important for aerobic organisms?"
+  },
+  {
+    "input": "Since the aerobic respiration pathway depends on oxygen, aerobic organisms need to ensure that there is sufficient intake of oxygen. We have seen that plants exchange gases through stomata, and the large inter-cellular spaces ensure that all cells are in contact with air.",
+    "ouput": "What role do stomata play in plants?"
+  },
+  {
+    "input": "Since the aerobic respiration pathway depends on oxygen, aerobic organisms need to ensure that there is sufficient intake of oxygen. We have seen that plants exchange gases through stomata, and the large inter-cellular spaces ensure that all cells are in contact with air.",
+    "ouput": "What ensures that all plant cells contact air?"
+  },
+  {
+    "input": "Since the aerobic respiration pathway depends on oxygen, aerobic organisms need to ensure that there is sufficient intake of oxygen. We have seen that plants exchange gases through stomata, and the large inter-cellular spaces ensure that all cells are in contact with air.",
+    "ouput": "What facilitates gas exchange in plants?"
+  },
+  {
+    "input": "During the day, CO2 generated during respiration is used up for photosynthesis, hence there is no CO2 release. Instead, oxygen release is the major event at this time.",
+    "ouput": "What gas do plants release during photosynthesis?"
+  },
+  {
+    "input": "During the day, CO2 generated during respiration is used up for photosynthesis, hence there is no CO2 release. Instead, oxygen release is the major event at this time.",
+    "ouput": "How does photosynthesis affect CO2 levels?"
+  },
+  {
+    "input": "During the day, CO2 generated during respiration is used up for photosynthesis, hence there is no CO2 release. Instead, oxygen release is the major event at this time.",
+    "ouput": "Why is no CO2 released during the day?"
+  },
+  {
+    "input": "During the day, CO2 generated during respiration is used up for photosynthesis, hence there is no CO2 release. Instead, oxygen release is the major event at this time.",
+    "ouput": "What process primarily occurs during the day in plants?"
+  },
+  {
+    "input": "Animals have evolved different organs for the uptake of oxygen from the environment and for getting rid of the carbon dioxide produced. Terrestrial animals can breathe the oxygen in the atmosphere, but animals that live in water need to use the oxygen dissolved in water.",
+    "ouput": "How do terrestrial animals breathe?"
+  },
+  {
+    "input": "Animals have evolved different organs for the uptake of oxygen from the environment and for getting rid of the carbon dioxide produced. Terrestrial animals can breathe the oxygen in the atmosphere, but animals that live in water need to use the oxygen dissolved in water.",
+    "ouput": "What is the main method aquatic animals use to breathe?"
+  },
+  {
+    "input": "Animals have evolved different organs for the uptake of oxygen from the environment and for getting rid of the carbon dioxide produced. Terrestrial animals can breathe the oxygen in the atmosphere, but animals that live in water need to use the oxygen dissolved in water.",
+    "ouput": "What do animals in water rely on for oxygen?"
+  },
+  {
+    "input": "Animals have evolved different organs for the uptake of oxygen from the environment and for getting rid of the carbon dioxide produced. Terrestrial animals can breathe the oxygen in the atmosphere, but animals that live in water need to use the oxygen dissolved in water.",
+    "ouput": "What do all animals need to eliminate from their bodies?"
+  },
+  {
+    "input": "Fishes take in water through their mouths and force it past the gills where the dissolved oxygen is taken up by blood.",
+    "ouput": "How do fishes breathe underwater?"
+  },
+  {
+    "input": "Terrestrial organisms use the oxygen in the atmosphere for respiration.",
+    "ouput": "What do terrestrial animals use for respiration?"
+  },
+  {
+    "input": "Fishes take in water through their mouths and force it past the gills.",
+    "ouput": "What is the function of gills in fish?"
+  },
+  {
+    "input": "Dissolved oxygen is taken up by blood in fishes through the gills.",
+    "ouput": "How do fish absorb oxygen from water?"
+  },
+  {
+    "input": "Terrestrial organisms breathe by using atmospheric oxygen.",
+    "ouput": "What is the primary source of oxygen for land animals?"
+  },
+  {
+    "input": "Fishes force water past gills to extract oxygen from it.",
+    "ouput": "What mechanism do fishes use to extract oxygen?"
+  },
+  {
+    "input": "Aquatic animals like fish extract oxygen from water differently than land organisms.",
+    "ouput": "How do aquatic and terrestrial breathing differ?"
+  },
+  {
+    "input": "In human beings, air is taken into the body through the nostrils. The air passing through the nostrils is filtered by fine hairs that line the passage. The passage is also lined with mucus which helps in this process.",
+    "ouput": "What facilitates air filtration in nostrils?"
+  },
+  {
+    "input": "From here, the air passes through the throat and into the lungs.",
+    "ouput": "What structure does air pass after the nostrils?"
+  },
+  {
+    "input": "The passage is also lined with mucus which helps in this process.",
+    "ouput": "What substance aids in filtering air in the nostrils?"
+  },
+  {
+    "input": "The air passing through the nostrils is filtered by fine hairs that line the passage.",
+    "ouput": "What type of structures line the nostrils for filtration?"
+  },
+  {
+    "input": "In human beings, air is taken into the body through the nostrils.",
+    "ouput": "Where does air enter the human respiratory system?"
+  },
+  {
+    "input": "Within the lungs, the passage divides into smaller and smaller tubes which finally terminate in balloon-like structures which are called alveoli. The alveoli provide a surface where the exchange of gases can take place.",
+    "ouput": "What are alveoli responsible for?"
+  },
+  {
+    "input": "The alveoli provide a surface where the exchange of gases can take place. The lungs contain millions of these tiny air sacs, making them efficient for gas exchange.",
+    "ouput": "Why are alveoli important for the lungs?"
+  },
+  {
+    "input": "The alveoli provide a surface where the exchange of gases can take place. Carbon dioxide and oxygen pass through the walls of the alveoli into the blood.",
+    "ouput": "What happens during gas exchange in alveoli?"
+  },
+  {
+    "input": "The passage divides into smaller and smaller tubes which finally terminate in balloon-like structures called alveoli. These structures are essential for respiration.",
+    "ouput": "What terminates in the alveoli?"
+  },
+  {
+    "input": "When the body size of animals is large, the diffusion pressure alone cannot take care of oxygen delivery to all parts of the body. Instead, respiratory pigments take up oxygen from the air in the lungs and carry it to tissues which are deficient in oxygen before releasing it.",
+    "ouput": "What do respiratory pigments do?"
+  },
+  {
+    "input": "In human beings, the respiratory pigment is haemoglobin which has a very high affinity for oxygen. Haemoglobin helps in the efficient transport of oxygen throughout the body.",
+    "ouput": "What is the respiratory pigment in humans?"
+  },
+  {
+    "input": "Instead, respiratory pigments take up oxygen from the air in the lungs and carry it to tissues which are deficient in oxygen before releasing it. Hemoglobin is essential for this process.",
+    "ouput": "How does haemoglobin contribute to oxygen delivery?"
+  },
+  {
+    "input": "The diffusion pressure alone cannot take care of oxygen delivery to all parts of the body. This limitation leads to the need for efficient transport systems in larger animals.",
+    "ouput": "Why is diffusion pressure insufficient in larger animals?"
+  },
+  {
+    "input": "Haemoglobin which has a very high affinity for oxygen plays a crucial role in oxygen transport in human bodies, allowing for efficient oxygen delivery to tissues.",
+    "ouput": "Why is haemoglobin important for oxygen transport?"
+  },
+  {
+    "input": "Blood pressure is measured with an instrument called sphygmomanometer. High blood pressure is also called hypertension and is caused by the constriction of arterioles.",
+    "ouput": "What instrument measures blood pressure?"
+  },
+  {
+    "input": "High blood pressure is also called hypertension and is caused by the constriction of arterioles, which results in increased resistance to blood flow.",
+    "ouput": "What is another term for high blood pressure?"
+  },
+  {
+    "input": "It can lead to the rupture of an artery and internal bleeding.",
+    "ouput": "What serious condition can high blood pressure cause?"
+  },
+  {
+    "input": "High blood pressure is caused by the constriction of arterioles, which results in increased resistance to blood flow.",
+    "ouput": "What causes high blood pressure?"
+  },
+  {
+    "input": "The force that blood exerts against the wall of a vessel is called blood pressure. This pressure is much greater in arteries than in veins. The pressure of blood inside the artery during ventricular systole (contraction) is called systolic pressure and pressure in artery during ventricular diastole (relaxation) is called diastolic pressure.",
+    "ouput": "What is the definition of blood pressure?"
+  },
+  {
+    "input": "The pressure of blood inside the artery during ventricular systole (contraction) is called systolic pressure and pressure in artery during ventricular diastole (relaxation) is called diastolic pressure. The normal systolic pressure is about 120 mm of Hg and diastolic pressure is 80 mm of Hg.",
+    "ouput": "What are the normal values for systolic pressure?"
+  },
+  {
+    "input": "This pressure is much greater in arteries than in veins. The pressure of blood inside the artery during ventricular systole (contraction) is called systolic pressure and pressure in artery during ventricular diastole (relaxation) is called diastolic pressure.",
+    "ouput": "How does blood pressure differ between arteries and veins?"
+  },
+  {
+    "input": "The normal systolic pressure is about 120 mm of Hg and diastolic pressure is 80 mm of Hg. This pressure is much greater in arteries than in veins. The pressure of blood inside the artery during ventricular systole (contraction) is called systolic pressure.",
+    "ouput": "What is the normal diastolic pressure value?"
+  },
+  {
+    "input": "The pressure of blood inside the artery during ventricular systole (contraction) is called systolic pressure and pressure in artery during ventricular diastole (relaxation) is called diastolic pressure. The normal systolic pressure is about 120 mm of Hg.",
+    "ouput": "What causes systolic pressure?"
+  },
+  {
+    "input": "The excretory system of human beings includes a pair of kidneys, a pair of ureters, a urinary bladder and a urethra. Kidneys are located in the abdomen, one on either side of the backbone. Urine produced in the kidneys passes through the ureters into the urinary bladder where it is stored until it is released through the urethra.",
+    "ouput": "What organs are in the excretory system?"
+  },
+  {
+    "input": "The purpose of making urine is to filter out waste products from the blood. Urine produced in the kidneys passes through the ureters into the urinary bladder where it is stored until it is released through the urethra.",
+    "ouput": "What is the main purpose of urine production?"
+  },
+  {
+    "input": "Urine produced in the kidneys passes through the ureters into the urinary bladder where it is stored until it is released through the urethra. Kidneys are located in the abdomen, one on either side of the backbone.",
+    "ouput": "Where are the kidneys located in the body?"
+  },
+  {
+    "input": "The excretory system of human beings includes a pair of kidneys, a pair of ureters, a urinary bladder and a urethra. How is urine produced? The purpose of making urine is to filter out waste products from the blood.",
+    "ouput": "What is the role of kidneys in urine production?"
+  },
+  {
+    "input": "Urine produced in the kidneys passes through the ureters into the urinary bladder where it is stored until it is released through the urethra. The excretory system of human beings includes a pair of kidneys, a pair of ureters.",
+    "ouput": "Which structures transport urine to the bladder?"
+  },
+  {
+    "input": "Every kidney has large numbers of filtration units called nephrons situated close together. These nephrons are essential for removing waste products from the blood.",
+    "ouput": "What are the main filtration units in kidneys?"
+  },
+  {
+    "input": "Nitrogenous waste such as urea or uric acid is removed from blood in the kidneys, similar to how CO2 is cleared in the lungs.",
+    "ouput": "What waste products do kidneys filter from the blood?"
+  },
+  {
+    "input": "Each nephron is comprised of a cluster of very thin-walled blood capillaries associated with Bowman’s capsule, which collects the filtrate.",
+    "ouput": "What structure collects filtrate in the kidneys?"
+  },
+  {
+    "input": "The basic filtration unit in the kidneys consists of a cluster of very thin-walled blood capillaries and a coiled tube called Bowman’s capsule.",
+    "ouput": "What two main structures make up a nephron?"
+  },
+  {
+    "input": "Some substances in the initial filtrate, such as glucose, amino acids, salts and a major amount of water, are selectively re-absorbed as the urine flows along the tube.",
+    "ouput": "What substances are re-absorbed during urine formation?"
+  },
+  {
+    "input": "The amount of water re-absorbed depends on how much excess water there is in the body, and on how much of dissolved waste there is to be excreted.",
+    "ouput": "What factors affect water re-absorption?"
+  },
+  {
+    "input": "Some substances in the initial filtrate, such as glucose, amino acids, salts and a major amount of water, are selectively re-absorbed as the urine flows along the tube.",
+    "ouput": "Which substance is most abundant in urine?"
+  },
+  {
+    "input": "The amount of water re-absorbed depends on how much excess water there is in the body, and on how much of dissolved waste there is to be excreted.",
+    "ouput": "What role does excess water play in excretion?"
+  },
+  {
+    "input": "Some substances in the initial filtrate, such as glucose, amino acids, salts and a major amount of water, are selectively re-absorbed as the urine flows along the tube.",
+    "ouput": "What is selectively re-absorbed during urine flow?"
+  },
+  {
+    "input": "Kidneys are vital organs for survival. Several factors like infections, injury or restricted blood flow to kidneys reduce the activity of kidneys.",
+    "ouput": "What factors affect kidney function?"
+  },
+  {
+    "input": "In case of kidney failure, an artificial kidney can be used. An artificial kidney is a device to remove nitrogenous waste products from the blood through dialysis.",
+    "ouput": "What is the purpose of an artificial kidney?"
+  },
+  {
+    "input": "This leads to accumulation of poisonous wastes in the body, which can even lead to death.",
+    "ouput": "What happens if kidneys fail?"
+  },
+  {
+    "input": "Artificial kidney (Hemodialysis) is a device to remove nitrogenous waste products from the blood through dialysis.",
+    "ouput": "How does an artificial kidney work?"
+  },
+  {
+    "input": "Several factors like infections, injury or restricted blood flow to kidneys reduce the activity of kidneys.",
+    "ouput": "What can reduce kidney activity?"
+  },
+  {
+    "input": "Arteries are the vessels which carry blood away from the heart to various organs of the body. Since the blood emerges from the heart under high pressure, the arteries have thick, elastic walls. Veins collect the blood from different organs and bring it back to the heart.",
+    "ouput": "What do arteries do in the circulatory system?"
+  },
+  {
+    "input": "Veins collect the blood from different organs and bring it back to the heart. They do not need thick walls because the blood is no longer under pressure, instead they have valves that ensure that the blood flows only in one direction.",
+    "ouput": "Why do veins have valves?"
+  },
+  {
+    "input": "On reaching an organ or tissue, the artery divides into smaller and smaller vessels to bring the blood in contact with all the individual cells. The smallest vessels have walls which are one-cell thick and are called capillaries.",
+    "ouput": "What are capillaries and their function?"
+  },
+  {
+    "input": "Exchange of material between the blood and surrounding cells takes place across this thin wall. The capillaries then join together to form veins that convey the blood away from the organ or tissue.",
+    "ouput": "How do capillaries facilitate material exchange?"
+  },
+  {
+    "input": "Since the blood emerges from the heart under high pressure, the arteries have thick, elastic walls. Veins collect the blood from different organs and bring it back to the heart.",
+    "ouput": "What adaptations do arteries have for high-pressure blood?"
+  },
+  {
+    "input": "Platelets are crucial for preventing excessive blood loss when injuries occur. They work by rapidly accumulating at the site of a leak to form a temporary plug and initiate the clotting process. This action minimizes blood loss and maintains blood pressure within the circulatory system.",
+    "ouput": "What role do platelets play during bleeding?"
+  },
+  {
+    "input": "When an injury causes a leak in the blood vessels, platelets quickly gather at the affected area to adhere to the exposed tissues. This accumulation of platelets obstructs the flow of blood, aiding in the formation of a clot that effectively seals the wound and promotes healing.",
+    "ouput": "How do platelets accumulate at injury sites?"
+  },
+  {
+    "input": "To maintain healthy blood pressure and prevent excessive blood loss during a leak, platelets adhere to the injured area and aggregate together. They release chemical signals that recruit more platelets, facilitating the clotting process to ensure that the vascular system remains intact and functional.",
+    "ouput": "What happens when platelets aggregate at leaks?"
+  },
+  {
+    "input": "If a person suffers a cut or injury, the body's immediate response involves the platelets that circulate in the bloodstream. They are crucial for forming clots which effectively close the wound, reducing the risk of shock due to blood loss and ensuring that the circulatory system operates normally.",
+    "ouput": "Why are platelets important after an injury?"
+  },
+  {
+    "input": "In the event of a bleeding injury, the platelets play an essential role by adhering to the site of the leak and activating other clotting factors in the blood. This process prevents further blood loss while allowing the tissue to repair itself over time.",
+    "ouput": "What activates clotting factors during bleeding?"
+  },
+  {
+    "input": "Lymph drains into lymphatic capillaries from the inter-cellular spaces, which join to form large lymph vessels that finally open into larger veins.",
+    "ouput": "Where does lymph drain into from the inter-cellular spaces?"
+  },
+  {
+    "input": "Lymph carries digested and absorbed fat from intestine and drains excess fluid from extracellular space back into the blood.",
+    "ouput": "What does lymph carry from the intestine?"
+  },
+  {
+    "input": "Lymph is similar to the plasma of blood but colourless and contains less protein.",
+    "ouput": "How does lymph compare to blood plasma?"
+  },
+  {
+    "input": "Through the pores present in the walls of capillaries some amount of plasma, proteins and blood cells escape into intercellular spaces in the tissues to form the tissue fluid or lymph.",
+    "ouput": "What forms tissue fluid or lymph?"
+  },
+  {
+    "input": "Lymph drains into lymphatic capillaries from the inter-cellular spaces, which join to form large lymph vessels.",
+    "ouput": "What do lymphatic capillaries join to form?"
+  },
+  {
+    "input": "Plants take in simple compounds such as CO2 and photosynthesise energy stored in their chlorophyll-containing organs, namely leaves. The other kinds of raw materials needed for building plant bodies.",
+    "ouput": "What do plants photosynthesize?"
+  },
+  {
+    "input": "The absorption of these substances therefore occurs through the part in contact with the soil, namely roots.",
+    "ouput": "Where do plants absorb raw materials?"
+  },
+  {
+    "input": "For plants, the soil is the nearest and richest source of raw materials like nitrogen, phosphorus and other minerals.",
+    "ouput": "What is the primary source of minerals for plants?"
+  },
+  {
+    "input": "We have discussed earlier how plants take in simple compounds such as CO2 and photosynthesise energy stored in their chlorophyll-containing organs, namely leaves.",
+    "ouput": "What do leaves contain to facilitate photosynthesis?"
+  },
+  {
+    "input": "The absorption of these substances therefore occurs through the part in contact with the soil, namely roots.",
+    "ouput": "Which part of the plant contacts the soil?"
+  },
+  {
+    "input": "Plants do not move, and plant bodies have a large proportion of dead cells in many tissues. As a result, plants have low energy needs, and can use relatively slow transport systems.",
+    "ouput": "Why do plants have low energy needs?"
+  },
+  {
+    "input": "The distances over which transport systems have to operate, however, can be very large in plants such as very tall trees.",
+    "ouput": "How do transport distances vary in tall trees?"
+  },
+  {
+    "input": "Plant transport systems will move energy stores from leaves and raw materials from roots.",
+    "ouput": "What do plant transport systems move?"
+  },
+  {
+    "input": "As a result, plants have low energy needs, and can use relatively slow transport systems.",
+    "ouput": "What type of transport systems do plants use?"
+  },
+  {
+    "input": "Energy needs differ between different body designs. Plants do not move, and plant bodies have a large proportion of dead cells.",
+    "ouput": "How do body designs affect energy needs?"
+  },
+  {
+    "input": "Water, therefore, moves into the root from the soil to eliminate this difference. This means that there is a steady movement of water into root xylem, creating a column of water that is steadily pushed upwards.",
+    "ouput": "How does water move into the roots?"
+  },
+  {
+    "input": "However, this pressure by itself is unlikely to be enough to move water over the heights that we commonly see in plants.",
+    "ouput": "What challenges does water movement face in plants?"
+  },
+  {
+    "input": "Plants use another strategy to move water in the xylem upwards to the highest points of the plant body.",
+    "ouput": "What strategy do plants use to transport water?"
+  },
+  {
+    "input": "The loss of water in the form of vapour from the aerial parts of the plant is known as transpiration. Thus, transpiration helps in the absorption and upward movement of water and minerals dissolved in it from roots to the leaves.",
+    "ouput": "What is transpiration in plants?"
+  },
+  {
+    "input": "The effect of root pressure in transport of water is more important at night. During the day when the stomata are open, the transpiration pull becomes the major driving force in the movement of water in the xylem.",
+    "ouput": "When is root pressure most effective?"
+  },
+  {
+    "input": "It also helps in temperature regulation. The effect of root pressure in transport of water is more important at night.",
+    "ouput": "How does transpiration help plants regulate temperature?"
+  },
+  {
+    "input": "The loss of water in the form of vapour from the aerial parts of the plant is known as transpiration. Thus, transpiration helps in the absorption and upward movement of water and minerals dissolved in it from roots to the leaves.",
+    "ouput": "What role does transpiration play in water movement?"
+  },
+  {
+    "input": "During the day when the stomata are open, the transpiration pull becomes the major driving force in the movement of water in the xylem.",
+    "ouput": "What drives water movement in plants during day?"
+  },
+  {
+    "input": "This transport of soluble products of photosynthesis is called translocation and it occurs in the part of the vascular tissue known as phloem.",
+    "ouput": "What is the process of transporting food in plants?"
+  },
+  {
+    "input": "The phloem transports amino acids and other substances. These substances are especially delivered to the storage organs of roots, fruits and seeds and to growing organs.",
+    "ouput": "What else does the phloem transport besides photosynthesis products?"
+  },
+  {
+    "input": "The translocation of food and other substances takes place in the sieve tubes with the help of adjacent companion cells both in upward and downward directions.",
+    "ouput": "How does translocation occur in plants?"
+  },
+  {
+    "input": "Besides the products of photosynthesis, the phloem transports amino acids and other substances.",
+    "ouput": "What substances does phloem transport?"
+  },
+  {
+    "input": "This transport of soluble products of photosynthesis is called translocation and it occurs in the part of the vascular tissue known as phloem.",
+    "ouput": "Where does translocation occur in plants?"
+  },
+  {
+    "input": "The kidneys in human beings are a part of the system for excretion. They play a crucial role in removing waste products from the blood and regulating the body's fluid balance. This process is essential for maintaining homeostasis and overall health.",
+    "ouput": "What is the role of kidneys in humans?"
+  },
+  {
+    "input": "The kidneys in human beings are a part of the system for excretion. They filter blood to produce urine, which contains waste products and excess substances, helping to maintain a stable internal environment.",
+    "ouput": "What do kidneys help eliminate in humans?"
+  },
+  {
+    "input": "The kidneys in human beings are a part of the system for excretion. This system is vital because it helps to expel metabolic wastes and toxins from the body, ensuring that the internal environment remains stable.",
+    "ouput": "Why is the excretion system important in humans?"
+  },
+  {
+    "input": "The kidneys in human beings are a part of the system for excretion. They work by filtering out waste while retaining beneficial substances, which is key for proper bodily function and health maintenance.",
+    "ouput": "How do kidneys contribute to bodily function?"
+  },
+  {
+    "input": "The kidneys in human beings are a part of the system for excretion. They help to regulate electrolyte levels and blood pressure while also removing urea and creatinine generated from metabolism.",
+    "ouput": "What substances do kidneys filter from the blood?"
+  },
+  {
+    "input": "In human beings, excretory products in the form of soluble nitrogen compounds are removed by the nephrons in the kidneys. Normally, in a healthy adult, the initial filtrate in the kidneys is about 180 L daily.",
+    "ouput": "What do nephrons remove from the body?"
+  },
+  {
+    "input": "However, the volume actually excreted is only a litre or two a day, because the remaining filtrate is re-absorbed in the kidney tubules.",
+    "ouput": "How much filtrate is excreted daily?"
+  },
+  {
+    "input": "In human beings, excretory products in the form of soluble nitrogen compounds are removed by the nephrons in the kidneys.",
+    "ouput": "What type of compounds do nephrons process?"
+  },
+  {
+    "input": "Normally, in a healthy adult, the initial filtrate in the kidneys is about 180 L daily. However, the volume actually excreted is only a litre or two a day.",
+    "ouput": "What is the daily volume of initial filtrate?"
+  },
+  {
+    "input": "Because the remaining filtrate is re-absorbed in the kidney tubules, the volume excreted is only a litre or two a day.",
+    "ouput": "Where is the remaining filtrate re-absorbed?"
+  },
+  {
+    "input": "Alveoli are tiny air sacs in the lungs where gas exchange occurs. They have a large surface area and thin walls, allowing oxygen to diffuse into the blood while carbon dioxide is expelled. In contrast, nephrons are the functional units of the kidneys that filter blood, reabsorb necessary substances, and excrete waste as urine. Both structures maximize their functionalities through their specialized designs.",
+    "ouput": "How do alveoli and nephrons function?"
+  },
+  {
+    "input": "Alveoli consist of a single layer of epithelial cells that facilitate rapid gas exchange. They are surrounded by capillaries, enhancing the diffusion of gases. Nephrons, on the other hand, have a complex structure including the glomerulus and renal tubules that play a crucial role in filtering blood and reabsorbing nutrients, showing a different yet specialized way of performing their roles.",
+    "ouput": "What are the structural differences between alveoli and nephrons?"
+  },
+  {
+    "input": "The primary function of alveoli is to enable the exchange of oxygen and carbon dioxide as part of the respiratory process. Nephrons, conversely, filter blood to remove waste and excess substances, maintaining the body's fluid and electrolyte balance. These two systems illustrate different yet complementary processes essential for human health.",
+    "ouput": "What is the main function of alveoli?"
+  },
+  {
+    "input": "Both alveoli and nephrons are highly specialized structures. Alveoli enhance gas exchange with their large surface area and proximity to capillaries. Nephrons use a filtration system to selectively reclaim water and ions from the blood. Despite their different roles, both systems illustrate the importance of surface area in biological functions.",
+    "ouput": "Why is surface area important for alveoli?"
+  },
+  {
+    "input": "Alveoli rely on diffusion for gas exchange, making their thin walls crucial for rapid transport of gases. Nephrons utilize filtration and selective reabsorption processes, showcasing efficiency in waste management. Both highlight adaptations suited to their specific biological roles in the respiratory and urinary systems, respectively.",
+    "ouput": "How do alveoli assist with gas exchange?"
+  },
+  {
+    "input": "Organ donation is a generous act of donating an organ to a person who suffers from non-function of organ(s). Donation of an organ may be done by the consent of the donor and his/her family.",
+    "ouput": "Who can become an organ donor?"
+  },
+  {
+    "input": "Anyone regardless of age or gender can become an organ and tissue donor. Organ transplants can save or transform the life of a person.",
+    "ouput": "How can organ transplants affect a person's life?"
+  },
+  {
+    "input": "Transplantation is required because recipient’s organ has been damaged or has failed by disease or injury. Donation of an organ may be done by the consent of the donor and his/her family.",
+    "ouput": "Why is transplantation necessary for some patients?"
+  },
+  {
+    "input": "Organ donation is a generous act of donating an organ to a person who suffers from non-function of organ(s). Organ transplants can save or transform the life of a person.",
+    "ouput": "What is the main purpose of organ donation?"
+  },
+  {
+    "input": "Anyone regardless of age or gender can become an organ and tissue donor. Donation of an organ may be done by the consent of the donor and his/her family.",
+    "ouput": "What must be obtained for an organ donation to occur?"
+  },
+  {
+    "input": "Plants excrete waste products differently than animals. Oxygen can be considered a waste product generated during photosynthesis. Plants deal with excess water through transpiration, and they can lose parts like leaves to dispose of waste.",
+    "ouput": "What do plants use to deal with excess water?"
+  },
+  {
+    "input": "They store many waste products in cellular vacuoles or release them into the soil. Waste products can also be stored in dead tissues.",
+    "ouput": "Where do plants store their waste products?"
+  },
+  {
+    "input": "Oxygen can be considered a waste product generated during photosynthesis. Plants deal with excess water through transpiration, and they can lose parts like leaves to dispose of waste.",
+    "ouput": "What is a waste product produced during photosynthesis?"
+  },
+  {
+    "input": "Plants excrete waste products differently than animals. They can lose parts like leaves to dispose of waste. They store many waste products in cellular vacuoles or release them into the soil.",
+    "ouput": "How do plants eliminate some of their waste?"
+  },
+  {
+    "input": "Plants deal with excess water through transpiration, and they can lose parts like leaves to dispose of waste. They store many waste products in cellular vacuoles or release them into the soil.",
+    "ouput": "What process do plants use for managing excess water?"
+  },
+  {
+    "input": "During the process of respiration, organic compounds such as glucose are broken down to provide energy in the form of ATP. ATP is used to provide energy for other reactions in the cell.",
+    "ouput": "What do organic compounds provide during respiration?"
+  },
+  {
+    "input": "Respiration may be aerobic or anaerobic, with aerobic respiration producing more energy.",
+    "ouput": "What type of respiration produces more energy?"
+  },
+  {
+    "input": "ATP is used to provide energy for other reactions in the cell. Respiration may be aerobic or anaerobic, with aerobic respiration producing more energy.",
+    "ouput": "How is ATP utilized in the cell?"
+  },
+  {
+    "input": "During the process of respiration, organic compounds such as glucose are broken down to provide energy in the form of ATP.",
+    "ouput": "What is broken down during respiration?"
+  },
+  {
+    "input": "Respiration may be aerobic or anaerobic, with aerobic respiration producing more energy.",
+    "ouput": "What are the two types of respiration?"
+  },
+  {
+    "input": "The circulatory system consists of the heart, blood, and blood vessels, responsible for transporting materials such as oxygen, carbon dioxide, food, and excretory products.",
+    "ouput": "What does the circulatory system transport?"
+  },
+  {
+    "input": "The circulatory system consists of the heart, blood, and blood vessels, responsible for transporting materials such as oxygen, carbon dioxide, food, and excretory products.",
+    "ouput": "What are the components of the circulatory system?"
+  },
+  {
+    "input": "The circulatory system consists of the heart, blood, and blood vessels, responsible for transporting materials such as oxygen, carbon dioxide, food, and excretory products.",
+    "ouput": "What is the main function of the circulatory system?"
+  },
+  {
+    "input": "The circulatory system consists of the heart, blood, and blood vessels, responsible for transporting materials such as oxygen, carbon dioxide, food, and excretory products.",
+    "ouput": "Which organ is central to the circulatory system?"
+  },
+  {
+    "input": "In highly differentiated plants, the transport of water, minerals, food, and other materials is facilitated by vascular tissues, which include xylem and phloem.",
+    "ouput": "What are the vascular tissues in plants?"
+  },
+  {
+    "input": "In highly differentiated plants, the transport of water, minerals, food, and other materials is facilitated by vascular tissues, which include xylem and phloem.",
+    "ouput": "What do xylem and phloem transport?"
+  },
+  {
+    "input": "In highly differentiated plants, the transport of water, minerals, food, and other materials is facilitated by vascular tissues, which include xylem and phloem.",
+    "ouput": "Which type of tissue is responsible for transporting water?"
+  },
+  {
+    "input": "In highly differentiated plants, the transport of water, minerals, food, and other materials is facilitated by vascular tissues, which include xylem and phloem.",
+    "ouput": "What materials are transported by vascular tissues?"
+  },
+  {
+    "input": "In highly differentiated plants, the transport of water, minerals, food, and other materials is facilitated by vascular tissues, which include xylem and phloem.",
+    "ouput": "Name the two types of vascular tissues."
+  },
+  {
+    "input": "Plants use a variety of techniques to get rid of waste material. For example, waste material may be stored in the cell-vacuoles, removed in falling leaves, or excreted into the surrounding soil.",
+    "ouput": "How do plants manage their waste?"
+  },
+  {
+    "input": "For example, waste material may be stored in the cell-vacuoles, removed in falling leaves, or excreted into the surrounding soil.",
+    "ouput": "What are ways plants remove waste?"
+  },
+  {
+    "input": "Plants use a variety of techniques to get rid of waste material.",
+    "ouput": "What techniques do plants use for waste management?"
+  },
+  {
+    "input": "Waste material may be stored in the cell-vacuoles or removed in falling leaves.",
+    "ouput": "What happens to waste material in plants?"
+  },
+  {
+    "input": "Plants can excrete waste into the surrounding soil.",
+    "ouput": "Where can plants excrete their waste?"
+  },
+  {
+    "input": "Autotrophic nutrition is a process where organisms, such as plants, produce their own food using raw materials. The essential components needed for this form of nutrition include carbon dioxide, water, and sunlight, along with chlorophyll, which is crucial for trapping light energy. This process enables these organisms to synthesize their own food through photosynthesis.",
+    "ouput": "What is required for autotrophic nutrition?"
+  },
+  {
+    "input": "Organisms practicing autotrophic nutrition utilize carbon dioxide and water in the presence of sunlight to create food. Chlorophyll is the pigment that enables these organisms, primarily green plants, to absorb sunlight effectively, making the process of photosynthesis possible and efficient. Each component plays a critical role in the overall function of autotrophic nutrition.",
+    "ouput": "What role does chlorophyll play in autotrophic nutrition?"
+  },
+  {
+    "input": "In autotrophic nutrition, organisms like plants take in carbon dioxide and water, using sunlight as energy to produce glucose and oxygen. Chlorophyll, found in the chloroplasts, absorbs sunlight, which is essential for converting these raw materials into food. Without any of these elements, the process cannot occur effectively, highlighting their importance.",
+    "ouput": "Why is sunlight important in autotrophic nutrition?"
+  },
+  {
+    "input": "The process of autotrophic nutrition leads to the creation of organic food substances from inorganic ones. Plants absorb carbon dioxide from the air and water from the soil. Using sunlight and chlorophyll, they convert these materials through photosynthesis into energy-rich glucose, which serves as food for the plant and, indirectly, for other organisms in the ecosystem.",
+    "ouput": "What do plants produce through autotrophic nutrition?"
+  },
+  {
+    "input": "Autotrophic nutrition can be classified into photoautotrophic and chemoautotrophic, with plants primarily being photoautotrophs. These organisms rely on sunlight, carbon dioxide, and water for the synthesis of food. In photoautotrophs, chlorophyll acts as a catalyst that enables the absorption of light energy, which is necessary for the conversion of raw materials into food.",
+    "ouput": "What classification includes organisms like plants that use sunlight?"
+  },
+  {
+    "input": "Heterotrophic nutrition involves the intake of complex material prepared by other organisms. In human beings, food consumed is broken down along the alimentary canal, and the digested food is absorbed in the small intestine to nourish cells.",
+    "ouput": "What is an example of heterotrophic nutrition?"
+  },
+  {
+    "input": "Heterotrophic nutrition involves the intake of complex material prepared by other organisms. In human beings, food consumed is broken down along the alimentary canal, and the digested food is absorbed in the small intestine to nourish cells.",
+    "ouput": "Where does digestion primarily occur in humans?"
+  },
+  {
+    "input": "Heterotrophic nutrition involves the intake of complex material prepared by other organisms. In human beings, food consumed is broken down along the alimentary canal, and the digested food is absorbed in the small intestine to nourish cells.",
+    "ouput": "What is the role of the small intestine in digestion?"
+  },
+  {
+    "input": "Heterotrophic nutrition involves the intake of complex material prepared by other organisms. In human beings, food consumed is broken down along the alimentary canal, and the digested food is absorbed in the small intestine to nourish cells.",
+    "ouput": "What happens to food in the alimentary canal?"
+  },
+  {
+    "input": "In the previous chapter, we looked at life processes involved in the maintenance functions in living organisms. There, we had started with a notion we all have, that if we see something moving, it is alive. Some of these movements are in fact the result of growth, as in plants. A seed germinates and grows, and we can see that the seedling moves over the course of a few days, it pushes soil aside and comes out.",
+    "ouput": "What movements signify life in plants?"
+  },
+  {
+    "input": "Some movements, as in many animals and some plants, are not connected with growth. A cat running, children playing on swings, buffaloes chewing cud – these are not movements caused by growth. Why do we associate such visible movements with life? A possible answer is that we think of movement as a response to a change in the environment of the organism.",
+    "ouput": "How do animals exhibit movement not related to growth?"
+  },
+  {
+    "input": "Not only that, we also think of movement as an attempt by living organisms to use changes in their environment to their advantage. Plants grow out into the sunshine. Children try to get pleasure and fun out of swinging. Buffaloes chew cud to help break up tough food so as to be able to digest it better.",
+    "ouput": "Why do plants grow towards sunlight?"
+  },
+  {
+    "input": "When bright light is focused on our eyes or when we touch a hot object, we detect the change and respond to it with movement in order to protect ourselves. If we think a bit more about this, it becomes apparent that all this movement, in response to the environment, is carefully controlled.",
+    "ouput": "What triggers protective movements in living organisms?"
+  },
+  {
+    "input": "Each kind of a change in the environment evokes an appropriate movement in response. When we want to talk to our friends in class, we whisper, rather than shouting loudly. Clearly, the movement to be made depends on the event that is triggering it.",
+    "ouput": "How do events influence the type of movement made?"
+  },
+  {
+    "input": "Therefore, such controlled movement must be connected to the recognition of various events in the environment, followed by only the correct movement in response. In other words, living organisms must use systems providing control and coordination.",
+    "ouput": "What systems aid in the control and coordination of movements?"
+  },
+  {
+    "input": "In keeping with the general principles of body organisation in multicellular organisms, specialised tissues are used to provide these control and coordination activities.",
+    "ouput": "What type of tissues provide control in multicellular organisms?"
+  },
+  {
+    "input": "In animals, such control and coordination are provided by nervous and muscular tissues, which we have studied in Class IX. Touching a hot object is an urgent and dangerous situation for us. We need to detect it, and respond to it. How do we detect that we are touching a hot object?",
+    "ouput": "What tissues provide control and coordination in animals?"
+  },
+  {
+    "input": "All information from our environment is detected by the specialised tips of some nerve cells. These receptors are usually located in our sense organs, such as the inner ear, the nose, the tongue, and so on.",
+    "ouput": "Where are receptors usually located in animals?"
+  },
+  {
+    "input": "So gustatory receptors will detect taste while olfactory receptors will detect smell. This information, acquired at the end of the dendritic tip of a nerve cell sets off a chemical reaction that creates an electrical impulse.",
+    "ouput": "What do gustatory receptors detect in animals?"
+  },
+  {
+    "input": "This impulse travels from the dendrite to the cell body, and then along the axon to its end. At the end of the axon, the electrical impulse sets off the release of some chemicals.",
+    "ouput": "What does an electrical impulse trigger at the end of the axon?"
+  },
+  {
+    "input": "This is a general scheme of how nervous impulses travel in the body. A similar synapse finally allows delivery of such impulses from neurons to other cells, such as muscles cells or gland.",
+    "ouput": "What allows delivery of impulses from neurons to other cells?"
+  },
+  {
+    "input": "It is thus no surprise that nervous tissue is made up of an organised network of nerve cells or neurons, and is specialised for conducting information via electrical impulses from one part of the body to another.",
+    "ouput": "What is nervous tissue specialised for in animals?"
+  },
+  {
+    "input": "Reflex actions are responses to stimuli that occur without conscious thought, allowing for rapid reactions to danger. An example is pulling your hand back from a flame immediately upon contact, without taking time to think. This quick response is facilitated by reflex arcs that bypass the brain's slower processing to prevent injury.",
+    "ouput": "What is a reflex action?"
+  },
+  {
+    "input": "Reflex arcs are formed in the spinal cord, where sensory nerves connect directly to motor nerves. This arrangement allows for quicker responses to danger because it minimizes the delay caused by having to process information in the brain. The brain still receives the information but only after the reflex action occurs.",
+    "ouput": "Where are reflex arcs formed?"
+  },
+  {
+    "input": "In reflex actions, sensory nerves that detect heat connect directly to motor nerves that move muscles, bypassing the brain for faster response times. This connection is crucial in urgent situations where speed is necessary to avoid injury, illustrating how evolution has shaped these rapid responses in animals.",
+    "ouput": "Why are reflex arcs important?"
+  },
+  {
+    "input": "Touching a hot object triggers a reflex action wherein the sensory neurons send signals directly to the spinal cord. Instead of the signals traveling to the brain first, the spinal cord processes this information swiftly, causing an immediate response to withdraw from the danger without delay.",
+    "ouput": "How does the spinal cord aid in reflex actions?"
+  },
+  {
+    "input": "Reflex actions occur automatically, allowing us to react without conscious thought. These responses involve a simple neural pathway that includes sensory neurons that detect stimuli and motor neurons that execute the response, making reflexes quick and efficient in preventing harm.",
+    "ouput": "What role do sensory neurons play in reflexes?"
+  },
+  {
+    "input": "The spinal cord is made up of nerves which supply information to think about. Thinking involves more complex mechanisms and neural connections. These are concentrated in the brain, which is the main coordinating centre of the body.",
+    "ouput": "What is concentrated in the brain?"
+  },
+  {
+    "input": "The brain thus allows us to think and take actions based on that thinking. This is accomplished through a complex design, with different parts of the brain responsible for integrating different inputs and outputs.",
+    "ouput": "How does the brain facilitate thinking?"
+  },
+  {
+    "input": "The fore-brain is the main thinking part of the brain. It has regions which receive sensory impulses from various receptors. Separate areas of the fore-brain are specialised for hearing, smell, sight and so on.",
+    "ouput": "What functions does the fore-brain perform?"
+  },
+  {
+    "input": "Separate areas of association where sensory information is interpreted by putting it together with information from other receptors as well as with information that is already stored in the brain.",
+    "ouput": "How is sensory information processed in the brain?"
+  },
+  {
+    "input": "Based on all this, a decision is made about how to respond and the information is passed on to the motor areas which control the movement of voluntary muscles.",
+    "ouput": "What is the role of motor areas in the brain?"
+  },
+  {
+    "input": "Involuntary actions are controlled by the mid-brain and hind-brain. All these involuntary actions including blood pressure, salivation and vomiting are controlled by the medulla in the hind-brain.",
+    "ouput": "What controls involuntary actions in the body?"
+  },
+  {
+    "input": "Think about activities like walking in a straight line, riding a bicycle, picking up a pencil. These are possible due to a part of the hind-brain called the cerebellum.",
+    "ouput": "Which part of the brain helps with voluntary actions?"
+  },
+  {
+    "input": "It is responsible for precision of voluntary actions and maintaining the posture and balance of the body. Imagine what would happen if each of these events failed to take place if we were not thinking about it.",
+    "ouput": "What does the cerebellum maintain in the body?"
+  },
+  {
+    "input": "Involuntary actions are controlled by the mid-brain and hind-brain. All these involuntary actions including blood pressure, salivation and vomiting are controlled by the medulla in the hind-brain.",
+    "ouput": "What actions are controlled by the medulla?"
+  },
+  {
+    "input": "These are possible due to a part of the hind-brain called the cerebellum. It is responsible for precision of voluntary actions and maintaining the posture and balance of the body.",
+    "ouput": "What role does the cerebellum play in movement?"
+  },
+  {
+    "input": "The brain sits inside a bony box and is contained in a fluid-filled balloon which provides further shock absorption.",
+    "ouput": "What protects the brain from shocks?"
+  },
+  {
+    "input": "The vertebral column or backbone protects the spinal cord.",
+    "ouput": "What structure safeguards the spinal cord?"
+  },
+  {
+    "input": "The body is designed so that the brain sits inside a bony box for protection.",
+    "ouput": "How is the brain protected in the body?"
+  },
+  {
+    "input": "A delicate organ like the brain needs to be carefully protected from damage.",
+    "ouput": "Why does the brain need protection?"
+  },
+  {
+    "input": "Inside the box, the brain is contained in a fluid-filled balloon which provides further shock absorption.",
+    "ouput": "What does the fluid-filled balloon do for the brain?"
+  },
+  {
+    "input": "Action Mechanism in Muscles states that muscle cells change their shape to move by shortening in response to nerve impulses. Special proteins in muscle cells rearrange themselves chemically when stimulated. This leads to the contraction of muscle fibers, executing movement throughout the body as instructed by the nervous system.",
+    "ouput": "What initiates the movement of muscle cells?"
+  },
+  {
+    "input": "Muscle tissue includes different types like voluntary and involuntary muscles. Voluntary muscles can be consciously controlled, while involuntary muscles function automatically without conscious control. This distinction relates to the specific functions they perform within the body based on how they respond to nervous impulses.",
+    "ouput": "What distinguishes voluntary muscles from involuntary muscles?"
+  },
+  {
+    "input": "When a nerve impulse stimulates a muscle cell, it leads to changes in the chemical structure of specific proteins within the cell. These proteins allow for the contraction and shortening of muscle fibers, a fundamental aspect of how muscles generate force and produce movement in response to nervous system signals.",
+    "ouput": "How do nerve impulses affect muscle cell proteins?"
+  },
+  {
+    "input": "The action mechanism in muscles is crucial as it explains how nerve impulses result in muscle contraction. Muscle fibers respond to these signals by altering their shape due to the action of contractile proteins, ultimately resulting in coordinated movement that allows animals to perform various physical activities.",
+    "ouput": "What results from the reception of a nerve impulse by muscles?"
+  },
+  {
+    "input": "Understanding muscle action involves recognizing the role of nerve impulses and the biochemical changes within muscle cells. When these impulses are received, muscle cells undergo a transformation that leads to their shortening, enabling movement in a controlled manner that relies heavily on the preconditions set by the nervous system.",
+    "ouput": "What transformation occurs in muscle cells upon receiving nerve impulses?"
+  },
+  {
+    "input": "Animals have a nervous system for controlling and coordinating the activities of the body. But plants have neither a nervous system nor muscles. So, how do they respond to stimuli?",
+    "ouput": "What do plants lack for coordination?"
+  },
+  {
+    "input": "When we touch the leaves of a chhui-mui (the ‘sensitive’ or ‘touch-me-not’ plant...), they begin to fold up and droop.",
+    "ouput": "What happens when you touch chhui-mui leaves?"
+  },
+  {
+    "input": "On the other hand, the directional movement of a seedling is caused by growth. If it is prevented from growing, it will not show any movement.",
+    "ouput": "What causes a seedling's directional movement?"
+  },
+  {
+    "input": "The leaves of the sensitive plant move very quickly in response to touch. There is no growth involved in this movement.",
+    "ouput": "Is growth involved in the sensitive plant's movement?"
+  },
+  {
+    "input": "So plants show two different types of movement – one dependent on growth and the other independent of growth.",
+    "ouput": "How many types of movement do plants show?"
+  },
+  {
+    "input": "Plants detect touch through specialized cells that respond to mechanical stimuli. This initiates a response that enables movement, despite the absence of nervous or muscular tissue. Instead, they rely on electrical-chemical signals to transmit information about the touch across their cells.",
+    "ouput": "How do plants detect touch?"
+  },
+  {
+    "input": "Movement in plants occurs when specific cells change shape due to water fluctuations. This process is different from animal muscle contraction, as it involves swelling and shrinking of plant cells to create movement instead of using specialized muscle fibers.",
+    "ouput": "What causes movement in plant leaves?"
+  },
+  {
+    "input": "Information about a touch on plants is communicated from one cell to another through electrical-chemical means. Unlike animals, there is no specialized tissue in plants dedicated to this conduction process, which consists of a series of cellular responses.",
+    "ouput": "How is touch information communicated in plants?"
+  },
+  {
+    "input": "The mechanism of plant movement is fascinating, particularly because it relies on changes in water content within cells. This results in either swelling or shrinking, allowing for movement without muscle tissue. The process showcases how plants adapt to their environment.",
+    "ouput": "How do plant cells change shape?"
+  },
+  {
+    "input": "In response to touch, plants must relay information from the point of touch to the area where movement occurs. This coordination is crucial, as the plant lacks a nervous system yet still effectively adapts to physical stimuli through internal signaling mechanisms.",
+    "ouput": "What must happen after a touch occurs?"
+  },
+  {
+    "input": "These tendrils are sensitive to touch. When they come in contact with any support, the part of the tendril in contact with the object does not grow as rapidly as the part of the tendril away from the object.",
+    "ouput": "What causes tendrils to cling to objects?"
+  },
+  {
+    "input": "Because this growth is directional, it appears as if the plant is moving. Let us understand this type of movement with the help of an example.",
+    "ouput": "How does plant growth appear like movement?"
+  },
+  {
+    "input": "Environmental triggers such as light, or gravity will change the directions that plant parts grow in.",
+    "ouput": "What triggers changes in plant growth direction?"
+  },
+  {
+    "input": "These directional, or tropic, movements can be either towards the stimulus, or away from it.",
+    "ouput": "What are the two types of tropic movements?"
+  },
+  {
+    "input": "Hormonal responses in animals are crucial for preparing them for challenging situations. This includes a swift transition of energy usage in their bodies to prepare for activities such as fighting or fleeing. These responses require coordination among various body systems and tissues to enable efficient energy use based on the situation at hand. Squirrels, for instance, experience a surge of hormones that prepare them for danger.",
+    "ouput": "What do squirrels experience in scary situations?"
+  },
+  {
+    "input": "When animals like squirrels face a threatening situation, their hormonal responses trigger the release of adrenaline and other hormones. These hormones initiate a range of physiological changes, such as increased heart rate and energy mobilization. This preparation allows them to either confront the threat through fighting or escape quickly, with their bodies efficiently transitioning resources as needed.",
+    "ouput": "What hormones are released during threats?"
+  },
+  {
+    "input": "The hormonal responses during stressful situations lead to various body changes that enhance the ability to react quickly. In squirrels, the fight or flight response involves a complex interplay of hormones that prepares their muscles and energy reserves for immediate use. This preparation is vital as it allows for either confrontation or retreat based on the nature of the threat.",
+    "ouput": "How do hormonal responses prepare animals for actions?"
+  },
+  {
+    "input": "In stressful scenarios, animals experience chemical signals that lead to increased alertness and physical readiness. For squirrels, this means ensuring that their bodies are primed to respond whether they choose to fight or flee. The hormonal response effectively evaluates the situation and allocates energy efficiently across different bodily systems to facilitate rapid response.",
+    "ouput": "What efficiency is gained through hormonal responses?"
+  },
+  {
+    "input": "The coordination of hormones during a fight or flight response allows animals to survive under threat. In squirrels, the body undergoes various changes that enhance muscle function and energy supply through hormonal triggers. This enables swift decision-making in dangerous situations and directs bodily resources toward the required action, whether attacking or escaping.",
+    "ouput": "How do hormones enhance survival in animals?"
+  },
+  {
+    "input": "Hormones produced in one part of an organism move to another part to achieve the desired effect. This chemical coordination allows for various physiological processes to be regulated, ensuring that the body maintains homeostasis and responds appropriately to internal and external stimuli.",
+    "ouput": "How do hormones achieve their effects in organisms?"
+  },
+  {
+    "input": "Hormones produced in one part of an organism move to another part to achieve the desired effect. These hormones play crucial roles in growth, metabolism, and reproduction, enabling organisms to adapt and thrive in their environments.",
+    "ouput": "What roles do hormones play in organisms?"
+  },
+  {
+    "input": "Chemical coordination in animals involves the movement of hormones produced in one part of the organism to another. This process is essential for the regulation of processes such as stress response, growth, and reproductive functions, helping maintain balance within the body.",
+    "ouput": "Why is chemical coordination important in animals?"
+  },
+  {
+    "input": "In the system of chemical coordination, hormones produced in one part of an organism move to another part to achieve the desired effect. This transfer of signals allows for efficient communication between different organs and systems, which is vital for adaptation.",
+    "ouput": "What does chemical coordination facilitate in an organism?"
+  },
+  {
+    "input": "Adrenaline is secreted directly into the blood and carried to different parts of the body. The target organs or the specific tissues on which it acts include the heart. As a result, the heart beats faster, resulting in supply of more oxygen to our muscles.",
+    "ouput": "What is the role of adrenaline in the heart?"
+  },
+  {
+    "input": "As a result, the heart beats faster, resulting in supply of more oxygen to our muscles. The blood to the digestive system and skin is reduced due to contraction of muscles around small arteries in these organs.",
+    "ouput": "How does adrenaline affect blood flow to the skin?"
+  },
+  {
+    "input": "This diverts the blood to our skeletal muscles. The breathing rate also increases because of the contractions of the diaphragm and the rib muscles.",
+    "ouput": "What happens to blood flow during an adrenaline response?"
+  },
+  {
+    "input": "The breathing rate also increases because of the contractions of the diaphragm and the rib muscles. All these responses together enable the animal body to be ready to deal with the situation.",
+    "ouput": "Why does breathing rate increase with adrenaline?"
+  },
+  {
+    "input": "As a result, the heart beats faster, resulting in supply of more oxygen to our muscles. The blood to the digestive system and skin is reduced due to contraction of muscles around small arteries in these organs.",
+    "ouput": "What does adrenaline do to muscle oxygen supply?"
+  },
+  {
+    "input": "Growth hormone is one of the hormones secreted by the pituitary. As its name indicates, growth hormone regulates growth and development of the body.",
+    "ouput": "What gland secretes growth hormone?"
+  },
+  {
+    "input": "If there is a deficiency of this hormone in childhood, it leads to dwarfism.",
+    "ouput": "What condition results from growth hormone deficiency?"
+  },
+  {
+    "input": "As its name indicates, growth hormone regulates growth and development of the body. If there is a deficiency of this hormone in childhood, it leads to dwarfism.",
+    "ouput": "How does growth hormone affect growth?"
+  },
+  {
+    "input": "If there is a deficiency of this hormone in childhood, it leads to dwarfism.",
+    "ouput": "What happens if growth hormone is deficient?"
+  },
+  {
+    "input": "Growth hormone regulates growth and development of the body. If there is a deficiency of this hormone in childhood, it leads to dwarfism.",
+    "ouput": "What is the role of growth hormone in children?"
+  },
+  {
+    "input": "Iodine is essential for the synthesis of thyroxin. In case iodine is deficient in our diet, there is a possibility that we might suffer from goitre.",
+    "ouput": "What causes goitre in iodine deficiency?"
+  },
+  {
+    "input": "Thyroxin regulates carbohydrate, protein and fat metabolism in the body so as to provide the best balance for growth.",
+    "ouput": "What does thyroxin regulate in the body?"
+  },
+  {
+    "input": "One of the symptoms in this disease is a swollen neck.",
+    "ouput": "What is a symptom of goitre?"
+  },
+  {
+    "input": "Iodine is necessary for the thyroid gland to make thyroxin hormone.",
+    "ouput": "Why is iodine important for the thyroid gland?"
+  },
+  {
+    "input": "In case iodine is deficient in our diet, there is a possibility that we might suffer from goitre.",
+    "ouput": "What happens if iodine is deficient in the diet?"
+  },
+  {
+    "input": "Thyroxin regulates carbohydrate, protein and fat metabolism in the body.",
+    "ouput": "What roles does thyroxin play in metabolism?"
+  },
+  {
+    "input": "Iodine is essential for the synthesis of thyroxin, which is important for growth.",
+    "ouput": "Why is thyroxin important for growth?"
+  },
+  {
+    "input": "Insulin is a hormone produced by the pancreas and helps in regulating blood sugar levels. If it is not secreted in proper amounts, the sugar level in the blood rises causing many harmful effects.",
+    "ouput": "What role does insulin play in the body?"
+  },
+  {
+    "input": "Doctors often advise patients with diabetes to take less sugar in their diet. This is important because high sugar levels can lead to many harmful effects on health.",
+    "ouput": "Why should diabetics reduce sugar intake?"
+  },
+  {
+    "input": "If insulin is not secreted in proper amounts, the sugar level in the blood rises causing many harmful effects. This can lead to complications in diabetic patients.",
+    "ouput": "What happens if insulin levels are not proper?"
+  },
+  {
+    "input": "Insulin helps regulate blood sugar levels, and without proper regulation, individuals may experience serious health issues associated with diabetes.",
+    "ouput": "What can occur without proper insulin regulation?"
+  },
+  {
+    "input": "For people suffering from diabetes, injections of insulin might be necessary to maintain healthy blood sugar levels and prevent complications.",
+    "ouput": "Why might diabetics need insulin injections?"
+  },
+  {
+    "input": "If it is so important that hormones should be secreted in precise quantities, we need a mechanism through which this is done. The timing and amount of hormone released are regulated by feedback mechanisms.",
+    "ouput": "What regulates the timing of hormone release?"
+  },
+  {
+    "input": "For example, if the sugar levels in blood rise, they are detected by the cells of the pancreas which respond by producing more insulin.",
+    "ouput": "What responds to rising blood sugar levels?"
+  },
+  {
+    "input": "As the blood sugar level falls, insulin secretion is reduced.",
+    "ouput": "What happens to insulin secretion when blood sugar falls?"
+  },
+  {
+    "input": "The timing and amount of hormone released are regulated by feedback mechanisms.",
+    "ouput": "What type of mechanisms regulate hormone release?"
+  },
+  {
+    "input": "If the sugar levels in blood rise, they are detected by the cells of the pancreas.",
+    "ouput": "Which organ detects high blood sugar levels?"
+  },
+  {
+    "input": "Insulin secretion is reduced when blood sugar level falls.",
+    "ouput": "What triggers the reduction of insulin secretion?"
+  },
+  {
+    "input": "Control and coordination are the functions of the nervous system and hormones in our bodies. The responses of the nervous system can be classified as reflex action, voluntary action or involuntary action.",
+    "ouput": "What are the main functions of the nervous system?"
+  },
+  {
+    "input": "The nervous system gets information from our sense organs and acts through our muscles. The nervous system uses electrical impulses to transmit messages.",
+    "ouput": "How does the nervous system transmit messages?"
+  },
+  {
+    "input": "The responses of the nervous system can be classified as reflex action, voluntary action or involuntary action. Control and coordination are the functions of the nervous system and hormones in our bodies.",
+    "ouput": "What types of actions does the nervous system control?"
+  },
+  {
+    "input": "The nervous system uses electrical impulses to transmit messages. Control and coordination are the functions of the nervous system and hormones in our bodies.",
+    "ouput": "What mechanism does the nervous system use to transmit messages?"
+  },
+  {
+    "input": "The nervous system gets information from our sense organs and acts through our muscles. The responses of the nervous system can be classified as reflex action, voluntary action or involuntary action.",
+    "ouput": "From where does the nervous system get information?"
+  },
+  {
+    "input": "The design of the body is carefully maintained even during the growth of children. As a result, the growth process is controlled by hormones.",
+    "ouput": "What controls the growth process in children?"
+  },
+  {
+    "input": "Sometimes we come across people who are either very short (dwarfs) or extremely tall (giants).",
+    "ouput": "What are the two extreme heights mentioned?"
+  },
+  {
+    "input": "Have you ever wondered how this happens? The design of the body is carefully maintained even during the growth of children.",
+    "ouput": "What maintains the design of the body during growth?"
+  },
+  {
+    "input": "The growth process is controlled by hormones.",
+    "ouput": "What regulates human growth?"
+  },
+  {
+    "input": "Sometimes we come across people who are either very short (dwarfs) or extremely tall (giants).",
+    "ouput": "What phenomena does this text discuss?"
+  }
+]

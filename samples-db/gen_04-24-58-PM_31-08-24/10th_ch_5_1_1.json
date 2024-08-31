@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "When we eat something we like, our mouth ‘waters’. This is actually not only water, but a fluid called saliva secreted by the salivary glands.",
+      "question": "What is produced when we eat food?"
+    },
+    {
+      "context": "This is achieved by crushing the food with our teeth.",
+      "question": "How is food processed for digestion?"
+    },
+    {
+      "context": "The saliva contains an enzyme called salivary amylase that breaks down starch which is a complex molecule to give simple sugar.",
+      "question": "What does salivary amylase break down?"
+    },
+    {
+      "context": "Another aspect of the food we ingest is its complex nature. If it is to be absorbed from the alimentary canal, it has to be broken into smaller molecules.",
+      "question": "Why must food be broken into smaller molecules?"
+    },
+    {
+      "context": "The food is mixed thoroughly with saliva and moved around the mouth while chewing by the muscular tongue.",
+      "question": "What assists in moving food around the mouth?"
+    },
+    {
+      "context": "Since the lining of the canal is soft, the food is also wetted to make its passage smooth.",
+      "question": "What helps in the smooth passage of food?"
+    },
+    {
+      "context": "This is achieved by crushing the food with our teeth.",
+      "question": "What mechanism helps process food before digestion?"
+    },
+    {
+      "context": "Naturally the food has to be processed to generate particles which are small and of the same texture.",
+      "question": "Why must food be processed into small particles?"
+    }
+  ]
+}

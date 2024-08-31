@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plants excrete waste products differently than animals. Oxygen can be considered a waste product generated during photosynthesis. Plants deal with excess water through transpiration, and they can lose parts like leaves to dispose of waste.",
+      "question": "What do plants use to deal with excess water?"
+    },
+    {
+      "context": "They store many waste products in cellular vacuoles or release them into the soil. Waste products can also be stored in dead tissues.",
+      "question": "Where do plants store their waste products?"
+    },
+    {
+      "context": "Oxygen can be considered a waste product generated during photosynthesis. Plants deal with excess water through transpiration, and they can lose parts like leaves to dispose of waste.",
+      "question": "What is a waste product produced during photosynthesis?"
+    },
+    {
+      "context": "Plants excrete waste products differently than animals. They can lose parts like leaves to dispose of waste. They store many waste products in cellular vacuoles or release them into the soil.",
+      "question": "How do plants eliminate some of their waste?"
+    },
+    {
+      "context": "Plants deal with excess water through transpiration, and they can lose parts like leaves to dispose of waste. They store many waste products in cellular vacuoles or release them into the soil.",
+      "question": "What process do plants use for managing excess water?"
+    }
+  ]
+}

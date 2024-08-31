@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The excretory system of human beings includes a pair of kidneys, a pair of ureters, a urinary bladder and a urethra. Kidneys are located in the abdomen, one on either side of the backbone. Urine produced in the kidneys passes through the ureters into the urinary bladder where it is stored until it is released through the urethra.",
+      "question": "What organs are in the excretory system?"
+    },
+    {
+      "context": "The purpose of making urine is to filter out waste products from the blood. Urine produced in the kidneys passes through the ureters into the urinary bladder where it is stored until it is released through the urethra.",
+      "question": "What is the main purpose of urine production?"
+    },
+    {
+      "context": "Urine produced in the kidneys passes through the ureters into the urinary bladder where it is stored until it is released through the urethra. Kidneys are located in the abdomen, one on either side of the backbone.",
+      "question": "Where are the kidneys located in the body?"
+    },
+    {
+      "context": "The excretory system of human beings includes a pair of kidneys, a pair of ureters, a urinary bladder and a urethra. How is urine produced? The purpose of making urine is to filter out waste products from the blood.",
+      "question": "What is the role of kidneys in urine production?"
+    },
+    {
+      "context": "Urine produced in the kidneys passes through the ureters into the urinary bladder where it is stored until it is released through the urethra. The excretory system of human beings includes a pair of kidneys, a pair of ureters.",
+      "question": "Which structures transport urine to the bladder?"
+    }
+  ]
+}

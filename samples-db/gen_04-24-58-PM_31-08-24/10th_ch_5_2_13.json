@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "This is known as double circulation. Oxygen-rich blood from the lungs comes to the left atrium. The left atrium relaxes when it is collecting this blood.",
+      "question": "What is double circulation?"
+    },
+    {
+      "context": "When the muscular left ventricle contracts in its turn, the blood is pumped out to the body.",
+      "question": "What happens when the left ventricle contracts?"
+    },
+    {
+      "context": "The left atrium relaxes when it is collecting this blood. It then contracts, while the next chamber, the left ventricle, relaxes.",
+      "question": "What occurs during the left atrium's cycle?"
+    },
+    {
+      "context": "Oxygen-rich blood from the lungs comes to the left atrium. It then contracts, while the next chamber, the left ventricle, relaxes.",
+      "question": "Where does the oxygen-rich blood come from?"
+    },
+    {
+      "context": "The left atrium relaxes when it is collecting this blood. It then contracts, transferring blood to the left ventricle.",
+      "question": "How does blood move from the left atrium to the left ventricle?"
+    }
+  ]
+}

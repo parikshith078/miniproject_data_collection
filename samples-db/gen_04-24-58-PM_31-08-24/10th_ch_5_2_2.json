@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "ATP is the energy currency for most cellular processes. The energy released during the process of respiration is used to make an ATP molecule from ADP and inorganic phosphate.",
+      "question": "What is ATP's role in cellular processes?"
+    },
+    {
+      "context": "ATP is broken down giving rise to a fixed amount of energy which can drive endothermic reactions.",
+      "question": "How does ATP contribute to cellular reactions?"
+    },
+    {
+      "context": "The energy released during respiration is used to make an ATP molecule from ADP and inorganic phosphate.",
+      "question": "What process generates ATP from ADP?"
+    },
+    {
+      "context": "In these processes, ATP is broken down giving rise to a fixed amount of energy.",
+      "question": "What happens during ATP breakdown?"
+    },
+    {
+      "context": "ATP is the energy currency for most cellular processes, driving endothermic reactions.",
+      "question": "Why is ATP referred to as the energy currency?"
+    }
+  ]
+}

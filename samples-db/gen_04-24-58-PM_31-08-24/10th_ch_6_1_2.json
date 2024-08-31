@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Action Mechanism in Muscles states that muscle cells change their shape to move by shortening in response to nerve impulses. Special proteins in muscle cells rearrange themselves chemically when stimulated. This leads to the contraction of muscle fibers, executing movement throughout the body as instructed by the nervous system.",
+      "question": "What initiates the movement of muscle cells?"
+    },
+    {
+      "context": "Muscle tissue includes different types like voluntary and involuntary muscles. Voluntary muscles can be consciously controlled, while involuntary muscles function automatically without conscious control. This distinction relates to the specific functions they perform within the body based on how they respond to nervous impulses.",
+      "question": "What distinguishes voluntary muscles from involuntary muscles?"
+    },
+    {
+      "context": "When a nerve impulse stimulates a muscle cell, it leads to changes in the chemical structure of specific proteins within the cell. These proteins allow for the contraction and shortening of muscle fibers, a fundamental aspect of how muscles generate force and produce movement in response to nervous system signals.",
+      "question": "How do nerve impulses affect muscle cell proteins?"
+    },
+    {
+      "context": "The action mechanism in muscles is crucial as it explains how nerve impulses result in muscle contraction. Muscle fibers respond to these signals by altering their shape due to the action of contractile proteins, ultimately resulting in coordinated movement that allows animals to perform various physical activities.",
+      "question": "What results from the reception of a nerve impulse by muscles?"
+    },
+    {
+      "context": "Understanding muscle action involves recognizing the role of nerve impulses and the biochemical changes within muscle cells. When these impulses are received, muscle cells undergo a transformation that leads to their shortening, enabling movement in a controlled manner that relies heavily on the preconditions set by the nervous system.",
+      "question": "What transformation occurs in muscle cells upon receiving nerve impulses?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "When the body size of animals is large, the diffusion pressure alone cannot take care of oxygen delivery to all parts of the body. Instead, respiratory pigments take up oxygen from the air in the lungs and carry it to tissues which are deficient in oxygen before releasing it.",
+      "question": "What do respiratory pigments do?"
+    },
+    {
+      "context": "In human beings, the respiratory pigment is haemoglobin which has a very high affinity for oxygen. Haemoglobin helps in the efficient transport of oxygen throughout the body.",
+      "question": "What is the respiratory pigment in humans?"
+    },
+    {
+      "context": "Instead, respiratory pigments take up oxygen from the air in the lungs and carry it to tissues which are deficient in oxygen before releasing it. Hemoglobin is essential for this process.",
+      "question": "How does haemoglobin contribute to oxygen delivery?"
+    },
+    {
+      "context": "The diffusion pressure alone cannot take care of oxygen delivery to all parts of the body. This limitation leads to the need for efficient transport systems in larger animals.",
+      "question": "Why is diffusion pressure insufficient in larger animals?"
+    },
+    {
+      "context": "Haemoglobin which has a very high affinity for oxygen plays a crucial role in oxygen transport in human bodies, allowing for efficient oxygen delivery to tissues.",
+      "question": "Why is haemoglobin important for oxygen transport?"
+    }
+  ]
+}

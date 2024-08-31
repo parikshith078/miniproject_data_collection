@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The brain sits inside a bony box and is contained in a fluid-filled balloon which provides further shock absorption.",
+      "question": "What protects the brain from shocks?"
+    },
+    {
+      "context": "The vertebral column or backbone protects the spinal cord.",
+      "question": "What structure safeguards the spinal cord?"
+    },
+    {
+      "context": "The body is designed so that the brain sits inside a bony box for protection.",
+      "question": "How is the brain protected in the body?"
+    },
+    {
+      "context": "A delicate organ like the brain needs to be carefully protected from damage.",
+      "question": "Why does the brain need protection?"
+    },
+    {
+      "context": "Inside the box, the brain is contained in a fluid-filled balloon which provides further shock absorption.",
+      "question": "What does the fluid-filled balloon do for the brain?"
+    }
+  ]
+}

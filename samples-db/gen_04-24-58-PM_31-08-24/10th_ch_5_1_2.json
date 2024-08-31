@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The exit of food from the stomach is regulated by a sphincter muscle which releases it in small amounts into the small intestine. From the stomach, the food now enters the small intestine.",
+      "question": "What regulates food exit from the stomach?"
+    },
+    {
+      "context": "This is the longest part of the alimentary canal which is fitted into a compact space because of extensive coiling. The length of the small intestine differs in various animals depending on the food they eat.",
+      "question": "Why does the small intestine differ in length among animals?"
+    },
+    {
+      "context": "Herbivores eating grass need a longer small intestine to allow the cellulose to be digested. Meat is easier to digest, hence carnivores like tigers have a shorter small intestine.",
+      "question": "Why do herbivores have a longer small intestine?"
+    },
+    {
+      "context": "The small intestine is the site of the complete digestion of carbohydrates, proteins and fats. It receives the secretions of the liver and pancreas for this purpose.",
+      "question": "What is digested in the small intestine?"
+    },
+    {
+      "context": "The length of the small intestine differs in various animals depending on the food they eat. Herbivores eating grass need a longer small intestine.",
+      "question": "What affects the length of the small intestine?"
+    }
+  ]
+}

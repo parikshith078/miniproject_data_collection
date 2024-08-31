@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Since the food and the way it is obtained differs, the digestive system is different in various organisms. In single-celled organisms, the food may be taken in by the entire surface. But as the complexity of the organism increases, different parts become specialised to perform different functions.",
+      "question": "How do complexities affect digestion in organisms?"
+    },
+    {
+      "context": "For example, Amoeba takes in food using temporary finger-like extensions of the cell surface which fuse over the food particle forming a food-vacuole. Inside the food-vacuole, complex substances are broken down into simpler ones which then diffuse into the cytoplasm.",
+      "question": "How does an Amoeba digest its food?"
+    },
+    {
+      "context": "In Paramoecium, which is also a unicellular organism, the cell has a definite shape and food is taken in at a specific spot. Food is moved to this spot by the movement of cilia which cover the entire surface of the cell.",
+      "question": "What specialized structure does Paramoecium use for feeding?"
+    },
+    {
+      "context": "The remaining undigested material is moved to the surface of the cell and thrown out. In Paramoecium, which is also a unicellular organism, the cell has a definite shape and food is taken in at a specific spot.",
+      "question": "What happens to undigested material in unicellular organisms?"
+    },
+    {
+      "context": "Complex substances are broken down into simpler ones which then diffuse into the cytoplasm. The remaining undigested material is moved to the surface of the cell and thrown out.",
+      "question": "What happens to complex substances during digestion?"
+    }
+  ]
+}

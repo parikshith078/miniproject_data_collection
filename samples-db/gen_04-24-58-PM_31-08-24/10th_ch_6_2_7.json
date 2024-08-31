@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The design of the body is carefully maintained even during the growth of children. As a result, the growth process is controlled by hormones.",
+      "question": "What controls the growth process in children?"
+    },
+    {
+      "context": "Sometimes we come across people who are either very short (dwarfs) or extremely tall (giants).",
+      "question": "What are the two extreme heights mentioned?"
+    },
+    {
+      "context": "Have you ever wondered how this happens? The design of the body is carefully maintained even during the growth of children.",
+      "question": "What maintains the design of the body during growth?"
+    },
+    {
+      "context": "The growth process is controlled by hormones.",
+      "question": "What regulates human growth?"
+    },
+    {
+      "context": "Sometimes we come across people who are either very short (dwarfs) or extremely tall (giants).",
+      "question": "What phenomena does this text discuss?"
+    }
+  ]
+}

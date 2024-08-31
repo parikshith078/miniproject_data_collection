@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Growth hormone is one of the hormones secreted by the pituitary. As its name indicates, growth hormone regulates growth and development of the body.",
+      "question": "What gland secretes growth hormone?"
+    },
+    {
+      "context": "If there is a deficiency of this hormone in childhood, it leads to dwarfism.",
+      "question": "What condition results from growth hormone deficiency?"
+    },
+    {
+      "context": "As its name indicates, growth hormone regulates growth and development of the body. If there is a deficiency of this hormone in childhood, it leads to dwarfism.",
+      "question": "How does growth hormone affect growth?"
+    },
+    {
+      "context": "If there is a deficiency of this hormone in childhood, it leads to dwarfism.",
+      "question": "What happens if growth hormone is deficient?"
+    },
+    {
+      "context": "Growth hormone regulates growth and development of the body. If there is a deficiency of this hormone in childhood, it leads to dwarfism.",
+      "question": "What is the role of growth hormone in children?"
+    }
+  ]
+}

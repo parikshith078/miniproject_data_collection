@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Each organism is adapted to its environment, and the form of nutrition differs depending on the type and availability of food material as well as how it is obtained.",
+      "question": "What determines the type of nutrition an organism uses?"
+    },
+    {
+      "context": "Some organisms, such as fungi (e.g., bread moulds, yeast, and mushrooms), break down the food material outside their bodies before absorbing it.",
+      "question": "How do fungi obtain their nutrition?"
+    },
+    {
+      "context": "Additionally, some organisms, like cuscuta (amar-bel), ticks, lice, leeches, and tape worms, derive nutrition from plants or animals without killing them.",
+      "question": "What is a parasitic nutritive strategy?"
+    },
+    {
+      "context": "If the food source is stationary (like grass) or mobile (like a deer), it results in differences in how food is accessed.",
+      "question": "How does food source mobility affect access?"
+    },
+    {
+      "context": "Others take in whole material and digest it internally, showcasing a different method of obtaining nutrition.",
+      "question": "What is one method of internal digestion in organisms?"
+    }
+  ]
+}

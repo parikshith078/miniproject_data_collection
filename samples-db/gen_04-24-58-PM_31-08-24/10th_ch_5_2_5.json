@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Animals have evolved different organs for the uptake of oxygen from the environment and for getting rid of the carbon dioxide produced. Terrestrial animals can breathe the oxygen in the atmosphere, but animals that live in water need to use the oxygen dissolved in water.",
+      "question": "How do terrestrial animals breathe?"
+    },
+    {
+      "context": "Animals have evolved different organs for the uptake of oxygen from the environment and for getting rid of the carbon dioxide produced. Terrestrial animals can breathe the oxygen in the atmosphere, but animals that live in water need to use the oxygen dissolved in water.",
+      "question": "What is the main method aquatic animals use to breathe?"
+    },
+    {
+      "context": "Animals have evolved different organs for the uptake of oxygen from the environment and for getting rid of the carbon dioxide produced. Terrestrial animals can breathe the oxygen in the atmosphere, but animals that live in water need to use the oxygen dissolved in water.",
+      "question": "What do animals in water rely on for oxygen?"
+    },
+    {
+      "context": "Animals have evolved different organs for the uptake of oxygen from the environment and for getting rid of the carbon dioxide produced. Terrestrial animals can breathe the oxygen in the atmosphere, but animals that live in water need to use the oxygen dissolved in water.",
+      "question": "What do all animals need to eliminate from their bodies?"
+    }
+  ]
+}

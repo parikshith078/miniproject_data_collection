@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plants take in simple compounds such as CO2 and photosynthesise energy stored in their chlorophyll-containing organs, namely leaves. The other kinds of raw materials needed for building plant bodies.",
+      "question": "What do plants photosynthesize?"
+    },
+    {
+      "context": "The absorption of these substances therefore occurs through the part in contact with the soil, namely roots.",
+      "question": "Where do plants absorb raw materials?"
+    },
+    {
+      "context": "For plants, the soil is the nearest and richest source of raw materials like nitrogen, phosphorus and other minerals.",
+      "question": "What is the primary source of minerals for plants?"
+    },
+    {
+      "context": "We have discussed earlier how plants take in simple compounds such as CO2 and photosynthesise energy stored in their chlorophyll-containing organs, namely leaves.",
+      "question": "What do leaves contain to facilitate photosynthesis?"
+    },
+    {
+      "context": "The absorption of these substances therefore occurs through the part in contact with the soil, namely roots.",
+      "question": "Which part of the plant contacts the soil?"
+    }
+  ]
+}

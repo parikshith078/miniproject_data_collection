@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The heart is a muscular organ which is as big as our fist. Because both oxygen and carbon dioxide have to be transported by the blood, the heart has different chambers to prevent the oxygen-rich blood from mixing with the blood containing carbon dioxide.",
+      "question": "What is the size of the heart compared to?"
+    },
+    {
+      "context": "The heart is a muscular organ which is as big as our fist. Because both oxygen and carbon dioxide have to be transported by the blood, the heart has different chambers to prevent the oxygen-rich blood from mixing with the blood containing carbon dioxide.",
+      "question": "What does the heart prevent from mixing?"
+    },
+    {
+      "context": "The heart is a muscular organ which is as big as our fist. Because both oxygen and carbon dioxide have to be transported by the blood, the heart has different chambers to prevent the oxygen-rich blood from mixing with the blood containing carbon dioxide.",
+      "question": "Why does the heart have different chambers?"
+    },
+    {
+      "context": "The heart is a muscular organ which is as big as our fist. Because both oxygen and carbon dioxide have to be transported by the blood, the heart has different chambers to prevent the oxygen-rich blood from mixing with the blood containing carbon dioxide.",
+      "question": "What two gases are transported by the blood?"
+    }
+  ]
+}

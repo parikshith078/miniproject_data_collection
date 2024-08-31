@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Some substances in the initial filtrate, such as glucose, amino acids, salts and a major amount of water, are selectively re-absorbed as the urine flows along the tube.",
+      "question": "What substances are re-absorbed during urine formation?"
+    },
+    {
+      "context": "The amount of water re-absorbed depends on how much excess water there is in the body, and on how much of dissolved waste there is to be excreted.",
+      "question": "What factors affect water re-absorption?"
+    },
+    {
+      "context": "Some substances in the initial filtrate, such as glucose, amino acids, salts and a major amount of water, are selectively re-absorbed as the urine flows along the tube.",
+      "question": "Which substance is most abundant in urine?"
+    },
+    {
+      "context": "The amount of water re-absorbed depends on how much excess water there is in the body, and on how much of dissolved waste there is to be excreted.",
+      "question": "What role does excess water play in excretion?"
+    },
+    {
+      "context": "Some substances in the initial filtrate, such as glucose, amino acids, salts and a major amount of water, are selectively re-absorbed as the urine flows along the tube.",
+      "question": "What is selectively re-absorbed during urine flow?"
+    }
+  ]
+}

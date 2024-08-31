@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plants do not move, and plant bodies have a large proportion of dead cells in many tissues. As a result, plants have low energy needs, and can use relatively slow transport systems.",
+      "question": "Why do plants have low energy needs?"
+    },
+    {
+      "context": "The distances over which transport systems have to operate, however, can be very large in plants such as very tall trees.",
+      "question": "How do transport distances vary in tall trees?"
+    },
+    {
+      "context": "Plant transport systems will move energy stores from leaves and raw materials from roots.",
+      "question": "What do plant transport systems move?"
+    },
+    {
+      "context": "As a result, plants have low energy needs, and can use relatively slow transport systems.",
+      "question": "What type of transport systems do plants use?"
+    },
+    {
+      "context": "Energy needs differ between different body designs. Plants do not move, and plant bodies have a large proportion of dead cells.",
+      "question": "How do body designs affect energy needs?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The digestive system varies among organisms based on their complexity and nutritional needs. For single-celled organisms like Amoeba, food is taken in using temporary finger-like extensions known as pseudopodia which form a food vacuole around the food particle.",
+      "question": "How do Amoeba obtain their food?"
+    },
+    {
+      "context": "In multicellular organisms, the alimentary canal serves to process food through various specialized regions that perform distinct functions.",
+      "question": "What role does the alimentary canal play in nutrition?"
+    },
+    {
+      "context": "In Paramecium, food is ingested through a specific location on the surface, with food particles being moved to that spot by cilia.",
+      "question": "How does Paramecium ingest food?"
+    },
+    {
+      "context": "The digestive processes involve mechanical and chemical breakdown, utilizing enzymes and muscle contractions to facilitate movement and processing of food.",
+      "question": "What processes are involved in digestion?"
+    },
+    {
+      "context": "For single-celled organisms like Amoeba, food is taken in using temporary finger-like extensions known as pseudopodia which form a food vacuole around the food particle.",
+      "question": "What are pseudopodia used for in Amoeba?"
+    }
+  ]
+}

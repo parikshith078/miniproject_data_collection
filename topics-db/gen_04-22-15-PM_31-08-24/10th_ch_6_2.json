@@ -1,0 +1,36 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Chemical Coordination in Animals",
+      "Content": "Hormones produced in one part of an organism move to another part to achieve the desired effect."
+    },
+    {
+      "sub-topic": "Role of Adrenaline",
+      "Content": "Adrenaline is secreted directly into the blood and carried to different parts of the body. The target organs or the specific tissues on which it acts include the heart. As a result, the heart beats faster, resulting in supply of more oxygen to our muscles. The blood to the digestive system and skin is reduced due to contraction of muscles around small arteries in these organs. This diverts the blood to our skeletal muscles. The breathing rate also increases because of the contractions of the diaphragm and the rib muscles. All these responses together enable the animal body to be ready to deal with the situation."
+    },
+    {
+      "sub-topic": "Growth Hormones",
+      "Content": "Growth hormone is one of the hormones secreted by the pituitary. As its name indicates, growth hormone regulates growth and development of the body. If there is a deficiency of this hormone in childhood, it leads to dwarfism."
+    },
+    {
+      "sub-topic": "Thyroid Hormones",
+      "Content": "Iodine is necessary for the thyroid gland to make thyroxin hormone. Thyroxin regulates carbohydrate, protein and fat metabolism in the body so as to provide the best balance for growth. Iodine is essential for the synthesis of thyroxin. In case iodine is deficient in our diet, there is a possibility that we might suffer from goitre. One of the symptoms in this disease is a swollen neck."
+    },
+    {
+      "sub-topic": "Insulin and Blood Sugar Regulation",
+      "Content": "Do you know anyone in your family or friends who has been advised by the doctor to take less sugar in their diet because they are suffering from diabetes? As a treatment, they might be taking injections of insulin. This is a hormone which is produced by the pancreas and helps in regulating blood sugar levels. If it is not secreted in proper amounts, the sugar level in the blood rises causing many harmful effects."
+    },
+    {
+      "sub-topic": "Feedback Mechanisms in Hormone Regulation",
+      "Content": "If it is so important that hormones should be secreted in precise quantities, we need a mechanism through which this is done. The timing and amount of hormone released are regulated by feedback mechanisms. For example, if the sugar levels in blood rise, they are detected by the cells of the pancreas which respond by producing more insulin. As the blood sugar level falls, insulin secretion is reduced."
+    },
+    {
+      "sub-topic": "Nervous System Coordination",
+      "Content": "Control and coordination are the functions of the nervous system and hormones in our bodies. The responses of the nervous system can be classified as reflex action, voluntary action or involuntary action. The nervous system uses electrical impulses to transmit messages. The nervous system gets information from our sense organs and acts through our muscles."
+    },
+    {
+      "sub-topic": "Controlled Growth in Humans",
+      "Content": "Sometimes we come across people who are either very short (dwarfs) or extremely tall (giants). Have you ever wondered how this happens? The design of the body is carefully maintained even during the growth of children. As a result, the growth process is controlled by hormones."
+    }
+  ]
+}

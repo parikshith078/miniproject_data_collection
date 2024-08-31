@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Autotrophic organisms use photosynthesis to fulfill carbon and energy needs. They take in carbon dioxide and water, converting them into carbohydrates in sunlight with chlorophyll. Carbohydrates provide energy, while excess is stored as starch for later use.",
+      "question": "What do autotrophs convert carbon dioxide into?"
+    },
+    {
+      "context": "The process of photosynthesis allows autotrophic organisms to convert substances from their environment into energy. They specifically use carbon dioxide and water to produce carbohydrates which serve as an energy source for the plant's functions.",
+      "question": "What substances do autotrophs take in for photosynthesis?"
+    },
+    {
+      "context": "In photosynthesis, chlorophyll is vital as it captures sunlight, enabling the transformation of carbon dioxide and water into carbohydrates. These carbohydrates are essential for the plant's energy needs and can be stored as starch for future use.",
+      "question": "What role does chlorophyll play in photosynthesis?"
+    },
+    {
+      "context": "Carbohydrates produced through photosynthesis can either be immediately used by the plant for energy or stored as starch. This storage allows the plant to have an internal energy reserve for times when energy is needed but not immediately available.",
+      "question": "Where do plants store excess carbohydrates?"
+    },
+    {
+      "context": "Autotrophs, like plants, utilize photosynthesis to create carbohydrates that they use for energy. Any carbohydrates not needed right away are stored in the form of starch, much like how humans store energy as glycogen.",
+      "question": "How do plants store unused carbohydrates?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In human beings, air is taken into the body through the nostrils. The air passing through the nostrils is filtered by fine hairs that line the passage. The passage is also lined with mucus which helps in this process.",
+      "question": "What facilitates air filtration in nostrils?"
+    },
+    {
+      "context": "From here, the air passes through the throat and into the lungs.",
+      "question": "What structure does air pass after the nostrils?"
+    },
+    {
+      "context": "The passage is also lined with mucus which helps in this process.",
+      "question": "What substance aids in filtering air in the nostrils?"
+    },
+    {
+      "context": "The air passing through the nostrils is filtered by fine hairs that line the passage.",
+      "question": "What type of structures line the nostrils for filtration?"
+    },
+    {
+      "context": "In human beings, air is taken into the body through the nostrils.",
+      "question": "Where does air enter the human respiratory system?"
+    }
+  ]
+}

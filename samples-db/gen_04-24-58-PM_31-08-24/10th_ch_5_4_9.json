@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Heterotrophic nutrition involves the intake of complex material prepared by other organisms. In human beings, food consumed is broken down along the alimentary canal, and the digested food is absorbed in the small intestine to nourish cells.",
+      "question": "What is an example of heterotrophic nutrition?"
+    },
+    {
+      "context": "Heterotrophic nutrition involves the intake of complex material prepared by other organisms. In human beings, food consumed is broken down along the alimentary canal, and the digested food is absorbed in the small intestine to nourish cells.",
+      "question": "Where does digestion primarily occur in humans?"
+    },
+    {
+      "context": "Heterotrophic nutrition involves the intake of complex material prepared by other organisms. In human beings, food consumed is broken down along the alimentary canal, and the digested food is absorbed in the small intestine to nourish cells.",
+      "question": "What is the role of the small intestine in digestion?"
+    },
+    {
+      "context": "Heterotrophic nutrition involves the intake of complex material prepared by other organisms. In human beings, food consumed is broken down along the alimentary canal, and the digested food is absorbed in the small intestine to nourish cells.",
+      "question": "What happens to food in the alimentary canal?"
+    }
+  ]
+}

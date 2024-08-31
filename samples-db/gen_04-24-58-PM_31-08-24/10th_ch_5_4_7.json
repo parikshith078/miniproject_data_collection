@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plants use a variety of techniques to get rid of waste material. For example, waste material may be stored in the cell-vacuoles, removed in falling leaves, or excreted into the surrounding soil.",
+      "question": "How do plants manage their waste?"
+    },
+    {
+      "context": "For example, waste material may be stored in the cell-vacuoles, removed in falling leaves, or excreted into the surrounding soil.",
+      "question": "What are ways plants remove waste?"
+    },
+    {
+      "context": "Plants use a variety of techniques to get rid of waste material.",
+      "question": "What techniques do plants use for waste management?"
+    },
+    {
+      "context": "Waste material may be stored in the cell-vacuoles or removed in falling leaves.",
+      "question": "What happens to waste material in plants?"
+    },
+    {
+      "context": "Plants can excrete waste into the surrounding soil.",
+      "question": "Where can plants excrete their waste?"
+    }
+  ]
+}

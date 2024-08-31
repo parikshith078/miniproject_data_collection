@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "In the case of a single-celled organism, no specific organs for taking in food, exchange of gases or removal of wastes may be needed because the entire surface of the organism is in contact with the environment.",
+      "question": "How do single-celled organisms exchange gases?"
+    },
+    {
+      "context": "Thus, simple diffusion will not meet the requirements of all the cells. We have seen previously how, in multi-cellular organisms, various body parts have specialised in the functions they perform.",
+      "question": "Why is diffusion insufficient in multicellular organisms?"
+    },
+    {
+      "context": "It is therefore not surprising that the uptake of food and of oxygen will also be the function of specialised tissues.",
+      "question": "What role do specialised tissues play in respiration?"
+    },
+    {
+      "context": "This situation creates a need for a transportation system for carrying food and oxygen from one place to another in the body.",
+      "question": "What is needed for transporting oxygen in multicellular organisms?"
+    },
+    {
+      "context": "In multi-cellular organisms, all the cells may not be in direct contact with the surrounding environment.",
+      "question": "Why might cells in multicellular organisms lack direct contact?"
+    },
+    {
+      "context": "In multi-cellular organisms, various body parts have specialised in the functions they perform.",
+      "question": "How do body parts of multicellular organisms specialize?"
+    }
+  ]
+}

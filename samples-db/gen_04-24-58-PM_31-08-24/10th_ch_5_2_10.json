@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Carbon dioxide is more soluble in water than oxygen is and hence is mostly transported in the dissolved form in our blood.",
+      "question": "How is carbon dioxide primarily transported?"
+    },
+    {
+      "context": "The upper part of respiratory tract is provided with small hair-like structures called cilia.",
+      "question": "What are the small hair-like structures in the respiratory tract called?"
+    },
+    {
+      "context": "These cilia help to remove germs, dust and other harmful particles from inhaled air.",
+      "question": "What do cilia in the respiratory tract help to remove?"
+    },
+    {
+      "context": "Carbon dioxide is more soluble in water than oxygen is and hence is mostly transported in the dissolved form in our blood.",
+      "question": "Which gas is more soluble in water, carbon dioxide or oxygen?"
+    },
+    {
+      "context": "The upper part of respiratory tract is provided with small hair-like structures called cilia.",
+      "question": "Where are cilia located in the respiratory system?"
+    }
+  ]
+}

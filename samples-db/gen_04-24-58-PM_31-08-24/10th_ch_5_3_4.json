@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Lymph drains into lymphatic capillaries from the inter-cellular spaces, which join to form large lymph vessels that finally open into larger veins.",
+      "question": "Where does lymph drain into from the inter-cellular spaces?"
+    },
+    {
+      "context": "Lymph carries digested and absorbed fat from intestine and drains excess fluid from extracellular space back into the blood.",
+      "question": "What does lymph carry from the intestine?"
+    },
+    {
+      "context": "Lymph is similar to the plasma of blood but colourless and contains less protein.",
+      "question": "How does lymph compare to blood plasma?"
+    },
+    {
+      "context": "Through the pores present in the walls of capillaries some amount of plasma, proteins and blood cells escape into intercellular spaces in the tissues to form the tissue fluid or lymph.",
+      "question": "What forms tissue fluid or lymph?"
+    },
+    {
+      "context": "Lymph drains into lymphatic capillaries from the inter-cellular spaces, which join to form large lymph vessels.",
+      "question": "What do lymphatic capillaries join to form?"
+    }
+  ]
+}

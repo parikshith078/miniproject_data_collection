@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The circulatory system consists of the heart, blood, and blood vessels, responsible for transporting materials such as oxygen, carbon dioxide, food, and excretory products.",
+      "question": "What does the circulatory system transport?"
+    },
+    {
+      "context": "The circulatory system consists of the heart, blood, and blood vessels, responsible for transporting materials such as oxygen, carbon dioxide, food, and excretory products.",
+      "question": "What are the components of the circulatory system?"
+    },
+    {
+      "context": "The circulatory system consists of the heart, blood, and blood vessels, responsible for transporting materials such as oxygen, carbon dioxide, food, and excretory products.",
+      "question": "What is the main function of the circulatory system?"
+    },
+    {
+      "context": "The circulatory system consists of the heart, blood, and blood vessels, responsible for transporting materials such as oxygen, carbon dioxide, food, and excretory products.",
+      "question": "Which organ is central to the circulatory system?"
+    }
+  ]
+}

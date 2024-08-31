@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In human beings, excretory products in the form of soluble nitrogen compounds are removed by the nephrons in the kidneys. Normally, in a healthy adult, the initial filtrate in the kidneys is about 180 L daily.",
+      "question": "What do nephrons remove from the body?"
+    },
+    {
+      "context": "However, the volume actually excreted is only a litre or two a day, because the remaining filtrate is re-absorbed in the kidney tubules.",
+      "question": "How much filtrate is excreted daily?"
+    },
+    {
+      "context": "In human beings, excretory products in the form of soluble nitrogen compounds are removed by the nephrons in the kidneys.",
+      "question": "What type of compounds do nephrons process?"
+    },
+    {
+      "context": "Normally, in a healthy adult, the initial filtrate in the kidneys is about 180 L daily. However, the volume actually excreted is only a litre or two a day.",
+      "question": "What is the daily volume of initial filtrate?"
+    },
+    {
+      "context": "Because the remaining filtrate is re-absorbed in the kidney tubules, the volume excreted is only a litre or two a day.",
+      "question": "Where is the remaining filtrate re-absorbed?"
+    }
+  ]
+}

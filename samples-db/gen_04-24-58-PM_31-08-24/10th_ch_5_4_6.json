@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In highly differentiated plants, the transport of water, minerals, food, and other materials is facilitated by vascular tissues, which include xylem and phloem.",
+      "question": "What are the vascular tissues in plants?"
+    },
+    {
+      "context": "In highly differentiated plants, the transport of water, minerals, food, and other materials is facilitated by vascular tissues, which include xylem and phloem.",
+      "question": "What do xylem and phloem transport?"
+    },
+    {
+      "context": "In highly differentiated plants, the transport of water, minerals, food, and other materials is facilitated by vascular tissues, which include xylem and phloem.",
+      "question": "Which type of tissue is responsible for transporting water?"
+    },
+    {
+      "context": "In highly differentiated plants, the transport of water, minerals, food, and other materials is facilitated by vascular tissues, which include xylem and phloem.",
+      "question": "What materials are transported by vascular tissues?"
+    },
+    {
+      "context": "In highly differentiated plants, the transport of water, minerals, food, and other materials is facilitated by vascular tissues, which include xylem and phloem.",
+      "question": "Name the two types of vascular tissues."
+    }
+  ]
+}

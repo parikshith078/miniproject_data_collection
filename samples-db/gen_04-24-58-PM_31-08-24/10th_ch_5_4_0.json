@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The kidneys in human beings are a part of the system for excretion. They play a crucial role in removing waste products from the blood and regulating the body's fluid balance. This process is essential for maintaining homeostasis and overall health.",
+      "question": "What is the role of kidneys in humans?"
+    },
+    {
+      "context": "The kidneys in human beings are a part of the system for excretion. They filter blood to produce urine, which contains waste products and excess substances, helping to maintain a stable internal environment.",
+      "question": "What do kidneys help eliminate in humans?"
+    },
+    {
+      "context": "The kidneys in human beings are a part of the system for excretion. This system is vital because it helps to expel metabolic wastes and toxins from the body, ensuring that the internal environment remains stable.",
+      "question": "Why is the excretion system important in humans?"
+    },
+    {
+      "context": "The kidneys in human beings are a part of the system for excretion. They work by filtering out waste while retaining beneficial substances, which is key for proper bodily function and health maintenance.",
+      "question": "How do kidneys contribute to bodily function?"
+    },
+    {
+      "context": "The kidneys in human beings are a part of the system for excretion. They help to regulate electrolyte levels and blood pressure while also removing urea and creatinine generated from metabolism.",
+      "question": "What substances do kidneys filter from the blood?"
+    }
+  ]
+}

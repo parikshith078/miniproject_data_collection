@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Within the lungs, the passage divides into smaller and smaller tubes which finally terminate in balloon-like structures which are called alveoli. The alveoli provide a surface where the exchange of gases can take place.",
+      "question": "What are alveoli responsible for?"
+    },
+    {
+      "context": "The alveoli provide a surface where the exchange of gases can take place. The lungs contain millions of these tiny air sacs, making them efficient for gas exchange.",
+      "question": "Why are alveoli important for the lungs?"
+    },
+    {
+      "context": "The alveoli provide a surface where the exchange of gases can take place. Carbon dioxide and oxygen pass through the walls of the alveoli into the blood.",
+      "question": "What happens during gas exchange in alveoli?"
+    },
+    {
+      "context": "The passage divides into smaller and smaller tubes which finally terminate in balloon-like structures called alveoli. These structures are essential for respiration.",
+      "question": "What terminates in the alveoli?"
+    }
+  ]
+}

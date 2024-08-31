@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Hormones produced in one part of an organism move to another part to achieve the desired effect. This chemical coordination allows for various physiological processes to be regulated, ensuring that the body maintains homeostasis and responds appropriately to internal and external stimuli.",
+      "question": "How do hormones achieve their effects in organisms?"
+    },
+    {
+      "context": "Hormones produced in one part of an organism move to another part to achieve the desired effect. These hormones play crucial roles in growth, metabolism, and reproduction, enabling organisms to adapt and thrive in their environments.",
+      "question": "What roles do hormones play in organisms?"
+    },
+    {
+      "context": "Chemical coordination in animals involves the movement of hormones produced in one part of the organism to another. This process is essential for the regulation of processes such as stress response, growth, and reproductive functions, helping maintain balance within the body.",
+      "question": "Why is chemical coordination important in animals?"
+    },
+    {
+      "context": "In the system of chemical coordination, hormones produced in one part of an organism move to another part to achieve the desired effect. This transfer of signals allows for efficient communication between different organs and systems, which is vital for adaptation.",
+      "question": "What does chemical coordination facilitate in an organism?"
+    }
+  ]
+}

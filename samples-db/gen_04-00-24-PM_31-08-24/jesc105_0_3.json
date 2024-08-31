@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "When chemical reactions use the carbon source and the oxygen for energy generation, they create by-products that are not only useless for the cells of the body, but could even be harmful.",
+      "question": "What do chemical reactions produce as by-products?"
+    },
+    {
+      "context": "These waste by-products are therefore needed to be removed from the body and discarded outside by a process called excretion.",
+      "question": "What is the process of removing waste from the body?"
+    },
+    {
+      "context": "A specialised tissue for excretion will be developed, which means that the transportation system will need to transport waste away from cells to this excretory tissue.",
+      "question": "What is developed for the process of excretion?"
+    },
+    {
+      "context": "These waste by-products are therefore needed to be removed from the body and discarded outside by a process called excretion.",
+      "question": "Why is excretion necessary for the body?"
+    },
+    {
+      "context": "A specialised tissue for excretion will be developed, which means that the transportation system will need to transport waste away from cells to this excretory tissue.",
+      "question": "What does the transportation system do in excretion?"
+    },
+    {
+      "context": "When chemical reactions use the carbon source and the oxygen for energy generation, they create by-products that are not only useless for the cells of the body.",
+      "question": "What source do chemical reactions use for energy generation?"
+    }
+  ]
+}

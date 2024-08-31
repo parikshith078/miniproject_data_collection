@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Some organisms use simple food material obtained from inorganic sources in the form of carbon dioxide and water. These organisms, the autotrophs, include green plants and some bacteria.",
+      "question": "What do autotrophs use for energy?"
+    },
+    {
+      "context": "Other organisms utilise complex substances. These complex substances have to be broken down into simpler ones before they can be used for the upkeep and growth of the body.",
+      "question": "What do heterotrophs need to do to utilize complex substances?"
+    },
+    {
+      "context": "To achieve this, organisms use bio-catalysts called enzymes. Thus, the heterotrophs survival depends directly or indirectly on autotrophs.",
+      "question": "What are bio-catalysts used by organisms?"
+    },
+    {
+      "context": "Heterotrophic organisms include animals and fungi. The general requirement for energy and materials is common in all organisms.",
+      "question": "Which organisms are classified as heterotrophs?"
+    },
+    {
+      "context": "These organisms, the autotrophs, include green plants and some bacteria. Other organisms utilise complex substances.",
+      "question": "What types of organisms are autotrophs?"
+    }
+  ]
+}

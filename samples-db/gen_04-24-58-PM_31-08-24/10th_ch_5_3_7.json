@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "Water, therefore, moves into the root from the soil to eliminate this difference. This means that there is a steady movement of water into root xylem, creating a column of water that is steadily pushed upwards.",
+      "question": "How does water move into the roots?"
+    },
+    {
+      "context": "However, this pressure by itself is unlikely to be enough to move water over the heights that we commonly see in plants.",
+      "question": "What challenges does water movement face in plants?"
+    },
+    {
+      "context": "Plants use another strategy to move water in the xylem upwards to the highest points of the plant body.",
+      "question": "What strategy do plants use to transport water?"
+    }
+  ]
+}

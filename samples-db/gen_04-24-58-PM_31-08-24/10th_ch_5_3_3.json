@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Platelets are crucial for preventing excessive blood loss when injuries occur. They work by rapidly accumulating at the site of a leak to form a temporary plug and initiate the clotting process. This action minimizes blood loss and maintains blood pressure within the circulatory system.",
+      "question": "What role do platelets play during bleeding?"
+    },
+    {
+      "context": "When an injury causes a leak in the blood vessels, platelets quickly gather at the affected area to adhere to the exposed tissues. This accumulation of platelets obstructs the flow of blood, aiding in the formation of a clot that effectively seals the wound and promotes healing.",
+      "question": "How do platelets accumulate at injury sites?"
+    },
+    {
+      "context": "To maintain healthy blood pressure and prevent excessive blood loss during a leak, platelets adhere to the injured area and aggregate together. They release chemical signals that recruit more platelets, facilitating the clotting process to ensure that the vascular system remains intact and functional.",
+      "question": "What happens when platelets aggregate at leaks?"
+    },
+    {
+      "context": "If a person suffers a cut or injury, the body's immediate response involves the platelets that circulate in the bloodstream. They are crucial for forming clots which effectively close the wound, reducing the risk of shock due to blood loss and ensuring that the circulatory system operates normally.",
+      "question": "Why are platelets important after an injury?"
+    },
+    {
+      "context": "In the event of a bleeding injury, the platelets play an essential role by adhering to the site of the leak and activating other clotting factors in the blood. This process prevents further blood loss while allowing the tissue to repair itself over time.",
+      "question": "What activates clotting factors during bleeding?"
+    }
+  ]
+}

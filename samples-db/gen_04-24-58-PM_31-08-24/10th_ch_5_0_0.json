@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "To tell the difference between alive and non-alive things, we generally look for movement, growth, or other signs of life. However, using visible movement to define life is insufficient because some organisms, like plants, grow slowly and may not exhibit visible changes often. Additionally, molecular movements occur at scales that are invisible to us, yet they are essential for maintaining life. Viruses lack such movement until they infect a host, leading to debates about their classification as living beings.",
+      "question": "What is one challenge in defining life?"
+    },
+    {
+      "context": "Living organisms must maintain their structures because they are organized into various levels like tissues and cells. The environment causes these ordered structures to degrade over time, resulting in a loss of life if not repaired. Therefore, molecular movement is essential as it facilitates the repair and maintenance of these structures, which consist of molecules that are constantly moving around.",
+      "question": "Why must living organisms maintain their structures?"
+    },
+    {
+      "context": "Movement is often considered a sign of life, yet some animals can breathe without visible movement, and plants can survive without apparent growth for periods. Therefore, relying solely on observable characteristics falls short of thoroughly defining what constitutes living organisms. Molecular movement occurs on such small scales that we often overlook it, but it is crucial for life processes as it helps sustain the organization of living structures.",
+      "question": "How can breathing be misleading as a life indicator?"
+    },
+    {
+      "context": "Viruses present an intriguing case in biology as they do not exhibit molecular movement unless they infect a host cell. This phenomenon leads to discussions about their status as living entities. The necessity of molecular movement for life underscores the complexity of living organisms, highlighting that life is not merely about visible characteristics but also involves microscopic processes that maintain order and structure within cells.",
+      "question": "What controversy surrounds the classification of viruses?"
+    },
+    {
+      "context": "Organisms are composed of well-organized structures, which can include multiple levels such as tissues made up of cells, each containing smaller components. This organization is subject to degradation due to environmental effects, which may lead to loss of life if left unchecked. Thus, constant molecular movements are vital to keep these structures intact and functioning, ensuring that living beings can sustain themselves over time.",
+      "question": "What happens if living structures break down?"
+    }
+  ]
+}
