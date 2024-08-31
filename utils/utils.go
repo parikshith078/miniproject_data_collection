@@ -3,7 +3,10 @@ package utils
 import (
 	"encoding/json"
 	"fmt"
+	"io/fs"
 	"os"
+	"path/filepath"
+	"strings"
 )
 
 func ReadJSONFile(filePath string) ([]string, error) {
@@ -43,6 +46,20 @@ func SaveResultToFile[T any](filePath string, result T) error {
 	return nil
 }
 
+func SplitStringByWords(input string, maxWords int) []string {
+    words := strings.Fields(input) // Split the input string into words
+    var result []string
+    for i := 0; i < len(words); i += maxWords {
+        end := i + maxWords
+        if end > len(words) {
+            end = len(words)
+        }
+        chunk := strings.Join(words[i:end], " ")
+        result = append(result, chunk)
+    }
+    return result
+}
+
 // ReadFileToString reads the content of a text file and returns it as a string.
 func ReadFileToString(filePath string) (string, error) {
 	// Read the file content
@@ -53,4 +70,21 @@ func ReadFileToString(filePath string) (string, error) {
 
 	// Convert the content to a string and return
 	return string(content), nil
+}
+
+func GetTextFilePaths(folderPath string) ([]string, error) {
+	// Walk through the folder
+	textFilePaths := []string{}
+	err := filepath.Walk(folderPath, func(path string, info fs.FileInfo, err error) error {
+		if err != nil {
+			return err
+		}
+		// Check if the file has a .pdf extension
+		if !info.IsDir() && strings.HasSuffix(strings.ToLower(info.Name()), ".txt") {
+			textFilePaths = append(textFilePaths, path)
+		}
+		return nil
+	})
+
+	return textFilePaths, err
 }
