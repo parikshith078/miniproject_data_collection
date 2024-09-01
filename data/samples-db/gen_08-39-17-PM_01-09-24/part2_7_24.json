@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Coping with a parasitic disease can be stressful, more so when the patient believes that parasites come from being dirty. Parasites can be contracted regardless of the cleanliness of the home. While hand washing and overall cleanliness are positive ways to prevent parasitic infections and diseases, they in no way guarantee that parasites won’t infect a family member.",
+      "question": "How can one prevent parasitic infections?"
+    },
+    {
+      "context": "Good health of a person depends on (i) social environment. (ii) public cleanliness. (iii) good economic conditions and earnings. (iv) social equality and harmony.",
+      "question": "What factors contribute to good health?"
+    },
+    {
+      "context": "While hand washing and overall cleanliness are positive ways to prevent parasitic infections and diseases, they in no way guarantee that parasites won’t infect a family member.",
+      "question": "Do cleanliness practices guarantee parasite prevention?"
+    },
+    {
+      "context": "Parasites can be contracted regardless of the cleanliness of the home. Coping with a parasitic disease can be stressful, more so when the patient believes that parasites come from being dirty.",
+      "question": "Can cleanliness prevent all parasitic infections?"
+    },
+    {
+      "context": "Good health of a person depends on social environment, public cleanliness, good economic conditions and earnings, social equality and harmony.",
+      "question": "What is essential for maintaining good health?"
+    }
+  ]
+}

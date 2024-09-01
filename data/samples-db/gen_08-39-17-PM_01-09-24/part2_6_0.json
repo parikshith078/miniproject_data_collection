@@ -1,0 +1,40 @@
+{
+  "samples": [
+    {
+      "context": "Infectious bacteria can grow, divide and spread in the body, leading to infectious disease. Some infectious bacteria give off toxins which can make some diseases more severe.",
+      "question": "What do some bacteria produce that worsen diseases?"
+    },
+    {
+      "context": "Antibiotics are usually given to treat severe bacterial infections. Antibiotic resistance in bacteria is a significant problem.",
+      "question": "What is a major issue caused by bacterial infections?"
+    },
+    {
+      "context": "Typhoid is a common bacterial disease caused by a rodlike bacterium. Salmonella typhi, which is commonly found in the intestine of man.",
+      "question": "What bacterium causes typhoid disease?"
+    },
+    {
+      "context": "Certain humans function as carriers without suffering from it. Mary Mallon, called Typhoid Mary was such a case.",
+      "question": "Who was known as Typhoid Mary?"
+    },
+    {
+      "context": "Typhoid spreads through food and water contaminated with faeces of the patient. House flies may carry the pathogens from the faeces to the food, milk and water.",
+      "question": "How is Typhoid primarily transmitted?"
+    },
+    {
+      "context": "Symptoms of Typhoid include abdominal pain, constant fever, extreme weakness, vomiting, and a rash of rose coloured spots.",
+      "question": "What are typical symptoms of Typhoid?"
+    },
+    {
+      "context": "The two most important preventive measures are proper sewage treatment and purification of water supplies.",
+      "question": "What are key prevention strategies for Typhoid?"
+    },
+    {
+      "context": "The TAB vaccine provides immunity for about 3 years. Antibiotics like ampicillin and chloramphenicol are used to treat typhoid.",
+      "question": "How long does the TAB vaccine last?"
+    },
+    {
+      "context": "Diagnosis of Typhoid is done by the Widal Test. Any patient with typhoid requires the highest standards of nursing together with isolation.",
+      "question": "What test is used to diagnose Typhoid?"
+    }
+  ]
+}

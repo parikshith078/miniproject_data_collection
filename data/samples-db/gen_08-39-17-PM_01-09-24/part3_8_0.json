@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Ovary produces the eggs or the female gametes. All the eggs are produced by the ovary when the female child is still in the womb. One egg matures in each ovulation cycle and is released from the ovary.",
+      "question": "What does the ovary produce?"
+    },
+    {
+      "context": "The cervix (mouth of the uterus) opens into the vagina. Vagina is a muscular tube-like organ which serves as the passage for the sperms and also as the canal during childbirth.",
+      "question": "What is the function of the vagina?"
+    },
+    {
+      "context": "One egg matures in each ovulation cycle and is released from the ovary. The egg is caught by the fimbriae and transferred to the fallopian tube.",
+      "question": "What happens to the egg after ovulation?"
+    },
+    {
+      "context": "All the eggs are produced by the ovary when the female child is still in the womb. One egg matures in each ovulation cycle and is released from the ovary.",
+      "question": "When are eggs produced by the ovary?"
+    },
+    {
+      "context": "The cervix (mouth of the uterus) opens into the vagina. Vagina is a muscular tube-like organ which serves as the passage for the sperms and also as the canal during childbirth.",
+      "question": "What does the cervix connect to?"
+    }
+  ]
+}

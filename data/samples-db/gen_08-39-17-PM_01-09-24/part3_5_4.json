@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Some plant hormones, like auxin, gibberellins, and cytokinin, promote growth in various plant parts. Abscissic acid, in contrast, inhibits growth in specific areas of a plant. These hormones are produced in one part of the plant and are transported to other areas as needed.",
+      "question": "What does auxin do to plants?"
+    },
+    {
+      "context": "Plant hormones or phytohormones are naturally occurring organic substances that are synthesized in small amounts in one part of the plant and transported to other parts. There are five main types of phytohormones, including auxins, gibberellins, cytokinins, abscisic acid, and ethylene.",
+      "question": "What are the five major types of phytohormones?"
+    },
+    {
+      "context": "The sensitive plant, Mimosa pudica, exhibits movement in response to touch stimuli, known as thigmonasty. This reaction is not dependent on growth and occurs independently. In contrast, phototropism is growth-dependent and causes a shoot to bend towards light.",
+      "question": "What type of movement is phototropism?"
+    },
+    {
+      "context": "Auxin is a well-known plant hormone that promotes growth, particularly in stems and roots. It plays a crucial role in the elongation of cells, thus leading to growth in length of plant parts.",
+      "question": "Which hormone is known for promoting plant growth?"
+    },
+    {
+      "context": "Plant hormones are crucial for regulating various growth processes. Abscisic acid is specifically known for inhibiting growth. Comparatively, hormones like gibberellins and auxin are responsible for promoting growth in plants.",
+      "question": "What role does abscisic acid play in plant growth?"
+    }
+  ]
+}

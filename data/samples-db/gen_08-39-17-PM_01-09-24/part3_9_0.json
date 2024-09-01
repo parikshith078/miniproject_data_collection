@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mendel's experiments showed that when F1 generation plants self-pollinated, they produced F2 generation plants with various seed types. Most plants had round and yellow seeds, while others had round green, wrinkled yellow, and wrinkled green seeds. The observed ratio was 9:3:3:1.",
+      "question": "What was the observed ratio in F2 generation?"
+    },
+    {
+      "context": "Mendel's Second Law, the Law of Independent Assortment, states that alleles of different characters separate independently during gamete formation. This means that traits such as seed texture and color assort independently.",
+      "question": "What does Mendel’s Second Law state?"
+    },
+    {
+      "context": "In the F2 generation from Mendel's experiments, some plants produced round green seeds, others produced wrinkled yellow seeds, and a few produced wrinkled green seeds, demonstrating the variation in traits that can occur.",
+      "question": "What types of seeds were produced in the F2 generation?"
+    },
+    {
+      "context": "Mendel demonstrated through his experiments that the traits of seed texture and color were not linked; the texture alleles assorted independently from the color alleles, resulting in diverse offspring.",
+      "question": "How do alleles for seed texture and color behave?"
+    },
+    {
+      "context": "According to Mendel's findings, the majority of the F2 plants produced round and yellow seeds, while the minority produced combinations like wrinkled yellow or round green, illustrating genetic variation.",
+      "question": "What trait combinations were observed in the minority of F2 plants?"
+    }
+  ]
+}

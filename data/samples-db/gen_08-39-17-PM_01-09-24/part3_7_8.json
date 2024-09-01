@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "A flower is a modified shoot with a limited growth. Flowers vary in size, shape, structure and colour. The main parts of a flower are, 1. Calyx 2. Corolla 3. Androecium and 4. Gynoecium. Androecium is the male part of a flower, and Gynoecium is the female part.",
+      "question": "What are the parts of a flower?"
+    },
+    {
+      "context": "Each Stamen consists of a stalk called the filament and a small bag-like structure called the anther at the tip. The pollen grains are contained in the anther within the pollen sacs.",
+      "question": "What is contained in the anther?"
+    },
+    {
+      "context": "Gynoecium is the female part of the flower and consists of the carpels or ovary. Gynoecium has three parts 1) Stigma 2) Style and 3) Ovary. The ovary contains the ovules.",
+      "question": "What are the parts of the Gynoecium?"
+    },
+    {
+      "context": "Androecium is a group of stamens. Each Stamen consists of a stalk called the filament and a small bag-like structure called the anther at the tip.",
+      "question": "What does each stamen consist of?"
+    },
+    {
+      "context": "The ovary contains the ovules and each ovule carries within it an embryo sac, within which lies the egg cell or the female gamete.",
+      "question": "What does the ovule contain?"
+    },
+    {
+      "context": "Sexual reproduction is the process in which two components (male and female) are involved to produce offsprings of their own kind.",
+      "question": "What is sexual reproduction?"
+    },
+    {
+      "context": "A bull alone cannot produce new calves. It needs a cow. Female sheep alone cannot produce new ones. It needs a male sheep.",
+      "question": "Why are both sexes needed for reproduction?"
+    }
+  ]
+}

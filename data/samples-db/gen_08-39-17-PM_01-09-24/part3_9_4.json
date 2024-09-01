@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "In humans, the 23rd pair of chromosomes determines the sex of the child. Males possess one X and one Y chromosome, while females have two X chromosomes. This means all eggs carry an X chromosome. A sperm can carry either an X or Y chromosome, leading to different outcomes upon fertilization.",
+      "question": "What determines the sex of a child?"
+    },
+    {
+      "context": "The presence of X and Y chromosomes decides the sex of a child. Males have XY chromosomes, while females possess XX chromosomes. Thus, when an egg (which carries X) is fertilized by a sperm carrying either an X or Y chromosome, it determines if a female or male child is produced.",
+      "question": "How do X and Y chromosomes affect sex determination?"
+    },
+    {
+      "context": "The genetic makeup of a child is influenced by the chromosomes contributed by both parents. All eggs contribute an X chromosome. Depending on which type of sperm fertilizes the egg (X or Y), the chromosomal combination of the resulting zygote will determine the child's sex.",
+      "question": "Do eggs carry X or Y chromosomes?"
+    },
+    {
+      "context": "In Mendelian genetics, blood groups A and O are inherited based on the dominance of alleles. In a case where a person with blood group A has a child with a person with blood group O, if the child has blood type O, it indicates that O must be dominant in this scenario, even in a heterozygous condition.",
+      "question": "Which blood group is dominant in the A and O cross?"
+    },
+    {
+      "context": "Mendel's work revealed key principles of inheritance. He discovered that traits inherited from parents are dictated by dominant and recessive alleles. In the case where a man with type A blood and a woman with blood type O have a daughter with type O blood, conclusions can be drawn about allele behavior.",
+      "question": "What did Mendel's work reveal about inheritance?"
+    },
+    {
+      "context": "Genetic information in humans is passed through chromosomes. In terms of sex determination, it's crucial to know that males produce sperm cells that can have either X or Y chromosomes, whereas females produce eggs that only have X chromosomes, ultimately deciding the sex of the child during fertilization.",
+      "question": "What chromosomes do females contribute during fertilization?"
+    }
+  ]
+}

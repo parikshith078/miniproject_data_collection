@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Viral diseases can include flu-like symptoms such as fatigue, fever, sore throat, and headache. They can also cause gastrointestinal disturbances like diarrhea, nausea, and vomiting, along with malaise, rash, and other symptoms.",
+      "question": "What are flu-like symptoms of viral diseases?"
+    },
+    {
+      "context": "In some cases of viral diseases, serious complications may arise, indicating that immediate medical care is necessary. Symptoms warranting this include high fever, chest pain, or change in alertness.",
+      "question": "What symptoms indicate serious viral complications?"
+    },
+    {
+      "context": "Common symptoms of viral diseases include sneezing, nasal congestion, and swollen lymph nodes. Additionally, many patients report irritability and unexplained weight loss as part of their condition.",
+      "question": "What symptoms can occur alongside nasal congestion?"
+    },
+    {
+      "context": "If a viral disease causes a change in consciousness or high fever, medical care should be sought immediately. Additional serious symptoms include seizures and jaundice in some cases.",
+      "question": "Why seek immediate medical attention during a viral infection?"
+    },
+    {
+      "context": "Symptoms like rash, malaise, and swollen tonsils are common in viral diseases. Patients might also experience aches and pains throughout the body as part of their illness.",
+      "question": "What body symptoms are common in viral diseases?"
+    },
+    {
+      "context": "Symptoms of viral diseases can include gastrointestinal issues such as diarrhea and vomiting, along with other flu-like symptoms, irritability, and swollen lymph nodes.",
+      "question": "Which gastrointestinal symptoms may indicate a viral disease?"
+    }
+  ]
+}

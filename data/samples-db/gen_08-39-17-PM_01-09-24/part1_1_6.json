@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Vacuoles are fluid – filled sacs bound by a single membrane and are present in plant cells as well as in certain protozoans as food vacuoles and contractile vacuoles.",
+      "question": "What are vacuoles primarily filled with?"
+    },
+    {
+      "context": "In plant cells, major portion of the cell is occupied by vacuoles and are bound by the definite membrane called tonoplast.",
+      "question": "What membrane bounds the vacuoles in plant cells?"
+    },
+    {
+      "context": "Vacuoles of plants are filled with cell sap containing minerals, sugars, amino acids and dissolved waste products.",
+      "question": "What do vacuoles in plants contain?"
+    },
+    {
+      "context": "Vacuoles store and concentrate mineral salts as well as nutrients.",
+      "question": "What do vacuoles store in plant cells?"
+    },
+    {
+      "context": "They maintain proper osmotic pressure in the cell for its turgidity and absorption of water.",
+      "question": "What is one function of vacuoles related to osmotic pressure?"
+    },
+    {
+      "context": "Vacuoles are fluid – filled sacs bound by a single membrane and are present in plant cells as well as in certain protozoans.",
+      "question": "What types of cells contain vacuoles?"
+    },
+    {
+      "context": "Vacuoles store and concentrate mineral salts as well as nutrients.",
+      "question": "What are two types of substances stored in vacuoles?"
+    },
+    {
+      "context": "They maintain proper osmotic pressure in the cell for its turgidity and absorption of water.",
+      "question": "How do vacuoles support plant cell turgidity?"
+    }
+  ]
+}

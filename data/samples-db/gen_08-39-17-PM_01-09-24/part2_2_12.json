@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The body is bilaterally symmetric and there are three layers in the body wall. Animals are cylindrical in shape. A pseudocoelom is present, hence organs are absent. Examples: Roundworms, pinworms, filarial parasite (Wuchereria), etc.",
+      "question": "What type of body symmetry do Nematohelminthes exhibit?"
+    },
+    {
+      "context": "True body cavity is present in these animals. The body is divided into segments and hence the name annelida. Each segment contains a set of organs. Examples: Earthworm, leech, Nereis, etc.",
+      "question": "What is a key feature of Annelida segmentation?"
+    },
+    {
+      "context": "A pseudocoelom is present, hence organs are absent. Examples: Roundworms, pinworms, filarial parasite (Wuchereria), etc.",
+      "question": "What is lacking in the anatomy of Nematohelminthes?"
+    },
+    {
+      "context": "The body is divided into segments and hence the name annelida. Each segment contains a set of organs. Examples: Earthworm, leech, Nereis, etc.",
+      "question": "What name is given to animals with segmented bodies?"
+    },
+    {
+      "context": "Examples: Roundworms, pinworms, filarial parasite (Wuchereria), etc. Animals are cylindrical in shape.",
+      "question": "What are some examples of Nematohelminthes?"
+    },
+    {
+      "context": "True body cavity is present in these animals. The body is divided into segments and hence the name annelida.",
+      "question": "What type of body cavity do Annelida possess?"
+    }
+  ]
+}

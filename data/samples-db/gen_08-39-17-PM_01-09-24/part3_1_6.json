@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "All green plants and some bacteria have the ability to produce their own food through processes like photosynthesis or chemosynthesis. This type of nutrition, known as autotrophic nutrition, allows them to convert light or chemical energy into usable organic compounds.",
+      "question": "What is autotrophic nutrition?"
+    },
+    {
+      "context": "All animals and fungi depend on other organisms for their nourishment. This type of nutrition is called heterotrophic nutrition, meaning these organisms cannot synthesize their own food and must consume organic material from other sources.",
+      "question": "Who has heterotrophic nutrition?"
+    },
+    {
+      "context": "Autotrophic nutrition is characterized by organisms that can synthesize their own food using light or chemical energy, allowing them to be independent of other food sources. This is essential for ecosystems as they provide energy for heterotrophic organisms.",
+      "question": "What characterizes autotrophic nutrition?"
+    },
+    {
+      "context": "Heterotrophic nutrition includes various organisms, primarily animals and fungi, that rely on consuming other living or dead organic matter to obtain their energy. This nutritional method plays a vital role in nutrient cycling within ecosystems.",
+      "question": "What role do heterotrophic organisms play in ecosystems?"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Coliform bacteria originate as organisms in soil or vegetation and in the intestinal tract of warm-blooded animals (fecal coli). This group of bacteria has long been an indicator of water contamination and possible presence of intestinal parasites and pathogens.",
+      "question": "What do coliform bacteria indicate?"
+    },
+    {
+      "context": "Coliform bacteria are relatively simple to identify, are present in much larger numbers than more dangerous pathogens, and react to the natural environment and treatment processes similarly to pathogens.",
+      "question": "How do coliform bacteria react to the environment?"
+    },
+    {
+      "context": "Sources of bacterial pollution include runoff from woodlands, pastures, and feedlots; septic tanks and sewage plants; and animals and wild fowl.",
+      "question": "What are sources of bacterial pollution?"
+    },
+    {
+      "context": "Many coliform bacteria may be directly deposited into natural streams from waste in water and runoff from areas with high concentrations of animals or humans.",
+      "question": "Where are coliform bacteria often deposited?"
+    },
+    {
+      "context": "The Ganga runs its course of over 2500 km from Gangotri in the Himalayas to Ganga Sagar in the Bay of Bengal. It is being turned into a drain by more than a hundred towns and cities in Uttar Pradesh, Bihar and West Bengal that pour their garbage and excreta into it.",
+      "question": "What towns contribute to Ganga pollution?"
+    },
+    {
+      "context": "Largely untreated sewage is dumped into the Ganges every day. In addition, think of the pollution caused by other human activities like bathing, washing of clothes and immersion of ashes or unburnt corpses.",
+      "question": "What activities contribute to Ganga pollution?"
+    },
+    {
+      "context": "Industries contribute chemical effluents to the Ganga’s pollution load and the toxicity kills fish in large sections of the river.",
+      "question": "How do industries affect the Ganga?"
+    }
+  ]
+}

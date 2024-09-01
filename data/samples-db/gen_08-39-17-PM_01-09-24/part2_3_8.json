@@ -1,0 +1,40 @@
+{
+  "samples": [
+    {
+      "context": "Good health is a very hard thing to measure, but it is one of life's most precious things. The World Health Organisation has defined health as a state of complete physical, mental and social well-being.",
+      "question": "What defines good health according to WHO?"
+    },
+    {
+      "context": "Community health can be defined as \"All the personal health along with the environmental services for the importance of health of community\".",
+      "question": "What is community health?"
+    },
+    {
+      "context": "Some of the health services are given below: (i) Establishment of health care services like primary health centers... (viii) Prevention of food adulteration. (ix) Health education.",
+      "question": "What are some important health services?"
+    },
+    {
+      "context": "The important ones are (i) Nutrition, (ii) Proper habits, and (iii) Exercise and relaxation.",
+      "question": "What conditions are essential for good health?"
+    },
+    {
+      "context": "Provision of safe drinking water and proper disposal of garbage is crucial for public health.",
+      "question": "Why is safe drinking water important?"
+    },
+    {
+      "context": "Preventive vaccinations against number of diseases like tuberculosis, diphtheria, whooping cough, tetanus, measles, hepatitis, etc.",
+      "question": "What is the role of vaccinations in health?"
+    },
+    {
+      "context": "Management of different types of environmental pollution by Central and State Pollution Control Boards.",
+      "question": "Who manages environmental pollution in health contexts?"
+    },
+    {
+      "context": "Prevention of harmful insect breeding sites is a key aspect of community health.",
+      "question": "Why prevent harmful insect breeding?"
+    },
+    {
+      "context": "Provision of medical care to school going children is important for their health and development.",
+      "question": "Why is medical care for school children essential?"
+    }
+  ]
+}

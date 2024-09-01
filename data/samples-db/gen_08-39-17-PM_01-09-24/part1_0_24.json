@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The Golgi apparatus modifies the proteins produced in the rough endoplasmic reticulum (RER) and sends them to their destined locations, either inside or outside the cell.",
+      "question": "What does the Golgi apparatus modify?"
+    },
+    {
+      "context": "The Golgi apparatus or Golgi complex is another important cell organelle involved in the packaging, sorting, and distribution of proteins and lipids within the cell.",
+      "question": "What roles does the Golgi apparatus play in the cell?"
+    },
+    {
+      "context": "It consists of a stack of membranous sacs (cisternae) and a network of tubules.",
+      "question": "What structural components make up the Golgi complex?"
+    },
+    {
+      "context": "The Golgi apparatus sends proteins to their destined locations, either inside or outside the cell.",
+      "question": "Where does the Golgi apparatus send the proteins?"
+    },
+    {
+      "context": "The Golgi apparatus or Golgi complex is another important cell organelle involved in the packaging, sorting, and distribution of proteins and lipids.",
+      "question": "What is the primary function of the Golgi complex?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "This approach depends on finding a crop that can give a good yield. Some of the factors for which variety improvement is done are: Higher yield: for increasing the productivity per acre. Improved quality: quality considerations vary from crop to crop as per the requirements.",
+      "question": "What factors influence crop variety improvement?"
+    },
+    {
+      "context": "Crops should have sufficient resistance to biotic factors (diseases, insects and nematodes) and abiotic stresses (heat, cold, frost etc.)",
+      "question": "What types of resistance do improved crops need?"
+    },
+    {
+      "context": "The shorter the duration, the more economical is the variety. Wider adaptability: it can be grown in different climatic conditions.",
+      "question": "Why is shorter maturity duration beneficial for crops?"
+    },
+    {
+      "context": "In genetics, hybridisation is the process of combining different varieties or species of organisms which are genetically dissimilar to create a hybrid.",
+      "question": "What is hybridisation in genetics?"
+    },
+    {
+      "context": "Genetically modified crops. Here the crop is improved by introducing a gene that would provide desired characteristics.",
+      "question": "How are genetically modified crops created?"
+    }
+  ]
+}

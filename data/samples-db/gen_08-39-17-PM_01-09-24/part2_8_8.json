@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Symptoms to help in finding out that the baby is sick are: (i) continuous crying (ii) drooping of eyes (iii) redness of eyes (iv) high temperature of body.",
+      "question": "What are symptoms of a sick baby?"
+    },
+    {
+      "context": "Signs which help to indicate the sickness in baby include high fever, headache, muscular pain, feeling of shivering and cold which indicate malaria.",
+      "question": "What signs indicate malaria in infants?"
+    },
+    {
+      "context": "Loose motions and stomach pain indicate diarrhoea while pale skin, yellow urine, yellowing of eyes indicate jaundice.",
+      "question": "What symptoms indicate diarrhoea or jaundice?"
+    },
+    {
+      "context": "Doctors suggest laboratory tests if there is fever with no other symptoms to find out the kind of sickness.",
+      "question": "When do doctors recommend laboratory tests for babies?"
+    },
+    {
+      "context": "Due to malaria, the body becomes weak and loss of body fluids occur, leading to increased susceptibility to other diseases.",
+      "question": "How does malaria affect a person's immune system?"
+    },
+    {
+      "context": "If a person's immune system is weak due to malaria and they care for someone with chicken pox, there is a high probability of them getting chicken pox.",
+      "question": "Why can someone with malaria get chicken pox?"
+    }
+  ]
+}

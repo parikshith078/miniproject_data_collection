@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Regular exercise is necessary to keep our body fit. These exercises vary with age, physical condition and nature of work of the individual. In the case of sedentary worker, exercise is even more essential.",
+      "question": "Why is exercise essential for sedentary workers?"
+    },
+    {
+      "context": "Another aspect of health is regular sleep and relaxation. The duration of sleep also varies with age and nature of work.",
+      "question": "How does sleep duration vary with age?"
+    },
+    {
+      "context": "For children, an average of eight hours of sound sleep is sufficient. For adults six hours of sleep is enough.",
+      "question": "How many hours of sleep do children need on average?"
+    },
+    {
+      "context": "Relaxation may be defined as an activity or recreation, which provides a relief or diversion from work or effort.",
+      "question": "What is the definition of relaxation?"
+    },
+    {
+      "context": "Yoga and meditation relax the body and mind. Listening to music and reading magazines are also relaxing.",
+      "question": "What activities are mentioned as forms of relaxation?"
+    },
+    {
+      "context": "Health is a state of physical, mental and social well being. The conditions necessary for good health are: - i) Good physical and social environment. ii) Good economic conditions. iii) Social equality and harmony.",
+      "question": "What are the three conditions necessary for good health?"
+    },
+    {
+      "context": "Good physical and social environment includes clean surroundings, good sanitation, proper garbage disposal and clean drinking water.",
+      "question": "What is included in a good physical and social environment?"
+    },
+    {
+      "context": "Good economic conditions includes job opportunities for all for earning to have nutritious food and to lead a healthy life.",
+      "question": "What do good economic conditions provide for individuals?"
+    },
+    {
+      "context": "Social equality and harmony are necessary for a healthy and peaceful life.",
+      "question": "Why are social equality and harmony important?"
+    },
+    {
+      "context": "Relaxation improves the capacity to work. There are various ways of relaxation.",
+      "question": "How does relaxation affect work capacity?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Modes of reproduction involving a single parent, without involving gametes. These are known as asexual modes of reproduction. Organisms can reproduce asexually in many ways. Some of them are given here.",
+      "question": "What is asexual reproduction?"
+    },
+    {
+      "context": "Most of the unicellular animals prefer this method for reproduction. These organisms reproduce by binary fission; especially when conditions are favourable, i.e. adequate amount of food and moisture is available.",
+      "question": "What method do unicellular animals use for reproduction?"
+    },
+    {
+      "context": "Binary fission is somewhat similar to mitosis. The mother cell divides into two daughter cells; and each daughter cell begins its life like a new individual.",
+      "question": "How does binary fission occur in cells?"
+    },
+    {
+      "context": "When conditions become unfavourable, i.e. food, moisture, proper temperature, etc. are not available; this is the preferred mode of reproduction by unicellular organisms.",
+      "question": "What triggers the process of multiple fission?"
+    },
+    {
+      "context": "The organism develops a thick coating around itself. This is called cyst. The cyst helps the organism to tide over the bad phase.",
+      "question": "What is the purpose of a cyst in multiple fission?"
+    },
+    {
+      "context": "The nucleus divides into several nuclei and each daughter nucleus is surrounded by a membrane. All metabolic activities stop in the organism, after cyst formation.",
+      "question": "What happens to the nucleus during cyst formation?"
+    },
+    {
+      "context": "When favourable conditions return, the cyst dissolves or breaks down; releasing the daughter nuclei. The daughter nuclei; in turn; grow into new individuals.",
+      "question": "What occurs when conditions become favourable for the organism?"
+    },
+    {
+      "context": "Plasmodium and entamoeba undergo cyst stage, when they are not in the body of their prime host, i.e. humans.",
+      "question": "Which organisms enter the cyst stage outside their host?"
+    }
+  ]
+}

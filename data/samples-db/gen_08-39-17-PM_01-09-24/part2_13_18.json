@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Mariculture is the culture of fish in marine water. Marine fishery involves fishing in salt water regions. Some examples of marine fish are Pomphret, Tuna and Mackerel.",
+      "question": "What is mariculture used for?"
+    },
+    {
+      "context": "Fish are captured by locating large schools of fish, in the open sea, with the help of satellites and echo-sounders.",
+      "question": "How are fish located in marine fishery?"
+    },
+    {
+      "context": "Apiculture is the scientific method of rearing honeybees for honey and wax. Beehives are enclosed structures in which honey bees live and raise their young.",
+      "question": "What do beehives provide for honey bees?"
+    },
+    {
+      "context": "The practice of maintaining honey bee colonies in beehives is called bee-keeping or apiculture.",
+      "question": "What is another name for apiculture?"
+    }
+  ]
+}

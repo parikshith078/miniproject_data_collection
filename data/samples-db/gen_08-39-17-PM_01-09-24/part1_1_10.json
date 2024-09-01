@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plastids are disc or oval shaped organelles which occur in plant cells only. Plastids are of three types: Leucoplasts, Chromoplasts and Chloroplasts.",
+      "question": "What are the three types of plastids?"
+    },
+    {
+      "context": "Leucoplasts are colourless plastids which store food in the form of starch, lipids and proteins.",
+      "question": "What do leucoplasts store?"
+    },
+    {
+      "context": "Chromoplasts are yellow or reddish in colour due to the presence of pigments other than chlorophyll.",
+      "question": "What colors are chromoplasts?"
+    },
+    {
+      "context": "Chromoplasts provide colour to many flowers and fruits.",
+      "question": "What do chromoplasts provide to flowers?"
+    },
+    {
+      "context": "Plastids are disc or oval shaped organelles which occur in plant cells only.",
+      "question": "In which type of cells do plastids occur?"
+    }
+  ]
+}

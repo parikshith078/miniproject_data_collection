@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Dense Connective Tissue has thicker, denser fibers and fewer cells. The matrix is made up mostly of collagen fibers, with fibroblasts arranged in rows. This type of connective tissue forms tendons and ligaments, which attach muscle to bone and bone to bone, respectively.",
+      "question": "What forms tendons and ligaments?"
+    },
+    {
+      "context": "Adipose tissue is composed of fat globules. This tissue is found below the skin and beneath the organs. Adipose tissue provides insulation and works as a cushion.",
+      "question": "Where is adipose tissue found?"
+    },
+    {
+      "context": "This type of connective tissue forms tendons and ligaments, which attach muscle to bone and bone to bone, respectively. The matrix is made up mostly of collagen fibers.",
+      "question": "What is the main component of Dense Connective Tissue?"
+    },
+    {
+      "context": "Adipose tissue provides insulation and works as a cushion. It is composed of fat globules and found beneath the skin.",
+      "question": "What is the function of adipose tissue?"
+    },
+    {
+      "context": "The matrix of Dense Connective Tissue is made up mostly of collagen fibers, with fibroblasts arranged in rows. It has thicker, denser fibers and fewer cells.",
+      "question": "What is unique about the fibers in Dense Connective Tissue?"
+    }
+  ]
+}

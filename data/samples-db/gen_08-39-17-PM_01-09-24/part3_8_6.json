@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Menstruation is a trait which is unique to humans and some primates. During each ovulation cycle, the uterus prepares itself in anticipation of a possible pregnancy. The uterine wall develops an additional lining. When the egg is not fertilized, it gets disintegrated and so does the additional lining in the uterine wall.",
+      "question": "What happens if the egg is not fertilized?"
+    },
+    {
+      "context": "The whole sequence of events during an ovulation cycle is called menstrual cycle. The bleeding which occurs for few days is called menstruation. The first menstrual flow is called menarche and the last menstrual flow (which happens in the late 40s) is called menopause.",
+      "question": "What is the term for the first menstrual flow?"
+    },
+    {
+      "context": "Beginning of puberty does not mean that a person is psychologically ready for the process of reproduction. For a human being, reproduction involves more than just producing an offspring. As any act of sex has the potential of fertilization, so taking care of contraception becomes important.",
+      "question": "Why is contraception important during reproduction?"
+    },
+    {
+      "context": "Moreover, the act of sex also has the potential of creating many sexually transmitted diseases. Examples of STDs are; gonorrhea, Herpes, syphilis, AIDS, Hepatitis B. AIDS and Hepatitis B are incurable till date.",
+      "question": "What are some examples of sexually transmitted diseases?"
+    },
+    {
+      "context": "Reproductive health involves preventing the chances of STDs and preventing unwanted children. Reproductive health means a couple should be able to enjoy the reproductive phase of its life without taking the burden of gigantic family.",
+      "question": "What does reproductive health aim to prevent?"
+    }
+  ]
+}

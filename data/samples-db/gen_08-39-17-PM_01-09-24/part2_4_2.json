@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Coronary heart disease, also known as coronary artery disease or ischemic heart disease, is the leading cause of death globally. It is caused by disease of the blood vessels (atherosclerosis) of the heart.",
+      "question": "What causes coronary heart disease?"
+    },
+    {
+      "context": "Stroke is a disease of the brain caused by interference to the blood supply. Stroke and heart disease are the main cardiovascular diseases.",
+      "question": "What is the main cause of stroke?"
+    },
+    {
+      "context": "Coronary heart disease is caused by disease of the blood vessels (atherosclerosis) of the heart. Stroke is a disease of the brain caused by interference to the blood supply.",
+      "question": "Which diseases are considered cardiovascular diseases?"
+    },
+    {
+      "context": "There are many forms of heart disease. Coronary heart disease, also known as coronary artery disease or ischemic heart disease, is the leading cause of death globally.",
+      "question": "What is the leading cause of death globally?"
+    },
+    {
+      "context": "Stroke and heart disease are the main cardiovascular diseases. Stroke is a disease of the brain caused by interference to the blood supply.",
+      "question": "Which diseases affect the brain and heart?"
+    }
+  ]
+}

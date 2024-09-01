@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Plants have no special organs for removal of wastes. The waste products of respiration and photosynthesis are used as raw materials for each other. Oxygen gas produced as a by-product of photosynthesis is used up during respiration and carbon dioxide produced during respiration is used up during photosynthesis.",
+      "question": "How do plants use waste products?"
+    },
+    {
+      "context": "The gaseous wastes, oxygen, carbon dioxide and water vapour are removed through stomata of leaves and lenticels of stems. Some waste products collect in the leaves and bark of trees. When the leaves and bark are shed, the wastes are eliminated.",
+      "question": "What structures help plants excrete gases?"
+    },
+    {
+      "context": "Double Circulation: In the human heart, blood passes through the heart twice in one cardiac cycle. This type of circulation is called double circulation. One complete heart beat in which all the chambers of the heart contract and relax once is called cardiac cycle.",
+      "question": "What is a cardiac cycle?"
+    },
+    {
+      "context": "Double circulation ensures complete segregation of oxygenated and deoxygenated blood which is necessary for optimum energy production in warm-blooded animals.",
+      "question": "Why is double circulation important?"
+    },
+    {
+      "context": "The heart beats about 72 times per minute in a normal adult. In one cardiac cycle, the heart pumps out 70 mL blood and thus about 4900 mL blood in a minute.",
+      "question": "What is the heart rate of a normal adult?"
+    },
+    {
+      "context": "Circulation of Blood through the heart: Systemic Vein → Sinus Venosus → Right Auricle → Right Ventricle → Pulmonary Artery → Lungs → Pulmonary Vein → Left Auricle → Left Ventricle → Trunchus Arteriosus → Systemic Circulation",
+      "question": "What is the pathway of blood circulation?"
+    },
+    {
+      "context": "Some waste products are rendered harmless and then stored in the plant body as solid bodies. Raphides, tannins, resins, gum, rubber and essential oils are some such wastes.",
+      "question": "What are some wastes stored by plants?"
+    },
+    {
+      "context": "Excretion is carried out in the plants in the following ways: The gaseous wastes, oxygen, carbon dioxide and water vapour are removed through stomata of leaves and lenticels of stems.",
+      "question": "What are the ways plants excrete wastes?"
+    }
+  ]
+}

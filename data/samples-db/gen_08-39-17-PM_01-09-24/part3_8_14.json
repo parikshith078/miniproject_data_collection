@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Inheritance of characters from the parents to the progeny (i.e., Heredity) ensures the passing of the parental characters to the progeny. The difference or change in the characteristics between the individuals is called Variation.",
+      "question": "What does heredity ensure in progeny?"
+    },
+    {
+      "context": "Mendel, an Austrian Augustinian monk observed variations in the characteristics of the garden pea plant (Pisum sativum) which he had cultivated in his monastery garden.",
+      "question": "What did Mendel observe in garden pea plants?"
+    },
+    {
+      "context": "Mendel was curious to find out the results of crossing of pea plants with the variation in traits. The visible contrasting characters that Mendel observed in the garden pea plants were given below: Seed shape - Round/Wrinkled Seed colour - Yellow/Green.",
+      "question": "What contrasting seed shapes did Mendel observe?"
+    },
+    {
+      "context": "The visible contrasting characters that Mendel observed in the garden pea plants were: Pod shape - Full / Constricted Pod colour - Green / Yellow Flower position - Axillary / Terminal.",
+      "question": "What were the pod shapes Mendel noted?"
+    },
+    {
+      "context": "Gregor Johann Mendel (1822 -1884) worked out the first ever scientific experimental study on heredity.",
+      "question": "Who was Gregor Mendel and what did he study?"
+    },
+    {
+      "context": "The difference or change in the characteristics between the individuals is called Variation. Human population shows a great deal of variation.",
+      "question": "What term describes the differences in individual characteristics?"
+    },
+    {
+      "context": "Inheritance from the previous generation provides both a common basic body design, and subtle changes in it, for the next generation.",
+      "question": "What does inheritance provide for the next generation?"
+    }
+  ]
+}

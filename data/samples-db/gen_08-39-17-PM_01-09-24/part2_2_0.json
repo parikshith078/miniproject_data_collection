@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "These are heterotrophic and have a cell wall. The cell wall is made of chitin. Most of the fungi are unicellular.",
+      "question": "What is the cell wall of fungi made of?"
+    },
+    {
+      "context": "They feed on decaying organic materials. Such a mode of nutrition is called saprophytic.",
+      "question": "What type of nutrition do fungi exhibit?"
+    },
+    {
+      "context": "Some fungi live in symbiotic relationships with other organisms, while some are parasites as well.",
+      "question": "What type of relationship can fungi have with other organisms?"
+    },
+    {
+      "context": "These are multicellular and autotrophs. Presence of chlorophyll is a distinct characteristic of plants.",
+      "question": "What distinguishes plants from fungi?"
+    },
+    {
+      "context": "Cell wall is present in Plantae, while fungi have a cell wall made of chitin.",
+      "question": "What is a key characteristic of the cell wall in Plantae?"
+    },
+    {
+      "context": "Many of them have the capacity to become multicellular at a certain stage in life.",
+      "question": "What ability do many unicellular fungi have?"
+    },
+    {
+      "context": "Examples: yeast, penicillium, aspergillus, mucor, etc.",
+      "question": "Give two examples of fungi."
+    },
+    {
+      "context": "They are capable of doing photosynthesis. Cell wall is present.",
+      "question": "What process are plants capable of doing due to chlorophyll?"
+    }
+  ]
+}

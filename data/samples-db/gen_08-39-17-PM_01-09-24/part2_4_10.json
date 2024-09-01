@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Childhood risk is significant. There is now extensive evidence from many countries that conditions before birth and in early childhood influence health in adult life.",
+      "question": "What influences health in adult life?"
+    },
+    {
+      "context": "For example, low birth weight is now known to be associated with increased rates of high blood pressure, heart disease, stroke, and diabetes.",
+      "question": "What are the health conditions associated with low birth weight?"
+    },
+    {
+      "context": "Ageing is an important marker of the accumulation of modifiable risks for chronic disease: the impact of risk factors increases over the life course.",
+      "question": "What is the impact of risk factors as people age?"
+    },
+    {
+      "context": "Risk Accumulation is important for understanding how chronic diseases develop over time, especially as people get older.",
+      "question": "Why is risk accumulation significant for chronic diseases?"
+    },
+    {
+      "context": "Extensive evidence shows that psychosocial factors can lead to increased health risks over an individual's lifetime.",
+      "question": "What do psychosocial factors influence in health risks?"
+    }
+  ]
+}

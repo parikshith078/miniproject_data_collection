@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The prevention of infectious diseases can be done in general and specific ways. General ways include public hygiene, proper nutrition, and safe drinking water. Specific ways involve immunization by taking vaccines that provide protection against infectious diseases.",
+      "question": "What are general ways to prevent diseases?"
+    },
+    {
+      "context": "Immunization gives a good level of protection against many serious diseases. It uses your body's natural defense mechanism, the immune response, to build resistance to specific infection.",
+      "question": "How does immunization protect against diseases?"
+    },
+    {
+      "context": "The reasons for immunizing children include preventing illness with serious infectious diseases and protecting the population by reducing the spread of diseases.",
+      "question": "What are the reasons for immunizing children?"
+    },
+    {
+      "context": "Immunization gives a good level of protection against many serious diseases. It uses your body's natural defense mechanism, the immune response, to build resistance to specific infection.",
+      "question": "What mechanism does immunization utilize?"
+    },
+    {
+      "context": "General ways include public hygiene, proper nutrition, and safe drinking water. Specific ways involve immunization by taking vaccines that provide protection against infectious diseases.",
+      "question": "How does immunization differ from general prevention methods?"
+    }
+  ]
+}

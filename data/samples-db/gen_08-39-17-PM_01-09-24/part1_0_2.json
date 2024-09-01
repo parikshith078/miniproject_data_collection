@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "There is much variation in size, shape and number of cells in different organisms, and also in various parts of the body. Most of the cells are only a few micrometres in diameter and are visible only with the help of a microscope. Cells may be spherical, spindle shaped, elongated, polyhedral or irregular in shape.",
+      "question": "What determines the shape of cells?"
+    },
+    {
+      "context": "Cells were discovered in 1665 by an English Botanist, Robert Hooke. He used a primitive microscope to observe cells in a cork slice.",
+      "question": "Who discovered cells and when?"
+    },
+    {
+      "context": "The number of cells is related to the size of the organ or body. Thus, small organisms have a limited number of cells, while the larger ones such as elephant, whale or banyan tree have a countless number of cells.",
+      "question": "How does organism size affect cell number?"
+    },
+    {
+      "context": "Most of the cells are only a few micrometres in diameter and are visible only with the help of a microscope. Cells may be spherical, spindle shaped, elongated, polyhedral or irregular in shape.",
+      "question": "What tool is necessary to see most cells?"
+    },
+    {
+      "context": "Some organisms can also have cells of different kinds. The shape of the cells is determined by the specific function they perform.",
+      "question": "Can organisms have different types of cells?"
+    }
+  ]
+}

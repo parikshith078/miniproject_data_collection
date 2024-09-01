@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "A food web is a graphical depiction of feeding connections among species of an ecological community. Food web consists of food chains of a particular ecosystem. The food web also defines the energy flow through species of a community as a result of their feeding relationships.",
+      "question": "What does a food web illustrate?"
+    },
+    {
+      "context": "The trophic level of an organism is the level it holds in a food pyramid. The sun is the source of all the energy in food chains. Green plants, usually the first level of any food chain, absorb some of the Sun’s light energy to make their own food by photosynthesis.",
+      "question": "What is the role of green plants in food chains?"
+    },
+    {
+      "context": "Predators feed on preys. A prey is an animal that predators hunt to kill and feed on. Predators include owls, snakes, wild cats, crocodiles, and sharks.",
+      "question": "What do predators feed on?"
+    },
+    {
+      "context": "The levels of a food chain (food pyramid) is called Trophic levels. The second level of the food chains is called the Primary Consumer. These consume the green plants.",
+      "question": "What is the Primary Consumer in a food chain?"
+    },
+    {
+      "context": "At the top of the levels are Predators. They are animals that have little or no natural enemies. They are the ‘bosses’ of their ecosystems.",
+      "question": "What characterizes predators in an ecosystem?"
+    },
+    {
+      "context": "Decomposers start the cycle again. When any organism dies, detrivores (like vultures, worms, and crabs) eat them up. The rest are broken down by decomposers (mostly bacteria and fungi).",
+      "question": "What is the role of decomposers in an ecosystem?"
+    }
+  ]
+}

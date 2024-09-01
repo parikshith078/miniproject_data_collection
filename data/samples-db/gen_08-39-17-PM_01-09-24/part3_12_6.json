@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Reuse and recycling technique - The separating out of materials such as rubber, glass, paper, and scrap metal from refuse and reprocessing them for reuse is named as reclamation of waste or recycling. Paper (54% recovery) can be repulped and reprocessed into recycled paper, cardboard, and other products. Glass (20% recovery) can be crushed, remelted, and made into new containers or crushed used as a substitute for gravel or sand in construction materials such as concrete and asphalt.",
+      "question": "What is the main purpose of recycling?"
+    },
+    {
+      "context": "The thinning of the ozone layer present in the stratosphere is called depletion of the ozone layer. Due to depletion of the ozone layer, harmful ultraviolet radiations will reach the surface of Earth which may lead to skin diseases and cancer.",
+      "question": "What is ozone layer depletion linked to?"
+    },
+    {
+      "context": "Ozone gas is poisonous in nature, if inhaled. The thinning of the ozone layer present in the stratosphere is called depletion of the ozone layer. To reduce the depletion of the ozone layer, the use of chemicals releasing substances like CFCs has been phased out by international agreements.",
+      "question": "What substances contribute to ozone layer depletion?"
+    },
+    {
+      "context": "Food waste and yard wastes (leaves, grass, etc.) can be composted to produce humus soil conditioner. Recycling paper can result in a 54% recovery rate while glass has a 20% recovery rate. These methods help minimize solid waste.",
+      "question": "What can composting produce from food and yard waste?"
+    },
+    {
+      "context": "Due to depletion of the ozone layer, harmful ultraviolet radiations will reach the surface of Earth which may lead to skin diseases and cancer. This environmental issue has prompted international agreements to phase out ozone-depleting substances.",
+      "question": "What issues arise from ozone layer depletion?"
+    },
+    {
+      "context": "Glass (20% recovery) can be crushed, remelted, and made into new containers or crushed used as a substitute for gravel or sand in construction materials such as concrete and asphalt. This recycling process helps reduce waste in landfills.",
+      "question": "What can recycled glass be used for?"
+    },
+    {
+      "context": "To reduce the depletion of the ozone layer, the use of chemicals releasing substances like CFCs has been phased out by international agreements. These efforts aim to protect the atmosphere from further damage caused by such substances.",
+      "question": "Why were CFCs phased out?"
+    }
+  ]
+}

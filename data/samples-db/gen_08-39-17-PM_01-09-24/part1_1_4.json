@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Ribosomes are small granular structures made up of ribo nucleic acids (RNA) and proteins. They occur free in the cytoplasm as well as attached to the outer surface of the rough endoplasmic reticulum.",
+      "question": "What are ribosomes made of?"
+    },
+    {
+      "context": "Each ribosome consists of two subunits – a small subunit and a large subunit. At the time of protein synthesis many ribosomes get attached to messenger RNA and form a structure called polyribosome or polysome.",
+      "question": "What are the two subunits of ribosomes?"
+    },
+    {
+      "context": "Ribosomes play an important role in protein synthesis. So they are called, ‘protein factories’ of the cell.",
+      "question": "Why are ribosomes called protein factories?"
+    },
+    {
+      "context": "They occur free in the cytoplasm as well as attached to the outer surface of the rough endoplasmic reticulum.",
+      "question": "Where can ribosomes be found in a cell?"
+    },
+    {
+      "context": "At the time of protein synthesis many ribosomes get attached to messenger RNA and form a structure called polyribosome or polysome.",
+      "question": "What structure do ribosomes form during protein synthesis?"
+    }
+  ]
+}

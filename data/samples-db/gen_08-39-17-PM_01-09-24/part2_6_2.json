@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Cholera is a water-borne disease caused by the bacterium, Vibrio cholerae, discovered by Robert Koch. It spreads through contaminated food and drinks, with an incubation period of a few hours to 2-3 days. Symptoms include profuse rice-water stools, vomiting, and rapid dehydration.",
+      "question": "What bacterium causes Cholera?"
+    },
+    {
+      "context": "Cholera is characterized by sudden onset of profuse, effortless, rice-water like stools, vomiting, and rapid dehydration. The excessive loss of an isotonic electrolyte solution occurs due to the cholera toxin secreted by Vibrio cholerae.",
+      "question": "What are the main symptoms of Cholera?"
+    },
+    {
+      "context": "Prevention of Cholera emphasizes proper sanitation and hygienic conditions. The cholera vaccine provides protection for only six months. Treatment involves restoring fluids and salts through Oral Rehydration Solution (ORS) and using antibiotics.",
+      "question": "How can Cholera be prevented?"
+    },
+    {
+      "context": "Diarrhoeal diseases comprise various illnesses caused by bacteria such as Shigella dysenteriae and E. coli. They can spread through food poisoning or contaminated drinks, especially in overcrowded insanitary conditions with a variable incubation period.",
+      "question": "What causes Diarrhoeal diseases?"
+    },
+    {
+      "context": "Symptoms of Diarrhoeal diseases include mild diarrhoea with loose stools for E. coli infections and frequent stools with blood for Shigella. Other symptoms may involve dehydration and increased pulse rate.",
+      "question": "What are symptoms of Diarrhoeal diseases?"
+    },
+    {
+      "context": "For Diarrhoeal diseases, it is crucial to avoid contaminated food and water. Prevention involves repeated administration of Oral Rehydration Solution (ORS) to combat dehydration and restore minerals lost.",
+      "question": "What is the primary prevention method for Diarrhoeal diseases?"
+    }
+  ]
+}

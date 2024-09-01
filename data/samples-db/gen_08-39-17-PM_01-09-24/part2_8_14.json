@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "These phenomena are the result of changes that take place in our atmosphere due to the heating of air and the formation of water vapour. Water vapour is formed due to the heating of water bodies and the activities of living organisms.",
+      "question": "What causes water vapour formation?"
+    },
+    {
+      "context": "The rise in temperature creates a low pressure zone which attracts cool air from high pressure zone and pushes up the hot air. Thus the atmosphere can be heated from below by the radiation that is reflected back or re-radiated by the land or water bodies.",
+      "question": "How does temperature affect air pressure?"
+    },
+    {
+      "context": "An air pollutant is known as a substance in the air that can cause harm to humans and the environment. Pollutants can be in the form of solid particles, liquid droplets, or gases.",
+      "question": "What defines an air pollutant?"
+    },
+    {
+      "context": "Pollutants can be in the form of solid particles, liquid droplets, or gases. In addition, they may be natural or man-made.",
+      "question": "What are the types of air pollutants?"
+    },
+    {
+      "context": "The rise in temperature creates a low pressure zone which attracts cool air from high pressure zone and pushes up the hot air. Thus the atmosphere can be heated from below by the radiation.",
+      "question": "What leads to convection currents in the air?"
+    }
+  ]
+}

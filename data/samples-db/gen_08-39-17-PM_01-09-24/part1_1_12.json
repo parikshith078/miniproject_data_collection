@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Chloroplasts are green coloured plastids which possess the photosynthetic pigment chlorophyll. Each chloroplast consists of a double membraned envelope and a matrix. The inner membrane is arranged along the length of the plastids as lamellae. At certain regions, the lamellae are thickened and appear like a pile of coins. These are called the grana.",
+      "question": "What are grana in chloroplasts?"
+    },
+    {
+      "context": "Each granum consists of disc shaped membranous sacs called thylakoids. Inside these grana, the chlorophyll is located. The non-thylakoid portion of the matrix is called stroma.",
+      "question": "Where is chlorophyll found in chloroplasts?"
+    },
+    {
+      "context": "Chloroplast is the site of photosynthesis. Leucoplasts are responsible for storing food; such as carbohydrates, protein and lipid.",
+      "question": "What is the primary role of chloroplasts?"
+    },
+    {
+      "context": "Chromoplasts impart various colours to the plant parts. A leaf of a plant is green in colour because of chloroplast.",
+      "question": "What do chromoplasts do in plants?"
+    },
+    {
+      "context": "The non-thylakoid portion of the matrix is called stroma. It contains a number of enzymes involved in photosynthesis.",
+      "question": "What is the function of enzymes in the stroma?"
+    }
+  ]
+}

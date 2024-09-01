@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "The raw material CO2 enters from the atmosphere through stomata. Water is absorbed from the soil by the plant roots. Sunlight, an important component to manufacture food, is absorbed by the chlorophyll and other green parts of the plants.",
+      "question": "What materials are needed for photosynthesis?"
+    },
+    {
+      "context": "Following are the roles of acid in our stomach: The hydrochloric acid present in our stomach dissolves bits of food and creates an acidic medium. In this acidic medium, enzyme pepsinogen is converted to pepsin, which is a protein-digesting enzyme.",
+      "question": "What does hydrochloric acid do in the stomach?"
+    },
+    {
+      "context": "Sunlight, an important component to manufacture food, is absorbed by the chlorophyll and other green parts of the plants.",
+      "question": "Why is sunlight essential in photosynthesis?"
+    },
+    {
+      "context": "The hydrochloric acid kills the harmful microbes that enter with food and thus prevents infection of digestive tract.",
+      "question": "How does acid protect the digestive system?"
+    },
+    {
+      "context": "Water is absorbed from the soil by the plant roots. Sunlight, an important component to manufacture food, is absorbed by the chlorophyll and other green parts of the plants.",
+      "question": "How do plants obtain water for photosynthesis?"
+    },
+    {
+      "context": "The hydrochloric acid present in our stomach dissolves bits of food and creates an acidic medium. In this acidic medium, enzyme pepsinogen is converted to pepsin, which is a protein-digesting enzyme.",
+      "question": "What enzyme is activated by stomach acid?"
+    },
+    {
+      "context": "The raw material CO2 enters from the atmosphere through stomata. The hydrochloric acid kills the harmful microbes that enter with food and thus prevents infection of digestive tract.",
+      "question": "Which raw material enters through stomata?"
+    },
+    {
+      "context": "Water is absorbed from the soil by the plant roots. Sunlight, an important component to manufacture food, is absorbed by the chlorophyll and other green parts of the plants.",
+      "question": "Where do plants absorb water from?"
+    },
+    {
+      "context": "In this acidic medium, enzyme pepsinogen is converted to pepsin, which is a protein-digesting enzyme.",
+      "question": "What does pepsinogen become in the stomach?"
+    },
+    {
+      "context": "The hydrochloric acid present in our stomach dissolves bits of food and creates an acidic medium.",
+      "question": "What medium does stomach acid create for digestion?"
+    }
+  ]
+}

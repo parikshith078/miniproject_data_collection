@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Scientists are working on developing some alternate energy sources so that dependency on coal and petroleum can be reduced. Some examples are given below: Solar energy is being used to produce electricity at many places. Although the technologies for solar energy are still costly but future prospects look bright.",
+      "question": "What is a potential benefit of solar energy?"
+    },
+    {
+      "context": "Hydrogen, when used as a fuel, produces water as a byproduct. Thus, hydrogen can be an environmentally-friendly fuel.",
+      "question": "Why is hydrogen considered environmentally friendly?"
+    },
+    {
+      "context": "In order to be environment-friendly, certain changes can be incorporated in our daily work at home. This includes (i) We should plant different kinds of shady plants, fruit and vegetable-bearing plants.",
+      "question": "Why should we plant different kinds of plants?"
+    },
+    {
+      "context": "There should be proper drainage systems for the water to pass in the drains. (v) There should be proper disposal of water.",
+      "question": "What is the purpose of proper drainage systems?"
+    },
+    {
+      "context": "Proper sanitary and hygiene methods must be adopted. (vii) Dustbins and other waste products should be properly covered and the garbage should not be dumped around the houses.",
+      "question": "What should be done to manage waste correctly?"
+    }
+  ]
+}

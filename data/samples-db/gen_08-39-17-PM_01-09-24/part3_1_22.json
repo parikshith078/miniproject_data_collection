@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The lungs get filled up with air during the process of inhalation as ribs are lifted up and diaphragm is flattened. The air that is rushed inside the lungs fills the numerous alveoli present in the lungs.",
+      "question": "How do lungs fill with air?"
+    },
+    {
+      "context": "Alveoli are the site for exchange of gases. The exchange of gases takes place between the blood of the capillaries that surround the alveoli and the gases present in the alveoli.",
+      "question": "What is the role of alveoli in respiration?"
+    },
+    {
+      "context": "Each lung contains 300-350 million alveoli. These numerous alveoli increase the surface area for gaseous exchange making the process of respiration more efficient.",
+      "question": "How many alveoli are in each lung?"
+    },
+    {
+      "context": "The exchange of gases takes place between the blood of the capillaries that surround the alveoli and the gases present in the alveoli.",
+      "question": "Where does gas exchange occur in the lungs?"
+    },
+    {
+      "context": "The numerous alveoli increase the surface area for gaseous exchange making the process of respiration more efficient.",
+      "question": "Why are alveoli important for respiration?"
+    }
+  ]
+}

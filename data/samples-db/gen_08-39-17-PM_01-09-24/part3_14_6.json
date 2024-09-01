@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Water harvesting is the act of collecting and storing rainwater for future use. This can be done in areas of low or high rainfall amounts using tanks and cisterns.",
+      "question": "What is water harvesting?"
+    },
+    {
+      "context": "Collecting rainfall can reduce the amount of run-off, flooding, and erosion in prone areas. This is especially relevant in urban areas where the land has been used to build infrastructure.",
+      "question": "How does water harvesting help urban areas?"
+    },
+    {
+      "context": "In more rural areas when the water is collected, the run-off into rivers and ponds is reduced which in turn slows the contamination from surface fertilizers and pesticides.",
+      "question": "What benefit does water harvesting provide in rural areas?"
+    },
+    {
+      "context": "If the collected water is to be used as drinking water, it can be treated and used in environments where drinking water is scarce.",
+      "question": "How can harvested water be used in scarce environments?"
+    },
+    {
+      "context": "Reduces the runoff volume and the peak flow, hence mitigate floods. Recharges ground water thus is a solution to water shortage problem in winters.",
+      "question": "What are two benefits of reducing runoff volume?"
+    },
+    {
+      "context": "Reduces the cost per litre of water since a large amount of power that is consumed while pumping water from subsurface aquifers can be saved.",
+      "question": "How does water harvesting lower water costs?"
+    }
+  ]
+}

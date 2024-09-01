@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Ozone (O3) is a molecule formed by three atoms of oxygen. While O2, which we normally refer to as oxygen, is essential for all aerobic forms of life. Ozone is a deadly poison. However, at the higher levels of the atmosphere, ozone performs an essential function. It shields the surface of the earth from ultraviolet (UV) radiation from the Sun.",
+      "question": "What does ozone shield the Earth from?"
+    },
+    {
+      "context": "The amount of ozone in the atmosphere began to drop sharply in the 1980s. This decrease has been linked to synthetic chemicals like chlorofluorocarbons (CFCs) which are used as refrigerants and in fire extinguishers.",
+      "question": "What chemicals are linked to ozone depletion?"
+    },
+    {
+      "context": "In 1987, the United Nations Environment Programme (UNEP) succeeded in forging an agreement to freeze CFC production at 1986 levels.",
+      "question": "What year was the CFC production freeze agreement made?"
+    },
+    {
+      "context": "The following methods are adopted for the disposal of harmful waste materials: 1. Landfills - There are permanent storage facilities in secured lands for military-related liquid and radioactive waste materials.",
+      "question": "What are landfills used for?"
+    },
+    {
+      "context": "Deep well injection involves drilling a well into dry porous material below groundwater. Hazardous waste liquids are pumped into the well.",
+      "question": "What is deep well injection used for?"
+    },
+    {
+      "context": "Incineration is the burning of materials. Hazardous biomedical wastes are usually disposed of by means of incineration.",
+      "question": "What is incineration used for?"
+    },
+    {
+      "context": "The burning of materials is called incineration. Hazardous biomedical wastes such as human anatomical wastes, discarded medicines, and toxic drugs are disposed of through this method.",
+      "question": "What types of wastes are typically incinerated?"
+    }
+  ]
+}

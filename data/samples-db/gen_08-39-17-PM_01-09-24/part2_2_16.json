@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The body is covered with spines, which gives the name echinodermata. Body is radially symmetrical. Examples: Starfish, sea urchins, etc.",
+      "question": "What is the symmetry of echinodermata?"
+    },
+    {
+      "context": "Animals are bilaterally symmetrical, triploblastic, and coelomate. Notochord is present at least at some stages of life. Examples: Balanoglossus, herdmania, amphioxus, etc.",
+      "question": "What is a key feature of protochordata?"
+    },
+    {
+      "context": "The body is covered with spines, which gives the name echinodermata. Body is radially symmetrical. Examples: Starfish, sea urchins, etc.",
+      "question": "Give two examples of echinodermata."
+    },
+    {
+      "context": "Animals are bilaterally symmetrical, triploblastic, and coelomate. Notochord is present at least at some stages of life. Examples: Balanoglossus, herdmania, amphioxus, etc.",
+      "question": "What kind of symmetry do protochordata have?"
+    }
+  ]
+}

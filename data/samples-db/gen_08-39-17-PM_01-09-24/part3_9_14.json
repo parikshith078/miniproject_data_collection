@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Different individuals of a particular species have different traits. Those with more suitable traits are selected by the nature. Each organism needs a particular trait for finding food and finding a mate.",
+      "question": "What role do traits play in survival?"
+    },
+    {
+      "context": "Those organisms which are the fittest are able to survive, while others perish. That is how many species become extinct and some species continue to evolve over a period of time.",
+      "question": "What does 'Survival of the Fittest' mean?"
+    },
+    {
+      "context": "Stanley L. Miller and Harold C. Urey conducted the Miller -Urey experiment in 1953 to demonstrate how the life would have originated on the earth.",
+      "question": "Who conducted the Miller-Urey experiment?"
+    },
+    {
+      "context": "They created an environment in laboratory which mimicked the environment of earth as it was during the time of origin of life.",
+      "question": "What did the Miller-Urey experiment simulate?"
+    },
+    {
+      "context": "Water, methane, ammonia and hydrogen were used in that experiment. The liquid was heated to initiate evaporation and electrodes were used to create electric discharge.",
+      "question": "What substances were used in the Miller-Urey experiment?"
+    }
+  ]
+}

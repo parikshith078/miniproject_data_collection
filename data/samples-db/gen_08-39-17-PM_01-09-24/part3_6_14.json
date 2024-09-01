@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "In multicellular organisms with simple body organization, simple reproductive methods have been noticed. Reproduction by fragmentation is seen in filamentous algae, e.g. spirogyra.",
+      "question": "What is reproduction by fragmentation?"
+    },
+    {
+      "context": "If the individual is somehow cut or broken up into many pieces, many of these pieces grow into separate individuals.",
+      "question": "What happens to a cut individual in regeneration?"
+    },
+    {
+      "context": "Regeneration is carried out by specialised cells. These cells proliferate and make large numbers of cells.",
+      "question": "What type of cells perform regeneration?"
+    },
+    {
+      "context": "Each fragment grows into a new individual. For example, simple animals like Hydra and Planaria can be cut into any number of pieces.",
+      "question": "Which organisms undergo fragmentation and regeneration?"
+    },
+    {
+      "context": "Reproduction by fragmentation is seen in filamentous algae, e.g. spirogyra. In Spirogyra algae, the plant body breaks up into smaller fragments.",
+      "question": "Which algae use fragmentation for reproduction?"
+    },
+    {
+      "context": "Many of these pieces grow into separate individuals. This is known as regeneration.",
+      "question": "What is the process called when pieces grow into individuals?"
+    },
+    {
+      "context": "Simple animals like Hydra and Planaria can be cut into many pieces and each piece grows into a complete organism.",
+      "question": "What type of organisms can regenerate from pieces?"
+    },
+    {
+      "context": "These cells proliferate and make large numbers of cells. Regeneration is carried out by specialised cells.",
+      "question": "What is the role of specialized cells in regeneration?"
+    }
+  ]
+}

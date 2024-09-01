@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Parenchyma characteristics include that cell walls are relatively thin, and the cells in parenchyma tissues are loosely packed. Collenchyma has irregularly thickened walls at the corners with very little space in between cells.",
+      "question": "What is the characteristic of parenchyma cells?"
+    },
+    {
+      "context": "Collenchyma has irregularly thickened walls at the corners with very little space in between cells. Sclerenchyma has uniformly thickened walls with no intercellular spaces, and additional layers of the cell wall are composed mainly of lignin.",
+      "question": "What distinguishes collenchyma from sclerenchyma?"
+    },
+    {
+      "context": "Functions of the stomata include allowing the exchange of gases (CO2 and O2) with the atmosphere, and facilitating the process of transpiration through the evaporation of water from the leaf surface.",
+      "question": "What are two functions of stomata?"
+    },
+    {
+      "context": "Sclerenchyma has uniformly thickened walls with no intercellular spaces, and additional layers of the cell wall are composed mainly of lignin.",
+      "question": "What is a key component of sclerenchyma cell walls?"
+    },
+    {
+      "context": "Parenchyma characteristics include that cell walls are relatively thin, and the cells in parenchyma tissues are loosely packed.",
+      "question": "How are parenchyma tissues structured?"
+    }
+  ]
+}

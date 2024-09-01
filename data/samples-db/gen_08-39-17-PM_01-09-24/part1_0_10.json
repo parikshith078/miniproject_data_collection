@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cell wall is made of cellulose. Cell wall is present only in plant cells. It is a rigid protective covering outside the plasma membrane. Presence of cell wall in plant cells distinguishes them from animal cells.",
+      "question": "Why are cell walls important in plant cells?"
+    },
+    {
+      "context": "The cell wall consists of three layers namely, middle lamella, primary wall and secondary wall. The middle lamella is a thin amorphous cement-like layer between two adjacent cells.",
+      "question": "What are the three layers of the cell wall?"
+    },
+    {
+      "context": "Cell wall gives a definite shape to the plant cells. It provides mechanical strength to the cell. It protects the protoplasm against injury. It gives rigidity to the cell.",
+      "question": "What are four functions of the cell wall?"
+    },
+    {
+      "context": "Most of the plant cell walls are made of cellulose. The secondary wall is a thick layer found inner to the primary wall.",
+      "question": "What material primarily composes plant cell walls?"
+    },
+    {
+      "context": "The primary wall is the first formed wall of the cell and is produced inner to the middle lamella. The secondary wall is a thick layer found inner to the primary wall.",
+      "question": "Which wall is the first formed during cell development?"
+    }
+  ]
+}

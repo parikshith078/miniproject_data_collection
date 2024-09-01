@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Muscle tissues have special filaments; called actin and myosin. When a muscle receives a nerve signal; a series of events is triggered in the muscle. Calcium ions enter the muscle cells. It results in actin and myosin filaments sliding towards each other and that is how a muscle contracts.",
+      "question": "What initiates muscle contraction?"
+    },
+    {
+      "context": "The brain is covered by a three layered system of membranes; called meninges. Cerebrospinal fluid is filled between the meninges. The CSF provides cushion to the brain against mechanical shocks.",
+      "question": "What is the function of cerebrospinal fluid?"
+    },
+    {
+      "context": "Human brain is a highly complex organ; which is mainly composed of the nervous tissue. The tissues are highly folded to accommodate a larger surface area in less space.",
+      "question": "Why is the brain tissue highly folded?"
+    },
+    {
+      "context": "Contraction in a muscle brings movement in the related organ. When a muscle receives a nerve signal; a series of events is triggered in the muscle.",
+      "question": "What does muscle contraction enable?"
+    },
+    {
+      "context": "The brain is covered by a three layered system of membranes; called meninges. The meninges protect the brain and spinal cord from injury.",
+      "question": "What is the role of the meninges?"
+    },
+    {
+      "context": "Calcium ions enter the muscle cells. It results in actin and myosin filaments sliding towards each other and that is how a muscle contracts.",
+      "question": "What role do calcium ions play in muscle contraction?"
+    },
+    {
+      "context": "Cerebrospinal fluid is filled between the meninges. The CSF provides cushion to the brain against mechanical shocks. Furthermore, the brain is housed inside the skull for optimum protection.",
+      "question": "How does the skull protect the brain?"
+    }
+  ]
+}

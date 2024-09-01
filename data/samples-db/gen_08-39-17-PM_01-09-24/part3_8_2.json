@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Human beings are complex animals and hence there is a distinct phase in their life cycle which marks the onset and attainment of sexual maturity. This period is called puberty. It usually starts at around 10 – 11 years of age in girls and at around 12 – 13 years of age in boys. It usually ends at around 18th year of age in girls and at around 19th year of age in boys.",
+      "question": "What marks the onset of sexual maturity?"
+    },
+    {
+      "context": "The boys suddenly grow in height dramatically. Voice becomes deep and the Adam’s apple becomes prominent. Shoulders become broad and body becomes muscular. Facial hairs begin to grow. Hairs also grow under the armpit and in the pubic region.",
+      "question": "What physical changes occur in boys during puberty?"
+    },
+    {
+      "context": "It usually starts at around 10 – 11 years of age in girls and at around 12 – 13 years of age in boys. It usually ends at around 18th year of age in girls and at around 19th year of age in boys.",
+      "question": "At what age does puberty typically start for boys?"
+    },
+    {
+      "context": "This period is called puberty. It usually starts at around 10 – 11 years of age in girls and at around 12 – 13 years of age in boys. It usually ends at around 18th year of age in girls and at around 19th year of age in boys.",
+      "question": "What is the duration of puberty in girls?"
+    },
+    {
+      "context": "Voice becomes deep and the Adam’s apple becomes prominent. Shoulders become broad and body becomes muscular. Facial hairs begin to grow. Hairs also grow under the armpit and in the pubic region.",
+      "question": "What changes occur to a boy's voice during puberty?"
+    }
+  ]
+}

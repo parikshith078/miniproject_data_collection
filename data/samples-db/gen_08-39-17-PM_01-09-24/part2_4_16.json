@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Diseases are caused by various factors including pathogens like virus, bacteria, fungi, protozoans or worms. Poor health and undernourishment can also lead to diseases, along with malfunctioning body parts and environmental pollution. Genetic disorders are another cause of diseases.",
+      "question": "What are causes of diseases?"
+    },
+    {
+      "context": "Infectious diseases are caused by microorganisms such as viruses, bacteria, fungi or parasites and can spread between individuals. Microorganisms that cause disease are collectively called pathogens.",
+      "question": "What are infectious agents?"
+    },
+    {
+      "context": "Pathogens like virus, bacteria, fungi, protozoans or worms are known to cause diseases. Poor health or environmental pollution can also contribute to the development of diseases.",
+      "question": "What role do pathogens play in diseases?"
+    },
+    {
+      "context": "Diseases can arise from poor health and undernourishment. Malfunctioning body parts and environmental factors also contribute significantly. Genetic disorders are known causes of some diseases.",
+      "question": "How does undernourishment contribute to diseases?"
+    },
+    {
+      "context": "Microorganisms that cause disease are collectively called pathogens. Infectious diseases, in particular, are spread between individuals through various means.",
+      "question": "What are pathogens?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Excretion is the process by which the metabolic waste by-products are removed from the different organs and released out from the body. This process is essential for maintaining homeostasis and preventing the buildup of harmful substances in the body.",
+      "question": "What is the process of excretion?"
+    },
+    {
+      "context": "Multicellular organisms such as humans possess complex body designs. They have specialised cells and tissues for performing various necessary functions of the body such as intake of food and oxygen. These adaptations enhance their ability to meet metabolic demands.",
+      "question": "What do multicellular organisms possess for functions?"
+    },
+    {
+      "context": "Excretion is the process by which the metabolic waste by-products are removed from the different organs. This removal is crucial as it helps to keep bodily functions running smoothly and prevents toxicity from waste accumulation.",
+      "question": "Why is excretion important for organisms?"
+    },
+    {
+      "context": "Multicellular organisms such as humans possess complex body designs. They require specialised cells that perform specific tasks, including the intake of oxygen, which is vital for cellular respiration and energy production.",
+      "question": "What role does oxygen play in multicellular organisms?"
+    },
+    {
+      "context": "Excretion is the process by which the metabolic waste by-products are removed from the body. It involves organs like the kidneys that filter blood and eliminate waste through urine.",
+      "question": "Which organs are involved in excretion?"
+    }
+  ]
+}

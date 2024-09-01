@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Amphibians need water to lay eggs and fertilization is external. Reptilians do not need water to lay eggs and fertilization is internal.",
+      "question": "How do amphibians fertilize their eggs?"
+    },
+    {
+      "context": "Amphibians use both skin and lungs for breathing. Reptilians breathe through lungs only.",
+      "question": "What is the breathing method of amphibians?"
+    },
+    {
+      "context": "In aves, body is covered with feathers; while in mammals, body is covered with hairs.",
+      "question": "What covers the body of mammals?"
+    },
+    {
+      "context": "Mammary glands are absent in aves. Forelimbs of aves are modified into wings which is not the case in mammals.",
+      "question": "What structure is modified into wings in aves?"
+    },
+    {
+      "context": "Aves are oviparous, while most of the mammals are viviparous.",
+      "question": "What type of reproduction do mammals typically have?"
+    }
+  ]
+}

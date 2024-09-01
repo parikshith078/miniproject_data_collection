@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cardiac muscles are involuntary muscles that control the contraction and relaxation of the heart. The cells of cardiac muscles are in the form of branched fibres, are cylindrical, and uninucleate. Striations are present in these muscles, which are capable of continuous contraction and relaxation throughout life.",
+      "question": "What type of muscles control heart contractions?"
+    },
+    {
+      "context": "Three features of cardiac muscles are: (i) Cardiac muscles are involuntary muscles that contract rapidly, but do not get fatigued. (ii) The cells of cardiac muscles are cylindrical, branched, and uninucleate. (iii) They control the contraction and relaxation of the heart.",
+      "question": "Do cardiac muscles get fatigued quickly?"
+    },
+    {
+      "context": "The cells of this tissue are called nerve cells or neurons. A neuron consists of a cell body with a nucleus and cytoplasm, from which long thin hair-like parts arise. Usually, each neuron has a single long part, called the axon, and many short, branched parts called dendrites.",
+      "question": "What are the main components of a neuron?"
+    },
+    {
+      "context": "A neuron consists of a cell body with a nucleus and cytoplasm. It has two important extensions known as the axon and dendrites. An axon is a long thread-like extension of nerve cells that transmits impulses away from the cell body.",
+      "question": "What is the function of the axon in a neuron?"
+    },
+    {
+      "context": "The brain, spinal cord and nerves are all composed of the nervous tissue. The cells of this tissue are called nerve cells or neurons. This coordinated function helps in transmitting impulses very quickly.",
+      "question": "Which organs are made of nervous tissue?"
+    }
+  ]
+}

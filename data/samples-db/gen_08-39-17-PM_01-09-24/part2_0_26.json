@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Columnar epithelium facilitates secretion and absorption. For example; the lining of intestine is composed of columnar epithelium.",
+      "question": "What is the function of columnar epithelium?"
+    },
+    {
+      "context": "In some organs, columnar epithelium has cilia present on the outer surface. Cilia facilitate movements of certain substances.",
+      "question": "What role do cilia play in columnar epithelium?"
+    },
+    {
+      "context": "Cells of the stratified epithelium are in many layers. Skin is an example of stratified epithelium.",
+      "question": "What is a key characteristic of stratified epithelium?"
+    },
+    {
+      "context": "Stratification of layers prevents wear and tear. Skin is an example of stratified epithelium.",
+      "question": "How does stratified epithelium protect the body?"
+    },
+    {
+      "context": "The ciliated epithelium in the respiratory tract pushes the mucus forward.",
+      "question": "What does ciliated epithelium do in the respiratory tract?"
+    }
+  ]
+}

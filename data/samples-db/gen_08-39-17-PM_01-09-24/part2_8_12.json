@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Green plants convert carbon dioxide into glucose in the presence of Sunlight and many marine animals use carbonates dissolved in sea-water to make their shells.",
+      "question": "What do green plants convert carbon dioxide into?"
+    },
+    {
+      "context": "The atmosphere covers the Earth, like a blanket. We know that air is a bad conductor of heat. The atmosphere keeps the average temperature of the Earth fairly steady during the day and even during the course of the whole year.",
+      "question": "How does the atmosphere affect Earth's temperature?"
+    },
+    {
+      "context": "The atmosphere prevents the sudden increase in temperature during the daylight hours. And during the night, it slows down the escape of heat into outer space.",
+      "question": "What role does the atmosphere play during the night?"
+    },
+    {
+      "context": "The moon, which is about the same distance from the Sun that the Earth is, with no atmosphere, the temperature ranges from –190º C to 110º C.",
+      "question": "How does the Moon's temperature compare to Earth's?"
+    },
+    {
+      "context": "Many marine animals use carbonates dissolved in sea-water to make their shells. Role of Atmosphere in Climate Control.",
+      "question": "What do marine animals use to create their shells?"
+    }
+  ]
+}

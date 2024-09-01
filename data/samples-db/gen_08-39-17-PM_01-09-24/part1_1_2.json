@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Lysosomes are small membrane bound vesicles which contain various types of digestive enzymes. These serve as intracellular digestive system, hence they are called digestive bags.",
+      "question": "What are lysosomes often referred to as?"
+    },
+    {
+      "context": "They are produced by the joint activity of Endoplasmic reticulum and Golgi apparatus.",
+      "question": "Which two cellular structures produce lysosomes?"
+    },
+    {
+      "context": "If the membrane of Lysosome happens to get ruptured, the enzymes of Lysosome would digest the entire cellular structure causing death of the cell.",
+      "question": "What happens if a lysosome membrane ruptures?"
+    },
+    {
+      "context": "Lysosomes are involved in the intracellular digestion of food particles ingested by the cell through endocytosis.",
+      "question": "What is the role of lysosomes in digestion?"
+    },
+    {
+      "context": "The lysosomes of WBCs (White blood cells) destroy pathogens and other foreign particles and thus take part in natural defence of the body.",
+      "question": "How do lysosomes contribute to the immune system?"
+    }
+  ]
+}

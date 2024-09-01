@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The cells of collenchyma are polygonal in cross section and have unevenly thickened walls. These thickenings are due to the deposition of more cellulose, hemicellulose and pectin. The thickening is confined to the corners of the cells.",
+      "question": "What causes the thickening of collenchyma walls?"
+    },
+    {
+      "context": "They generally occur in the dicot stem in two or more layers below the epidermis. It is absent in the roots. It also occurs in petiole and pedicel.",
+      "question": "Where is collenchyma commonly found?"
+    },
+    {
+      "context": "Like Parenchyma, Collenchyma is also a living tissue. The main function of Collenchyma is to provide strength and flexibility to the growing organs like young stem.",
+      "question": "What is the main function of collenchyma?"
+    },
+    {
+      "context": "Sclerenchyma is a dead tissue. The cells are thick with lignified walls. They give mechanical support to the organs.",
+      "question": "What type of support does sclerenchyma provide?"
+    },
+    {
+      "context": "This has two types of cells – Sclereids and Fibres.",
+      "question": "What are the two types of cells in sclerenchyma?"
+    }
+  ]
+}

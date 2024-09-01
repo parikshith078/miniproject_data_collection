@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Diabetes is characterized by raised blood glucose (sugar) levels. This results from a lack of the hormone insulin, which controls blood glucose levels, and/or an inability of the body’s tissues to respond properly to insulin.",
+      "question": "What hormone controls blood glucose levels?"
+    },
+    {
+      "context": "The most common type of diabetes is type 2, which accounts for about 90% of all diabetes and is largely the result of excessive weight and physical inactivity.",
+      "question": "What type of diabetes is most common?"
+    },
+    {
+      "context": "The usual childhood form of diabetes (type 1 diabetes) is caused by an absolute lack of insulin. Without insulin, type 1 diabetes is rapidly fatal.",
+      "question": "What causes type 1 diabetes?"
+    },
+    {
+      "context": "The causes (risk factors) of chronic diseases are well established and well known; a small set of common risk factors are responsible for most of the main chronic diseases.",
+      "question": "What are common risk factors for chronic diseases?"
+    },
+    {
+      "context": "These risk factors are modifiable and the same in men and women: Unhealthy diet; Physical inactivity; Tobacco use.",
+      "question": "Name a modifiable risk factor for chronic diseases."
+    },
+    {
+      "context": "Type 2 diabetes accounts for about 90% of all diabetes and is largely the result of excessive weight and physical inactivity.",
+      "question": "What contributes to type 2 diabetes?"
+    }
+  ]
+}

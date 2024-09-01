@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Viral diseases are extremely widespread infections caused by viruses, a type of microorganism. There are many types of viruses that cause a wide variety of viral diseases.",
+      "question": "What causes viral diseases?"
+    },
+    {
+      "context": "The most common type of viral disease is the common cold, which is caused by a viral infection of the upper respiratory tract.",
+      "question": "What is the most common viral disease?"
+    },
+    {
+      "context": "Common ways that viruses spread from person to person include breathing in air-borne droplets contaminated with a virus.",
+      "question": "How do viruses commonly spread?"
+    },
+    {
+      "context": "Other common viral diseases include Chickenpox, Flu (influenza), Herpes, and HIV/AIDS.",
+      "question": "Name two common viral diseases."
+    },
+    {
+      "context": "Viral diseases are contagious and spread from person to person when a virus enters the body and begins to multiply.",
+      "question": "How do viral diseases spread between people?"
+    },
+    {
+      "context": "Transmission can occur through eating food or drinking water contaminated with a virus.",
+      "question": "What is one way viruses can be transmitted?"
+    },
+    {
+      "context": "Indirect transmission can occur from a virus host, such as a mosquito, tick, or field mouse.",
+      "question": "What is indirect transmission?"
+    },
+    {
+      "context": "Touching surfaces or body fluids contaminated with a virus can also lead to transmission.",
+      "question": "What is another mode of transmission for viruses?"
+    },
+    {
+      "context": "Human immunodeficiency virus (HIV/AIDS) is one of the many viral diseases listed.",
+      "question": "What does HIV/AIDS stand for?"
+    },
+    {
+      "context": "Viral diseases include infections like mumps, measles, and rubella.",
+      "question": "List one viral disease from the text."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Osmosis is the movement of water molecules from a region of high concentration to a region of low concentration through a selectively permeable membrane. It is essential for maintaining cellular functions and equilibrium. Osmosis occurs until there is an equal concentration of water on both sides of the membrane.",
+      "question": "What is the importance of osmosis?"
+    },
+    {
+      "context": "To conduct an osmosis experiment, prepare four peeled potato halves, scooping them out to form potato cups. Place these cups in a water trough to observe the effects of water movement into the potato cells. One cup should be from a boiled potato to analyze structural differences.",
+      "question": "How do potato cups demonstrate osmosis?"
+    },
+    {
+      "context": "The experiment involving potato cups illustrates osmosis by showcasing how different potato types respond to water in a trough. The boiled potato cup may not absorb water effectively due to its altered cellular structure, unlike the raw potato cups.",
+      "question": "Why use boiled and raw potatoes in this experiment?"
+    },
+    {
+      "context": "During the osmosis experiment, after placing the potato cups in water, it is important to observe the changes over time. The raw potato cups should swell as water enters, while the boiled potato cup will likely remain unchanged due to its impermeable structure.",
+      "question": "What changes should you expect in raw potato cups?"
+    }
+  ]
+}

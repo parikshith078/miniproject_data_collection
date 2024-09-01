@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cells constitute various components of plants and animals. A cell is the smallest unit of life and is capable of all living functions. Cells are the building blocks of life. This is the reason why cells are referred to as the basic structural and functional units of life.",
+      "question": "What are the basic structural units of life?"
+    },
+    {
+      "context": "A cell is made of life giving substance called protoplasm. The protoplasm is a highly organised jelly-like, viscous, semi-fluid, composed of molecules of various chemicals. Most of these are organic molecules such as proteins, carbohydrates, fats, nucleic acid etc.",
+      "question": "What is protoplasm primarily composed of?"
+    },
+    {
+      "context": "In fact, the shape and size of the cell are related to the specific functions they perform. Structure of Cell Protoplasm is important for understanding how cells carry out their functions efficiently.",
+      "question": "How does cell shape affect its function?"
+    },
+    {
+      "context": "Protoplast denotes the whole of protoplasm present in a cell. It is differentiated into plasma membrane, nucleus and cytoplasm.",
+      "question": "What does the term protoplast refer to?"
+    },
+    {
+      "context": "A plant cell consists of a cell wall and protoplast. Cell wall is absent in animal cells. Protoplasm is commonly called the ‘physical basis of life’.",
+      "question": "Why is protoplasm referred to as the physical basis of life?"
+    }
+  ]
+}

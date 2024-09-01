@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Cattle should be protected from diseases. Diseases in cattle are caused by both external and internal parasites. External parasites live on the skin and cause skin diseases. Internal parasites affect the stomach and intestinal parts.",
+      "question": "What causes diseases in cattle?"
+    },
+    {
+      "context": "Certain preventive measures of diseases in animals are listed: Proper disposal of dead animals and animal wastes. Shelters should be clean, dry and well ventilated. Periodic visit of veterinary physician to check the animals.",
+      "question": "What are some preventive measures for cattle diseases?"
+    },
+    {
+      "context": "Infectious diseases are caused by pathogens like bacteria, viruses and fungi. Sheds should be cleaned and disinfected regularly. Vaccination against various diseases should be provided to farm animals.",
+      "question": "What are infectious diseases caused by?"
+    },
+    {
+      "context": "Vaccination against various diseases should be provided to farm animals. Milk production centres should be maintained for the animals which give birth to young ones. Milk production depends on duration of lactation period.",
+      "question": "What affects milk production in cattle?"
+    },
+    {
+      "context": "Proper disposal of dead animals and animal wastes. Shelters should be clean, dry and well ventilated. Periodic visit of veterinary physician to check the animals.",
+      "question": "How can shelters for cattle be maintained?"
+    },
+    {
+      "context": "Diseases in cattle are caused by both external and internal parasites. External parasites live on the skin and cause skin diseases. Internal parasites affect the stomach and intestinal parts.",
+      "question": "What are external parasites responsible for?"
+    },
+    {
+      "context": "Vaccination should be given against various diseases. Milk production centres should be maintained for the animals which give birth to young ones. Milk production depends on duration of lactation period.",
+      "question": "What role does milk production play in dairy cattle management?"
+    }
+  ]
+}

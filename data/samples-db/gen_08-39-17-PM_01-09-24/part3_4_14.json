@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Medulla forms the brain stem; along with the pons. It lies at the base of the brain and continues into the spinal cord. Medulla controls various involuntary functions; like heartbeat, respiration, etc.",
+      "question": "What functions does the medulla control?"
+    },
+    {
+      "context": "Reflex arcs are formed in the spinal cord and the information (input) reaches the brain. The brain is only aware of the signal and the response that has taken place. However, the brain has no role to play in the creation of the response.",
+      "question": "Where are reflex arcs formed in the body?"
+    },
+    {
+      "context": "Medulla forms the brain stem; along with the pons. It lies at the base of the brain and continues into the spinal cord. Medulla controls various involuntary functions; like heartbeat, respiration, etc.",
+      "question": "What part does medulla play in the body?"
+    },
+    {
+      "context": "Reflex arcs are formed in the spinal cord and the information (input) reaches the brain. The brain is only aware of the signal and the response that has taken place. However, the brain has no role to play in the creation of the response.",
+      "question": "Does the brain create the response in a reflex arc?"
+    }
+  ]
+}

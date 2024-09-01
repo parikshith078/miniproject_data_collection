@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Reproduction is an integral feature of all living beings. The process by which a living being produces its own like is called reproduction. Importance of Reproduction: Reproduction is important for each species, because this is the only way for a living being to continue its lineage.",
+      "question": "What is the purpose of reproduction?"
+    },
+    {
+      "context": "Reproduction helps in maintaining a proper balance among various biotic constituents of the ecosystem. Moreover, reproduction also facilitates evolution because variations come through reproduction; over several generations.",
+      "question": "How does reproduction support ecosystems?"
+    },
+    {
+      "context": "There are two main types, viz. asexual and sexual reproduction. Asexual Reproduction: When a single parent is involved and no gamete formation takes place; the method is called asexual reproduction.",
+      "question": "What characterizes asexual reproduction?"
+    },
+    {
+      "context": "When two parents are involved and gamete formation takes; the method is called sexual reproduction. Meiosis happens during gamete formation; which is an important step of sexual reproduction.",
+      "question": "What occurs during sexual reproduction?"
+    },
+    {
+      "context": "Reproduction is important for the whole ecosystem. Reproduction helps in maintaining a proper balance among various biotic constituents of the ecosystem.",
+      "question": "Why is reproduction vital for ecosystems?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Athlete's foot is a fungal skin infection that infects approximately 10 percent of the United States population. It is most common among adolescents and adults; however, it may affect people of any age.",
+      "question": "Who is most commonly affected by athlete's foot?"
+    },
+    {
+      "context": "Scalp itch is a fungal infection of the scalp and hair. It usually occurs in young children, but may appear in all age groups.",
+      "question": "What age group is most affected by scalp itch?"
+    },
+    {
+      "context": "Athlete's foot can grow on the feet in different forms, including Interdigital, Moccasin, Vesicular, and Ulcerative.",
+      "question": "What are the forms of athlete's foot?"
+    },
+    {
+      "context": "An antifungal drug called griseofulvin cures scalp itch in one to three months.",
+      "question": "What drug is used to treat scalp itch?"
+    },
+    {
+      "context": "Scalp itch is contagious and may be spread from child to child in a school or day care setting.",
+      "question": "How is scalp itch transmitted?"
+    },
+    {
+      "context": "It is most common among adolescents and adults; however, it may affect people of any age.",
+      "question": "At what age can athlete's foot occur?"
+    }
+  ]
+}

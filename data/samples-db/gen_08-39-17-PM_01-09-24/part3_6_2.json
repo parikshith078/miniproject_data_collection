@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In case of any injury to the spinal cord, the signals coming from the nerves as well as the signals coming to the receptors will be disrupted.",
+      "question": "What happens to signals during spinal cord injury?"
+    },
+    {
+      "context": "Plants respond to stimuli by showing movements. The growth, development, and responses to the environment in plants is controlled and coordinated by a special class of chemical substances known as hormones.",
+      "question": "How do plants respond to environmental stimuli?"
+    },
+    {
+      "context": "The five major types of phytohormone are auxins, gibberellins, cytokinins, abscisic acid, and ethylene.",
+      "question": "What are the five major types of phytohormones?"
+    },
+    {
+      "context": "These phytohormones are either growth promoters (such as auxins, gibberellins, cytokinins, and ethylene) or growth inhibitors such as abscisic acid.",
+      "question": "What role do phytohormones play in growth?"
+    },
+    {
+      "context": "However, plants do not have a nervous system. Plants respond to stimuli by showing movements.",
+      "question": "Why do plants not have a nervous system?"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "The study of classification of various organisms gives us idea about the evolutionary history of an organism. Organisms that share certain similar characteristics are grouped together, indicating they may have evolved from common ancestors with a shared evolutionary history.",
+      "question": "What does classification reveal about evolution?"
+    },
+    {
+      "context": "Fossils, the preserved remains of ancient organisms, provide evidence that present-day animals have evolved from previously existing ones through continuous evolution. They help reconstruct the evolutionary history of organisms and indicate the timeline for when different species emerged or became extinct.",
+      "question": "How do fossils help in understanding evolution?"
+    },
+    {
+      "context": "Homologous organs have the same basic structure and origin but perform different functions, such as the forelimbs of frogs, birds, and humans. Analogous organs have different structures and origins but perform similar functions, such as the wings of insects versus those of birds.",
+      "question": "What is a homologous organ example?"
+    },
+    {
+      "context": "Life is believed to have developed from simple inorganic molecules present on early Earth, through processes such as chemical synthesis facilitated by lightning in a primordial atmosphere. This led to the formation of organic molecules, including amino acids necessary for protein synthesis, illustrating how inanimate matter gave rise to life.",
+      "question": "What is believed to be the origin of life?"
+    },
+    {
+      "context": "Sexual reproduction, involving the fusion of gametes, results in greater variability among offsprings due to recombination of parental genes, promoting faster evolution. In contrast, asexual reproduction produces exact copies of the parent, resulting in fewer variations.",
+      "question": "How does sexual reproduction affect variability?"
+    },
+    {
+      "context": "The environment encompasses all surroundings where living organisms exist, which may include various habitats like cities, towns, and rural areas. It includes both biotic (living) and abiotic (non-living) factors like air, water, and soil that interact with organisms.",
+      "question": "What constitutes an environment?"
+    },
+    {
+      "context": "Pollution is defined as any undesirable change in the physical, chemical, or biological characteristics of the environment that adversely affects human life. Pollutants can originate from both natural occurrences and human activities, with common examples like sulfur dioxide and mercury.",
+      "question": "What is the definition of pollution?"
+    },
+    {
+      "context": "Waste can be divided into biodegradable and non-biodegradable categories. Biodegradable wastes can be broken down by biological processes (e.g., vegetable waste), while non-biodegradable wastes (e.g., plastics) cannot be decomposed and pose a threat to the environment.",
+      "question": "What are the types of waste classification?"
+    },
+    {
+      "context": "Biodegradable substances can help return nutrients to the environment but may release gases that contribute to pollution. On the other hand, non-biodegradable substances can create toxic environments and hinder the flow of energy and minerals in ecosystems.",
+      "question": "What impact do non-biodegradable substances have?"
+    },
+    {
+      "context": "An ecosystem consists of biotic components (producers, consumers, decomposers) and abiotic components (air, water, soil). Each component plays a vital role in maintaining the balance necessary for the ecosystem's health.",
+      "question": "What are the main components of an ecosystem?"
+    }
+  ]
+}

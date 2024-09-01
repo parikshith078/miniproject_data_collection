@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Bacteria are the simplest and one of the oldest organisms on the earth. Their simple body design does not make them weak from any angle.",
+      "question": "Why are bacteria considered simple organisms?"
+    },
+    {
+      "context": "Many scientific investigations have shown that the modern humans evolved in Africa. They migrated towards north; in due course of time and settled near what is known as the Mediterranean Sea.",
+      "question": "Where did modern humans evolve according to scientific investigations?"
+    },
+    {
+      "context": "The modern humans are called Homo sapiens. They migrated in different directions from that area after the ice age ended.",
+      "question": "What are modern humans scientifically classified as?"
+    },
+    {
+      "context": "When the ice age ended, melting of ice resulted in the rise in water level. The humans migrated in different directions from that area.",
+      "question": "What caused humans to migrate in different directions?"
+    },
+    {
+      "context": "Evolution does not mean progress in every case. This can be proved by example of bacteria.",
+      "question": "Does evolution always indicate progress?"
+    }
+  ]
+}

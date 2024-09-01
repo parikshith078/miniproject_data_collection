@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Heterotrophic nutrition is typical of animals. These organisms eat organic matter in other organisms —either alive (as hunters) or dead (as scavengers).",
+      "question": "What is typical of heterotrophic nutrition?"
+    },
+    {
+      "context": "They digest dead materials using enzymes that they secrete externally.",
+      "question": "How do saprotrophic organisms digest materials?"
+    },
+    {
+      "context": "During photosynthesis; the solar energy is converted into chemical energy and carbohydrates are formed.",
+      "question": "What energy is converted during photosynthesis?"
+    },
+    {
+      "context": "Green leaves are the main sites of photosynthesis.",
+      "question": "Where does photosynthesis mainly occur?"
+    },
+    {
+      "context": "Saprotrophic organisms are the decay organisms.",
+      "question": "What type of organisms are saprotrophic organisms?"
+    }
+  ]
+}

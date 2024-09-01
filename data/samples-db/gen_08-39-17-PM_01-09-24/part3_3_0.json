@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Fats are present in the form of large globules in the small intestine. The small intestine gets the secretions in the form of bile juice and pancreatic juice respectively from the liver and the pancreas. The bile salts (from the liver) break down the large fat globules into smaller globules so that the pancreatic enzymes can easily act on them.",
+      "question": "What is the role of bile salts in digestion?"
+    },
+    {
+      "context": "Bile salts (from the liver) break down the large fat globules into smaller globules so that the pancreatic enzymes can easily act on them. This is referred to as emulsification of fats. It takes place in the small intestine.",
+      "question": "What is emulsification of fats?"
+    },
+    {
+      "context": "The small intestine gets the secretions in the form of bile juice and pancreatic juice respectively from the liver and the pancreas. The bile salts (from the liver) break down the large fat globules into smaller globules.",
+      "question": "What secretions are involved in fat digestion?"
+    },
+    {
+      "context": "The bile salts break down the large fat globules into smaller globules so that the pancreatic enzymes can easily act on them. This is referred to as emulsification of fats.",
+      "question": "How do pancreatic enzymes access fats?"
+    },
+    {
+      "context": "Fats are present in the form of large globules in the small intestine. Bile salts (from the liver) break down the large fat globules into smaller globules.",
+      "question": "Where do fats exist in the digestive system?"
+    },
+    {
+      "context": "Emulsification of fats takes place in the small intestine. Bile salts help in this process of breaking down fat globules.",
+      "question": "Where does emulsification of fats occur?"
+    }
+  ]
+}

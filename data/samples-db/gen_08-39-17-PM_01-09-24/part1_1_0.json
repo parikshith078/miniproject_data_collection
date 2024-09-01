@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Golgi apparatus consists of saucer-like compartments called cisternae, network of interconnecting tubules, vesicles and vacuoles at the peripheral regions.",
+      "question": "What are the components of the Golgi apparatus?"
+    },
+    {
+      "context": "In plant cells, Golgi apparatus is referred to as dictyosomes.",
+      "question": "What is the Golgi apparatus called in plant cells?"
+    },
+    {
+      "context": "Golgi apparatus is involved in the formation of lysosomes and is responsible for the synthesis of cell wall and cell membrane.",
+      "question": "What are two functions of the Golgi complex?"
+    },
+    {
+      "context": "Functions of Golgi Complex include the formation of lysosomes and synthesis of cell structures.",
+      "question": "What does the Golgi complex help form in cells?"
+    },
+    {
+      "context": "The Golgi complex consists of compartment-like structures known as cisternae and a network of tubules.",
+      "question": "What type of structures make up the Golgi complex?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Field crops are infested by a large number of weeds, insect pests, and diseases. If weeds and pests are not controlled at the appropriate time, they can damage the crops significantly. Control methods include the use of herbicides, pesticides, and fungicides.",
+      "question": "What causes crop damage?"
+    },
+    {
+      "context": "Preventive measures such as proper seedbed preparation, timely sowing of crops, intercropping, and crop rotation also help in weed control.",
+      "question": "What are some preventive measures against weeds?"
+    },
+    {
+      "context": "Some other preventive measures against pests are the use of resistant varieties and summer ploughing.",
+      "question": "How can pests be prevented?"
+    },
+    {
+      "context": "Factors responsible for storage losses are biotic (insects, rodents, fungi) and abiotic (moisture and temperature).",
+      "question": "What factors cause storage losses?"
+    },
+    {
+      "context": "Preventive methods and biological control should be preferred for protecting crops because excessive use of chemicals causes environmental problems and can harm the crops themselves.",
+      "question": "Why avoid excessive chemical use in crop protection?"
+    }
+  ]
+}

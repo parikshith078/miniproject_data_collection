@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Contributions to Conservation of Natural Resources include limited use of water and plantation in free areas. These methods can help sustain ecosystems and preserve biodiversity.",
+      "question": "What is a method to conserve natural resources?"
+    },
+    {
+      "context": "Actions increasing pressure on natural resources include extra use of water and unnecessary trafficking by car, leading to environmental degradation.",
+      "question": "What is one action that pressures natural resources?"
+    },
+    {
+      "context": "Utilizing smokeless fuel is one of the contributions to conservation of natural resources, as it reduces air pollution and conserves energy.",
+      "question": "How does smokeless fuel help conservation?"
+    },
+    {
+      "context": "Plantation in free areas can help restore habitats and promote biodiversity, making it an effective conservation strategy.",
+      "question": "Why is planting in free areas important?"
+    },
+    {
+      "context": "Day and night lighting contributes to the overconsumption of electricity, further straining natural resources and increasing energy demand.",
+      "question": "What effect does continuous lighting have on resources?"
+    },
+    {
+      "context": "Limited use of petrol and diesel is essential for reducing our carbon footprint and conserving fossil fuels, which are finite resources.",
+      "question": "Why is limiting petrol usage important?"
+    },
+    {
+      "context": "Irrigation of plants assists in maintaining their health, but excessive irrigation can lead to water scarcity and soil degradation.",
+      "question": "What can irrigation do for plants?"
+    },
+    {
+      "context": "Destroying plants through various means leads to habitat loss and negatively impacts the balance within ecosystems.",
+      "question": "What happens when plants are destroyed?"
+    },
+    {
+      "context": "The burning of polythene and wastes produces harmful emissions that can pollute air and soil, creating a lasting impact on the environment.",
+      "question": "What are the effects of burning waste?"
+    },
+    {
+      "context": "The excessive use of water can lead to scarcity, affecting both agricultural and municipal water supplies significantly.",
+      "question": "What is the consequence of extra water usage?"
+    }
+  ]
+}

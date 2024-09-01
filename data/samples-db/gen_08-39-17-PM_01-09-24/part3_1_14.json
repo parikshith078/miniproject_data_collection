@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Aerobic respiration happens in the presence of oxygen and releases energy. Pyruvic acid is converted into carbon dioxide and water molecules are formed in this process.",
+      "question": "What is produced in aerobic respiration?"
+    },
+    {
+      "context": "Anaerobic respiration occurs in the absence of oxygen, where pyruvic acid is converted into either ethyl alcohol or lactic acid.",
+      "question": "What do pyruvic acid convert into during anaerobic respiration?"
+    },
+    {
+      "context": "When running fast, pain in leg muscles occurs due to anaerobic respiration, resulting in lactic acid formation.",
+      "question": "What causes pain in leg muscles during running?"
+    },
+    {
+      "context": "In anaerobic respiration of muscle cells, lactic acid is formed, which leads to muscle pain after intense exercise.",
+      "question": "What substance causes muscle pain after intense exercise?"
+    },
+    {
+      "context": "Muscles compensate for energy demands with anaerobic respiration, leading to a buildup of lactic acid during intense activity.",
+      "question": "How do muscles meet increased energy demands?"
+    }
+  ]
+}

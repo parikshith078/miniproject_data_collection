@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The cells of a connective tissue are loosely scattered in a matrix. The matrix can be a fluid, jelly-like, dense or rigid. The nature of matrix depends on the function a connective tissue serves.",
+      "question": "What determines the nature of connective tissue matrix?"
+    },
+    {
+      "context": "Areolar tissue fills the gap between tissues and provides support. It also helps in the repair of tissues.",
+      "question": "What is one function of Areolar connective tissue?"
+    },
+    {
+      "context": "Areolar tissue is found between skin and muscles, around blood vessels and nerves and in bone marrow.",
+      "question": "Where is Areolar connective tissue located?"
+    },
+    {
+      "context": "The various connective tissues include Areolar, Dense, Adipose, Bone, Cartilage, and Blood.",
+      "question": "What are some types of connective tissues?"
+    },
+    {
+      "context": "The nature of matrix depends on the function a connective tissue serves.",
+      "question": "How does function influence connective tissue matrix type?"
+    }
+  ]
+}

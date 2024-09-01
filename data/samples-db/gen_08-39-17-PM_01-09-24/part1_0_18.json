@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Prokaryotic cells, such as those in Bacteria and Cyanobacteria, lack a well-organized nucleus and membrane-bound organelles. Their DNA is not enclosed by a nuclear membrane, making them primitive organisms classified as prokaryotes.",
+      "question": "What is a characteristic of prokaryotic cells?"
+    },
+    {
+      "context": "Eukaryotic cells are found in all plants and animals, characterized by a well-organized nucleus and enclosed genetic material. They contain membrane-bound organelles like mitochondria and plastids, identified as eukaryotic organisms.",
+      "question": "What defines eukaryotic cells?"
+    },
+    {
+      "context": "The DNA of prokaryotic cells is not enclosed by a nuclear membrane. Organisms with these cells, known as prokaryotes, are considered primitive because they lack membrane-bound organelles and a well-organized nucleus.",
+      "question": "Why are prokaryotic cells considered primitive?"
+    },
+    {
+      "context": "In contrast to prokaryotic cells, eukaryotic cells possess a nuclear membrane enclosing their genetic material. This structure allows them to have various organelles, indicating a more complex cellular organization in eukaryotic organisms.",
+      "question": "How does eukaryotic cell structure differ from prokaryotic?"
+    },
+    {
+      "context": "Prokaryotes, such as Bacteria, are defined by their lack of a well-organized nucleus. They also do not have membrane-bound organelles, which is a fundamental difference when compared to eukaryotes.",
+      "question": "What do prokaryotic cells lack compared to eukaryotic cells?"
+    }
+  ]
+}

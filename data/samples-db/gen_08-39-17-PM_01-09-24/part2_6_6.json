@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Whooping cough, caused by Bordetella pertussis, affects the respiratory system and is common in childhood. Symptoms include constant cough making the child breathless and tired, along with a whooping sound while inhaling. Immunisation through DPT vaccination is key for prevention.",
+      "question": "What virus causes whooping cough?"
+    },
+    {
+      "context": "Tuberculosis is caused by Mycobacterium tuberculosis, which destroys organs through toxin release. It can affect any body part but primarily the lungs. Symptoms include chest pain and loss of weight, with diagnosis involving tests like the Mantoux test.",
+      "question": "What bacterium causes Tuberculosis?"
+    },
+    {
+      "context": "Whooping cough spreads through droplet infection and direct contact. Key symptoms include running nose, fatigue and a whooping sound during inhalation. Erythromycin antibiotic is commonly used for treatment and DPT vaccination for prevention.",
+      "question": "How is whooping cough transmitted?"
+    },
+    {
+      "context": "The BCG vaccine for Tuberculosis was developed in 1921. Before vaccination, a skin test called Heaf is performed to check for past or present TB infection. Diagnosis also involves tests like X-ray and sputum analysis.",
+      "question": "What test checks for past TB infection?"
+    },
+    {
+      "context": "Symptoms of Tuberculosis include a constant cough, chest pain, weight loss, and fever. Its incubation period can vary from 3 weeks to several years, showcasing its contagiousness through coughing and sneezing.",
+      "question": "What are common symptoms of Tuberculosis?"
+    }
+  ]
+}

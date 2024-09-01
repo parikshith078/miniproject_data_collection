@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mendel selected the garden pea plant, Pisum sativum for his experiments. He selected tall and dwarf plants and allowed them to grow naturally. As pea plants produce seeds only by self-pollination, he observed that tall plants produced always tall plants generation after generation under natural conditions.",
+      "question": "What type of plants did Mendel select?"
+    },
+    {
+      "context": "When a pure breeding tall plant was crossed with a pure breeding dwarf plant, all plants were tall in the first filial generation (F1) i.e., there was not any medium height plants or dwarf plants.",
+      "question": "What was the outcome of the F1 generation?"
+    },
+    {
+      "context": "Hence, he termed the tall and dwarf plants as wild types or pure breeding varieties. Then he crossed a tall plant with a dwarf plant, produced progeny and calculated the percentage of tallness and dwarfness in subsequent generations.",
+      "question": "What terms did Mendel use for tall and dwarf plants?"
+    },
+    {
+      "context": "This means that only one of the parental traits were seen and not the mixture of the two. When such an F1 tall plant was allowed to have self-pollination, both the tall and dwarf plants appeared in the second filial generation (F2) in the ratio of 3:1.",
+      "question": "What ratio appeared in the F2 generation?"
+    },
+    {
+      "context": "The expression of gene (or Chromosomal makeup) of an individual for a particular trait is called Genotype. Expression of morphological characters as tall or dwarf plant, violet or white flowers is called Phenotype.",
+      "question": "What distinguishes genotype from phenotype?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Early man-like forms appeared about 7 lakhs 50 thousand years ago. The first sure fossil of our own species of man, the Homo sapiens, indicate that true man appeared on the earth 2 lakhs 50 thousand years ago.",
+      "question": "When did the first Homo sapiens appear?"
+    },
+    {
+      "context": "All human beings, even though they have different size, colour and looks, belong to the same species because they have similar DNA sequences and have descended from the same ancestors.",
+      "question": "What unites all human beings as a species?"
+    },
+    {
+      "context": "The first sure fossil of our own species of man, the Homo sapiens, indicate that true man appeared on the earth 2 lakhs 50 thousand years ago.",
+      "question": "What does the fossil record indicate about Homo sapiens?"
+    },
+    {
+      "context": "Even though they have different size, colour and looks, all human beings belong to the same species because they have similar DNA sequences.",
+      "question": "Why are humans considered a single species?"
+    },
+    {
+      "context": "Early man-like forms appeared about 7 lakhs 50 thousand years ago. The first sure fossil of our own species of man, the Homo sapiens, indicate that true man appeared on the earth 2 lakhs 50 thousand years ago.",
+      "question": "What is the timeline for the emergence of early man-like forms?"
+    }
+  ]
+}

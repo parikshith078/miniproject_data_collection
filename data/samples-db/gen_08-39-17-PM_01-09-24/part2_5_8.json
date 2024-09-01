@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Viral diseases can cause various complications, for instance, pneumonia is a common issue that can arise. This condition leads to inflammation and infection of the air sacs in one or both lungs, often making breathing painful and difficult.",
+      "question": "What is pneumonia caused by?"
+    },
+    {
+      "context": "In addition to immediate symptoms, viral diseases may lead to long-term health issues like cervical cancer, especially in women infected with Human Papillomavirus (HPV). This emphasizes the importance of vaccination and early screening.",
+      "question": "Which virus is linked to cervical cancer?"
+    },
+    {
+      "context": "Some viral infections can cause dehydration, primarily through persistent fever, vomiting, or diarrhea. This is a serious condition that can affect hydration levels dramatically.",
+      "question": "How can viral diseases lead to dehydration?"
+    },
+    {
+      "context": "Opportunistic infections are a major complication for individuals with weakened immune systems due to viral diseases. These infections can be life-threatening and require immediate medical attention.",
+      "question": "What are opportunistic infections?"
+    },
+    {
+      "context": "Acute bronchitis can stem from viral infections, leading to inflammation of the bronchial tubes, which can cause coughing and difficulty breathing. It's important to monitor symptoms to prevent further issues.",
+      "question": "What does acute bronchitis affect?"
+    },
+    {
+      "context": "Complications from viral diseases may include seizures, which are sudden bursts of uncontrolled electrical activity in the brain, affecting how it functions. This can be critical in severe cases.",
+      "question": "What are seizures in relation to viral diseases?"
+    }
+  ]
+}

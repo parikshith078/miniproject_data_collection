@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Bone is mainly composed of osteoblasts. Bone makes the skeletal system. Skeletal system is responsible for providing structural framework to the body. It provides protection to important organs and facilitates movements.",
+      "question": "What is the main component of bone?"
+    },
+    {
+      "context": "Cartilage is mainly composed of chondrioblasts. Cartilage is present at the ends of articulatory bones. Cartilage is also present in the external ear, bronchii, etc.",
+      "question": "Where is cartilage found in the body?"
+    },
+    {
+      "context": "Bone makes the skeletal system. Skeletal system is responsible for providing structural framework to the body. It provides protection to important organs and facilitates movements.",
+      "question": "What is the primary function of the skeletal system?"
+    },
+    {
+      "context": "Cartilage is present at the ends of articulatory bones. Cartilage is also present in the external ear, bronchii, etc.",
+      "question": "What type of cells primarily compose cartilage?"
+    },
+    {
+      "context": "Bone makes the skeletal system. It provides protection to important organs and facilitates movements.",
+      "question": "What does the skeletal system protect?"
+    },
+    {
+      "context": "Bone is mainly composed of osteoblasts. Cartilage is mainly composed of chondrioblasts.",
+      "question": "Which cells are responsible for cartilage formation?"
+    }
+  ]
+}

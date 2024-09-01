@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Tetanus (Lock jaw) is caused by spores that enter through wounds.",
+      "question": "What causes lock jaw disease?"
+    },
+    {
+      "context": "The incubation period of tetanus ranges from 3 to 25 days.",
+      "question": "What is the incubation period for tetanus?"
+    },
+    {
+      "context": "Clostridium tetani secretes a powerful exotoxin into the tissue during incubation.",
+      "question": "What toxin is secreted by Clostridium tetani?"
+    },
+    {
+      "context": "The exotoxin tenanospasmin affects muscle control by targeting the central nervous system.",
+      "question": "How does tenanospasmin affect the body?"
+    },
+    {
+      "context": "During incubation, the bacterium is carried to the central nervous system via blood.",
+      "question": "How is the bacteria transmitted to the CNS?"
+    }
+  ]
+}

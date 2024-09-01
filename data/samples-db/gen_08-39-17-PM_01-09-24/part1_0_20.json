@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Prokaryotic cells are generally small, ranging from 1-10 μm in size. They lack a nuclear membrane, having a poorly defined nuclear region known as the nucleoid, and contain a single chromosome without any membrane-bound organelles.",
+      "question": "What defines the size of prokaryotic cells?"
+    },
+    {
+      "context": "Eukaryotic cells are typically larger, ranging from 5-100 μm. They have a well-defined nuclear region that is surrounded by a nuclear membrane and contain more than one chromosome as well as membrane-bound cell organelles.",
+      "question": "Which cell type has membrane-bound organelles?"
+    },
+    {
+      "context": "Cell organelles perform various functions including the synthesis and breakdown of complex molecules, energy production, and secretion of substances. These organelles are enclosed by membranes, crucial for cell function.",
+      "question": "What functions do cell organelles perform?"
+    },
+    {
+      "context": "Understanding the structure of cell organelles is essential to grasp the functioning of the cell. Cell organelles enable the cell to perform myriad activities necessary for life, like energy production and secretion.",
+      "question": "Why is it important to understand cell organelles?"
+    },
+    {
+      "context": "Prokaryotic cells have no membrane-bound organelles and consist of a single chromosome, while eukaryotic cells are characterized by their well-defined nucleus and multiple chromosomes.",
+      "question": "How many chromosomes do eukaryotic cells have?"
+    }
+  ]
+}

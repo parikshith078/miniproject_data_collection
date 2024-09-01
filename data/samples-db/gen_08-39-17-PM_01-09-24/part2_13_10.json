@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Cross-breeding is done between foreign and local breeds of animals to facilitate the growth of animals with desired qualities. e.g. Foreign breed like Jersey cow, with long lactation period, is crossed with local breed like Red Sindhi cow, with high resistance to disease, to obtain offspring of desired qualities like long lactation period and high resistance to diseases.",
+      "question": "What is the purpose of cross-breeding?"
+    },
+    {
+      "context": "Cross-breeding helps in the development of certain desired characteristics in animals. To increase milk production, to increase resistance against diseases, to enhance the varieties with longer lactation period, to rely on less amount of quality feed.",
+      "question": "What are the advantages of cross-breeding?"
+    },
+    {
+      "context": "Cross-breeding is done between foreign and local breeds of animals to facilitate the growth of animals with desired qualities. e.g. Foreign breed like Jersey cow, with long lactation period, is crossed with local breed like Red Sindhi cow, with high resistance to disease, to obtain offspring of desired qualities like long lactation period and high resistance to diseases.",
+      "question": "Which local breed is used in the example?"
+    },
+    {
+      "context": "To increase milk production, to increase resistance against diseases, to enhance the varieties with longer lactation period, to rely on less amount of quality feed.",
+      "question": "How does cross-breeding improve feed reliance?"
+    }
+  ]
+}

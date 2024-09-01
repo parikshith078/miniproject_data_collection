@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Infectious diseases (Communicable diseases): are diseases which spread from an infected person to a healthy person through air, water, food, vectors, physical contact, or sexual contact.",
+      "question": "How are infectious diseases transmitted?"
+    },
+    {
+      "context": "Non-infectious diseases (Non-communicable diseases): are diseases which are not spread from an infected person to a healthy person.",
+      "question": "What defines non-infectious diseases?"
+    },
+    {
+      "context": "Examples include common cold, chicken pox, mumps, measles, typhoid, cholera, tuberculosis, malaria, AIDS etc.",
+      "question": "What are examples of infectious diseases?"
+    },
+    {
+      "context": "Examples include beri beri, rickets, scurvy, night blindness, diabetes, cancer, high blood pressure etc.",
+      "question": "Can you list some non-infectious diseases?"
+    },
+    {
+      "context": "Infectious diseases are spread through air, water, food, vectors, physical contact, or sexual contact.",
+      "question": "What are the modes of transmission for diseases?"
+    },
+    {
+      "context": "Non-infectious diseases are not spread from an infected person to a healthy person.",
+      "question": "Are non-infectious diseases contagious?"
+    }
+  ]
+}

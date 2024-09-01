@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cancer describes a range of diseases in which abnormal cells proliferate and spread out of control. Other terms used are tumors and neoplasms. There are many types of cancer, and all organs of the body can become cancerous.",
+      "question": "What are tumors and neoplasms?"
+    },
+    {
+      "context": "Diseases of the lung take many forms. Chronic obstructive respiratory disease and asthma are the most common forms. Chronic obstructive respiratory disease is caused by irreversible obstruction of the larger airways in the lung; asthma is caused by reversible obstruction of the smaller airways in the lung.",
+      "question": "What causes chronic obstructive respiratory disease?"
+    },
+    {
+      "context": "Chronic obstructive respiratory disease and asthma are the most common forms. Chronic obstructive respiratory disease is caused by irreversible obstruction of the larger airways in the lung; asthma is caused by reversible obstruction of the smaller airways in the lung.",
+      "question": "What is the main difference between asthma and COPD?"
+    },
+    {
+      "context": "Cancer describes a range of diseases in which abnormal cells proliferate and spread out of control. There are many types of cancer, and all organs of the body can become cancerous.",
+      "question": "How do cancer cells behave?"
+    },
+    {
+      "context": "Chronic obstructive respiratory disease is caused by irreversible obstruction of the larger airways in the lung; asthma is caused by reversible obstruction of the smaller airways in the lung.",
+      "question": "What distinguishes asthma from other lung diseases?"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Asexual reproduction has several advantages, such as not needing another organism for reproduction, producing offspring quickly, and creating clones of the parent. However, it also has disadvantages, including lack of variation and limited biodiversity, which is crucial for ecosystems.",
+      "question": "What is a key disadvantage of asexual reproduction?"
+    },
+    {
+      "context": "Binary fission and multiple fission are methods of asexual reproduction. In binary fission, an organism splits into two, while in multiple fission, it breaks into many new organisms at once. The conditions in which these processes occur also differ.",
+      "question": "What happens during binary fission?"
+    },
+    {
+      "context": "While binary fission occurs in favorable conditions, multiple fission occurs when conditions are unfavorable. This allows organisms to survive when environmental challenges arise, such as in Plasmodium.",
+      "question": "When does multiple fission typically occur?"
+    },
+    {
+      "context": "Asexual reproduction allows for quick reproduction and cloning of the parent. However, the downside is that it leads to less genetic diversity, which affects the health of ecosystems.",
+      "question": "How does asexual reproduction affect biodiversity?"
+    },
+    {
+      "context": "In binary fission, organisms like Amoeba reproduce by splitting into two. In contrast, multiple fission, seen in organisms like Plasmodium, produces many offspring at once and happens under different conditions.",
+      "question": "Which organisms typically undergo binary fission?"
+    },
+    {
+      "context": "The advantages of asexual reproduction include less time required for producing offspring and the ability to incorporate desirable traits in plants. Disadvantages include negligible variation and potential extinction of parent organisms.",
+      "question": "What is an advantage of asexual reproduction?"
+    },
+    {
+      "context": "In contrast to binary fission, which takes place in organisms like Paramecium, multiple fission involves a single organism creating many new organisms simultaneously, particularly in harsh environments.",
+      "question": "Can you name an organism that reproduces via multiple fission?"
+    }
+  ]
+}

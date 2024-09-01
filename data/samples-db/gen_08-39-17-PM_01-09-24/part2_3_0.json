@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Classification makes it easy to study the organisms; on the basis of certain common characters.",
+      "question": "How does classification aid in studying organisms?"
+    },
+    {
+      "context": "We need to look at the fact if given character is present in a small number of organisms or a larger number of organisms.",
+      "question": "What factors influence organism classification?"
+    },
+    {
+      "context": "The commonality of characters would represent a species or a higher taxa; like genus or family.",
+      "question": "What does commonality of characters indicate in classification?"
+    },
+    {
+      "context": "For anybody, it is impossible to study about each of them in his lifetime.",
+      "question": "Why is studying all species impractical?"
+    },
+    {
+      "context": "Classification makes it easy to study the organisms; on the basis of certain common characters.",
+      "question": "What is the basis for classifying organisms?"
+    }
+  ]
+}

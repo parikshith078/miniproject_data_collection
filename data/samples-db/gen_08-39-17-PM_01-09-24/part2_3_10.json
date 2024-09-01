@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Nutrition can be defined as the procurement of substances necessary for growth, development, maintenance and activities of a living organism. We obtain food from various plant and animal sources. In order to keep healthy and energetic, we need to take food. It takes care of the daily energy need also.",
+      "question": "What defines nutrition in living organisms?"
+    },
+    {
+      "context": "Energy requirement depends on individual, age and special need. Growing children, pregnant women and nursing mothers need more energy.",
+      "question": "Who needs more energy than average individuals?"
+    },
+    {
+      "context": "Good personal and domestic hygiene is very essential. Take full care of the following aspects. Your food should be fresh and kept away from dust, flies, insect and microbes to avoid any infection and spoilage.",
+      "question": "Why is hygiene important in food preparation?"
+    },
+    {
+      "context": "Your food should be fresh and kept away from dust, flies, insect and microbes to avoid any infection and spoilage. Utensils should be kept clean.",
+      "question": "How should food be stored to ensure safety?"
+    },
+    {
+      "context": "Smoking, chewing tobacco, drinking alcohol, taking addictive drugs are bad habits and should be avoided. They can have damaging effects on our body and mind.",
+      "question": "What habits can negatively impact health?"
+    },
+    {
+      "context": "Proper Habits Another important aspect of good health is to observe proper dietary habits that are consumption of balanced diet and at fixed time.",
+      "question": "What is essential for maintaining good health?"
+    },
+    {
+      "context": "It takes care of the daily energy need also. We consume energy even while sleeping. Energy requirement depends on individual, age and special need.",
+      "question": "Does energy consumption occur during sleep?"
+    }
+  ]
+}

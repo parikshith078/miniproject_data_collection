@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Its infection is acquired by contamination of wounds with tetanus spores as these infected spores are abundant in the soil manured with animal dung.",
+      "question": "How is tetanus infection acquired?"
+    },
+    {
+      "context": "Symptoms include painful muscular spasms especially of neck and jaw. Lock jaw condition occurs when the patient cannot open the mouth.",
+      "question": "What are the symptoms of lock jaw?"
+    },
+    {
+      "context": "Spores may survive for 60 or more years in contaminated soil.",
+      "question": "How long can tetanus spores survive in soil?"
+    },
+    {
+      "context": "Convulsions and paralysis of muscles, difficulty in chewing and swallowing, fever and headache are the other symptoms.",
+      "question": "What additional symptoms can tetanus cause?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Tetrapoda is divided into four classes, viz. amphibia, reptilia, aves, and mammalia.",
+      "question": "What are the four classes of Tetrapoda?"
+    },
+    {
+      "context": "These animals are adapted to live both in water and land. These are cold-blooded animals.",
+      "question": "What type of environment do amphibians inhabit?"
+    },
+    {
+      "context": "Examples: Frog, toad, salamander, etc.",
+      "question": "Name examples of amphibian animals."
+    },
+    {
+      "context": "Tetrapoda is divided into four classes, viz. amphibia, reptilia, aves, and mammalia.",
+      "question": "Which class includes frogs and toads?"
+    },
+    {
+      "context": "These animals are adapted to live both in water and land.",
+      "question": "What adaptation allows amphibians to thrive in various environments?"
+    },
+    {
+      "context": "These are cold-blooded animals.",
+      "question": "What does it mean for amphibians to be cold-blooded?"
+    }
+  ]
+}

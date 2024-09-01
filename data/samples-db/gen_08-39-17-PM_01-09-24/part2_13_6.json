@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "On basis of their utility, cattle are classified into two types namely milch animals and draught animals. Milch animals or dairy animals produce milk. Males of this type are not useful for working on farm.",
+      "question": "What are the two types of cattle classified by utility?"
+    },
+    {
+      "context": "Draught animals are used for carrying out agricultural work like tilling, irrigation and carting. Cows belonging to this category are poor milk-yielding varieties.",
+      "question": "What is the function of draught animals in agriculture?"
+    },
+    {
+      "context": "Management practices for cattle include cleaning, sheltering and feeding. a) Cleaning involves periodic washing to get rid of dirt and loose hair.",
+      "question": "What is included in cattle management practices?"
+    },
+    {
+      "context": "Shelter facilities include well ventilated roof sheds which protect cattle from rain, cold and sun. c) Feeding of cattle includes supply of uncontaminated and balanced diet.",
+      "question": "What are the shelter requirements for cattle?"
+    },
+    {
+      "context": "Animal feed are of two types namely roughage feed and concentrate feed.",
+      "question": "What are the two types of animal feed?"
+    }
+  ]
+}

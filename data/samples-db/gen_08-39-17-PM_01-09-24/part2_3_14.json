@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Healthy: It is a state of physical, mental and social well being. Disease-Free: It is a state of absence from diseases. Healthy refers to the individual, physical and social environment. Disease-free refers only to the individual.",
+      "question": "What does being healthy refer to?"
+    },
+    {
+      "context": "Disease and Its Causes A person may be regarded as suffering from a disease when his body does not function properly. Minor and major disorders of the body may lead to diseases.",
+      "question": "When is a person considered to have a disease?"
+    },
+    {
+      "context": "Infectious diseases are caused by germs. One of the greatest achievements in the history of mankind is the demonstration by Pasteur, Koch and others of germs or microbes that cause diseases.",
+      "question": "Who demonstrated germs cause diseases?"
+    },
+    {
+      "context": "Microbes are the microscopic organisms such as virus, bacteria, some fungi and protozoans that are responsible for causing diseases in human beings. Cholera, tetanus, typhoid, diphtheria and pneumonia are some common diseases caused by bacteria.",
+      "question": "What are examples of diseases caused by bacteria?"
+    },
+    {
+      "context": "Polio, common cold, influenza, measles, chicken pox and AIDS are diseases caused by virus. Amoebic dysentery and malaria are caused by protozoans.",
+      "question": "Which diseases are caused by viruses?"
+    }
+  ]
+}

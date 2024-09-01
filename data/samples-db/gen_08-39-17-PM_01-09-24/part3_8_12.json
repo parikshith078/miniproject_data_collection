@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "If a woman is using a copper-T, it will not help in protecting her from sexually transmitted diseases.",
+      "question": "What does a copper-T not protect against?"
+    },
+    {
+      "context": "The progeny produced through the reproductive process is similar to its parents, in body design, function etc.",
+      "question": "What similarities do progeny have with parents?"
+    },
+    {
+      "context": "The rules of heredity determine the process by which the traits and the characteristics are relatively inherited.",
+      "question": "What do the rules of heredity determine?"
+    },
+    {
+      "context": "The inheritance of characteristics through generations is called heredity.",
+      "question": "What is the term for inherited characteristics?"
+    },
+    {
+      "context": "The inheritable characteristics may be morphological/anatomical/physiological/reproductive and are also known as traits.",
+      "question": "What are inheritable characteristics known as?"
+    }
+  ]
+}

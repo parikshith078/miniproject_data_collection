@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The breathing mechanism of lungs is controlled by the diaphragm and the intercostalis muscles. Diaphragm is a membrane which separates the thoracic chamber from the abdominal cavity. When diaphragm moves down, the lungs expand and air is inhaled. When diaphragm moves up, the lungs contract and air is exhaled.",
+      "question": "What muscles control the breathing mechanism?"
+    },
+    {
+      "context": "Terrestrial organisms take up oxygen from the atmosphere whereas aquatic animals need to utilize oxygen present in the water. Air contains more O2 as compared to water. Since the content of O2 in air is high, the terrestrial animals do not have to breathe faster to get more oxygen.",
+      "question": "How do terrestrial organisms obtain oxygen?"
+    },
+    {
+      "context": "When diaphragm moves down, the lungs expand and air is inhaled. When diaphragm moves up, the lungs contract and air is exhaled. Comparison of oxygen obtaining in terrestrial and aquatic organisms.",
+      "question": "What is the role of the diaphragm in breathing?"
+    },
+    {
+      "context": "Aquatic animals need to utilize oxygen present in the water. Air contains more O2 as compared to water. Therefore, unlike aquatic animals, terrestrial animals do not have to show various adaptations for better gaseous exchange.",
+      "question": "Why don't terrestrial animals need adaptations for breathing?"
+    },
+    {
+      "context": "Since the content of O2 in air is high, the terrestrial animals do not have to breathe faster to get more oxygen. Diaphragm is a membrane which separates the thoracic chamber from the abdominal cavity.",
+      "question": "Why do terrestrial animals not breathe faster than aquatic animals?"
+    }
+  ]
+}

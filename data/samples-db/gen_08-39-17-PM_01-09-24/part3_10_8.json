@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Fossils can be used to reconstruct evolutionary history of an organism. The distribution pattern of fossils shows that the ancient fossils present in the bottom rocks are simple, while the most recent fossils found in the upper strata are more highly evolved.",
+      "question": "How do fossils help in evolutionary history?"
+    },
+    {
+      "context": "It means fossils form and become more and more complex as we proceed from earliest to recent rocks. It gives us an idea of time in history when different species were formed or became extinct.",
+      "question": "What does fossil complexity indicate about evolution?"
+    },
+    {
+      "context": "Fossils also indicate connecting links between the two groups of organisms. For example, Archaeopteryx is a connecting link between reptiles and birds.",
+      "question": "What is an example of a connecting link in evolution?"
+    },
+    {
+      "context": "The distribution pattern of fossils shows that the ancient fossils present in the bottom rocks are simple, while the most recent fossils found in the upper strata are more highly evolved.",
+      "question": "Where are ancient fossils typically found?"
+    },
+    {
+      "context": "It gives us an idea of time in history when different species were formed or became extinct.",
+      "question": "What do fossils reveal about species extinction?"
+    },
+    {
+      "context": "For example, Archaeopteryx is a connecting link between reptiles and birds.",
+      "question": "What does Archaeopteryx illustrate in evolutionary terms?"
+    }
+  ]
+}

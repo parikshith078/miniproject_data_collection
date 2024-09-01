@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "At the end of two weeks, some organic molecules were formed in the setup. Some amino acids and sugar were also formed. This proved the hypothesis of J. B. S. Haldane that life originated from inorganic raw materials.",
+      "question": "What did J. B. S. Haldane hypothesize?"
+    },
+    {
+      "context": "When a colour variation arise during reproduction, it can pass the colour on to its progeny which may protect them from prey. Accidents in small population can change the frequency of some genes in a population even if they give no survival advantage.",
+      "question": "How can colour variations affect population survival?"
+    },
+    {
+      "context": "Poor nourishment may reduce the population of individuals but when nourishment conditions improve the population starts increasing again. Thus, the maturation, adaptation to environment and natural selection may increase a particular trait in a population.",
+      "question": "How does nourishment impact population size?"
+    },
+    {
+      "context": "There are different ways in which an individual with a particular trait may increase in a population. Thus, the maturation, adaptation to environment and natural selection may increase a particular trait in a population.",
+      "question": "What factors can increase a trait in a population?"
+    },
+    {
+      "context": "This proved the hypothesis of J. B. S. Haldane that life originated from inorganic raw materials. Some amino acids and sugar were also formed.",
+      "question": "What organic molecules were formed in the experiment?"
+    }
+  ]
+}

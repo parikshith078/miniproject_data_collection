@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "During the storage of grains, various biotic factors such as insects, rodents, mites, fungi, bacteria, etc. and various abiotic factors such as inappropriate moisture, temperature, lack of sunlight, flood, etc. are responsible for losses of grains.",
+      "question": "What are biotic factors in grain storage?"
+    },
+    {
+      "context": "These factors act on stored grains and result in degradation, poor germinability, discolouration, etc.",
+      "question": "What do these factors cause in grains?"
+    },
+    {
+      "context": "The branch of agriculture which deals with the feeding, shelter, health and breeding of domestic animals such as cattle, pigs, horses and fowls is called animal husbandry.",
+      "question": "What is defined as animal husbandry?"
+    },
+    {
+      "context": "The various elements of animal husbandry are: 1. Proper feeding of animals. 2. Provision for clean drinking water for animals.",
+      "question": "What is one important element of animal husbandry?"
+    },
+    {
+      "context": "3. Proper shelter for animals. 4. Prevention and cure of animal diseases. 5. Proper breeding of animals.",
+      "question": "What does animal husbandry ensure regarding animal diseases?"
+    }
+  ]
+}

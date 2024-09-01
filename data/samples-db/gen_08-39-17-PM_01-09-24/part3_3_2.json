@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Saliva is secreted by the salivary glands, located under the tongue. It moistens the food for easy swallowing. It contains a digestive enzyme called salivary amylase, which breaks down starch into sugar.",
+      "question": "What enzyme is found in saliva?"
+    },
+    {
+      "context": "Autotrophic nutrition takes place through the process of photosynthesis. Carbon dioxide, water, chlorophyll pigment, and sunlight are the necessary conditions required for autotrophic nutrition.",
+      "question": "What are the necessary conditions for autotrophic nutrition?"
+    },
+    {
+      "context": "It contains a digestive enzyme called salivary amylase, which breaks down starch into sugar. Saliva is secreted by the salivary glands, located under the tongue.",
+      "question": "What does salivary amylase break down?"
+    },
+    {
+      "context": "Carbohydrates (food) and O2 are the by-products of photosynthesis. Autotrophic nutrition takes place through the process of photosynthesis.",
+      "question": "What are the by-products of photosynthesis?"
+    },
+    {
+      "context": "It contains a digestive enzyme called salivary amylase, which breaks down starch into sugar. Saliva moistens food for easy swallowing.",
+      "question": "How does saliva assist in digestion?"
+    },
+    {
+      "context": "Carbon dioxide, water, chlorophyll pigment, and sunlight are the necessary conditions required for autotrophic nutrition. Autotrophic nutrition takes place through the process of photosynthesis.",
+      "question": "What process involves chlorophyll and sunlight?"
+    }
+  ]
+}

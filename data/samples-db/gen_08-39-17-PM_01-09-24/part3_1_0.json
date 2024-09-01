@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Autotrophic nutrition involves synthesizing food from basic inorganic substances, such as carbon dioxide and water. This process is essential for creating organic compounds that serve as food. ",
+      "question": "What do autotrophs synthesize food from?"
+    },
+    {
+      "context": "Heterotrophic nutrition is characterized by obtaining food from autotrophs, either directly or indirectly. The consumption of this food requires enzymatic breakdown to utilize the nutrients.",
+      "question": "How is food obtained in heterotrophic nutrition?"
+    },
+    {
+      "context": "In autotrophic nutrition, organisms use simple inorganic materials like CO2 and water to create their own food. This self-sufficiency is crucial for various ecosystems.",
+      "question": "Why is autotrophic nutrition important for ecosystems?"
+    },
+    {
+      "context": "Heterotrophic nutrition involves the dependence on autotrophs for food. Once consumed, the food is processed with the help of enzymes to break it down into usable forms.",
+      "question": "What role do enzymes play in heterotrophic nutrition?"
+    }
+  ]
+}

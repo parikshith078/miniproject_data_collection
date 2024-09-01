@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Haemoglobin is the respiratory pigment that transports oxygen to the body cells for cellular respiration. Therefore, deficiency of haemoglobin in blood can affect the oxygen supplying capacity of blood. This can lead to deficiency of oxygen in the body cells.",
+      "question": "What happens due to haemoglobin deficiency?"
+    },
+    {
+      "context": "The human heart is divided into four chambers − the right atrium, the right ventricle, the left atrium, and the left ventricle. Flow of blood in the heart: The heart has superior and inferior vena cava, which carries de-oxygenated blood from the upper and lower regions of the body respectively.",
+      "question": "How many chambers are in the human heart?"
+    },
+    {
+      "context": "Then the left atrium contracts and through the auriculo-ventricular aperture, the oxygenated blood enters the left ventricle. The blood passes to aorta from the left ventricle.",
+      "question": "What does the left ventricle send blood to?"
+    },
+    {
+      "context": "The right atrium then contracts and passes the de-oxygenated blood to the right ventricle, through an auriculo-ventricular aperture. Then the right ventricle contracts and passes the de-oxygenated blood into the two pulmonary arteries, which pumps it to the lungs.",
+      "question": "What does the right ventricle pump to the lungs?"
+    },
+    {
+      "context": "The separation of oxygenated and de-oxygenated blood allows a more efficient supply of oxygen to the body cells. This efficient system of oxygen supply is very useful in warm-blooded animals such as human beings.",
+      "question": "Why is double circulation important for warm-blooded animals?"
+    }
+  ]
+}

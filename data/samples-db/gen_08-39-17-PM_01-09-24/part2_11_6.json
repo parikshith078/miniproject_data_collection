@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Rabi crops or Rabi harvests are the crops in agriculture that are sown in winter or cold season. They are harvested in the spring. Rabi is Arabic word which in actual means \"spring\".",
+      "question": "What does Rabi mean in Arabic?"
+    },
+    {
+      "context": "Major Rabi crops that are harvested in subcontinents are wheat, grams, peas, mustard, linseed and barley.",
+      "question": "Name two major Rabi crops harvested."
+    },
+    {
+      "context": "Kharif crop refers to the farming, plowing, reaping and harvesting of any household plants sown in the rainy season. It is derived from mochas words in subcontinent.",
+      "question": "What season are Kharif crops sown?"
+    },
+    {
+      "context": "The water collected from the rain in this season is the main source of water in these plants. Rabi crops require greater amount of irrigation.",
+      "question": "What is the main water source for Rabi crops?"
+    },
+    {
+      "context": "By the beginning of first rain in July during south west rainy season in monsoon the crops are sown.",
+      "question": "When are Kharif crops typically sown?"
+    },
+    {
+      "context": "These crops are totally dependent on quantity of rain and water as well as its timings.",
+      "question": "What do Kharif crops depend on?"
+    },
+    {
+      "context": "Rabi is grown around the month of November to April in our subcontinent. The harvesting may begin by April or May.",
+      "question": "When is Rabi typically harvested?"
+    },
+    {
+      "context": "Thus heavy raining may ruin a Kharif crop but it is healthy and beneficial for Rabi crops.",
+      "question": "How does heavy rain affect Kharif crops?"
+    },
+    {
+      "context": "Its begins at April 16 to October 15 in Pakistan, while in India Kharif season varies state to state in may and ending latest by January.",
+      "question": "What is the duration of Kharif season in Pakistan?"
+    },
+    {
+      "context": "Thus the word \"Rabi\" is used frequently in subcontinent. Rabi is grown around the month of November to April in our subcontinent.",
+      "question": "In which regions is Rabi commonly grown?"
+    }
+  ]
+}

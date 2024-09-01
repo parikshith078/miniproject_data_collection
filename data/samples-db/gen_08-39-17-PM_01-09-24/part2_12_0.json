@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Plants require sixteen essential nutrients from nature for their growth and development. All these nutrients are obtained from air, water, and soil. Soil is the major source of nutrients. Thirteen of these nutrients are available from soil. The remaining three nutrients (carbon, oxygen, and hydrogen) are obtained from air and water.",
+      "question": "What nutrients do plants obtain from air?"
+    },
+    {
+      "context": "Manure is an organic substance and is prepared by the decomposition of plant and animal wastes. Advantages of Manure: Manures helps in enriching the soil with organic matter and nutrients.",
+      "question": "How does manure enrich the soil?"
+    },
+    {
+      "context": "It helps in increasing the soil fertility. Water holding capacity of soil is increased. Helps in improving soil texture. Save our environment from excessive use of fertilizers.",
+      "question": "What is one advantage of using manure?"
+    },
+    {
+      "context": "Plants require sixteen essential nutrients from nature for their growth and development. All these nutrients are obtained from air, water, and soil.",
+      "question": "From where do plants obtain their nutrients?"
+    },
+    {
+      "context": "Soil is the major source of nutrients. Thirteen of these nutrients are available from soil. The remaining three nutrients (carbon, oxygen, and hydrogen) are obtained from air and water.",
+      "question": "How many nutrients do plants get from soil?"
+    },
+    {
+      "context": "Manure is an organic substance and is prepared by the decomposition of plant and animal wastes. Advantages of Manure: Manures helps in enriching the soil with organic matter and nutrients.",
+      "question": "What is manure made from?"
+    },
+    {
+      "context": "Manures helps in enriching the soil with organic matter and nutrients. It helps in increasing the soil fertility.",
+      "question": "What are two benefits of using manure?"
+    },
+    {
+      "context": "It helps in increasing the soil fertility. Water holding capacity of soil is increased. Helps in improving soil texture.",
+      "question": "What does manure improve besides soil fertility?"
+    }
+  ]
+}

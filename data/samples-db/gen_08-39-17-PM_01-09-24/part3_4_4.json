@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The autonomic nervous system (ANS) is responsible for involuntary control of the body, usually for the sake of homeostasis (regulation of the internal environment). Sensory input for autonomic functions can be from sensory structures tuned to external or internal environmental stimuli.",
+      "question": "What is the main function of the ANS?"
+    },
+    {
+      "context": "The role of the autonomic system is to regulate the organ systems of the body, which usually means to control homeostasis. Sweat glands, for example, are controlled by the autonomic system.",
+      "question": "How does the ANS contribute to homeostasis?"
+    },
+    {
+      "context": "The enteric nervous system (ENS) is responsible for controlling the smooth muscle and glandular tissue in your digestive system. It is a large part of the PNS, and is not dependent on the CNS.",
+      "question": "What functions does the ENS control?"
+    },
+    {
+      "context": "It is sometimes valid, however, to consider the enteric system to be a part of the autonomic system because the neural structures that make up the enteric system are a component of the autonomic output that regulates digestion.",
+      "question": "How is the ENS related to the ANS?"
+    },
+    {
+      "context": "When you are hot, sweating helps cool your body down. That is a homeostatic mechanism. But when you are nervous, you might start sweating also.",
+      "question": "What triggers sweating in different contexts?"
+    }
+  ]
+}

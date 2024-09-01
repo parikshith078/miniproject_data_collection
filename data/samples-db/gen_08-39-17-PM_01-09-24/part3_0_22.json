@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The major part of digestion takes place in the duodenum. No digestion takes place in jejunum. The inner wall in the ileum is projected into numerous finger-like structures; called villi. Villi increase the surface area inside the ileum so that optimum absorption can take place.",
+      "question": "What increases surface area in the ileum?"
+    },
+    {
+      "context": "Large intestine is smaller than small intestine. Undigested food goes into the large intestine. Some water and salt are absorbed by the walls of the large intestine. After that, the undigested food goes to the rectum; from where it is expelled out through the anus.",
+      "question": "What happens to undigested food in the large intestine?"
+    },
+    {
+      "context": "The major part of digestion takes place in the duodenum. No digestion takes place in jejunum. The inner wall in the ileum is projected into numerous finger-like structures; called villi. Villi increase the surface area inside the ileum so that optimum absorption can take place.",
+      "question": "Which part of digestion occurs in the duodenum?"
+    },
+    {
+      "context": "Large intestine is smaller than small intestine. Undigested food goes into the large intestine. Some water and salt are absorbed by the walls of the large intestine. After that, the undigested food goes to the rectum; from where it is expelled out through the anus.",
+      "question": "How does the large intestine differ in size?"
+    }
+  ]
+}

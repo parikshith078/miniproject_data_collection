@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Vegetative propagation method is used for growing certain plants which do not produce viable seeds. It is also used for growing plants bearing superior traits, because they produce genetically identical plants. This method helps in cultivating plants that require more care during their early growth stages.",
+      "question": "What is a key reason for using vegetative propagation?"
+    },
+    {
+      "context": "Chromosome in the nucleus of a cell contains information for inheritance of features from parent to next generation in the form of DNA. The DNA present in the cell nucleus serves as the information source for making proteins, which are essential for cellular functions.",
+      "question": "What role does DNA play in inheritance?"
+    },
+    {
+      "context": "The process of vegetative propagation allows growers to cultivate plants that require longer time to mature. This method is particularly beneficial when dealing with plant varieties that are hard to propagate through seeds due to their growth requirements.",
+      "question": "How does vegetative propagation benefit slow-growing plants?"
+    },
+    {
+      "context": "A basic event in reproduction is the creation of a DNA copy for the next generation. This ensures that the genetic information is accurately passed down, thus preserving the characteristics of the species.",
+      "question": "Why is copying DNA important during reproduction?"
+    },
+    {
+      "context": "Plants grown through vegetative propagation are genetically identical to the parent plant. This technique allows for the preservation of desirable traits and ensures uniformity in crop production.",
+      "question": "What advantage does vegetative propagation offer regarding plant traits?"
+    }
+  ]
+}

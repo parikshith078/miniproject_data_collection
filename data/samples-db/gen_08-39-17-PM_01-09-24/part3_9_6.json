@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "The change in inherited traits in biological population over subsequent generations is called evolution. Scientists have proven that life evolved in the form of simple unicellular organisms on this earth; and all the organisms which are present today have evolved from a common ancestor.",
+      "question": "What is the definition of evolution?"
+    },
+    {
+      "context": "Let us think of different situations. Situation -1: In this situation a colour variation arises during reproduction. So that there appears one beetle that is green in colour instead of red.",
+      "question": "What happens in situation -1 of beetles?"
+    },
+    {
+      "context": "As a result there are more and more green beetles than red ones which decrease in their number. The variation of colour in beetle ‘green’ gave a survival advantage to ‘green beetles’ than red beetles.",
+      "question": "What advantage do green beetles have?"
+    },
+    {
+      "context": "Crows cannot see the green coloured beetles on green leaves of the bushes and therefore crows cannot eat them. But crows can see the red beetles and eat them.",
+      "question": "Why are green beetles safer from crows?"
+    },
+    {
+      "context": "The idea of evolution is based on the premise of a common ancestry. Natural Selection and Adaptation are key mechanisms for this process.",
+      "question": "What two mechanisms are key for evolution?"
+    },
+    {
+      "context": "If the crows eat more Red beetles their population slowly reduced. Let us consider a group of twelve beetles. They live in bushes on green leaves.",
+      "question": "What happens to red beetle population?"
+    },
+    {
+      "context": "So that all its progeny are green. Crows cannot see the green coloured beetles on green leaves of the bushes and therefore crows cannot eat them.",
+      "question": "What color do the progeny of green beetles have?"
+    },
+    {
+      "context": "Moreover this green coloured beetle passes it’s colour to it’s offspring (Progeny). So that all its progeny are green.",
+      "question": "How do green beetles pass their color?"
+    },
+    {
+      "context": "Let us assume crows eat these red beetles. If the crows eat more Red beetles their population slowly reduced. Let us think of different situations.",
+      "question": "What role do crows play in beetle populations?"
+    },
+    {
+      "context": "Natural Selection and Adaptation are key mechanisms for this process. Let us consider a group of twelve beetles.",
+      "question": "What is adaptation in the context of beetles?"
+    }
+  ]
+}

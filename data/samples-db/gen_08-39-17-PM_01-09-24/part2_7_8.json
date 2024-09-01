@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Preventive measures against plague include the use of an anti-plague vaccine and insecticides to kill rats. Streptomycin is an effective treatment for plague.",
+      "question": "What are some preventive measures for plague?"
+    },
+    {
+      "context": "Leprosy is caused by Mycobacterium leprae, leading to chronic infections of the skin and tissues, and is contagious.",
+      "question": "What causes leprosy and how is it transmitted?"
+    },
+    {
+      "context": "Streptomycin or oral tetracycline are effective treatments for plague. Preventive strategies also involve killing rats and using vaccines.",
+      "question": "What treatments are effective against plague?"
+    },
+    {
+      "context": "The plague can be confirmed by the Wayson stain test and involves preventative measures like killing rats and anti-plague vaccines.",
+      "question": "How is plague confirmed and what are preventive methods?"
+    },
+    {
+      "context": "Leprosy, characterized by chronic infection of the skin, is a bacterial disease caused by Mycobacterium leprae.",
+      "question": "What is the cause of leprosy?"
+    }
+  ]
+}

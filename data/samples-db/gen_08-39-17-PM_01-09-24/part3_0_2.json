@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The process of acquiring oxygen through breathing and make it available to cells for the process of breaking down of organic substances into simpler compounds is called as respiration.",
+      "question": "What is the process of acquiring oxygen?"
+    },
+    {
+      "context": "Transportation is the process by which the food and oxygen is carried from one organ to other organs in the body.",
+      "question": "What does transportation carry in the body?"
+    },
+    {
+      "context": "Transportation is the process by which the food and oxygen is carried from one organ to other organs in the body.",
+      "question": "What is transported between body organs?"
+    },
+    {
+      "context": "The process of acquiring oxygen through breathing and make it available to cells for the process of breaking down of organic substances into simpler compounds is called as respiration.",
+      "question": "What is respiration responsible for?"
+    },
+    {
+      "context": "The process of acquiring oxygen through breathing and make it available to cells for the process of breaking down of organic substances into simpler compounds is called as respiration.",
+      "question": "What compounds are broken down during respiration?"
+    }
+  ]
+}

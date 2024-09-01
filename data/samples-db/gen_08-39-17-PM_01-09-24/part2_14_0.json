@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In a bee colony, the queen is the only fertile female and her main function is to lay eggs. Drones are fertile male bees responsible for mating with the queen and fertilizing the eggs. Workers, the sterile females, take care of the queen and young bees, collect nectar, build honey combs, and protect the hive.",
+      "question": "What is the role of the queen bee?"
+    },
+    {
+      "context": "Among honeybee varieties, Apis Indica is the common Indian honey bee, while Apis dorsata is known as the rock bee. Apis florea is referred to as the little bee. There are also exotic varieties such as Apis mellifera (Italian bee) and Apis adamsoni (South African bee).",
+      "question": "What is Apis Indica?"
+    },
+    {
+      "context": "In a bee colony, the queen is the only fertile female and her main function is to lay eggs. Drones are fertile male bees responsible for mating with the queen and fertilizing the eggs. Workers, the sterile females, take care of the queen and young bees, collect nectar, build honey combs, and protect the hive.",
+      "question": "Who protects the bee hive?"
+    },
+    {
+      "context": "Honeybee varieties include both indigenous and exotic types. Indigenous varieties consist of Apis Indica, known as the common Indian honey bee, and others like Apis dorsata and Apis florea. The exotic types include Apis mellifera, or the Italian bee, and Apis adamsoni, the South African bee.",
+      "question": "Name an exotic honeybee variety."
+    },
+    {
+      "context": "The sterile female workers in a bee colony have several important functions that include taking care of the queen and the young bees, collecting nectar, building honey combs, and protecting the hive. The males, called drones, only function to mate with the queen.",
+      "question": "What do worker bees do in a colony?"
+    }
+  ]
+}

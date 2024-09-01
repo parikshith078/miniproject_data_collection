@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The importance of DNA copying during reproduction is that: (i) It is responsible for the transmission of parental characteristic to its offsprings. (ii) It also leads to certain genetic variation.",
+      "question": "What does DNA copying ensure in offspring?"
+    },
+    {
+      "context": "Variations allow organisms to exist in diverse habitats or niches. In the absence of variations, a species may be restricted to particular area.",
+      "question": "Why are variations important for survival?"
+    },
+    {
+      "context": "If this area gets drastically altered, due to various natural or man-made causes, the species may be wiped out.",
+      "question": "What happens if a species lacks variations?"
+    },
+    {
+      "context": "However, if some variations were present in a few individuals, these colonize other habitats and could survive.",
+      "question": "How do variations support species survival?"
+    },
+    {
+      "context": "But if variations are present in a single organism there would be very little for it to survive.",
+      "question": "What is the risk of variations in only one organism?"
+    }
+  ]
+}

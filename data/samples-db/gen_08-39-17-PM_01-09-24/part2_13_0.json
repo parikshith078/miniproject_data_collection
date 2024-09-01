@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Preventive measures include proper soil and seed preparation, timely sowing of seeds, intercropping and mixed cropping, usage of resistant varieties of crops, etc.",
+      "question": "What are some preventive measures in agriculture?"
+    },
+    {
+      "context": "An example of bio-pesticides is Bacillus thuringenesis, which is an insect pathogen that kills a wide range of insect larvae.",
+      "question": "What is Bacillus thuringenesis used for?"
+    },
+    {
+      "context": "Biological control methods include the usage of bio-pesticides that are less toxic for the environment.",
+      "question": "What are biological control methods?"
+    },
+    {
+      "context": "Both preventive measures and biological control methods are considered eco-friendly methods of crop protection.",
+      "question": "Why are preventive measures considered eco-friendly?"
+    },
+    {
+      "context": "Proper soil and seed preparation, timely sowing of seeds, intercropping and mixed cropping are examples of preventive measures.",
+      "question": "List examples of preventive agricultural measures."
+    },
+    {
+      "context": "The usage of resistant varieties of crops is a preventive measure in crop protection.",
+      "question": "What role do resistant crop varieties play?"
+    },
+    {
+      "context": "Preventive measures also include intercropping and mixed cropping to ensure crop health.",
+      "question": "How do intercropping and mixed cropping benefit crops?"
+    }
+  ]
+}

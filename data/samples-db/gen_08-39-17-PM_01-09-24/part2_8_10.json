@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The whole combination of animals, plants and non-living beings which by their interaction make the planet earth a live and vibrant place is called biosphere. Living things constitute the biotic component of the biosphere. The air, the water and the soil form the non-living or abiotic component of the biosphere.",
+      "question": "What is the biosphere composed of?"
+    },
+    {
+      "context": "Air is a mixture of many gases like nitrogen, oxygen, carbon dioxide and water vapour. All living beings need oxygen to break down glucose molecules and get energy for their activities. This results in the production of carbon dioxide.",
+      "question": "What gases are found in air?"
+    },
+    {
+      "context": "This results in the production of carbon dioxide. Another process which results in the consumption of oxygen and the concomitant production of carbon dioxide is combustion. This includes not just human activities, which burn fuels to get energy, but also forest fires.",
+      "question": "What are the effects of combustion on oxygen?"
+    },
+    {
+      "context": "The air is called the hygrosphere, the water is hydrosphere and the soil is called lithosphere. Living things constitute the biotic component of the biosphere. The air, the water and the soil form the non-living or abiotic component of the biosphere.",
+      "question": "What are the components of the biosphere?"
+    },
+    {
+      "context": "Living things constitute the biotic component of the biosphere. The air, the water and the soil form the non-living or abiotic component of the biosphere. The air is called the hygrosphere, the water is hydrosphere and the soil is called lithosphere.",
+      "question": "What is the difference between biotic and abiotic components?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Organs which have different design but serve a common function in different animals are called analogous organs. Wings of birds and wings of bat are good examples of a pair of analogous organs. Wings of birds are composed of all the bones of forelimb and are covered with feathers. Wings of bats are mainly composed of the digital bones and a thin membrane covering the structure. Yet wings in both the organisms are used for flying.",
+      "question": "What are analogous organs?"
+    },
+    {
+      "context": "The preserved remains of animals or plants or other organisms from the distant past are called fossils. Fossils provide the evidence that the present animals have originated from previously existing ones through the process of continuous evolution.",
+      "question": "What do fossils provide evidence of?"
+    },
+    {
+      "context": "Wings of birds are composed of all the bones of forelimb and are covered with feathers. Wings of bats are mainly composed of the digital bones and a thin membrane covering the structure. Yet wings in both the organisms are used for flying.",
+      "question": "What is a key difference between bird and bat wings?"
+    },
+    {
+      "context": "Fossils provide the evidence that the present animals have originated from previously existing ones through the process of continuous evolution. The study of fossils helps scientists understand the history of life on Earth.",
+      "question": "How do fossils help scientists?"
+    },
+    {
+      "context": "Wings of birds and wings of bat are good examples of a pair of analogous organs. Despite having different structures, both are adapted for a similar function of flying in their respective species.",
+      "question": "What is the function of bird and bat wings?"
+    }
+  ]
+}

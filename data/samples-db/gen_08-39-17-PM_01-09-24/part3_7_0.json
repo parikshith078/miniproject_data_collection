@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Artificial vegetative propagation enables farmers and horticulturists to grow many plants in shorter duration and has helped them to earn more profit.",
+      "question": "How does artificial vegetative propagation benefit farmers?"
+    },
+    {
+      "context": "Stem cutting, layering and grafting are the preferred means of artificial vegetative propagation.",
+      "question": "What are the methods used in artificial vegetative propagation?"
+    },
+    {
+      "context": "Rhizopus produces hundreds of microscopic reproductive units called spores that spread into air.",
+      "question": "What does Rhizopus produce for reproduction?"
+    },
+    {
+      "context": "When the spore case bursts, the spores spread into air and germinate under favourable conditions.",
+      "question": "What happens when the spore case bursts?"
+    },
+    {
+      "context": "Most fungi like Rhizopus and non-flowering plants reproduce by the method of spore formation.",
+      "question": "Which organisms utilize spore formation for reproduction?"
+    },
+    {
+      "context": "Under favourable conditions like damp and warm, spores germinate and produce new individuals.",
+      "question": "What conditions are required for spore germination?"
+    }
+  ]
+}

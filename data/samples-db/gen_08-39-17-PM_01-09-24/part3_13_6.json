@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Reduce: We should reduce the consumption of various resources wherever possible. For example; we can reduce the consumption of electricity by switching off lights and other appliances when they are not required.",
+      "question": "How can we reduce electricity consumption?"
+    },
+    {
+      "context": "Recycling is another way of reducing the demand for natural resources. For example; by recycling paper, we reduce the demand for wood and thus help in saving the forest.",
+      "question": "What is the benefit of recycling paper?"
+    },
+    {
+      "context": "Many items can be reused many times. For example; old newspaper can be used for packing many items.",
+      "question": "What is an example of reusing old newspapers?"
+    },
+    {
+      "context": "We should immediately repair a leaking tap so that precious water can be saved. Recycling is another way of reducing the demand for natural resources.",
+      "question": "Why is it important to fix leaking taps?"
+    },
+    {
+      "context": "Old envelopes can be used for doing rough work while doing your homework. Old plastic bottles can be used for many other purposes.",
+      "question": "How can old envelopes be repurposed?"
+    }
+  ]
+}

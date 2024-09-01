@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Conservation of forests and wildlife is necessary to protect biodiversity. This is important because loss of biodiversity leads to ecological imbalance. But any conservation effort for forest and wildlife must keep the interests of all stakeholders in mind.",
+      "question": "Why is forest conservation necessary?"
+    },
+    {
+      "context": "The stakeholders who are directly or indirectly affected by forest are as follows: People living in or around forests; as they depend on various forest produce for their livelihood. The forest department which is the owner of the forest land.",
+      "question": "Who are the stakeholders in forest conservation?"
+    },
+    {
+      "context": "Various industrialists who depend on forest for many raw materials. For example; the beedi industry needs kendu leaves as raw material. Wood is used as raw material in many industries.",
+      "question": "What industries rely on forest resources?"
+    },
+    {
+      "context": "Before the beginning of the colonial rule in India, forest dwellers were free to utilize the resources from forests as they wished.",
+      "question": "How were forest dwellers' rights affected historically?"
+    },
+    {
+      "context": "Conservation of forests and wildlife is necessary to protect biodiversity. This is important because loss of biodiversity leads to ecological imbalance.",
+      "question": "What happens with the loss of biodiversity?"
+    }
+  ]
+}

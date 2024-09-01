@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "As the complexity of the individuals, plants or animals increases the different cells and organs become separated from each other by greater distance.",
+      "question": "Why do complex organisms need coordination?"
+    },
+    {
+      "context": "To carry out a simple function such as picking up an object from the ground there has to be coordination of the eyes, hands, legs and the vertebral column.",
+      "question": "Which body parts coordinate to pick up an object?"
+    },
+    {
+      "context": "The individuals also have to adjust to the changing conditions around them and vary their responses.",
+      "question": "How do organisms respond to environmental changes?"
+    },
+    {
+      "context": "This is called homeostasis. Homeostasis is derived from 'homeo' meaning same and 'stasis' meaning standing still.",
+      "question": "What is the meaning of homeostasis?"
+    },
+    {
+      "context": "A nerve cell is a microscopic structure consisting of three major parts namely cell body, dendrites and axon.",
+      "question": "What are the three parts of a nerve cell?"
+    },
+    {
+      "context": "The nervous system of an animal is composed of specialized cells called neurons or nerve cells which can detect, receive and transmit different kinds of stimuli.",
+      "question": "What is the function of neurons in the nervous system?"
+    },
+    {
+      "context": "Billions of nerve cells make up our brain. A nerve cell is a microscopic structure consisting of three major parts namely cell body, dendrites and axon.",
+      "question": "How many nerve cells are found in the brain?"
+    },
+    {
+      "context": "This is possible only if the different parts can coordinate with each other and carry out a particular function.",
+      "question": "What enables different body parts to function together?"
+    },
+    {
+      "context": "At the same time, the internal conditions of the body should be maintained constant.",
+      "question": "What is maintained constant in homeostasis?"
+    },
+    {
+      "context": "Just as in animals, plants also have to control and coordinate their various functions.",
+      "question": "Do plants also have coordination systems?"
+    }
+  ]
+}

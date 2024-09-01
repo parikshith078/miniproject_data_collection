@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In order to bring about cross-pollination, it is necessary that the pollen should be carried from one flower to another of a different plant. This takes place through agency of animals, insects, wind, and water.",
+      "question": "What is required for cross-pollination?"
+    },
+    {
+      "context": "Pollination by birds (Ornithophily), Pollination by insects and animals (Zoophily).",
+      "question": "What are the agents of animal pollination?"
+    },
+    {
+      "context": "Flowers pollinated by air are mostly small in size and without any attractive colour, smell and nectar.",
+      "question": "What characteristics do anemophilous flowers have?"
+    },
+    {
+      "context": "They produce a large number of pollen grains to make up for the wastage of pollen in times of transit.",
+      "question": "Why do some flowers produce many pollen grains?"
+    },
+    {
+      "context": "Pollen grains are dry and powdery and hence are easily carried by the wind.",
+      "question": "What trait helps pollen grains to be wind-carried?"
+    }
+  ]
+}

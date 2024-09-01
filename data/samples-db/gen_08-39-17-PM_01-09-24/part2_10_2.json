@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The oxygen in the atmosphere is freed by the process of photolysis. The energy in the sunlight breaks the oxygen bearing oxygen to produce free oxygen. Oxygen molecule is broken down by UV rays from the sun. This cycle shields earth from harmful UV rays.",
+      "question": "What process frees oxygen in the atmosphere?"
+    },
+    {
+      "context": "In the biosphere, oxygen undergoes cycles of respiration and photosynthesis. Humans and animals breathe in oxygen. This oxygen is used in metabolic processes and carbon dioxide given out.",
+      "question": "How do humans and animals use oxygen?"
+    },
+    {
+      "context": "Plants and phytoplanktons undergo process of photosynthesis where carbon dioxide is used in the presence of sunlight to form carbohydrates and oxygen.",
+      "question": "What do plants produce during photosynthesis?"
+    },
+    {
+      "context": "In the lithosphere, oxygen is fixed in minerals like silicates and oxides. Oxygen from these minerals is freed by chemical weathering.",
+      "question": "How is oxygen released from minerals in the lithosphere?"
+    },
+    {
+      "context": "The atmosphere of Earth contains a mixture of many gases like nitrogen (78.08%), oxygen (20.95%), carbon dioxide (0.03%) and water vapour (in varying proportion).",
+      "question": "What gases are found in Earth's atmosphere?"
+    },
+    {
+      "context": "On the other hand, the atmosphere on Venus and Mars mainly contains carbon dioxide, i.e., about 95 - 97%. It may be the reason that due to this, no life is known to exist in both Venus and Mars.",
+      "question": "Why can't life exist on Venus and Mars?"
+    }
+  ]
+}

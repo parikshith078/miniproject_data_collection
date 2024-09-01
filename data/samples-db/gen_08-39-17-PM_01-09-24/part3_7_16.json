@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "This pollination takes place in water plants or plants that are adapted to water habitat. The flowers are small and inconspicuous.",
+      "question": "What type of plants undergo hydrophily?"
+    },
+    {
+      "context": "Fertilization happens after pollination. A mature pollen consists of two cells. The larger one is the vegetative cell and the smaller one is the generative cell.",
+      "question": "What are the two cells in mature pollen?"
+    },
+    {
+      "context": "The vegetative cell starts growing and emerges through the germination pore, developing into a pollen tube. The generative cell divides into two male gametes (sperms).",
+      "question": "What does the vegetative cell develop into?"
+    },
+    {
+      "context": "The pollen tube enters into the embryo sac through micropyle. The pollen tube bursts open, gametes are released from the pollen tube and enter the embryo sac.",
+      "question": "How does the pollen tube interact with the embryo sac?"
+    },
+    {
+      "context": "One of the gametes fuses with the egg, and the other fuses with the secondary nucleus. The fusion of a male gamete with the egg is known as fertilization.",
+      "question": "What is fertilization in plant reproduction?"
+    }
+  ]
+}

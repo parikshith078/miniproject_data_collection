@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Xylem parenchyma is the only living tissue amongst xylem cells, responsible for storing food reserves in the form of starch and fat. They also help in conduction of water.",
+      "question": "What is the primary function of xylem parenchyma?"
+    },
+    {
+      "context": "Phloem conducts food materials from leaves to other parts of the plant and is made up of four types of cells including sieve elements and companion cells.",
+      "question": "What does phloem transport in plants?"
+    },
+    {
+      "context": "Xylem parenchyma cells store food reserves like starch and fat and play a role in water conduction.",
+      "question": "Which substances do xylem parenchyma cells store?"
+    },
+    {
+      "context": "Phloem consists of four types of cells: sieve elements, companion cells, phloem fibres, and phloem parenchyma that aid in food conduction.",
+      "question": "How many types of cells are in phloem?"
+    },
+    {
+      "context": "The parenchyma cells in xylem are unique because they are the only living tissue among the otherwise non-living xylem cells.",
+      "question": "What distinguishes xylem parenchyma cells from other xylem cells?"
+    }
+  ]
+}

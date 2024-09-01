@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "The cell membrane of amoeba keeps on protruding into pseudopodia. Amoeba surrounds a food particle with pseudopodia and makes a food vacuole. The food vacuole contains the food particle and water. Digestive enzymes are secreted in the food vacuole and digestion takes place.",
+      "question": "How does amoeba obtain its food?"
+    },
+    {
+      "context": "The human digestive system is composed of an alimentary canal and some accessory glands. The alimentary canal is divided into several parts, viz. oesophagus, stomach, small intestine, large intestine, rectum and anus.",
+      "question": "What are the main parts of the human digestive system?"
+    },
+    {
+      "context": "Digestive enzymes are secreted in the food vacuole and digestion takes place. After that, digested food is absorbed from the food vacuole. Finally, the food vacuole moves near the cell membrane and undigested food is expelled out.",
+      "question": "What happens to food in the amoeba's food vacuole?"
+    },
+    {
+      "context": "Salivary gland, liver and pancreas are the accessory glands which lie outside the alimentary canal. The alimentary canal is divided into several parts, viz. oesophagus, stomach, small intestine, large intestine, rectum and anus.",
+      "question": "Which glands are considered accessory to the human digestive system?"
+    },
+    {
+      "context": "Amoeba surrounds a food particle with pseudopodia and makes a food vacuole. The food vacuole contains the food particle and water. Digestive enzymes are secreted in the food vacuole and digestion takes place.",
+      "question": "What role do pseudopodia play in amoeba's feeding?"
+    },
+    {
+      "context": "After that, digested food is absorbed from the food vacuole. Finally, the food vacuole moves near the cell membrane and undigested food is expelled out.",
+      "question": "What occurs after digestion in amoeba?"
+    },
+    {
+      "context": "The human digestive system is composed of an alimentary canal and some accessory glands. The alimentary canal is divided into several parts, viz. oesophagus, stomach, small intestine, large intestine, rectum and anus.",
+      "question": "List the parts of the alimentary canal in order."
+    },
+    {
+      "context": "Digestive enzymes are secreted in the food vacuole and digestion takes place. After that, digested food is absorbed from the food vacuole.",
+      "question": "How does amoeba digest food particles?"
+    }
+  ]
+}

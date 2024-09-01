@@ -1,0 +1,40 @@
+{
+  "samples": [
+    {
+      "context": "The human excretory system is composed of a pair of kidneys. A tube; called ureter; comes out of each kidney and goes to the urinary bladder. Urine is collected in the urinary bladder, from where it is expelled out through urethra as and when required.",
+      "question": "What are the main components of the excretory system?"
+    },
+    {
+      "context": "Nephron is called the functional unit of kidney. It is composed of a tangled mess of tubes and a filtering part; called glomerulus.",
+      "question": "What is the functional unit of the kidney?"
+    },
+    {
+      "context": "Filtration happens because of very high pressure inside the glomerulus. The lumen of efferent arteriole is smaller than that of afferent arteriole.",
+      "question": "Why does high pressure cause filtration in glomerulus?"
+    },
+    {
+      "context": "The filtered blood is sent to the systemic circulation through efferent arteriole and the filtrate goes to the Bowman’s capsule. That is how urine is formed inside the kidneys.",
+      "question": "Where does the filtered blood go after glomerulus?"
+    },
+    {
+      "context": "In the proximal tubule, some substances such as amino acids, glucose, and salts are selectively reabsorbed and unwanted molecules are added in the urine.",
+      "question": "What substances are selectively reabsorbed in the proximal tubule?"
+    },
+    {
+      "context": "Removal of harmful waste from the body is called excretion. Many wastes are produced during various metabolic activities.",
+      "question": "What is the definition of excretion?"
+    },
+    {
+      "context": "The urine formed in each kidney enters a long tube called ureter. From ureter, it gets transported to the urinary bladder and then into the urethra.",
+      "question": "What is the pathway of urine after kidney formation?"
+    },
+    {
+      "context": "Nephrons are the basic filtering units of kidneys. Each kidney possesses large number of nephrons, approximately 1 -1.5 million.",
+      "question": "How many nephrons are approximately in each kidney?"
+    },
+    {
+      "context": "The glomerulus is a network of blood capillaries to which renal artery is attached. The artery which takes blood to the glomerulus is called afferent arteriole.",
+      "question": "What is the purpose of the afferent arteriole?"
+    }
+  ]
+}

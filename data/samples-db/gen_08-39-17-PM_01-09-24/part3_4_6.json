@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Reflex action is a special case of involuntary movement in voluntary organs. When a voluntary organ is in the vicinity of a sudden danger, it is immediately pulled away from the danger to save itself. For example; when your hand touches a very hot electric iron, you move away your hand in a jerk.",
+      "question": "What initiates a reflex action?"
+    },
+    {
+      "context": "The path through which nerves signals; involved in a reflex action; travel is called the reflex arc. The receptor is the organ which comes in the danger zone. The sensory neurons pick signals from the receptor and send them to the relay neuron.",
+      "question": "What is the function of sensory neurons?"
+    },
+    {
+      "context": "The reflex arc passes at the level of the spinal cord and the signals involved in reflex action do not travel up to the brain. This is important because sending signals to the brain would involve more time.",
+      "question": "Where does the reflex arc primarily operate?"
+    },
+    {
+      "context": "The spinal cord sends signals to the effector via the motor neuron. The effector comes in action moves the receptor away from the danger. The reflex arc passes at the level of the spinal cord and the signals involved in reflex action do not travel up to the brain.",
+      "question": "What role does the effector play in reflex action?"
+    },
+    {
+      "context": "Although every action is ultimately controlled by the brain, the reflex action is mainly controlled at the level of spinal cord. This is important because sending signals to the brain would involve more time.",
+      "question": "How does reflex action benefit body safety?"
+    }
+  ]
+}

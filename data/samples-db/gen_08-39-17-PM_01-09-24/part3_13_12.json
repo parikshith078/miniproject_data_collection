@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In 1972, the forest department realized its mistake while reviving the degraded sal forests of Arabari forest range. Arabari forest lies in Midnapore district of West Bengal. The earlier methods of policing and surveillance were a total failure as they often led to frequent clashes with the local communities.",
+      "question": "What issue did the forest department face?"
+    },
+    {
+      "context": "In 1972, the forest department realized its mistake while reviving the degraded sal forests of Arabari forest range. Arabari forest lies in Midnapore district of West Bengal. The earlier methods of policing and surveillance were a total failure as they often led to frequent clashes with the local communities.",
+      "question": "Where is Arabari forest located?"
+    },
+    {
+      "context": "In 1972, the forest department realized its mistake while reviving the degraded sal forests of Arabari forest range. Arabari forest lies in Midnapore district of West Bengal. The earlier methods of policing and surveillance were a total failure as they often led to frequent clashes with the local communities.",
+      "question": "What were the previous management methods?"
+    },
+    {
+      "context": "In 1972, the forest department realized its mistake while reviving the degraded sal forests of Arabari forest range. Arabari forest lies in Midnapore district of West Bengal. The earlier methods of policing and surveillance were a total failure as they often led to frequent clashes with the local communities.",
+      "question": "What type of trees are found in Arabari forest?"
+    },
+    {
+      "context": "In 1972, the forest department realized its mistake while reviving the degraded sal forests of Arabari forest range. Arabari forest lies in Midnapore district of West Bengal. The earlier methods of policing and surveillance were a total failure as they often led to frequent clashes with the local communities.",
+      "question": "What was the outcome of the earlier methods used?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The voice becomes thin. Shoulders and hips become rounded. Breasts get enlarged. Hairs grow under the armpit and in the pubic region.",
+      "question": "What changes occur in girls during puberty?"
+    },
+    {
+      "context": "Features which highlight sexual dimorphism are called secondary sexual characters.",
+      "question": "What are secondary sexual characters?"
+    },
+    {
+      "context": "The physical dissimilarities in the male and female of a species which give them different appearances is called sexual dimorphism.",
+      "question": "What is sexual dimorphism?"
+    },
+    {
+      "context": "Breasts get enlarged. Hairs grow under the armpit and in the pubic region.",
+      "question": "What physical changes happen to girls during puberty?"
+    },
+    {
+      "context": "Shoulders and hips become rounded. The voice becomes thin.",
+      "question": "What specific changes do girls experience in body shape during puberty?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The ovule develops into seed. The integuments of the ovule develop into seed coats. The ovary enlarges and develops into fruit.",
+      "question": "What does the ovule develop into after fertilization?"
+    },
+    {
+      "context": "The male reproductive system in human beings is composed of following parts: Testis, Scrotum, Vas Deferens, Seminal Vesicle, and Penis. The testis primarily serves the function of sperm production and also produces testosterone.",
+      "question": "What is the primary function of the testis?"
+    },
+    {
+      "context": "The female reproductive system in human beings consists of Uterus, Fallopian Tubes, and Ovaries. The Uterus is where the embryo gets implanted and develops into a newborn baby.",
+      "question": "Where does the embryo get implanted in the female reproductive system?"
+    },
+    {
+      "context": "Fertilization happens in the Fallopian Tube. The Uterus is where the embryo gets implanted and develops into a newborn baby.",
+      "question": "Where does fertilization occur in the female reproductive system?"
+    },
+    {
+      "context": "The ovary enlarges and develops into fruit. The integuments of the ovule develop into seed coats.",
+      "question": "What part develops into fruit after fertilization?"
+    }
+  ]
+}

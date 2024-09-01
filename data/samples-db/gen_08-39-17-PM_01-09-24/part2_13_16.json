@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fish production involves fin fishery and shell fishery. Two main species of finned true fish are Catla and Rohu, and that of shellfish such as prawns and molluscs.",
+      "question": "What are the main species of fin fish?"
+    },
+    {
+      "context": "Capture fishing involves capturing of fish from sea water or fresh water. Culture fishing involves culturing the fish in small enclosures.",
+      "question": "What is the difference between capture and culture fishing?"
+    },
+    {
+      "context": "Two main species of finned true fish are Catla and Rohu, and that of shellfish such as prawns and molluscs.",
+      "question": "Name a shellfish mentioned in the text."
+    },
+    {
+      "context": "Fish are obtained by capture fishing as an economic source for their meat. Capture fishing involves capturing of fish from sea water or fresh water.",
+      "question": "What is capture fishing used for?"
+    },
+    {
+      "context": "Culture fishing involves culturing the fish in small enclosures.",
+      "question": "How does culture fishing obtain fish?"
+    }
+  ]
+}

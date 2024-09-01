@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Risk factors for parasites include children who play outdoors in the dirt, close contact with pets, farming, gardening, outdoor activities that include walking near wooded areas, digging in the dirt, walking outside barefoot, being in close or sexual contact with someone who has specific parasites, or sometimes simply the act of walking from the car to the house.",
+      "question": "What are risk factors for parasitic infections?"
+    },
+    {
+      "context": "Treatment of parasitic disease is typically nothing. Most often there are no symptoms, or symptoms are so mild that there is no concern, and thus physicians are not told to consider the symptoms as a possible parasitic disease.",
+      "question": "How are parasitic diseases usually treated?"
+    },
+    {
+      "context": "Parasites exist in the world and cannot be avoided simply by avoiding being outdoors. Parasites exist in many environments, and exposure can happen in various situations, leading to potential infections.",
+      "question": "Can parasites be avoided by staying indoors?"
+    },
+    {
+      "context": "Unless there are serious symptoms or the infestation is large enough to cause health problems, most parasitic diseases will clear up on their own.",
+      "question": "When do parasitic diseases require treatment?"
+    },
+    {
+      "context": "Children who play outdoors in the dirt, close contact with pets, farming, gardening, and other outdoor activities increase the likelihood of encountering parasites.",
+      "question": "Why are children at higher risk for parasites?"
+    }
+  ]
+}

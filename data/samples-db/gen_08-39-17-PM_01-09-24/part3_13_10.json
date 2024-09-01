@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "There are many examples which suggest that involvement of local communities is necessary for any conservation effort. The Bishnoi community of Rajasthan is one such example. Amrita Devi Bishnoi is still remembered with reverence for the way she fought for protecting the khejri trees in Khejrali village.",
+      "question": "What did Amrita Devi fight to protect?"
+    },
+    {
+      "context": "The Chipko Movement began in the early 1980s from a small village; Reni in Garhwal district. The women of the village began hugging a tree to prevent the cutting of trees by the contractors.",
+      "question": "What action did women take in the Chipko Movement?"
+    },
+    {
+      "context": "The Chipko Movement later spread to other parts of India. It had been instrumental in stopping deforestation to a large extent.",
+      "question": "What was the impact of the Chipko Movement?"
+    },
+    {
+      "context": "Amrita Devi Bishnoi is still remembered with reverence for the way she fought for protecting the khejri trees in Khejrali village. She; along with 363 other people; sacrificed her life for the protection of khejri trees in 1731.",
+      "question": "How many people sacrificed their lives for khejri trees?"
+    },
+    {
+      "context": "The women of the village began hugging a tree to prevent the cutting of trees by the contractors. The Chipko Movement later spread to other parts of India.",
+      "question": "Where did the Chipko Movement originate?"
+    },
+    {
+      "context": "There are many examples which suggest that involvement of local communities is necessary for any conservation effort.",
+      "question": "Why is local community involvement important?"
+    }
+  ]
+}

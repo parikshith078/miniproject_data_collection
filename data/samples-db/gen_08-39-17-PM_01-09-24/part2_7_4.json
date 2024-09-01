@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "All wounds should be treated carefully and cleaned with iodine solution. Immunisation of infants by DPT should be done. Anti-tetanus serum (ATS) injection within 24 hours of injury provides passive immunity while tetanus toxoid (TT) gives active immunity.",
+      "question": "What is the role of anti-tetanus serum?"
+    },
+    {
+      "context": "Plague is caused by a rod-shaped non-motile bacterium called Pasteurella/Yersinia pestis and is transmitted by the bite of infected rat flea, Xenopsylla cheopis.",
+      "question": "What bacterium causes the plague?"
+    },
+    {
+      "context": "Immunisation of infants by DPT should be done. Anti-tetanus serum (ATS) injection within 24 hours of injury provides passive immunity while tetanus toxoid (TT) gives active immunity.",
+      "question": "What does DPT immunisation protect against?"
+    },
+    {
+      "context": "Plague is caused by a rod-shaped non-motile bacterium called Pasteurella/Yersinia pestis and is transmitted by the bite of infected rat flea, Xenopsylla cheopis.",
+      "question": "How is plague transmitted to humans?"
+    },
+    {
+      "context": "All wounds should be treated carefully and cleaned with iodine solution. Immunisation of infants by DPT should be done.",
+      "question": "What solution should be used to clean wounds?"
+    }
+  ]
+}

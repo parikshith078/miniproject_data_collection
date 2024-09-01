@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Sensory neurons receive signals from a sense organ while motor neurons send signals to a muscle or gland.",
+      "question": "What do sensory neurons do?"
+    },
+    {
+      "context": "Afferent neurons carry messages towards the central nervous system from sense organs that detect stimuli.",
+      "question": "What is the role of afferent neurons?"
+    },
+    {
+      "context": "Motor neurons send signals from the central nervous system to effectors that carry out the response.",
+      "question": "What do motor neurons transmit?"
+    },
+    {
+      "context": "Association neurons act as relays between sensory and motor neurons, coordinating their activity.",
+      "question": "What is the function of association neurons?"
+    },
+    {
+      "context": "Nerves are classified into three types based on the pathways they follow: afferent, efferent, and association.",
+      "question": "What are the three types of nerves?"
+    },
+    {
+      "context": "Afferent neurons are also known as sensory nerves, as they help detect changes in the environment.",
+      "question": "What are afferent neurons also referred to as?"
+    },
+    {
+      "context": "Efferent neurons are responsible for carrying messages away from the central nervous system to initiate responses.",
+      "question": "What is the function of efferent neurons?"
+    },
+    {
+      "context": "Association nerves link the afferent and efferent nerves, facilitating communication between them.",
+      "question": "What do association nerves connect?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Natural resources can be broadly categorized into two types, viz. exhaustible and non-exhaustible. Management of natural resources is all about their judicious use in a way that the exhaustible resources can last for many generations to come and non-exhaustible resources can be maintained in as pristine form as possible.",
+      "question": "What are the two types of natural resources?"
+    },
+    {
+      "context": "There are many consequences of exploitation of natural resources. Some examples are given below: Burning of fossil fuels creates air pollution. Excess amount of carbon dioxide in the atmosphere leads to global warming.",
+      "question": "What does burning fossil fuels create?"
+    },
+    {
+      "context": "Overuse of fertilisers and insecticides leads to soil pollution and soil erosion. Many pollutants are directly flown into water bodies. This has resulted in water pollution in many rivers, lakes and even in oceans.",
+      "question": "What causes soil pollution and erosion?"
+    },
+    {
+      "context": "Excess exploitation of groundwater leads to a drastic fall in water table. This is the reason many places are experiencing acute shortage of drinking water.",
+      "question": "What results from over-exploitation of groundwater?"
+    },
+    {
+      "context": "Air pollution and global warming are consequences of the exploitation of natural resources. Polluting gases like oxides of nitrogen and sulphur lead to acid rain, which is harmful for living beings.",
+      "question": "What causes acid rain according to the text?"
+    }
+  ]
+}

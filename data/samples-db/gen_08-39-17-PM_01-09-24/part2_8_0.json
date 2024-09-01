@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Symptoms may be headache, cough, loose-motions, wound with pus, etc. These symptoms indicate disease but do not tell what the disease is.",
+      "question": "What are examples of symptoms of disease?"
+    },
+    {
+      "context": "Lice and acne will not cause long lasting effects on our body. But in case of jaundice, there will be severe long lasting effects.",
+      "question": "Do lice and acne have long-term health effects?"
+    },
+    {
+      "context": "The doctor will get laboratory tests done, if required for the confirmation of a particular disease.",
+      "question": "What will a doctor do for disease confirmation?"
+    },
+    {
+      "context": "High temperature, headache and joint pains are effects of jaundice. The patient will suffer from poor health.",
+      "question": "What are symptoms associated with jaundice?"
+    },
+    {
+      "context": "The patient will recover by taking complete bed rest for sometime after suffering from jaundice.",
+      "question": "What is a recommended recovery method for jaundice?"
+    },
+    {
+      "context": "Feeling of nausea and vomiting are significant symptoms in patients suffering from jaundice.",
+      "question": "Which symptoms indicate severe illness in jaundice?"
+    }
+  ]
+}

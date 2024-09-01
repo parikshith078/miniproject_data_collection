@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Irrigation is necessary for crops to get water during their growing season. Different sources of irrigation include wells, canals, and tanks. Wells can be dug or tube wells. Canals involve elaborate systems, while tanks store runoff. Rainwater harvesting and watershed management also play crucial roles.",
+      "question": "What are two sources of irrigation?"
+    },
+    {
+      "context": "Different ways of growing crops can be used to give maximum benefit. MIXED CROPPING involves growing two or more crops simultaneously on the same land, which leads to improved fertility.",
+      "question": "What is mixed cropping in agriculture?"
+    },
+    {
+      "context": "CROP ROTATION is the practice of growing a series of dissimilar types of crops in the same area in sequential seasons for various benefits such as improved soil fertility and pest management.",
+      "question": "What benefits does crop rotation provide?"
+    },
+    {
+      "context": "Wells are a source of irrigation that can be categorized into dug wells and tube wells, providing necessary water for crops during their growing season.",
+      "question": "What are the two types of wells?"
+    },
+    {
+      "context": "Crops can be cultivated using different patterns like INTER CROPPING, which involves growing two or more crops in the same space at the same time, following a definite pattern for maximizing land use.",
+      "question": "What is inter cropping?"
+    }
+  ]
+}

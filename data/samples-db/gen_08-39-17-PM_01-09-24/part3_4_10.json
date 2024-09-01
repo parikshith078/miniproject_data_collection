@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "The human brain can be divided into three regions, viz. forebrain, midbrain and hindbrain.",
+      "question": "What are the three regions of the brain?"
+    },
+    {
+      "context": "Cerebrum: The cerebrum is the largest part in the human brain. It is divided into two hemispheres; called cerebral hemispheres.",
+      "question": "What is the largest part of the human brain?"
+    },
+    {
+      "context": "It is the site of sensory perceptions; like tactile and auditory perceptions.",
+      "question": "What sensory perceptions does the cerebrum handle?"
+    },
+    {
+      "context": "The cerebrum controls the voluntary motor actions.",
+      "question": "What type of actions does the cerebrum control?"
+    },
+    {
+      "context": "It is the seat of learning and memory.",
+      "question": "What role does the cerebrum play in learning?"
+    },
+    {
+      "context": "Hindbrain: It is composed of the cerebellum, pons and medulla oblongata.",
+      "question": "What does the hindbrain consist of?"
+    },
+    {
+      "context": "Midbrain: It is composed of the hypothalamus.",
+      "question": "Which part of the brain is included in the midbrain?"
+    },
+    {
+      "context": "The cerebrum is divided into two hemispheres; called cerebral hemispheres.",
+      "question": "How is the cerebrum organized?"
+    },
+    {
+      "context": "The cerebrum is the site of sensory perceptions; like tactile and auditory perceptions.",
+      "question": "What perceptions are associated with the cerebrum?"
+    },
+    {
+      "context": "The human brain can be divided into three regions: forebrain, midbrain, and hindbrain.",
+      "question": "What are the three main brain divisions?"
+    }
+  ]
+}

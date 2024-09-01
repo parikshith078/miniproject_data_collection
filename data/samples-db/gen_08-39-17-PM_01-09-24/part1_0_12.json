@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A cell is enclosed in a membranous casing and is filled with a liquid substance which is called the cytoplasm. There are many cell organelles in a typical cell. Some of the main structures of a cell are as follows: The cytoplasm is the fluid content inside the plasma membrane. It also contains many specialised cell organelles.",
+      "question": "What is the function of the cytoplasm?"
+    },
+    {
+      "context": "Cytoplasm helps in intracellular distribution of enzymes, nutrients and other biomolecules within the cell.   Synthesis of different types of biomolecules such as proteins, nucleotides, fatty acids etc., takes place in the cytoplasm.",
+      "question": "What biomolecules are synthesized in cytoplasm?"
+    },
+    {
+      "context": "There are many cell organelles in a typical cell. Some of the main structures of a cell are as follows: The cytoplasm is the fluid content inside the plasma membrane. It also contains many specialised cell organelles.",
+      "question": "What does the cytoplasm contain inside a cell?"
+    },
+    {
+      "context": "Cytoplasm helps in intracellular distribution of enzymes, nutrients and other biomolecules within the cell.   Synthesis of different types of biomolecules such as proteins, nucleotides, fatty acids etc., takes place in the cytoplasm.",
+      "question": "How does cytoplasm aid in the cell's operation?"
+    },
+    {
+      "context": "The cytoplasm is the fluid content inside the plasma membrane. It also contains many specialised cell organelles. Each of these organelles performs a specific function for the cell.",
+      "question": "What role do organelles play in cytoplasm?"
+    }
+  ]
+}

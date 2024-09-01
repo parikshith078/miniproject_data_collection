@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Sieve elements are the conducting elements of the phloem. Sieve elements are of two types – sieve cells and sieve tubes. Sieve cells are present in Pteridophytes and Gymnosperms whereas sieve tubes are present in Angiosperms.",
+      "question": "What are the types of sieve elements?"
+    },
+    {
+      "context": "Companion cells are thin walled elongated specialized Parenchyma cells. They are associated with sieve elements. They have a prominent nucleus and cytoplasm.",
+      "question": "What function do companion cells serve?"
+    },
+    {
+      "context": "They help the sieve tube in conduction of food materials in angiosperms. Sieve cells are present in Pteridophytes and Gymnosperms.",
+      "question": "In which plants are sieve cells found?"
+    },
+    {
+      "context": "Sieve tubes are present in Angiosperms. Companion cells are associated with sieve elements and help in conduction.",
+      "question": "How do companion cells support sieve tubes?"
+    },
+    {
+      "context": "Sieve elements are the conducting elements of the phloem. Companion cells are associated with sieve elements in angiosperms.",
+      "question": "What are sieve elements responsible for?"
+    }
+  ]
+}

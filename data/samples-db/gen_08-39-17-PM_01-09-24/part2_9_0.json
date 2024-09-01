@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Pollutants can be classified as either primary or secondary. Usually, primary pollutants are substances directly emitted from a process, such as ash from a volcanic eruption, the carbon monoxide gas from a motor vehicle exhaust or sulfur dioxide released from factories.",
+      "question": "What are primary pollutants?"
+    },
+    {
+      "context": "Secondary pollutants are not emitted directly. Rather, they form in the air when primary pollutants react or interact. An important example of a secondary pollutant is ground level ozone - one of the many secondary pollutants that make up photochemical smog.",
+      "question": "How are secondary pollutants formed?"
+    },
+    {
+      "context": "Water occupies a very large area of the Earth’s surface and is also found underground. Some amount of water exists in the form of water vapour in the atmosphere. Most of the water on Earth’s surface is found in seas and oceans and is saline.",
+      "question": "Where is most of Earth's water located?"
+    },
+    {
+      "context": "Fresh water is found frozen in the ice-caps at the two poles and on snow covered mountains. The underground water and the water in rivers, lakes and ponds is also fresh. However, the availability of fresh water varies from place to place.",
+      "question": "What is the distribution of fresh water on Earth?"
+    },
+    {
+      "context": "All cellular processes take place in a water medium. All the reactions that take place within our body and within the cells occur between substances that are dissolved in water. Substances are also transported from one part of the body to the other in a dissolved form.",
+      "question": "Why is water important for cellular processes?"
+    },
+    {
+      "context": "Terrestrial life-forms require fresh water for this because their bodies cannot tolerate or get rid of the high amounts of dissolved salts in saline water. Thus, water sources need to be easily accessible for animals and plants to survive on land.",
+      "question": "Why do terrestrial life-forms need fresh water?"
+    }
+  ]
+}

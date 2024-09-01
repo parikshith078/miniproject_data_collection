@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Thus sometimes accidents may also result in changes in certain characters of the population. Characters as we know are governed by genes. Thus there is change in the frequency of genes in small populations. This is known as 'Genetic drift', which provides diversity in the population.",
+      "question": "What does genetic drift provide to populations?"
+    },
+    {
+      "context": "So beetles are poorly nourished. So the weight of beetles decrease but no changes take place in their genetic material (DNA). After a few years the plant disease are eliminated. Bushes are healthy with plenty of leaves.",
+      "question": "How did the beetle's weight change due to the disease?"
+    },
+    {
+      "context": "Characters as we know are governed by genes. Thus there is change in the frequency of genes in small populations. This is known as 'Genetic drift', which provides diversity in the population.",
+      "question": "What governs the characters of a population?"
+    },
+    {
+      "context": "Thus sometimes accidents may also result in changes in certain characters of the population. Characters as we know are governed by genes. Thus there is change in the frequency of genes in small populations.",
+      "question": "What might cause changes in population characters?"
+    },
+    {
+      "context": "So the weight of beetles decrease but no changes take place in their genetic material (DNA). After a few years the plant disease are eliminated. Bushes are healthy with plenty of leaves.",
+      "question": "What happened to the bushes after a few years?"
+    },
+    {
+      "context": "Thus there is change in the frequency of genes in small populations. This is known as 'Genetic drift', which provides diversity in the population.",
+      "question": "What is the term for frequency change in small populations?"
+    },
+    {
+      "context": "So beetles are poorly nourished. So the weight of beetles decrease but no changes take place in their genetic material (DNA).",
+      "question": "What happened to beetles' genetic material during the disease?"
+    }
+  ]
+}

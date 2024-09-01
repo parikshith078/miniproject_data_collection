@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Genetic changes can result from various factors and are crucial for understanding evolution. One major process is genetic drift, where allele frequencies fluctuate due to random sampling of organisms. This can lead to the evolution of new species, particularly when populations become geographically isolated.",
+      "question": "What causes the evolution of new species?"
+    },
+    {
+      "context": "Speciation occurs through several mechanisms, including genetic drift and natural selection. Geographical isolation can isolate populations, leading to genetic changes over time. These factors can contribute significantly to the emergence of new species.",
+      "question": "What leads to the rise of a new species?"
+    },
+    {
+      "context": "When populations are separated by geographic barriers, genetic drift and natural selection can result in significant genetic changes. This process is essential for the evolution of new species, as isolated populations adapt to their unique environments.",
+      "question": "How do genetic drift and natural selection influence speciation?"
+    },
+    {
+      "context": "Geographical segregation can lead to speciation through mechanisms such as genetic drift and natural selection. These factors can cause populations to evolve independently, resulting in the development of new species over time.",
+      "question": "What roles do genetic drift and natural selection play in evolution?"
+    },
+    {
+      "context": "The process of speciation often involves genetic changes due to various ecological factors. Genetic drift and natural selection play a critical role in this process, especially when populations are geographically segregated from one another.",
+      "question": "What are the main factors leading to speciation?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Kharif crops sown between April and May while Rabi crops are sown between September and October. Kharif crops are harvested after monsoon rains while Rabi crops are produced after winter.",
+      "question": "When are Kharif crops sown?"
+    },
+    {
+      "context": "Kharif crops are popularly known as monsoon crops while Rabi crops are called winter or spring crops. Kharif crops are completely relying over the rain while Rabi can deal with whatever water is present.",
+      "question": "What are Rabi crops often referred to as?"
+    },
+    {
+      "context": "The major examples that can be counted as Kharif crops are sunflower, rice, sugar cane, soya bean and tea while Rabi crops can be wheat, barley, pea, gram and mustard.",
+      "question": "Give examples of Kharif crops."
+    },
+    {
+      "context": "Improving crop yields involves the practices carried out by farmers to achieve higher standards of crop production. It includes: 1. Choice of seeds for planting",
+      "question": "What is involved in improving crop yields?"
+    },
+    {
+      "context": "The major activities for improving crop yields can be classified as (i) Crop variety improvement (ii) Crop production improvement (iii) Crop protection improvement.",
+      "question": "Name a category of crop yield improvement activities?"
+    }
+  ]
+}

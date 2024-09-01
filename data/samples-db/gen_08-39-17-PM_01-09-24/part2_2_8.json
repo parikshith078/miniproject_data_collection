@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Dicotyledonous plants have two cotyledons in their seeds. Some common examples include mustard, gram, and mango. They are a significant group of flowering plants that display divergent growth forms and characteristics.",
+      "question": "What type of plants have two cotyledons?"
+    },
+    {
+      "context": "Porifera are animals characterized by pores covering their bodies. These pores connect to a canal system that allows water to flow through, aiding in the entry of food and the exchange of materials. Sponges are a well-known example of Porifera.",
+      "question": "What is a characteristic feature of Porifera animals?"
+    },
+    {
+      "context": "The body of Porifera is not differentiated into tissues, and it is covered with a hard outer skeleton. They primarily live in marine environments and are generally known as sponges. Examples include Sycon, spongilla, and euplectelea.",
+      "question": "What type of environment do Porifera typically inhabit?"
+    },
+    {
+      "context": "Dicotyledonous plants, which have two cotyledons, include species like mustard and mango. These plants exhibit distinct features that differ from monocotyledons, making them easy to identify in the plant kingdom.",
+      "question": "Give an example of a dicotyledonous plant."
+    },
+    {
+      "context": "Sponges, classified under Porifera, have a simple body structure with no true tissues. Their unique porous body plan facilitates the movement of water through their canal system, which is essential for their feeding.",
+      "question": "What function does the canal system serve in sponges?"
+    }
+  ]
+}

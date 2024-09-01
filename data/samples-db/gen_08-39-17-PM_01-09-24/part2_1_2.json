@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Tissue is defined as a group of cells that are similar in structure and/or work together to achieve a particular function. The three main types of simple tissues in plants are: (i) Parenchyma (ii) Collenchyma (iii) Sclerenchyma.",
+      "question": "What are the three types of simple plant tissues?"
+    },
+    {
+      "context": "Complex tissues in plants are made up of more than one type of cells, while simple tissues consist of only one type.",
+      "question": "What distinguishes complex tissues from simple tissues?"
+    },
+    {
+      "context": "The following four types of elements make up xylem tissue: (i) Xylem tracheids (tubular unicellular), (ii) Xylem vessels (multicellular), (iii) Xylem parenchyma (stores food and helps in sideways conduction of water), (iv) Xylem fibres (provide mechanical support).",
+      "question": "What types of elements compose xylem tissue?"
+    },
+    {
+      "context": "The constituents of phloem tissue are: (i) Sieve tubes (tubular living cells with perforated end walls) (ii) Companion cell (living cells) (iii) Phloem parenchyma (living cells) (iv) Phloem fibres (non-living and sclerenchyma cells).",
+      "question": "What makes up phloem tissue?"
+    },
+    {
+      "context": "Complex Plant Tissues include xylem, which consists of four types of elements that serve different functions in transportation and support.",
+      "question": "What is the main function of xylem tissue?"
+    },
+    {
+      "context": "Complex tissues in plants include xylem and phloem, both of which consist of various cell types contributing to their function.",
+      "question": "What are the two main types of complex tissues in plants?"
+    }
+  ]
+}

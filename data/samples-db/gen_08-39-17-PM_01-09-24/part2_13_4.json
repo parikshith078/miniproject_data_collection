@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "As animal husbandry is scientific management of farm animals, it serves many uses for human beings. It helps in enhancing milk production, increases egg production, increases meat production, increases fish production, and helps in proper management of agricultural wastes.",
+      "question": "What is the primary benefit of animal husbandry?"
+    },
+    {
+      "context": "Cattle farming is the practice of rearing cattle by providing facilities for raising livestock. Livestock includes domestication of cows, buffaloes, sheep, goats, pigs etc. A cattle farming is carried out to raise cows and buffaloes as important livestock.",
+      "question": "What is the main goal of cattle farming?"
+    },
+    {
+      "context": "The two major species of Indian cattle are Bosindicus, or cows, and Bosbubalis, or buffaloes. Cattle farming is carried out to raise cows and buffaloes as important livestock.",
+      "question": "Which two species of Indian cattle are mentioned?"
+    },
+    {
+      "context": "Animal husbandry helps in enhancing milk production, increases egg production, increases meat production, increases fish production, and helps in proper management of agricultural wastes.",
+      "question": "Name one benefit of animal husbandry for humans."
+    },
+    {
+      "context": "Cattle farming is the practice of rearing cattle by providing facilities for raising livestock. Livestock includes domestication of cows, buffaloes, sheep, goats, pigs etc.",
+      "question": "What animals are typically included in livestock?"
+    },
+    {
+      "context": "As animal husbandry is scientific management of farm animals, it serves many uses for human beings. It helps in proper management of agricultural wastes.",
+      "question": "How does animal husbandry manage agricultural wastes?"
+    }
+  ]
+}

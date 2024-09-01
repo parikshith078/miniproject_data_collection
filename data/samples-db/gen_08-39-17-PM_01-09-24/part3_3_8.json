@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Transport in xylem occurs with the help of simple physical forces such as transpiration pull. Xylem tissue helps in the transport of water and minerals. Water is transported upwards from roots to all other plant parts.",
+      "question": "What force aids xylem transport?"
+    },
+    {
+      "context": "Phloem tissue helps in the transport of food. Food is transported in both upward and downward directions. Transport of food in phloem requires energy in the form of ATP.",
+      "question": "What type of energy is needed for phloem transport?"
+    },
+    {
+      "context": "Alveoli are tiny balloon-like structures present inside the lungs. The walls of the alveoli are one cell thick and it contains an extensive network of blood capillaries.",
+      "question": "What is the structure of alveoli like?"
+    },
+    {
+      "context": "The exchange of O2 and CO2 takes place between the blood of the capillaries that surround the alveoli and the gases present in the alveoli. Alveoli are the site of gaseous exchange.",
+      "question": "What occurs in the alveoli during gas exchange?"
+    },
+    {
+      "context": "Nephrons are tubular structures present inside the kidneys. They are made of glomerulus, bowman’s capsule, and a long renal tube.",
+      "question": "What are the components of a nephron?"
+    },
+    {
+      "context": "Blood enters the kidneys through the renal artery which branches into many capillaries in the glomerulus. The water and solute are transferred to the nephron at Bowman’s capsule.",
+      "question": "How does blood enter the kidneys?"
+    },
+    {
+      "context": "From Henle’s loop, filtrate passes into the distal tubule and then to the collecting duct. Nephrons are the basic filtration unit.",
+      "question": "What path does filtrate take in a nephron?"
+    },
+    {
+      "context": "During the flow of filtrate, some substances such as glucose, amino acids, and water are selectively re-absorbed. Nephrons are the basic filtration unit.",
+      "question": "What substances are re-absorbed in nephrons?"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Autotrophic nutrition is characterized by its ability to produce food using sunlight or inorganic substances. Presence of green pigment (chlorophyll) is necessary for the process of photosynthesis, allowing these organisms to convert light energy into chemical energy.",
+      "question": "What pigment is required for autotrophic nutrition?"
+    },
+    {
+      "context": "In contrast, heterotrophic nutrition involves organisms that cannot synthesize their own food. No pigment is required in this type of nutrition, as these organisms obtain energy by consuming other organisms or organic matter.",
+      "question": "What type of nutrition does not require pigments?"
+    }
+  ]
+}

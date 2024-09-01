@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plasma membrane is a semi-permeable membrane. It is composed of a bilayer of lipid and protein. This is the outermost covering of the cell that separates the contents of the cell from its external environment.",
+      "question": "What is the composition of the plasma membrane?"
+    },
+    {
+      "context": "It also prevents movement of some other materials. The cell membrane, therefore, is called a selectively permeable membrane.",
+      "question": "Why is the cell membrane called selectively permeable?"
+    },
+    {
+      "context": "It allows the flow of materials and information between different organelles of the same cell, as well as between the adjacent cells.",
+      "question": "What does the plasma membrane allow between organelles?"
+    },
+    {
+      "context": "Therefore, it is called a selectively permeable membrane or semi-permeable membrane. It provides an outer boundary to the cell and protects the cell from injury.",
+      "question": "What is one protective function of the plasma membrane?"
+    },
+    {
+      "context": "It provides some organic connections between the adjacent cells.",
+      "question": "What type of connections does the plasma membrane provide?"
+    }
+  ]
+}

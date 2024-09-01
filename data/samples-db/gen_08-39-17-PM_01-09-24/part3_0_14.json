@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "In saprophytic nutrition, the digestion of food takes place before ingestion of food. This type of nutrition is usually seen in fungi and some other microorganisms.",
+      "question": "Where does digestion occur in saprophytic nutrition?"
+    },
+    {
+      "context": "This type of nutrition is usually seen in fungi and some other microorganisms. The organism secretes digestive enzymes on the food and then ingests the simple substances.",
+      "question": "What organisms primarily use saprophytic nutrition?"
+    },
+    {
+      "context": "In holozoic nutrition, the digestion of food follows after the ingestion of food. Thus, digestion takes place inside the body of the organism.",
+      "question": "What is the main difference between holozoic and saprophytic nutrition?"
+    },
+    {
+      "context": "Holozoic nutrition happens in five steps, viz. ingestion, digestion, absorption, assimilation and egestion.",
+      "question": "What are the steps of holozoic nutrition?"
+    },
+    {
+      "context": "The organism secretes digestive enzymes on the food and then ingests the simple substances in saprophytic nutrition.",
+      "question": "What role do digestive enzymes play in saprophytic nutrition?"
+    },
+    {
+      "context": "In holozoic nutrition, the digestion of food follows after the ingestion of food, meaning digestion occurs internally.",
+      "question": "What is a key feature of holozoic nutrition?"
+    }
+  ]
+}

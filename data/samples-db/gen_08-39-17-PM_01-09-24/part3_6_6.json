@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "The flow of information in the nervous system is rapid and the response is quick. Its effects are short lived. Hormonal mechanisms, on the other hand, use chemical messengers and have prolonged effects.",
+      "question": "What is the effect duration of hormonal mechanisms?"
+    },
+    {
+      "context": "Movement in sensitive plants occurs in response to touch, while movement in human legs is voluntary. This voluntary movement is controlled by signals passed to the brain.",
+      "question": "What type of movement is seen in human legs?"
+    },
+    {
+      "context": "In sensitive plants like Mimosa pudica, movements occur when stimulated by touch. These movements differ from human leg movements which are voluntary actions.",
+      "question": "What stimulates movement in sensitive plants?"
+    },
+    {
+      "context": "Information in the nervous system is conveyed as electrical impulses, while in hormonal systems, it is conveyed via chemical messengers traveling through blood.",
+      "question": "How is information conveyed in hormonal systems?"
+    },
+    {
+      "context": "Human leg movements involve signals being passed to the brain and are consciously controlled. In contrast, sensitive plant movements do not involve the brain.",
+      "question": "What controls movement in human legs?"
+    },
+    {
+      "context": "Following a stimulus, the information for sensitive plant movement is transmitted by electro-chemical signals, unlike the specialized conduction tissues in animals.",
+      "question": "How is information transmitted in sensitive plants?"
+    },
+    {
+      "context": "The nervous system conveys information through electric impulses for rapid responses, while hormonal systems are slower and have prolonged effects.",
+      "question": "What is a characteristic of the nervous system?"
+    }
+  ]
+}

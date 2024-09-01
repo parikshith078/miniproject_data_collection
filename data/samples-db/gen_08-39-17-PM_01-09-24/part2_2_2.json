@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "The plant body is simple thallus type. The plant body is not differentiated into root, stem, and leaves. They are commonly known as algae. Examples: Spirogyra, chara, volvox, ulothrix, etc.",
+      "question": "What type of plant body do Thallophyta have?"
+    },
+    {
+      "context": "Plant body is differentiated into stem and leaf-like structure. Vascular system is absent, which means there is no specialized tissue for transportation of water, minerals, and food.",
+      "question": "What is true about the vascular system in Bryophyta?"
+    },
+    {
+      "context": "Bryophytes are also known as the amphibians of the plant kingdom because they need water to complete a part of their life cycle.",
+      "question": "Why are Bryophytes referred to as amphibians?"
+    },
+    {
+      "context": "Examples of Thallophyta include Spirogyra, chara, volvox, ulothrix, etc.",
+      "question": "Can you name examples of Thallophyta?"
+    },
+    {
+      "context": "The plant body is not differentiated into root, stem, and leaves. They are commonly known as algae.",
+      "question": "What defines the structure of Thallophyta?"
+    },
+    {
+      "context": "Vascular system is absent, which means there is no specialized tissue for transportation of water, minerals, and food.",
+      "question": "What does it mean when a plant has no vascular system?"
+    },
+    {
+      "context": "Examples: Moss, marchantia.",
+      "question": "Which plants are examples of Bryophyta?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The body of plants and animals is made up of different types of cells. These cells originate from a single cell by repeated divisions and get differentiated during development.",
+      "question": "What do different cell types originate from?"
+    },
+    {
+      "context": "In multicellular organisms, different functions are performed by different groups of cells. The groups of cells having a common origin and performing similar functions are called tissues.",
+      "question": "What are groups of similar function cells called?"
+    },
+    {
+      "context": "The study of tissues is called Histology. In complex organisms, different tasks are carried out by different organs and organ systems.",
+      "question": "What is the term for the study of tissues?"
+    },
+    {
+      "context": "Tissues are the first step towards division of labour in complex organisms. Several tissues are organized to form tissue system and the tissue systems form the organs.",
+      "question": "What do tissues organize to form in complex organisms?"
+    },
+    {
+      "context": "Several tissues are organized to form tissue system and the tissue systems form the organs and several organs into organism.",
+      "question": "How are organs formed in multicellular organisms?"
+    },
+    {
+      "context": "In unicellular organisms all the body functions are performed by a single cell. But in multicellular organisms, different functions are performed by different groups of cells.",
+      "question": "How do unicellular and multicellular organisms differ?"
+    }
+  ]
+}

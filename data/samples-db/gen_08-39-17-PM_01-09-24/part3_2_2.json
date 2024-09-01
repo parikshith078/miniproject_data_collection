@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Xylem is responsible for transportation of water and minerals. It is composed of trachieds, xylem vessels, xylem parenchyma and xylem fibre. Trachieds and xylem vessels are the conducting elements. The xylem makes a continuous tube in plants which runs from roots to stem and right up to the veins of leaves.",
+      "question": "What is the main function of xylem?"
+    },
+    {
+      "context": "Phloem is responsible for transportation of food. Phloem is composed of sieve tubes, companion cells, phloem parenchyma and bast fibres. Sieve tubes are the conducting elements in phloem.",
+      "question": "What does phloem transport in plants?"
+    },
+    {
+      "context": "The upward movement of water and minerals from roots to different plant parts is called ascent of sap. Many factors are at play in ascent of sap and it takes place in many steps.",
+      "question": "What is the ascent of sap in plants?"
+    },
+    {
+      "context": "Water from soil enters the root hairs because of osmosis. Root pressure is responsible for movement of water up to the base of the stem.",
+      "question": "How does water enter root hairs?"
+    },
+    {
+      "context": "Water or any liquid rises in the capillary because of physical forces and this phenomenon is called capillary action. Water in stem rises up to some height because of capillary action.",
+      "question": "What is capillary action in plants?"
+    },
+    {
+      "context": "Water molecules make a continuous column in the xylem because of forces of adhesion and cohesion among the molecules.",
+      "question": "What keeps the water column continuous in xylem?"
+    },
+    {
+      "context": "Transpiration through stomata creates vacuum which creates a suction, called transpiration pull. The transpiration pull sucks the water column from the xylem tubes.",
+      "question": "What is transpiration pull in plants?"
+    },
+    {
+      "context": "Loss of water vapour through stomata and lenticels; in plants; is called transpiration. Transpiration creates vacuum which helps in water movement.",
+      "question": "What is transpiration in plant processes?"
+    }
+  ]
+}

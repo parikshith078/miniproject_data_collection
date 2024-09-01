@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The cell membrane is selectively permeable and regulates the movement of substances in and out of the cell. Movement of CO2: CO2 is produced during cellular respiration. Therefore, it is present in high concentrations inside the cell.",
+      "question": "What does selectively permeable mean?"
+    },
+    {
+      "context": "CO2 moves from a region of higher concentration (inside the cell) towards a region of lower concentration (outside the cell). Similarly, O2 enters the cell by the process of diffusion when the concentration of O2 inside the cell is low.",
+      "question": "How does CO2 move across the plasma membrane?"
+    },
+    {
+      "context": "Water moves from a region of high concentration to a region of low concentration through the plasma membrane. The plasma membrane acts as a semi-permeable membrane, and this movement of water is known as osmosis.",
+      "question": "What is osmosis in relation to water movement?"
+    },
+    {
+      "context": "This means that the plasma membrane allows the entry of only some substances and prevents the movement of some other materials.",
+      "question": "What is the function of the plasma membrane?"
+    },
+    {
+      "context": "The movement of water across the plasma membrane of the cell is affected by the amount of substance dissolved in water.",
+      "question": "What factors influence water movement through membranes?"
+    }
+  ]
+}

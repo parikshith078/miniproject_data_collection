@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A cell is capable of independent existence and can carry out all the functions which are necessary for a living being. A cell carries out nutrition, respiration, excretion, transportation and reproduction; the way an individual organism does.",
+      "question": "What functions can a cell perform?"
+    },
+    {
+      "context": "Unicellular organisms are capable of independent existence which shows a cell’s capability to exist independently. Due to this, a cell is called the fundamental and structural unit of life.",
+      "question": "Why is a cell called a fundamental unit of life?"
+    },
+    {
+      "context": "CELL THEORY (Schleiden, Schwann and Virchow):  • All living organisms are composed of one or more cells. • The cell is the basic unit of structure, function, and organization in all organisms.",
+      "question": "Who proposed the cell theory?"
+    },
+    {
+      "context": "All living organisms are composed of one or more cells. • The cell is the basic unit of structure, function, and organization in all organisms.",
+      "question": "What does the cell theory state about organisms?"
+    },
+    {
+      "context": "All cells come from preexisting, living cells. This idea signifies that new cells arise only from existing cells, establishing a fundamental principle in biology.",
+      "question": "What is a key principle of cell theory?"
+    }
+  ]
+}

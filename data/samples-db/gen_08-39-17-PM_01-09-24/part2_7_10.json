@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The incubation period is very long and averages up to 2-5 years. Infection occurs by prolonged contact with leprosy patients. The bacilli leave the body in nasal discharge, from the throat during coughing, sneezing and even speaking and through broken skin lesions.",
+      "question": "Where does leprosy bacilli leave the body?"
+    },
+    {
+      "context": "These include appearance of light coloured patches on the skin, thickening of the nerves, partial or total loss of sensation in the affected parts of the body. These are accompanied by fever, pain, ulcers and skin eruptions.",
+      "question": "What are symptoms of leprosy in patients?"
+    },
+    {
+      "context": "The bacilli leave the body in nasal discharge, from the throat during coughing, sneezing and even speaking and through broken skin lesions.",
+      "question": "What is a way leprosy is transmitted?"
+    },
+    {
+      "context": "Lepromin test is used to evaluate leprosy using an intradermal injection of a lepromin. This test classifies the type of leprosy based on reaction.",
+      "question": "What test is used to classify leprosy?"
+    },
+    {
+      "context": "Tuberculoid leprosy gives positive test with lepromin while lepromatous leprosy is negative to lepromin test.",
+      "question": "How does lepromin test differentiate between types of leprosy?"
+    }
+  ]
+}

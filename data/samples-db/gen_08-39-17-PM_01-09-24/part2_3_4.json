@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "In the plant kingdom, morphological characters are taken into consideration while deciding about the divisions. Morphology is the study of shapes and forms of various parts. In the animal kingdom, anatomical characters are taken into consideration while deciding about subgroups.",
+      "question": "What is morphology in plants?"
+    },
+    {
+      "context": "Pisces: The body is streamlined. Muscular tail is present which assists in locomotion. Body is covered with scales. Paired gills are present; which can breathe oxygen dissolved in water. They are cold-blooded animals.",
+      "question": "What characterizes the Pisces subclass?"
+    },
+    {
+      "context": "Tetrapoda: Animals have four limbs for locomotion and hence the name tetrapoda. Tetrapoda is divided into four classes, viz. amphibia, reptilia, aves and mammalia.",
+      "question": "What does tetrapoda refer to?"
+    },
+    {
+      "context": "The body is streamlined. Muscular tail is present which assists in locomotion. Body is covered with scales. Paired gills are present; which can breathe oxygen dissolved in water. They are cold-blooded animals.",
+      "question": "How do Pisces breathe under water?"
+    },
+    {
+      "context": "In the animal kingdom, anatomical characters are taken into consideration while deciding about subgroups. Anatomy is the study of various organs’ design in animals.",
+      "question": "What does anatomy study in animals?"
+    },
+    {
+      "context": "Tetrapoda is divided into four classes, viz. amphibia, reptilia, aves and mammalia. Animals have four limbs for locomotion and hence the name tetrapoda.",
+      "question": "Name the four classes of tetrapoda."
+    },
+    {
+      "context": "They are cold-blooded animals. The heart has only two chambers. They lay eggs. What characterizes fish in terms of their reproduction?",
+      "question": "How do fish typically reproduce?"
+    },
+    {
+      "context": "Morphology is the study of shapes and forms of various parts. Classification of organisms relies heavily on understanding these characteristics.",
+      "question": "What role does morphology play in classification?"
+    }
+  ]
+}

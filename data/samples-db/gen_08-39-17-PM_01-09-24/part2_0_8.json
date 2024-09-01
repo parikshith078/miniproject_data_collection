@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A tissue with the cells of similar structure (one type of cells) and function is called simple tissue. It is of three types. 1. Parenchyma 2. Collenchyma 3. Sclerenchyma",
+      "question": "What are the types of simple tissues?"
+    },
+    {
+      "context": "The cells of parenchyma have thin cell wall. They are loosely packed; with lot of intercellular spaces between them. They are living cells.",
+      "question": "What characterizes parenchyma cells?"
+    },
+    {
+      "context": "Parenchyma mainly works as packing material in plant parts. The main function of parenchyma is to provide support and to store food.",
+      "question": "What is the primary function of parenchyma?"
+    },
+    {
+      "context": "In some plant parts, parenchyma has chlorophyll as well. In that case, parenchyma carries out photosynthesis and is then termed as chlorenchyma.",
+      "question": "What is chlorenchyma and its function?"
+    },
+    {
+      "context": "In aquatic plants, large air cavities are present in parenchyma. This provides buoyancy to the plant, and then the parenchyma is known as aerenchyma.",
+      "question": "What is aerenchyma and its significance?"
+    }
+  ]
+}

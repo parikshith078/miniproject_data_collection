@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Acute diseases are characterized by their short duration. Patients often recover completely after treatment with no lasting effects such as weight loss or fatigue.",
+      "question": "What defines an acute disease?"
+    },
+    {
+      "context": "Chronic diseases are those that last for a long time and typically do not allow the patient to recover completely, often leading to fatigue or weight loss.",
+      "question": "How long do chronic diseases usually last?"
+    },
+    {
+      "context": "Patients suffering from acute diseases experience only a brief loss of work efficiency compared to those with chronic diseases who may face prolonged losses.",
+      "question": "How does acute disease affect work efficiency?"
+    },
+    {
+      "context": "Examples of acute diseases include cold, cough, typhoid, and cholera, while chronic diseases include diabetes and cancer, which indicate long-term health effects.",
+      "question": "List some examples of chronic diseases."
+    },
+    {
+      "context": "Chronic diseases lead to a prolonged loss of work and health while acute diseases generally result in a complete recovery after a short period.",
+      "question": "What happens after recovering from an acute disease?"
+    },
+    {
+      "context": "Acute diseases do not have long-term effects on health and are typically resolved quickly, contrasting with the often drastic effects of chronic illnesses.",
+      "question": "What is a key difference between acute and chronic diseases?"
+    },
+    {
+      "context": "While acute diseases are often self-limiting and resolve quickly, chronic diseases typically require ongoing management and can significantly impact quality of life.",
+      "question": "What management is needed for chronic diseases?"
+    }
+  ]
+}

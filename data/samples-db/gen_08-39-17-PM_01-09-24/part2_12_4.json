@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fertilizers are chemicals commercially produced in factories and used as plant nutrients. They supply Nitrogen, Phosphorous, Potassium, etc., and are used to ensure good vegetative growth giving rise to healthy plants.",
+      "question": "What are the main nutrients supplied by fertilizers?"
+    },
+    {
+      "context": "Excessive use of fertilizer leads to pollution of water. Continuous use of fertilizer leads to a decrease in soil fertility because the organic matter of the soil cannot be replenished as microorganisms present in soil get harmed due to fertilizer.",
+      "question": "What is a disadvantage of excessive fertilizer use?"
+    },
+    {
+      "context": "Bio-fertilizers are derived from living organisms are called Bio-fertilizers. The main source of bio-fertilizers are bacteria, cyanobacteria, and fungi. Bio-fertilizers are renewable and nonpolluting sources of plant nutrients.",
+      "question": "What are bio-fertilizers derived from?"
+    },
+    {
+      "context": "As the fertilizers are water soluble chemicals, a large part of the fertilizers applied is washed away due to excessive irrigation, resulting in the growth of unwanted plants like Water Hyacinth, algae, etc.",
+      "question": "What issue arises from the water solubility of fertilizers?"
+    },
+    {
+      "context": "Rhizobium and Cyanobacteria such as Anabaena and Nostoc are some common bio-fertilizers.",
+      "question": "Name two examples of bio-fertilizers."
+    }
+  ]
+}

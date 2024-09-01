@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Robert Hooke was the first to discover cell (1665). Leeuwenhoek was the first to discover free living cells in pond water (1674). Robert Brown discovered the nucleus (1831).",
+      "question": "Who discovered the first cell?"
+    },
+    {
+      "context": "Robert Brown discovered the nucleus (1831). Leeuwenhoek was the first to discover free living cells in pond water (1674). Robert Hooke was the first to discover cell (1665).",
+      "question": "What did Robert Brown discover?"
+    },
+    {
+      "context": "Leeuwenhoek was the first to discover free living cells in pond water (1674). Robert Hooke was the first to discover cell (1665). Robert Brown discovered the nucleus (1831).",
+      "question": "When did Leeuwenhoek make his discovery?"
+    },
+    {
+      "context": "Mitochondria and plastids are the two organelles that contain their own genetic material. Both these organelles have their own DNA and ribosomes.",
+      "question": "Which organelles have their own DNA?"
+    },
+    {
+      "context": "Robert Hooke was the first to discover cell (1665). Leeuwenhoek was the first to discover free living cells in pond water (1674). Robert Brown discovered the nucleus (1831).",
+      "question": "Who was the first to discover living cells?"
+    }
+  ]
+}

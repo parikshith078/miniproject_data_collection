@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "To lower your risk of catching or spreading a viral disease, you can: abstain from sexual activity, or only engage in sexual activities within a mutually monogamous relationship, avoid contact of your hands with your eyes, nose and mouth.",
+      "question": "How can sexual activity influence viral disease risk?"
+    },
+    {
+      "context": "General treatments include: acetaminophen or ibuprofen for fever and pain, drinking extra fluids, getting extra rest and sleep, maintaining good nutrition.",
+      "question": "What are some general treatments for viral infections?"
+    },
+    {
+      "context": "Vaccination as recommended by your healthcare provider for viral diseases is an important step in reducing risk.",
+      "question": "What role does vaccination play in viral disease prevention?"
+    },
+    {
+      "context": "Antibiotics are not prescribed for viral diseases but may be prescribed for secondary bacterial infections.",
+      "question": "Why are antibiotics not effective against viral diseases?"
+    },
+    {
+      "context": "Avoid contact with a person who has a viral disease to reduce your risk of transmission during an outbreak.",
+      "question": "What strategy can help avoid viral infection during outbreaks?"
+    }
+  ]
+}

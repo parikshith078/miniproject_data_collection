@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Auxin is synthesized at the shoot tip. It helps the cell grow longer. When a tendril comes in contact with a support, auxin stimulates faster growth of the cells on the opposite side, so that the tendril forms a coil around the support.",
+      "question": "Where is auxin synthesized in plants?"
+    },
+    {
+      "context": "When a tendril comes in contact with a support, auxin stimulates faster growth of the cells on the opposite side.",
+      "question": "What does auxin do when tendrils touch a support?"
+    },
+    {
+      "context": "This makes the tendrils appear as a watch spring, highlighting the curling mechanism influenced by auxin.",
+      "question": "How do tendrils appear due to auxin's effect?"
+    },
+    {
+      "context": "Auxin helps the cell grow longer and regulates the growth patterns in various plant structures.",
+      "question": "What role does auxin play in plant cell growth?"
+    },
+    {
+      "context": "When auxin is applied, it causes uneven growth in plant parts, resulting in bending or curling.",
+      "question": "What effect does auxin have on growth patterns?"
+    }
+  ]
+}

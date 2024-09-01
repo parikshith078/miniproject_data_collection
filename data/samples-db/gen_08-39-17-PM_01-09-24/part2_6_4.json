@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Pneumonia is caused by Streptococcus pneumoniae or Diplococcus pneumoniae, and Haemophilus influenzae. The mode of transmission of pneumonia includes inhaling droplets/aerosols from an infected person or by sharing glasses and utensils.",
+      "question": "What causes pneumonia?"
+    },
+    {
+      "context": "Symptoms of pneumonia include a sudden onset of shaking chills, fever, pain with breathing, increased pulse and respiratory rates, and cough. Severe cases may cause lips and fingers to turn bluish.",
+      "question": "What are the symptoms of pneumonia?"
+    },
+    {
+      "context": "Diphtheria is caused by toxigenic strains of Corynebacterium diphtheriae. Endotoxin from the pathogen causes various types of diphtheria, and the disease spreads through kissing, talking, or coughing.",
+      "question": "What bacteria causes diphtheria?"
+    },
+    {
+      "context": "Symptoms of diphtheria include fever, sore throat, vomiting, headache, and the development of a grey false membrane in the throat that can choke the air passage.",
+      "question": "What are common symptoms of diphtheria?"
+    },
+    {
+      "context": "The Schick test is used to test for the presence of antitoxin and hypersensitivity to diphtheria toxin. It helps in diagnosing the state of an individual regarding diphtheria.",
+      "question": "What does the Schick test determine?"
+    },
+    {
+      "context": "For pneumonia, patients should be isolated and should not share their belongings. Vaccination with the pneumococcal conjugate vaccine (PCV13) is available for prevention.",
+      "question": "How can pneumonia be prevented?"
+    },
+    {
+      "context": "Diphtheria can lead to severe respiratory blockage and death due to choking. It's important to avoid close contact with infected individuals to prevent the spread of the disease.",
+      "question": "What can happen if diphtheria is untreated?"
+    },
+    {
+      "context": "Erythromycin is used to treat diphtheria. The DPT vaccine offers protection against diphtheria as part of routine childhood vaccinations.",
+      "question": "What is the treatment for diphtheria?"
+    }
+  ]
+}

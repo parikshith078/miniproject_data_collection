@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A group of cells that are similar in structure and/or work together to achieve a particular function is called tissue.",
+      "question": "What is the definition of tissue?"
+    },
+    {
+      "context": "In multicellular organisms, the body system is based on the division of labour.",
+      "question": "How are tissues organized in multicellular organisms?"
+    },
+    {
+      "context": "The different tissues are organized in a way to provide highest efficiency in functioning of the body.",
+      "question": "What is the purpose of organizing different tissues?"
+    },
+    {
+      "context": "Cells performing a specific function are grouped together to form a particular tissue.",
+      "question": "How do cells contribute to tissue formation?"
+    },
+    {
+      "context": "The body system of multicellular organisms relies on the division of labour among cells.",
+      "question": "What does division of labour refer to in multicellular organisms?"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Lipids and proteins playing crucial roles in the cell membrane are synthesized primarily in the endoplasmic reticulum, which is essential for the production and processing of these biomolecules.",
+      "question": "Where are lipids and proteins synthesized?"
+    },
+    {
+      "context": "Amoebas are simple organisms that obtain their food by using a process called endocytosis, where they can engulf solid particles from their surroundings due to their flexible cell membrane.",
+      "question": "How does an Amoeba obtain its food?"
+    }
+  ]
+}

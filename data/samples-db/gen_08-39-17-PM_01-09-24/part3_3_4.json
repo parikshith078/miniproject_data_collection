@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Aerobic respiration occurs in the presence of O2. It involves the exchange of gases between the organism and the outside environment. It occurs in cytoplasm and mitochondria. It always releases CO2 and H2O and yields 36 ATPs.",
+      "question": "What does aerobic respiration require?"
+    },
+    {
+      "context": "Anaerobic respiration occurs in the absence of O2. Exchange of gases is absent. It occurs only in cytoplasm and yields only 2 ATPs.",
+      "question": "Where does anaerobic respiration take place?"
+    },
+    {
+      "context": "The alveoli are the small balloon-like structures present in the lungs. The walls of the alveoli consist of extensive network of blood vessels.",
+      "question": "What structures are responsible for gas exchange?"
+    },
+    {
+      "context": "Each lung contains 300 –350 million alveoli, making it a total of approximately 700 million in both the lungs.",
+      "question": "How many total alveoli are in both lungs?"
+    },
+    {
+      "context": "The alveolar surface when spread out covers about 80 m2 area. This large surface area makes the gaseous exchange more efficient.",
+      "question": "Why is the alveolar surface area important?"
+    },
+    {
+      "context": "Anaerobic respiration occurs in the roots of some waterlogged plants, some parasitic worms, animal muscles, and some micro-organisms such as yeasts.",
+      "question": "Where does anaerobic respiration commonly occur?"
+    },
+    {
+      "context": "Aerobic respiration always releases CO2 and H2O and yields 36 ATPs.",
+      "question": "What are the end products of aerobic respiration?"
+    },
+    {
+      "context": "Aerobic respiration occurs in cytoplasm and mitochondria.",
+      "question": "Which parts of the cell are involved in aerobic respiration?"
+    },
+    {
+      "context": "It occurs only in cytoplasm and yields only 2 ATPs.",
+      "question": "How much ATP is produced in anaerobic respiration?"
+    },
+    {
+      "context": "The extensive network of blood vessels in the alveoli helps facilitate gas exchange.",
+      "question": "What aids gas exchange in the alveoli?"
+    }
+  ]
+}

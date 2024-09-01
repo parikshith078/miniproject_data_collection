@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In case of illness, the normal functions of the body get disturbed. So, a nourishing food is required which is easily digestible and contains all the nutrients. Therefore, bland and nourishing food is advised to take during sickness.",
+      "question": "What type of food is advised during illness?"
+    },
+    {
+      "context": "Infectious diseases spread by different means. These are: (i) Through air An infected person when sneezes or coughs releases droplets containing germs. These droplets infect another healthy person through air and microbes enter a new body.",
+      "question": "How can infectious diseases spread through air?"
+    },
+    {
+      "context": "For example, cholera, amoebiasis, hepatitis spread through water. (ii) Through water If the water source is polluted by the excreta of infectious persons having gut diseases and this water is used by other people they will be infected by diseases.",
+      "question": "Which diseases are transmitted through contaminated water?"
+    },
+    {
+      "context": "Some diseases like AIDS and syphilis, etc., are transmitted by sexual contact. Other than this, AIDS virus also spreads through blood, infected syringes, infected mother to her baby during pregnancy and through breast feeding.",
+      "question": "How does the AIDS virus spread to infants?"
+    },
+    {
+      "context": "For example, mosquito spread malaria causing organism in humans, while sucking their blood. There are some animals which act as intermediaries or vectors for a particular diseases.",
+      "question": "What role do mosquitoes play in disease transmission?"
+    }
+  ]
+}

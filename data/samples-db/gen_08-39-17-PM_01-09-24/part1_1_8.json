@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mitochondria are globular or cylindrical organelles. Each mitochondrion is bound by two membranes – an outer continuous membrane and an inner membrane thrown into folds called cristae.",
+      "question": "What shape can mitochondria have?"
+    },
+    {
+      "context": "These cristae divide the inner chamber incompletely. The inner chamber is filled with homogenous dense material called the matrix.",
+      "question": "What fills the inner chamber of a mitochondrion?"
+    },
+    {
+      "context": "The cristae have pin headed bodies called F1 particles or Oxysomes which play an important role in respiration.",
+      "question": "What are the small bodies on cristae called?"
+    },
+    {
+      "context": "Mitochondria synthesize energy rich compounds such as ATP. Mitochondria provide important intermediates for the synthesis of several biochemicals like chlorophyll, cytochromes, steroids, amino acids etc.",
+      "question": "What energy rich compound do mitochondria synthesize?"
+    },
+    {
+      "context": "Mitochondria provide important intermediates for the synthesis of several biochemicals like chlorophyll, cytochromes, steroids, amino acids etc.",
+      "question": "Which biochemical do mitochondria help synthesize?"
+    }
+  ]
+}

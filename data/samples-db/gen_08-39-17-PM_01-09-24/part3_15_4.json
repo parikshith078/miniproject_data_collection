@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Stop cutting trees and practice plantation of trees. This will not only help in reducing carbon dioxide levels but also contribute to biodiversity. Trees provide habitat for various species and help in maintaining the ecological balance.",
+      "question": "Why is planting trees important for biodiversity?"
+    },
+    {
+      "context": "Throw biodegradable and non-biodegradable waste into separate bins. This practice is crucial for effective waste management and recycling processes to reduce environmental pollution. It ensures that materials are processed correctly.",
+      "question": "What is the significance of separating waste in bins?"
+    },
+    {
+      "context": "Use recycled paper to minimize deforestation and reduce the environmental impact of paper production. Recycled paper requires less energy and water compared to making new paper from trees.",
+      "question": "How does using recycled paper help the environment?"
+    },
+    {
+      "context": "Waste minimum amount of water while using and repair leaking taps. This reduces water wastage and ensures that the available water resources are conserved for future use and for the environment.",
+      "question": "Why is it important to repair leaking taps?"
+    },
+    {
+      "context": "Avoid using vehicles for short distances. Instead, one can walk or cycle to cover short distances. This not only aids in reducing traffic congestion but also helps improve physical health and reduce pollution.",
+      "question": "What are the benefits of walking or cycling short distances?"
+    },
+    {
+      "context": "Switch off electrical appliances when not in use. This simple action can significantly reduce energy consumption and lower electricity bills, contributing to a sustainable lifestyle.",
+      "question": "How does switching off appliances save energy?"
+    },
+    {
+      "context": "During winters, wear an extra sweater to avoid using heaters. This practice promotes energy conservation by reducing the need for excessive heating, which uses substantial electricity or fuel.",
+      "question": "Why should one wear a sweater instead of using heaters?"
+    },
+    {
+      "context": "Construction of dams may also prove beneficial. Dams can help in regulating water supply, preventing floods, and providing hydroelectric power, all while ensuring efficient water resource management.",
+      "question": "What are the benefits of constructing dams for water resource management?"
+    }
+  ]
+}

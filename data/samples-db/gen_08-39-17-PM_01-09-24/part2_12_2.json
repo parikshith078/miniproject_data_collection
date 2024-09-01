@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Composting is the process in which farm waste material (cow dung, domestic waste, sewage waste etc) is decomposed in pits.",
+      "question": "What is the process used in composting?"
+    },
+    {
+      "context": "Vermicomposting is the process which involves use of earthworms to hasten the process of decomposition of plant and animal refuse.",
+      "question": "What organisms are used in vermicomposting?"
+    },
+    {
+      "context": "Leguminous plants like Sunn-hemp or Cluster Bean are grown and then mulched by ploughing them back into the soil.",
+      "question": "What type of plants are used for green manure?"
+    },
+    {
+      "context": "Compost is the aerobically decomposed remnants of organic matter which is rich in nutrients.",
+      "question": "What is a major characteristic of compost?"
+    },
+    {
+      "context": "Green Manure helps in enriching the soil with Nitrogen and Phosphorous.",
+      "question": "What nutrients does green manure enrich the soil with?"
+    }
+  ]
+}

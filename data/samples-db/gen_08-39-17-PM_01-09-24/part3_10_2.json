@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Geographical isolation is not a major factor in self-pollinated plants because they receive pollen from the same flower. Their distance from other plants hardly affects reproduction.",
+      "question": "Why is geographical isolation not significant for self-pollinators?"
+    },
+    {
+      "context": "Asexual reproduction involves only one parent, making geographical isolation not affect the reproduction cycle of these organisms.",
+      "question": "How does asexual reproduction relate to geographical isolation?"
+    },
+    {
+      "context": "Self-pollinated plants rarely show variations in characters, making geographical isolation less pertinent for their speciation.",
+      "question": "What is a characteristic of self-pollinated plants?"
+    },
+    {
+      "context": "Asexually reproducing organisms are typically affected by geographical isolation as they do not involve multiple parents contributing to genetic diversity.",
+      "question": "Do asexually reproducing organisms benefit from geographical isolation?"
+    },
+    {
+      "context": "These plants get pollen from the same flower, which means that geographical isolation has minimal impact on their reproductive success.",
+      "question": "How do self-pollinating plants obtain pollen?"
+    }
+  ]
+}

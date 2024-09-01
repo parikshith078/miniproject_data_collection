@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "We should conserve forests and wildlife to preserve the biodiversity (range of different life - forms) so as to avoid the loss of ecological stability. A large number of tribes are the habitants in and around the forests.",
+      "question": "Why is biodiversity important for ecological stability?"
+    },
+    {
+      "context": "Without proper management of forest and wildlife, the quality of soil, the water sources, and even the amount of rainfall may be affected.",
+      "question": "How does forest management impact soil quality?"
+    },
+    {
+      "context": "Afforestation is one of the most important approaches. Besides this a) Deforestation should be banned.",
+      "question": "What is one key approach to forest conservation?"
+    },
+    {
+      "context": "National parks and sanctuaries should be formed to conserve the biodiversity.",
+      "question": "What role do national parks play in conservation?"
+    },
+    {
+      "context": "People should be made more aware about the importance of forests.",
+      "question": "Why is awareness important for forest conservation?"
+    },
+    {
+      "context": "The protected areas should be managed by local people which would be quite efficient.",
+      "question": "Who should manage protected areas for conservation?"
+    },
+    {
+      "context": "Hunting should be banned and laws should be formulated against hunting.",
+      "question": "What should be done about hunting to conserve wildlife?"
+    },
+    {
+      "context": "There should be proper laws for exploitation of forest resources.",
+      "question": "Why are laws necessary for forest resource exploitation?"
+    }
+  ]
+}

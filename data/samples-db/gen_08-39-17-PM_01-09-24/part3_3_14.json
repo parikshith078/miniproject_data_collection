@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The conduction of stimuli by the nerve cells is called nerve impulse. The dendrites will receive the stimuli from the receptor (sense organ) and conduct the same as electrical impulse to the axon through the cyton.",
+      "question": "What is a nerve impulse?"
+    },
+    {
+      "context": "At the synapse, the synaptic knobs release out chemical substances called neurotransmitters which convert the electrical impulse into chemical impulse and pass it to the neighbouring cells.",
+      "question": "What role do neurotransmitters play?"
+    },
+    {
+      "context": "The dendrites will receive the stimuli from the receptor (sense organ) and conduct the same as electrical impulse to the axon through the cyton.",
+      "question": "How do dendrites function in nerve impulses?"
+    },
+    {
+      "context": "The conduction of stimuli by the nerve cells is called nerve impulse. The dendrites will receive the stimuli from the receptor (sense organ) and conduct the same as electrical impulse to the axon through the cyton.",
+      "question": "What do dendrites receive?"
+    },
+    {
+      "context": "At the synapse, the synaptic knobs release out chemical substances called neurotransmitters which convert the electrical impulse into chemical impulse and pass it to the neighbouring cells.",
+      "question": "What happens at the synapse during impulse transmission?"
+    }
+  ]
+}

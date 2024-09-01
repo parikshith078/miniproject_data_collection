@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The mouth has teeth and tongue. Salivary glands are also present in the mouth. The tongue has gustatory receptors which perceive the sense of taste. Tongue helps in turning over the food, so that saliva can be properly mixed in it.",
+      "question": "What role does the tongue play in digestion?"
+    },
+    {
+      "context": "Stomach is a bag-like organ. Highly muscular walls of the stomach help in churning the food. The walls of stomach secrete hydrochloric acid. Hydrochloric acid kills the germs which may be present in food.",
+      "question": "What does hydrochloric acid do in the stomach?"
+    },
+    {
+      "context": "The mouth has teeth and tongue. Salivary glands are also present in the mouth. The tongue has gustatory receptors which perceive the sense of taste. Tongue helps in turning over the food, so that saliva can be properly mixed in it.",
+      "question": "What is the function of salivary glands?"
+    },
+    {
+      "context": "Stomach is a bag-like organ. Highly muscular walls of the stomach help in churning the food. The walls of stomach secrete hydrochloric acid. Hydrochloric acid kills the germs which may be present in food.",
+      "question": "Why is the stomach considered a muscular organ?"
+    },
+    {
+      "context": "The mouth has teeth and tongue. Salivary glands are also present in the mouth. The tongue has gustatory receptors which perceive the sense of taste. Tongue helps in turning over the food, so that saliva can be properly mixed in it.",
+      "question": "What are gustatory receptors responsible for?"
+    },
+    {
+      "context": "Stomach is a bag-like organ. Highly muscular walls of the stomach help in churning the food. The walls of stomach secrete hydrochloric acid. Hydrochloric acid kills the germs which may be present in food.",
+      "question": "What is the importance of the stomach's acidic environment?"
+    }
+  ]
+}

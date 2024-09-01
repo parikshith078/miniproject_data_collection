@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Nutrient management involves different practices carried out by farmers to achieve higher yields. The higher yields of crops mainly depend upon input applications like improved seeds, fertilizers and modern techniques of sowing and harvesting.",
+      "question": "What practices are included in nutrient management?"
+    },
+    {
+      "context": "Plants get nutrients from air, water and soil. Nearly 16 elements are essential for plant growth and reproduction. On the basis of the requirement by the plants, they are further classified into Macro Nutrients and Micro Nutrients.",
+      "question": "What are the main sources of nutrients for plants?"
+    },
+    {
+      "context": "Elements which are needed in large quantities for the growth of the plants are called Macro Nutrients. They are Carbon, Hydrogen, Oxygen, Nitrogen, Phosphorous, Sulphur, Potassium, Calcium, Magnesium and Iron.",
+      "question": "What are examples of Macro Nutrients for plants?"
+    },
+    {
+      "context": "Elements which are needed by the plants in very small quantities are called Micro Nutrients. They are Manganese, Copper, Molybdenum, Zinc, Boron and Chlorine.",
+      "question": "Name two Micro Nutrients essential for plants."
+    },
+    {
+      "context": "Deficiency of these nutrients affects physiological processes in plants including reproduction, growth and susceptibility to diseases. To increase the yield, the soil can be enriched by supplying these nutrients in the form of manure and fertilizers.",
+      "question": "How can nutrient deficiency affect plant processes?"
+    },
+    {
+      "context": "To increase the yield, the soil can be enriched by supplying these nutrients in the form of manure and fertilizers. Plants require a number of nutrients for their growth and development.",
+      "question": "What methods can enhance soil nutrient content?"
+    }
+  ]
+}

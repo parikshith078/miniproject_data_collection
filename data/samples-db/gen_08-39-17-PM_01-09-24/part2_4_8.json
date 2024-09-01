@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The major modifiable risk factors, in conjunction with the non-modifiable risk factors of age and heredity, explain the majority of new events of heart disease, stroke, chronic respiratory diseases and some important cancers.",
+      "question": "What are the major modifiable risk factors?"
+    },
+    {
+      "context": "Harmful alcohol use is an important contributor to the global burden of disease but its relationship to chronic disease is more complex.",
+      "question": "How does alcohol use affect chronic diseases?"
+    },
+    {
+      "context": "Other risk factors for chronic disease include infectious agents that are responsible for cervical and liver cancers, and some environmental factors, such as air pollution.",
+      "question": "What are some specific risk factors for chronic diseases?"
+    },
+    {
+      "context": "The relationship between the major modifiable risk factors and the main chronic diseases is similar in all regions of the world.",
+      "question": "Where is the relationship between risk factors and diseases similar?"
+    },
+    {
+      "context": "Many more risk factors for chronic diseases have been identified, but they account for a smaller proportion of disease.",
+      "question": "What accounts for a smaller proportion of chronic disease?"
+    },
+    {
+      "context": "The causes are expressed through the intermediate risk factors of raised blood pressure, raised glucose levels, abnormal blood lipids, overweight and obesity.",
+      "question": "What are intermediate risk factors for chronic diseases?"
+    }
+  ]
+}

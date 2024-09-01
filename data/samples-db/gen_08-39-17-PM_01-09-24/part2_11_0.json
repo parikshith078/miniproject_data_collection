@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Living organisms depend on soil in the following ways: (i) It provides natural habitat for various living organisms, e.g., bacteria, fungi, algae, earthworms, etc. These help to maintain the fertility of soil. (ii) Earthworm performs all its activities in the soil.",
+      "question": "What role do earthworms play in soil?"
+    },
+    {
+      "context": "Soil helps to bind the roots of plants to provide them anchorage. The nutrients in soil are absorbed by the plants for their growth and development.",
+      "question": "How do plants utilize nutrients from the soil?"
+    },
+    {
+      "context": "Many animals like rats, rabbits, etc., make their home in the soil. Soil helps to bind the roots of plants to provide them anchorage.",
+      "question": "Which animals depend on soil for their habitat?"
+    },
+    {
+      "context": "All organisms that live in water are totally dependent on soil because the mineral nutrients are present in water in dissolved form. But, their recycling depends on the decomposers which are present in soil beds.",
+      "question": "How does soil affect aquatic organisms?"
+    },
+    {
+      "context": "Meterologists collect information regarding the pattern of temperature, speed of wind, air pressure and all other features which influence weather. All these information are collected by remote sensing and weather forecast satellites.",
+      "question": "What data do meteorologists use for weather prediction?"
+    },
+    {
+      "context": "This information is then compiled in meteorological departments which prepare a weather report that is displayed on the maps. This information is further transmitted through radio, television and newspaper.",
+      "question": "How is weather information communicated to the public?"
+    }
+  ]
+}

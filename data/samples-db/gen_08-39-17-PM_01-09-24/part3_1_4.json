@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Autotrophic nutrition refers to the process by which organisms, like plants, produce their own food using sunlight, water, and carbon dioxide. Food is generally prepared during day time when sunlight is available, enabling photosynthesis to occur effectively.",
+      "question": "When is food prepared in autotrophic nutrition?"
+    },
+    {
+      "context": "Heterotrophic nutrition involves organisms that cannot produce their own food and must consume other organisms. Unlike autotrophs, food can be prepared at all times for heterotrophs, as they rely on consuming pre-existing organic matter.",
+      "question": "When can food be prepared in heterotrophic nutrition?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "These animals show crawling movement for locomotion. Skin is hardened to form scales. Examples: snakes, lizards, crocodile, turtle, etc.",
+      "question": "What is a characteristic of Reptilia?"
+    },
+    {
+      "context": "The body is covered with feathers. These are warm-blooded animals. Examples: All the birds.",
+      "question": "What covers the body of Aves?"
+    },
+    {
+      "context": "These animals show crawling movement for locomotion. Skin is hardened to form scales. Examples: snakes, lizards, crocodile, turtle, etc.",
+      "question": "Name an example of Reptilia."
+    },
+    {
+      "context": "The body is covered with feathers. These are warm-blooded animals. Examples: All the birds.",
+      "question": "What type of blood temperature do Aves have?"
+    },
+    {
+      "context": "These animals show crawling movement for locomotion. Skin is hardened to form scales. Examples: snakes, lizards, crocodile, turtle, etc.",
+      "question": "What type of movement do Reptilia use?"
+    },
+    {
+      "context": "The body is covered with feathers. These are warm-blooded animals. Examples: All the birds.",
+      "question": "Are Aves warm-blooded or cold-blooded?"
+    }
+  ]
+}

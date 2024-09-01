@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The body is made up of a coelom (cavity) with a single opening. The body wall is made up of two layers of cells (diploblastic). Some of the species live a solitary life while others live in colonies. Examples: Hydra, Jellyfish, Sea anemone, etc.",
+      "question": "What type of organisms are categorized as Coelenterata?"
+    },
+    {
+      "context": "The body is flattened from top to bottom and hence the name platyhelminthes. These are commonly known as flatworms. The body wall is composed of three layers of cells (triploblastic). Examples: Planaria, liver fluke, tapeworm, etc.",
+      "question": "What is the primary characteristic of Platyhelminthes?"
+    },
+    {
+      "context": "Some of the species live a solitary life while others live in colonies. Examples: Hydra, Jellyfish, Sea anemone, etc.",
+      "question": "Can organisms of Coelenterata be solitary or colonial?"
+    },
+    {
+      "context": "The body wall is composed of three layers of cells (triploblastic). Examples: Planaria, liver fluke, tapeworm, etc.",
+      "question": "What type of body wall structure do Platyhelminthes have?"
+    },
+    {
+      "context": "These are commonly known as flatworms. The body wall is composed of three layers of cells (triploblastic). Examples: Planaria, liver fluke, tapeworm, etc.",
+      "question": "What do we commonly call organisms in the phylum Platyhelminthes?"
+    }
+  ]
+}

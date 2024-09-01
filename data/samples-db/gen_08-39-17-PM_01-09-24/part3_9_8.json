@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "In this situation a colour variation occurs again in its progeny during reproduction, but now it results in ‘Blue’ colour beetles instead of ‘red’ colour beetle. This blue colour beetle can pass its colour to its progeny.",
+      "question": "What colour variation occurs in the beetles?"
+    },
+    {
+      "context": "Crows can see blue coloured beetles on the green leaves of the bushes and the red ones as well. And therefore crows can eat both red and blue coloured beetles.",
+      "question": "Which predators can eat both beetle colours?"
+    },
+    {
+      "context": "By chance the few beetles survived are mostly blue. This leads to a change in the population's colour distribution after the event.",
+      "question": "What colour beetles survived after the elephant's stampede?"
+    },
+    {
+      "context": "Thus the natural selection is directing evolution in the beetle population. It results in adaptation in the beetle population to fit in their environment better.",
+      "question": "How does natural selection affect beetle evolution?"
+    },
+    {
+      "context": "In this case there is no survival advantage for blue coloured beetles as we have seen in case of green coloured beetles.",
+      "question": "Do blue beetles have a survival advantage?"
+    },
+    {
+      "context": "Imagine at this point an elephant comes by and stamps on the bushes where the beetles live. This kills most of the beetles.",
+      "question": "What event leads to the death of most beetles?"
+    },
+    {
+      "context": "There are a few blue beetles, but most are red. The elephant's actions affect the distribution of these colours in the population.",
+      "question": "What is the dominant beetle colour before the elephant's arrival?"
+    }
+  ]
+}

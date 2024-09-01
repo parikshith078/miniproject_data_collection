@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Photosynthesis is the main way through which the solar energy is made available for different living beings. Green plants are the main producers of food in the ecosystem. All other organisms directly or indirectly depend on green plants for food.",
+      "question": "What role do green plants play in ecosystems?"
+    },
+    {
+      "context": "Oxygen is the byproduct of photosynthesis. Carbohydrate is subsequently converted into starch and is stored in leaves and other storage parts.",
+      "question": "What is produced as a byproduct of photosynthesis?"
+    },
+    {
+      "context": "The hydrogen released by splitting of water molecule is utilized for reduction of carbon dioxide to produce carbohydrates. Oxygen is the byproduct of photosynthesis.",
+      "question": "What is the role of hydrogen in photosynthesis?"
+    },
+    {
+      "context": "The process of photosynthesis also helps in maintaining the balance of carbon dioxide and oxygen in the air.",
+      "question": "How does photosynthesis affect air quality?"
+    },
+    {
+      "context": "Sunlight activates chlorophyll; which leads to splitting of water molecule. The hydrogen released by splitting of water molecule is utilized for reduction of carbon dioxide to produce carbohydrates.",
+      "question": "What activates chlorophyll in photosynthesis?"
+    },
+    {
+      "context": "Carbohydrate is subsequently converted into starch and is stored in leaves and other storage parts.",
+      "question": "Where is starch stored in plants?"
+    },
+    {
+      "context": "Photosynthesis is the main way through which the solar energy is made available for different living beings.",
+      "question": "Why is photosynthesis important for living beings?"
+    },
+    {
+      "context": "All other organisms directly or indirectly depend on green plants for food.",
+      "question": "Who do organisms depend on for food?"
+    }
+  ]
+}

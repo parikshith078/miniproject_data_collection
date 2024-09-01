@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Animals have jointed appendages which gives the name arthropoda. Exoskeleton is present which is made of chitin. This is the largest group of animals; in terms of number of species.",
+      "question": "What is the main characteristic of arthropods?"
+    },
+    {
+      "context": "This is the largest group of animals; in terms of number of species. Examples: cockroach, housefly, spider, prawn, scorpion, etc.",
+      "question": "Which animals are examples of arthropods?"
+    },
+    {
+      "context": "The animal has a soft body; which is enclosed in a hard shell. The shell is made of calcium carbonate.",
+      "question": "What is unique about the body of mollusks?"
+    },
+    {
+      "context": "Examples: Snail, mussels, octopus, etc. The shell is made of calcium carbonate.",
+      "question": "Name two examples of animals in the mollusca group."
+    }
+  ]
+}

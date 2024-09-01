@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Manures increase soil fertility by enriching the soil with organic matter and nutrients as it is prepared by the decomposition of animal excreta and plant wastes.",
+      "question": "What do manures enrich the soil with?"
+    },
+    {
+      "context": "On the other hand, fertilizers are mostly inorganic compounds whose excessive use is harmful to the symbiotic micro-organisms living in soil.",
+      "question": "What types of compounds are fertilizers mostly made of?"
+    },
+    {
+      "context": "Their excessive use also reduces soil fertility. Hence, fertilizers are considered good for only short-term use.",
+      "question": "Why are fertilizers considered short-term solutions?"
+    },
+    {
+      "context": "Organic farming is a farming system in which the use of chemicals such as fertilizers, herbicides, pesticides etc are reduced.",
+      "question": "What does organic farming reduce the use of?"
+    },
+    {
+      "context": "It involves the use of organic manure, recycled farm waste, bio-agents such as culture of blue green algae in preparation of bio fertilizers.",
+      "question": "What are some components of organic farming?"
+    },
+    {
+      "context": "Healthy cropping patterns such as mixed cropping, intercropping, and crop rotation help in controlling growth of weed, pest, and insects.",
+      "question": "What do healthy cropping patterns help control?"
+    }
+  ]
+}

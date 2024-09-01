@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Leprosy (Hansen’s Disease) is treated with drugs like rifampicin, dapsone, and clofazimine. No vaccine is available for this disease.",
+      "question": "What drugs are used to treat leprosy?"
+    },
+    {
+      "context": "Most fungi are harmless to humans and some are edible. However, other fungi can be infectious and may lead to life-threatening diseases.",
+      "question": "What can some fungi cause in humans?"
+    },
+    {
+      "context": "Fungi reproduce by releasing spores that can be picked up by direct contact or even inhaled. Fungi are microorganisms characterised by cell walls made from a substance called chitin.",
+      "question": "How do fungi reproduce?"
+    },
+    {
+      "context": "Fungi are microorganisms characterised by cell walls made from a substance called chitin. Some fungi are edible while others can be infectious.",
+      "question": "What substance is found in fungal cell walls?"
+    },
+    {
+      "context": "Leprosy is treated with drugs like rifampicin, dapsone, and clofazimine. No vaccine is available for this disease.",
+      "question": "Is there a vaccine for leprosy?"
+    }
+  ]
+}

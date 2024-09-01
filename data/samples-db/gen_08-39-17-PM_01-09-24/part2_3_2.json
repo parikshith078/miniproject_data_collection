@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Organisms with unorganized nucleus are kept under the kingdom Monera. Those with organized nucleus are kept in other kingdoms. Unicellular eukaryotes are kept in the kingdom Protista, while multicellular eukaryotes are kept in other kingdoms.",
+      "question": "What defines the kingdom Monera?"
+    },
+    {
+      "context": "Heterotrophic organisms in which cell wall is present are taken under the kingdom fungi. Autotrophic organisms in which cell wall is present are taken in the kingdom Plantae. Organisms in which cell wall is absent are taken in the kingdom Animalia.",
+      "question": "Which kingdom includes heterotrophic organisms?"
+    },
+    {
+      "context": "Thallophyta: Simple body design; with no differentiation into root, stem and leaves. Bryophyta: Body is differentiated into stem and leaf-like structures. Vascular system is absent.",
+      "question": "What characterizes Bryophyta in Plantae?"
+    },
+    {
+      "context": "Pteridophyta: Body is differentiated into root, stem and leaves. Vascular system is present. Reproductive organs are inconspicuous. Seeds are not produced.",
+      "question": "Do Pteridophyta produce seeds?"
+    },
+    {
+      "context": "Gymnosperms: Seeds are naked. Angiosperms: Seeds are covered.",
+      "question": "What type of seeds do Gymnosperms have?"
+    }
+  ]
+}

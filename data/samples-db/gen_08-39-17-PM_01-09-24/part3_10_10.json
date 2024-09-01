@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Evolution of complex organs and thus of complex organisms has happened in stages. Let us take the example of evolution of eyes. Planaria is the first animal which shows ‘eye’ like structure.",
+      "question": "What animal first developed eye-like structures?"
+    },
+    {
+      "context": "To understand evolution, a branching diagram or 'Tree' is used to show the inferred evolution relationships among various biological species or other entities based upon similarities and differences in their physical and genetic characters.",
+      "question": "What does an evolutionary tree represent?"
+    },
+    {
+      "context": "Let us take the example of evolution of eyes. Planaria is the first animal which shows ‘eye’ like structure. Evolution of complex organs has happened in stages.",
+      "question": "How did complex organs evolve according to the text?"
+    },
+    {
+      "context": "A branching diagram or 'Tree' is used to show the inferred evolution relationships among species based upon similarities and differences in their physical and genetic characters.",
+      "question": "What kind of diagram illustrates evolutionary relationships?"
+    },
+    {
+      "context": "Planaria is the first animal which shows ‘eye’ like structure. Evolution of complex organs has happened in stages over time.",
+      "question": "Which organism is noted for early eye-like structures?"
+    },
+    {
+      "context": "To understand evolution, a branching diagram or 'Tree' is used to show the inferred evolution relationships among various biological species.",
+      "question": "What is a key tool used to understand evolutionary relationships?"
+    }
+  ]
+}

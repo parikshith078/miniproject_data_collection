@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Thigmotropic Movement: The growth in a plant part in response to touch is called thigmotropic movement. Such movements are seen in tendrils of climbers.",
+      "question": "What is thigmotropic movement in plants?"
+    },
+    {
+      "context": "The differential rate of cell division in different parts of the tendril happens due to action of auxin.",
+      "question": "How does auxin affect tendril growth?"
+    },
+    {
+      "context": "Nastic Movement: The movements which do not depend on the direction from the stimulus acts are called nastic movement.",
+      "question": "What defines a nastic movement in plants?"
+    },
+    {
+      "context": "Such movements usually happen because of changing water balance in the cells when leaves of mimosa are touched.",
+      "question": "What causes nastic movements in plant leaves?"
+    },
+    {
+      "context": "The drooping is independent of the direction from which the leaves are touched when someone touches the leaves of mimosa.",
+      "question": "How is drooping in mimosa leaves directionally independent?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A variety of biotic factors such as pests, nematodes, diseases, etc. can reduce the net crop production. A pest causes damage to agriculture by feeding on crops. For example, boll weevil is a pest on cotton. It attacks the cotton crop, thereby reducing its yield. Weeds also reduce crop productivity by competing with the main crop for nutrients, light, and space.",
+      "question": "What is a biotic factor affecting crops?"
+    },
+    {
+      "context": "Some natural calamities such as droughts and floods are unpredictable. Their occurrence has a great impact on crops sometimes, destroying the entire crop.",
+      "question": "How do natural calamities affect crops?"
+    },
+    {
+      "context": "Desirable agronomic characteristics for crop improvements are: (i) Tallness and profuse branching in any fodder crop. (ii) Dwarfness in cereals. These desirable agronomic characteristics help in increasing crop productivity.",
+      "question": "What is an example of desirable crop characteristic?"
+    },
+    {
+      "context": "Weeds also reduce crop productivity by competing with the main crop for nutrients, light, and space. Similarly, abiotic factors such as salinity, temperature, etc. affect the net crop production.",
+      "question": "How do weeds affect crop productivity?"
+    },
+    {
+      "context": "A variety of biotic factors such as pests, nematodes, diseases, etc. can reduce the net crop production. A pest causes damage to agriculture by feeding on crops.",
+      "question": "What is the role of pests in agriculture?"
+    }
+  ]
+}

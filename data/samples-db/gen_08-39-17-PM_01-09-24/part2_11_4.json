@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "There is a need to introduce production efficiency of crops and livestock because 1. rapid increase in population 2. No major scope of increasing area of land under cultivation.",
+      "question": "Why is production efficiency important?"
+    },
+    {
+      "context": "Increase in food production without degrading our environment and disturbing the ecological balance i.e. Sustainable Practices are required in agriculture and animal husbandry.",
+      "question": "What practices are needed for sustainable agriculture?"
+    },
+    {
+      "context": "Types of Crops: Cereals: wheat, rice, maize, millets and sorghum. Provide carbohydrates for energy requirements.",
+      "question": "What do cereals provide for the body?"
+    },
+    {
+      "context": "Pulses: pea, gram, black gram, green gram, pigeon pea and lentil. Provide proteins.",
+      "question": "What nutrients are primarily obtained from pulses?"
+    },
+    {
+      "context": "Vegetables, spices and fruits provide vitamins and minerals.",
+      "question": "What do vegetables, spices, and fruits supply?"
+    },
+    {
+      "context": "Oilseeds: soya bean, ground nut, sesame, castor, mustard, linseed and sun flower. Provide necessary fats.",
+      "question": "What is the role of oilseeds in our diet?"
+    },
+    {
+      "context": "There is a need to introduce production efficiency of crops and livestock because 1. rapid increase in population.",
+      "question": "What is one reason for increasing crop efficiency?"
+    },
+    {
+      "context": "No major scope of increasing area of land under cultivation. Increase in food production without degrading our environment.",
+      "question": "What limits the area for crop production?"
+    },
+    {
+      "context": "Sustainable Practices are required in agriculture and animal husbandry.",
+      "question": "What is crucial for maintaining ecological balance?"
+    },
+    {
+      "context": "Types of Crops: Cereals:, Pulses, Oilseeds, Vegetables, spices and fruits.",
+      "question": "Name four types of crops mentioned."
+    }
+  ]
+}

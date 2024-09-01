@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The classification of living organisms is essential for easier study. Ancient classifications based on habitat were too simple. Modern classification takes into account various factors including: Organization of nucleus: Prokaryotes (no membrane-bound nucleus) and Eukaryotes (membrane-bound nucleus).",
+      "question": "What are the two main types of cells?"
+    },
+    {
+      "context": "Five Kingdom Classification The five kingdom classification proposed by Robert Whittaker includes Monera, Protista, Fungi, Plantae, and Animalia. This classification is based on cell structure, mode and source of nutrition, and body organization.",
+      "question": "Who proposed the five kingdom classification?"
+    },
+    {
+      "context": "Modern classification takes into account various factors including: Number of cells: Unicellular vs. Multicellular organisms.",
+      "question": "What are the two types of cellular organization?"
+    },
+    {
+      "context": "This current understanding acknowledges that all life forms have evolved from a common ancestor.",
+      "question": "What does modern classification recognize about life forms?"
+    },
+    {
+      "context": "Mode of Nutrition: Autotrophs (make their own food) vs. Heterotrophs (depend on others for food).",
+      "question": "What is the difference between autotrophs and heterotrophs?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "To be free from diseases, it is crucial to have a balanced diet that includes all necessary nutrients. Additionally, maintaining proper personal and public hygiene practices prevents the spread of infections.",
+      "question": "What is important for being disease-free?"
+    },
+    {
+      "context": "Taking good food, which constitutes a balanced diet, is one of the essential conditions for remaining free from diseases. This should be coupled with diligent hygiene practices.",
+      "question": "Why is a balanced diet important?"
+    },
+    {
+      "context": "Ensuring both good nutrition and hygiene is essential in the fight against diseases. A balanced diet provides the body with key nutrients, while hygiene helps mitigate infection risks.",
+      "question": "What role does hygiene play in health?"
+    },
+    {
+      "context": "The two main conditions crucial for preventing diseases are a balanced diet and proper hygiene measures. Together, they help create a healthier lifestyle.",
+      "question": "What are the two key conditions for health?"
+    },
+    {
+      "context": "Preventing diseases can be achieved by focusing on proper nutrition through a balanced diet and emphasizing the importance of hygiene, both personal and communal.",
+      "question": "How can one prevent diseases effectively?"
+    }
+  ]
+}

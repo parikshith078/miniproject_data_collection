@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Centrosome is present in animal cells and in certain lower plants. It is absent in prokaryotic cells and in higher plant cells. It is located near one pole of the nucleus.",
+      "question": "Where is centrosome located in cells?"
+    },
+    {
+      "context": "It contains a pair of small, hollow granules called centrioles. Functions of Centrioles: Centrioles play an important role in the formation of spindle fibres during cell division.",
+      "question": "What do centrioles help form during division?"
+    },
+    {
+      "context": "It is absent in prokaryotic cells and in higher plant cells. It contains a pair of small, hollow granules called centrioles.",
+      "question": "In which cells is the centrosome absent?"
+    },
+    {
+      "context": "Centrosome is present in animal cells and in certain lower plants. It is located near one pole of the nucleus.",
+      "question": "In which types of cells is centrosome found?"
+    },
+    {
+      "context": "Centrioles play an important role in the formation of spindle fibres during cell division.",
+      "question": "What is the role of centrioles in cell division?"
+    }
+  ]
+}

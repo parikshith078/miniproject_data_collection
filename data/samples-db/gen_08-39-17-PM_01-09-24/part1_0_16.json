@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The nucleus controls all the metabolic activities of the cell, which are essential for maintaining life processes and functioning properly.",
+      "question": "What controls the metabolic activities of a cell?"
+    },
+    {
+      "context": "The nucleus is responsible for controlling the inheritance of characters from parents to offspring, ensuring genetic continuity.",
+      "question": "How does the nucleus affect inheritance of characters?"
+    },
+    {
+      "context": "Nucleus is crucial for cell division, as it regulates the processes that lead to cell reproduction and growth.",
+      "question": "What role does the nucleus play in cell division?"
+    },
+    {
+      "context": "Cells are classified into two types based on complexity of organization, with prokaryotic and eukaryotic cells being the primary categories.",
+      "question": "What are the two classifications of cells?"
+    },
+    {
+      "context": "Prokaryotic cells are simpler in organization while eukaryotic cells have more complex nuclear organization that houses genetic material.",
+      "question": "How do prokaryotic and eukaryotic cells differ?"
+    }
+  ]
+}

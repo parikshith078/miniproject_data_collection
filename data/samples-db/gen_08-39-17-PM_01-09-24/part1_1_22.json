@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Prokaryotic cells differ significantly from eukaryotic cells, primarily in their structure. Prokaryotic cells lack a defined nucleus and membrane-bound organelles, while eukaryotic cells contain a nucleus and various organelles such as the mitochondria and endoplasmic reticulum. Furthermore, prokaryotes are typically smaller and simpler than eukaryotes.",
+      "question": "What defines prokaryotic cells?"
+    },
+    {
+      "context": "The plasma membrane is crucial for maintaining the cell's internal environment. If the plasma membrane ruptures, the cell loses its ability to regulate substances entering and exiting. This rupture leads to the potential spilling of vital cellular contents, which can result in cell death due to disruption in homeostasis and loss of metabolic functions.",
+      "question": "What risks arise from plasma membrane rupture?"
+    }
+  ]
+}

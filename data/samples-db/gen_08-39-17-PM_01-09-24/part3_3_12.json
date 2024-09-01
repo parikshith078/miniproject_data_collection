@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A nerve cell is a microscopic structure consisting of three major parts namely cell body, dendrites and axon. The cell body contains cytoplasm with typical cell organelles and certain granular bodies called Nissl granules. Dendrites transmit electrical impulses towards the cyton, while the axon is very long with a branched distal end called synaptic knob filled with neurotransmitters.",
+      "question": "What is the function of dendrites?"
+    },
+    {
+      "context": "Myelin sheath is not continuous over the neurilemma. The gaps left by the myelin sheath on the axon are called Nodes of Ranvier. Over the myelin sheath are found certain cells called Schwann cells. These play a crucial role in the conduction of electrical impulses in the nervous system.",
+      "question": "What are Nodes of Ranvier?"
+    },
+    {
+      "context": "Myelinated or Medullated or White neurons: When the axon is enclosed by the white fatty myelin cover it is called Myelinated or Medullated or White neurons. This forms the cerebral cortex of our brain. Non-Myelinated neurons do not have this covering, thus appearing greyish in color.",
+      "question": "What distinguishes myelinated neurons?"
+    },
+    {
+      "context": "Unipolar neurons have a nerve cell body with a single process or fibre, which acts both as axon and dendron. Bipolar neurons, on the other hand, have a cell body and two processes at the ends. Each of these types plays different roles in the nervous system.",
+      "question": "What defines a unipolar neuron?"
+    },
+    {
+      "context": "The cerebral cortex contains the multipolar neurons; each multipolar neuron has a cell body with many dendrites and an axon. This type allows for multiple connections and is crucial for processing complex information in the brain.",
+      "question": "Where are multipolar neurons found?"
+    }
+  ]
+}

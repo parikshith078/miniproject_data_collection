@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Receptors are sensory structures (organs/tissues or cells) present all over the body. The receptors are either grouped in case of eye or ear, or scattered in case of skin. Functions of receptors: (i) They sense the external stimuli such as heat or pain.",
+      "question": "What do receptors sense in the body?"
+    },
+    {
+      "context": "Functions of receptors: (i) They sense the external stimuli such as heat or pain. (ii) They also trigger an impulse in the sensory neuron which sends message to the spinal cord.",
+      "question": "How do receptors send messages to the spinal cord?"
+    },
+    {
+      "context": "When the receptors are damaged, the external stimuli transferring signals to the brain are not felt. For example, in the case of damaged receptors, if we accidentally touch any hot object, then our hands might get burnt as damaged receptors cannot perceive the external stimuli of heat and pain.",
+      "question": "What happens if receptors are damaged?"
+    },
+    {
+      "context": "Neurons are the functional units of the nervous system. The three main parts of a neuron are axon, dendrite, and cell body. Functions of the three parts of a neuron: Axon: It conducts messages away from the cell body.",
+      "question": "What is the function of the axon in a neuron?"
+    },
+    {
+      "context": "Dendrite: It receives information from axon of another cell and conducts the messages towards the cell body. Cell body: It contains nucleus, mitochondria, and other organelles.",
+      "question": "What do dendrites do in a neuron?"
+    },
+    {
+      "context": "Cell body: It contains nucleus, mitochondria, and other organelles. It is mainly concerned with the maintenance and growth.",
+      "question": "What is the main role of the cell body in neurons?"
+    }
+  ]
+}

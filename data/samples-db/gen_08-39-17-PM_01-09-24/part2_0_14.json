@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Xylem vessels have perforations at the end and are placed one above the other like a long pipe line. They are seen in the xylem of angiosperms. They conduct water, mineral nutrients and also provide mechanical strength to the plant body.",
+      "question": "What do xylem vessels conduct?"
+    },
+    {
+      "context": "They are also called wood fibres. The fibres of sclerenchyma associated with the xylem are known as xylem fibres. They give additional mechanical strength to the plant.",
+      "question": "What are xylem fibres also called?"
+    },
+    {
+      "context": "They are seen in the xylem of angiosperms. They conduct water, mineral nutrients and also provide mechanical strength to the plant body.",
+      "question": "Where are xylem vessels found?"
+    },
+    {
+      "context": "They give additional mechanical strength to the plant. The fibres of sclerenchyma associated with the xylem are known as xylem fibres.",
+      "question": "What function do xylem fibres serve?"
+    },
+    {
+      "context": "Xylem vessels have perforations at the end and are placed one above the other like a long pipe line. They are seen in the xylem of angiosperms.",
+      "question": "How are xylem vessels arranged?"
+    }
+  ]
+}

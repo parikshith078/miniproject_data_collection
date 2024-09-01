@@ -1,0 +1,40 @@
+{
+  "samples": [
+    {
+      "context": "The following immunisation programme is available at the nearest health centre in our locality (i) Immunisation for infants —DPT, BCG, polio, measles and MMR.",
+      "question": "What vaccines are given to infants?"
+    },
+    {
+      "context": "For children —Typhoid, TT, DT, small pox and TAB.",
+      "question": "What immunisations are recommended for children?"
+    },
+    {
+      "context": "For pregnant woman — TT and hepatitis-B.",
+      "question": "Which vaccinations are provided for pregnant women?"
+    },
+    {
+      "context": "Diseases Symptoms Steps could be Taken by Local Authorities to Bring Down the Incidence Typhoid Headache and fever which remains high in the second week and then declines Proper hygiene in surrounding areas of living.",
+      "question": "What are common symptoms of typhoid?"
+    },
+    {
+      "context": "Proper hygiene in surrounding areas of living. Safe disposal of excreta and other wastes. Providing TAB and typhoid oral vaccine.",
+      "question": "What measures can reduce typhoid incidence?"
+    },
+    {
+      "context": "Cholera Painless watery diarrhoea, effortless vomiting Good sanitary condition in community.",
+      "question": "What are the symptoms of cholera?"
+    },
+    {
+      "context": "Provision of clean, purified drinking water. Providing standard cholera vaccination in the locality.",
+      "question": "How can cholera be prevented in communities?"
+    },
+    {
+      "context": "Dengue fever High fever with headache, weakness and joint pains Maintenance of hygienic conditions in community.",
+      "question": "What indicates the presence of dengue fever?"
+    },
+    {
+      "context": "Preventing the mosquito breeding sites. Public awareness programme against mosquito borne diseases.",
+      "question": "How can dengue outbreaks be controlled?"
+    }
+  ]
+}

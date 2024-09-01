@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The observable characters in an organism make the phenotype. Phenotype is a result of genotype’s interaction with the environment. Due to this reason, many phenotypes are not inheritable.",
+      "question": "What determines an organism's phenotype?"
+    },
+    {
+      "context": "Acquired traits are not inheritable. Inheritable traits, which can be expressed in subsequent generations, bring a change in the genotype.",
+      "question": "Which traits are not passed to offspring?"
+    },
+    {
+      "context": "Every individual possesses a pair of alleles for a particular trait. During gamete formation, a gamete receives only one trait from the alleles.",
+      "question": "What happens to alleles during gamete formation?"
+    },
+    {
+      "context": "A particular trait can be dominant or recessive in a particular generation. Mendel's First Law states this principle regarding alleles.",
+      "question": "What defines dominant and recessive traits?"
+    },
+    {
+      "context": "Mendel's First Law explains that every individual has pairs of alleles and gametes carry only one allele from each pair.",
+      "question": "What does Mendel's First Law state?"
+    }
+  ]
+}

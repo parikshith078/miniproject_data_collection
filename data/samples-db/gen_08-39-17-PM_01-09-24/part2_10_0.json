@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Decomposed by decomposers, like bacteria. These decompose the body into basic elements out of which it was originally made. That is how the everlasting cycle of life goes on.",
+      "question": "What role do decomposers play in the cycle of life?"
+    },
+    {
+      "context": "The ozone layer is a layer in earth’s atmosphere which contains relatively high concentrations of ozone. This layer absorbs 93 -99% of the sun’s high frequency ultraviolet light, which is potentially damaging to life on earth.",
+      "question": "What is the function of the ozone layer?"
+    },
+    {
+      "context": "Over 91% of the ozone in Earth's atmosphere is present here. It is mainly located in the lower portion of the stratosphere from approximately 10 km to 50 km above Earth's surface, though the thickness varies seasonally and geographically.",
+      "question": "Where is the ozone layer mainly located?"
+    },
+    {
+      "context": "Because of heavy use of CFCs (Chlorofluorocarbons) in refrigerators and pressurized cans by human the ozone layer has broken at some places.",
+      "question": "What has caused the depletion of the ozone layer?"
+    },
+    {
+      "context": "This has caused an alarming rise in ultraviolet radiation leading to increased cases of skin cancers.",
+      "question": "What is a consequence of ozone layer depletion?"
+    },
+    {
+      "context": "The ozone layer absorbs 93 -99% of the sun’s high frequency ultraviolet light, which is potentially damaging to life on earth.",
+      "question": "How much ultraviolet light does the ozone layer absorb?"
+    }
+  ]
+}

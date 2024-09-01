@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Nail fungus is most common in adolescents and adults, especially among people who have frequent manicures. These infections can manifest themselves in a variety of patterns.",
+      "question": "Who is most commonly affected by nail fungus?"
+    },
+    {
+      "context": "Sometimes a portion of the nail becomes thick and brittle. Other times, the fungi attack the cuticle and the growth spreads out from there.",
+      "question": "What are common symptoms of nail fungus?"
+    },
+    {
+      "context": "This cuticle-based infection is common in AIDS patients.",
+      "question": "Which patients are more prone to cuticle infections?"
+    },
+    {
+      "context": "A parasite is an organism that lives off another organism, typically attaching itself to feed from the victim’s blood, bowels, or other various bodily fluids.",
+      "question": "What is a parasite's main function?"
+    },
+    {
+      "context": "Parasitic diseases are more common than most people realize, and can strike anyone regardless of race, age, or social status.",
+      "question": "Who can be affected by parasitic diseases?"
+    }
+  ]
+}

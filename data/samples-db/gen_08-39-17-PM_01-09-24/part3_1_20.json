@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Glucose is first broken down in the cell cytoplasm into a three carbon molecule called pyruvate. Pyruvate is further broken down by different ways to provide energy.",
+      "question": "What is formed from glucose breakdown?"
+    },
+    {
+      "context": "Haemoglobin transports oxygen molecule to all the body cells for cellular respiration. The haemoglobin pigment present in the blood gets attached to four O2 molecules that are obtained from breathing.",
+      "question": "What does haemoglobin transport in humans?"
+    },
+    {
+      "context": "After giving away O2 to the body cells, blood takes away CO2 which is the end product of cellular respiration. Now the blood becomes de-oxygenated.",
+      "question": "What does blood collect after delivering oxygen?"
+    },
+    {
+      "context": "This oxygenated blood is then distributed to all the body cells by the heart. After giving away O2 to the body cells, blood takes away CO2 which is the end product of cellular respiration.",
+      "question": "What role does the heart play in oxygen transport?"
+    },
+    {
+      "context": "Since haemoglobin pigment has less affinity for CO2, CO2 is mainly transported in the dissolved form. This de-oxygenated blood gives CO2 to lung alveoli and takes O2 in return.",
+      "question": "How is CO2 primarily transported in the blood?"
+    }
+  ]
+}

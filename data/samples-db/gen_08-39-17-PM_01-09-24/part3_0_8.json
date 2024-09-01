@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Materials which provide nutrition to organisms are called nutrients. Carbohydrates, proteins and fats are the main nutrients and are called macronutrients.",
+      "question": "What are macronutrients?"
+    },
+    {
+      "context": "The mode of nutrition in which an organism prepares its own food is called autotrophic nutrition. Green plants and blue-green algae follow the autotrophic mode of nutrition.",
+      "question": "What is autotrophic nutrition?"
+    },
+    {
+      "context": "Minerals and vitamins are required in small amounts and hence are called micronutrients. Carbohydrates, proteins and fats are the main nutrients.",
+      "question": "What are micronutrients?"
+    },
+    {
+      "context": "Carbohydrates, proteins and fats are the main nutrients and are called macronutrients. Minerals and vitamins are required in small amounts.",
+      "question": "What are the main types of nutrients?"
+    },
+    {
+      "context": "Green plants and blue-green algae follow the autotrophic mode of nutrition. The mode of nutrition in which an organism prepares its own food is called autotrophic nutrition.",
+      "question": "Who uses autotrophic nutrition?"
+    }
+  ]
+}

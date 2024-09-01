@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The main components of the transport system in human beings are the heart, blood, and blood vessels. Heart pumps oxygenated blood throughout the body. It receives deoxygenated blood from the various body parts and sends this impure blood to the lungs for oxygenation.",
+      "question": "What pumps oxygenated blood in humans?"
+    },
+    {
+      "context": "Being a fluid connective tissue, blood helps in the transport of oxygen, nutrients, CO2, and nitrogenous wastes. The blood vessels (arteries, veins, and capillaries) carry blood either away from the heart to various organs or from various organs back to the heart.",
+      "question": "What does blood transport in humans?"
+    },
+    {
+      "context": "Heart pumps oxygenated blood throughout the body. It receives deoxygenated blood from the various body parts and sends this impure blood to the lungs for oxygenation.",
+      "question": "Where does the heart send deoxygenated blood?"
+    },
+    {
+      "context": "The blood vessels (arteries, veins, and capillaries) carry blood either away from the heart to various organs or from various organs back to the heart.",
+      "question": "What are the types of blood vessels in humans?"
+    },
+    {
+      "context": "Being a fluid connective tissue, blood helps in the transport of oxygen, nutrients, CO2, and nitrogenous wastes. The blood vessels carry blood either away from the heart to various organs or from various organs back to the heart.",
+      "question": "What is the role of blood in the transport system?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The hypothalamus lies at the base of the cerebrum. It controls sleep and wake cycle (circadian rhythm) of the body.",
+      "question": "What does the hypothalamus control?"
+    },
+    {
+      "context": "It also controls the urges for eating and drinking.",
+      "question": "What urges does the hypothalamus regulate?"
+    },
+    {
+      "context": "Cerebellum lies below the cerebrum and at the back of the whole structure.",
+      "question": "Where is the cerebellum located?"
+    },
+    {
+      "context": "It coordinates the motor functions. When you are riding your bicycle.",
+      "question": "What does the cerebellum coordinate?"
+    },
+    {
+      "context": "The perfect coordination between your pedaling and steering control is achieved by the cerebellum.",
+      "question": "What movements does the cerebellum help coordinate while cycling?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Phloem fibres, also called bast-fibres, provide mechanical support to the plant and are the only dead tissues among the four types of phloem cells.",
+      "question": "What is the role of phloem fibres?"
+    },
+    {
+      "context": "The parenchyma cells associated with phloem are known as phloem parenchyma, which primarily store starch and fats for the plant.",
+      "question": "What do phloem parenchyma cells store?"
+    },
+    {
+      "context": "Among the four types of phloem cells, phloem fibres are distinguished as the only dead tissues, which serve a significant mechanical function.",
+      "question": "Which type of phloem cell is dead?"
+    },
+    {
+      "context": "Phloem fibres are responsible for providing mechanical support to plants, while phloem parenchyma is involved in storage functions.",
+      "question": "What do phloem parenchyma cells do?"
+    },
+    {
+      "context": "Phloem fibres, or bast-fibres, are essential for the structural integrity of the plant, while other cells perform different roles in phloem.",
+      "question": "Why are phloem fibres important for plants?"
+    }
+  ]
+}

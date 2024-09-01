@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "The first authenticated plague epidemics in India in modern times occurred in 1895-96 and from 1898 onwards the disease was appreciably manifest, reaching a peak in the year 1907.",
+      "question": "When did the plague epidemics peak in India?"
+    },
+    {
+      "context": "Pasteurella pestis endoparasite of gut of rat flea (which is an ectoparasite of rat and mouse). Head louse (Pediculus) and bedbug (Cimex) may also transmit the germs from man to man.",
+      "question": "What organisms transmit plague between humans?"
+    }
+  ]
+}

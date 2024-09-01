@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Self pollination has specific advantages like certainty in bisexual flowers, and it eliminates dependence on pollination agents. However, this process also has downsides such as reduced seed quantity and weak plants.",
+      "question": "What is a drawback of self pollination?"
+    },
+    {
+      "context": "Cross pollination results in the production of seeds that germinate properly and contribute to new plant varieties. This method allows for the generation of more viable seeds compared to self pollination.",
+      "question": "How does cross pollination benefit plants?"
+    },
+    {
+      "context": "Self pollination ensures that flowers do not rely on external pollination agents, and there is no wastage of pollen grains, making it a consistent process.",
+      "question": "What is an advantage of self pollination?"
+    },
+    {
+      "context": "While self pollination guarantees certain outcomes, it also leads to degraded plants due to fewer and weaker seeds produced during the process.",
+      "question": "What happens to the plants produced from self pollination?"
+    },
+    {
+      "context": "Cross pollination is important for enhancing plant diversity as it enables the creation of new varieties, which is an essential aspect of plant evolution and adaptation.",
+      "question": "Why is cross pollination significant for plant diversity?"
+    }
+  ]
+}

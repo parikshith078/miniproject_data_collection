@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Life processes such as nutrition, respiration, transportation, excretion, etc. are essential for maintaining life.",
+      "question": "What are essential life processes?"
+    },
+    {
+      "context": "Organisms need energy to perform various activities. The energy is supplied by the nutrients.",
+      "question": "What supplies energy to organisms?"
+    },
+    {
+      "context": "Organisms need various raw materials for growth and repair. These raw materials are provided by nutrients.",
+      "question": "What do nutrients provide for organisms?"
+    },
+    {
+      "context": "Nutrition, respiration, transportation, excretion, etc. are essential for maintaining life.",
+      "question": "Why are life processes important?"
+    },
+    {
+      "context": "The energy is supplied by the nutrients. Organisms need various raw materials for growth and repair.",
+      "question": "How do nutrients help organisms?"
+    }
+  ]
+}

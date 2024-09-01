@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Digestive enzymes such as amylase, lipase, pepsin, trypsin, etc. help in the breaking down of complex food particles into simple ones. These simple particles can be easily absorbed by the blood and thus transported to all the cells of the body.",
+      "question": "What is the role of digestive enzymes?"
+    },
+    {
+      "context": "The small intestine has millions of tiny finger-like projections called villi. These villi increase the surface area for more efficient food absorption. Within these villi, many blood vessels are present that absorb the digested food and carry it to the blood stream.",
+      "question": "How do villi aid in digestion?"
+    },
+    {
+      "context": "These simple particles can be easily absorbed by the blood and thus transported to all the cells of the body. The small intestine has millions of tiny finger-like projections called villi.",
+      "question": "What role does the small intestine play in absorption?"
+    },
+    {
+      "context": "These villi increase the surface area for more efficient food absorption. Within these villi, many blood vessels are present that absorb the digested food and carry it to the blood stream.",
+      "question": "What is the function of villi in the small intestine?"
+    },
+    {
+      "context": "Digestive enzymes such as amylase, lipase, pepsin, trypsin, etc. help in the breaking down of complex food particles into simple ones.",
+      "question": "Name two examples of digestive enzymes."
+    }
+  ]
+}

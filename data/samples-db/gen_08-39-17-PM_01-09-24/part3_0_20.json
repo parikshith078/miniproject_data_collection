@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The small intestine is a highly coiled tube-like structure. The small intestine is longer than the large intestine but its lumen is smaller than that of the large intestine. The small intestine is divided into three parts, viz. duodenum, jejunum and ileum.",
+      "question": "What are the three parts of the small intestine?"
+    },
+    {
+      "context": "Liver is the largest organ in the human body. Liver manufactures bile; which gets stored in gall bladder. Pancreas is situated below the stomach.",
+      "question": "What does the liver manufacture and where is it stored?"
+    },
+    {
+      "context": "The small intestine is a highly coiled tube-like structure. The small intestine is longer than the large intestine but its lumen is smaller than that of the large intestine.",
+      "question": "How does the size of the small intestine compare to the large intestine?"
+    },
+    {
+      "context": "Pancreas is situated below the stomach. It secretes pancreatic juice which contains many digestive enzymes.",
+      "question": "What does the pancreas secrete that aids digestion?"
+    },
+    {
+      "context": "Liver is the largest organ in the human body. Liver manufactures bile; which gets stored in gall bladder.",
+      "question": "What is the function of the liver related to bile?"
+    },
+    {
+      "context": "The small intestine is divided into three parts, viz. duodenum, jejunum and ileum.",
+      "question": "Can you name the three sections of the small intestine?"
+    }
+  ]
+}

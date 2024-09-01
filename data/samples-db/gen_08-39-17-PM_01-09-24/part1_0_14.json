@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Nucleus has a double membraned envelope called nuclear envelope. Nuclear envelope encloses a ground substance called nucleoplasm or karyolymph. The nuclear envelope possesses many pores called nuclear pores.",
+      "question": "What does the nuclear envelope enclose?"
+    },
+    {
+      "context": "The nucleolus is a spherical body rich in protein and RNA. It is the site of ribosome formation. There may be one or more nucleoli in the nucleoplasm.",
+      "question": "What is the function of the nucleolus?"
+    },
+    {
+      "context": "The chromatin is a network of fine threads composed of genetic material DNA and proteins. During cell division, chromatin is condensed into thick cord-like structures called chromosomes.",
+      "question": "What does chromatin condense into during cell division?"
+    },
+    {
+      "context": "The chromosomes contain genes and each gene is responsible for one hereditary character of the organism. Genes contain information for inheritance of features from parents to next generation in the form of DNA molecule.",
+      "question": "What do genes contain information about?"
+    },
+    {
+      "context": "Nucleus is the major central structure in the cell. It is a dense spherical structure embedded in the cytoplasm. Nucleus has a double membraned envelope called nuclear envelope.",
+      "question": "What is the major central structure of the cell?"
+    },
+    {
+      "context": "Nuclear envelope possesses many pores called nuclear pores. The nucleoplasm has two types of nuclear structures i) the nucleolus and, ii) chromatin.",
+      "question": "What are the two types of structures in nucleoplasm?"
+    },
+    {
+      "context": "The nucleolus is a spherical body rich in protein and RNA. It is the site of ribosome formation. There may be one or more nucleoli in the nucleoplasm.",
+      "question": "What molecules are abundant in the nucleolus?"
+    },
+    {
+      "context": "The chromosomes contain genes and each gene is responsible for one hereditary character of the organism. Genes contain information for inheritance of features from parents to next generation in the form of DNA molecule.",
+      "question": "What are chromosomes responsible for in organisms?"
+    }
+  ]
+}

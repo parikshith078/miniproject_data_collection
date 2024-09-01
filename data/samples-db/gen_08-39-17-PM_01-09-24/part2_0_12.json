@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Xylem is mainly concerned with the transport of nutrients, water and minerals upwards in the plant body. It forms a continuous tube through the roots, stems, leaves, flowers and fruits by the fusion of elongated cells.",
+      "question": "What is the primary function of xylem?"
+    },
+    {
+      "context": "Tracheids are elongated, tapering cells with blunt ends. They have lignified secondary wall. They are the chief water conducting elements in Pteridophytes and Gymnosperms.",
+      "question": "What are tracheids in xylem?"
+    },
+    {
+      "context": "It is composed of different kinds of cells namely, 1. Tracheids 2. Xylem vessels. 3. Xylem fibres 4. Xylem parenchyma.",
+      "question": "What types of cells make up xylem?"
+    },
+    {
+      "context": "They have lignified secondary wall. They are the chief water conducting elements in Pteridophytes and Gymnosperms.",
+      "question": "What is a key feature of tracheids?"
+    },
+    {
+      "context": "Xylem forms a continuous tube through the roots, stems, leaves, flowers and fruits by the fusion of elongated cells.",
+      "question": "How does xylem transport substances in plants?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Coal and petroleum are widely used as major sources of energy in various sectors, but their usage should be minimised due to environmental concerns. Alternative sources like CNG or LPG can be utilized in automobiles to reduce pollution.",
+      "question": "What should be minimised according to the passage?"
+    },
+    {
+      "context": "Renewable sources of energy, such as solar power, hydropower, and wind energy, are touted as better options compared to coal and petroleum. It is also suggested that individuals should consider walking short distances instead of using vehicles.",
+      "question": "What is recommended over using cars for short distances?"
+    },
+    {
+      "context": "The passage emphasizes the importance of reducing the use of coal and petroleum and advocates for alternatives like CNG or LPG in vehicles. It notes the value of renewable energy sources in combating energy-related issues.",
+      "question": "What alternative fuels are suggested for automobiles?"
+    },
+    {
+      "context": "Minimising the use of coal and petroleum is essential for environmental protection. The passage encourages the adoption of cleaner renewable energy sources and also promotes walking over short distances to reduce fuel consumption.",
+      "question": "Why is coal and petroleum usage discouraged?"
+    },
+    {
+      "context": "The content highlights a shift towards cleaner energy practices, recommending the use of renewable energy sources such as tidal energy and wind energy, as well as adopting CNG and LPG to reduce reliance on fossil fuels.",
+      "question": "Which renewable energy sources are mentioned in the text?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The modern system of classification is based on evolutionary relationship. Due to this, this is also known as phylogenetic classification. The kingdom is the highest taxa, while the species is the lowest taxa.",
+      "question": "What is the highest taxon in classification?"
+    },
+    {
+      "context": "Members of a species have a higher number of common characters, than members of a kingdom. For example; all human beings belong to the species Homo sapiens.",
+      "question": "What defines a species in classification?"
+    },
+    {
+      "context": "Organs which have common design but serve different functions in different animals are called homologous organs. For example; the forelimbs of all tetrapods are composed of humerus, radio-ulna, tarsals and metatarsals.",
+      "question": "What are homologous organs?"
+    },
+    {
+      "context": "The forelimbs of frogs are adapted to a jumping movement, those of birds are used for flying and those of humans are used for handling tools.",
+      "question": "How do homologous organs demonstrate evolution?"
+    },
+    {
+      "context": "This shows that frogs, birds and humans have evolved from a common ancestor.",
+      "question": "What does the study of homologous organs suggest about species?"
+    }
+  ]
+}

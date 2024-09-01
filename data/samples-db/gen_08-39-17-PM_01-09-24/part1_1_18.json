@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Cell is the smallest unit of life, which is capable of all living functions. If the organisation of a cell is destroyed due to some physical or chemical influence, then the ability of the cell to perform all living functions such as respiration, nutrition, excretion, etc. would be affected.",
+      "question": "What happens if a cell's organization is destroyed?"
+    },
+    {
+      "context": "Lysosomes are membrane-bound vesicular structures that contain powerful digestive enzymes. These enzymes are capable of breaking down any foreign food particle or microbes entering the cell. Sometimes, lysosomes can cause self-destruction of a cell by releasing these digestive enzymes within the cells. Hence, they are also known as ‘suicidal bags’.",
+      "question": "Why are lysosomes referred to as suicidal structures?"
+    }
+  ]
+}

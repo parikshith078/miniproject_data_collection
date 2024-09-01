@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "To prevent the incidence of infectious diseases in school following precautions can be taken: (i) Avoid contact of students suffering from air borne diseases like common cold, cough, eye, flu, etc. (ii) By checking the availability of clean drinking water in school.",
+      "question": "What is a precaution to avoid disease transmission?"
+    },
+    {
+      "context": "Vaccine contains disease -causing organisms in a diluted or weakened form or in living or dead form. It prevents further infection by microbes from causing the disease.",
+      "question": "What does a vaccine contain to prevent diseases?"
+    },
+    {
+      "context": "Immunisation is a process of administration (injecting) of vaccine into a healthy person in order to develop immunity against a disease. Immunity means the ability of a body to recognise, destroy and eliminate external disease causing agents.",
+      "question": "What is the purpose of immunisation?"
+    },
+    {
+      "context": "Starting childhood immunisation programme in schools. Immunisation through administering vaccine is called vaccination. The diseases like small pox, rabies, diphtheria chicken pox, polio, hepatitis are controlled by vaccination.",
+      "question": "Which diseases are controlled by vaccination?"
+    },
+    {
+      "context": "Clean surroundings in school will not allow the growth and multiplication of vectors. By checking the availability of clean drinking water in school.",
+      "question": "How can clean surroundings impact disease control?"
+    },
+    {
+      "context": "Small pox is eliminated from the world through a world wide vaccination programme. This immunisation through administering vaccine is called vaccination.",
+      "question": "What disease was eradicated through vaccination?"
+    }
+  ]
+}

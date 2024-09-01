@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Mendel crossed a pure tall pea plant (TT) with pure dwarf pea plant (tt) and observed that all the progeny were hybrid tall (Tt), which is the dominant trait. The other trait called the recessive trait remains suppressed. When he self crossed plants of F1 generation, he observed that one fourth of the plants were dwarf and three fourth were tall.",
+      "question": "What did Mendel's crossing of plants reveal?"
+    },
+    {
+      "context": "Mendel crossed a pure tall pea plant (TT) with pure dwarf pea plant (tt) and observed that all the progeny were hybrid tall (Tt), which is the dominant trait. The other trait called the recessive trait remains suppressed. When he self crossed plants of F1 generation, he observed that one fourth of the plants were dwarf and three fourth were tall.",
+      "question": "What was the outcome of Mendel's F1 generation?"
+    },
+    {
+      "context": "Mendel crossed a pure tall pea plant (TT) with pure dwarf pea plant (tt) and observed that all the progeny were hybrid tall (Tt), which is the dominant trait. The other trait called the recessive trait remains suppressed. When he self crossed plants of F1 generation, he observed that one fourth of the plants were dwarf and three fourth were tall.",
+      "question": "Which trait is dominant according to Mendel?"
+    },
+    {
+      "context": "Mendel crossed a pure tall pea plant (TT) with pure dwarf pea plant (tt) and observed that all the progeny were hybrid tall (Tt), which is the dominant trait. The other trait called the recessive trait remains suppressed. When he self crossed plants of F1 generation, he observed that one fourth of the plants were dwarf and three fourth were tall.",
+      "question": "How did Mendel define dominant and recessive traits?"
+    },
+    {
+      "context": "Mendel's dihybrid crosses showed that traits segregate independently during gamete formation. The inheritance of one trait does not affect the inheritance of another trait. This means that an organism can possess different traits independent of each other.",
+      "question": "What do dihybrid crosses illustrate about trait inheritance?"
+    },
+    {
+      "context": "Mendel's dihybrid crosses showed that traits segregate independently during gamete formation. The inheritance of one trait does not affect the inheritance of another trait. This means that an organism can possess different traits independent of each other.",
+      "question": "How do traits segregate according to Mendel's findings?"
+    },
+    {
+      "context": "Mendel's dihybrid crosses showed that traits segregate independently during gamete formation. The inheritance of one trait does not affect the inheritance of another trait. This means that an organism can possess different traits independent of each other.",
+      "question": "What principle is illustrated by Mendel's dihybrid crosses?"
+    },
+    {
+      "context": "Mendel's dihybrid crosses showed that traits segregate independently during gamete formation. The inheritance of one trait does not affect the inheritance of another trait. This means that an organism can possess different traits independent of each other.",
+      "question": "What does independent assortment mean in Mendelian genetics?"
+    }
+  ]
+}

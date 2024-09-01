@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Characteristic features of Meristematic tissues include: The meristematic cells may be round, oval, polygonal or rectangular in shape. Their cell walls are thin, elastic and made up of cellulose. They are closely arranged without intercellular spaces. They have dense cytoplasm with large nucleus.",
+      "question": "What shapes can meristematic cells be?"
+    },
+    {
+      "context": "Once the cells of meristematic tissue divide to a certain extent, they become specialized for a particular function. This process is called differentiation. Once differentiation is accomplished, the cells lose their capability to divide and the tissue becomes permanent tissue.",
+      "question": "What process leads to permanent tissue formation?"
+    },
+    {
+      "context": "Once the cells of meristematic tissue divide to a certain extent, they become specialized for a particular function. This process is called differentiation. Once differentiation is accomplished, the cells lose their capability to divide and the tissue becomes permanent tissue.",
+      "question": "What happens to cells after differentiation?"
+    },
+    {
+      "context": "They are differentiated into various types to perform different functions. Once the cells of meristematic tissue divide to a certain extent, they become specialized for a particular function.",
+      "question": "What do differentiated cells perform?"
+    },
+    {
+      "context": "Their cell walls are thin, elastic and made up of cellulose. They are closely arranged without intercellular spaces. They have dense cytoplasm with large nucleus.",
+      "question": "What is a characteristic of meristematic cell walls?"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Anthrax spores can be produced in a dry form which can be stored as particles. These particles can be used in biological warfare. Spores are infective in dry form, not in wet form.",
+      "question": "How can anthrax spores be stored?"
+    },
+    {
+      "context": "It most commonly occurs in wild and domestic vertebrates (cattle, sheep, goats, camels, antelopes, and other herbivores), but it can also occur in humans when they are exposed to infected animals or tissues from infected animals.",
+      "question": "In which animals is anthrax most commonly found?"
+    },
+    {
+      "context": "Anthrax infection can occur in three different forms: cutaneous (skin), gastrointestinal (by ingestion) and pulmonary (by inhalation).",
+      "question": "What are the three forms of anthrax infection?"
+    },
+    {
+      "context": "Gastrointestinal anthrax is caused by taking under-cooked meat of infected animals. Patient experiences chill, high fever, body aches, nausea, vomiting, bloody diarrhoea, loss of appetite, and frequent haemorrhages from the mucous membranes and in the skin.",
+      "question": "What causes gastrointestinal anthrax?"
+    },
+    {
+      "context": "Pulmonary anthrax is acquired by inhaling dust containing B. anthracis. Pulmonary anthrax is often called wool-sorter’s disease.",
+      "question": "What is another name for pulmonary anthrax?"
+    },
+    {
+      "context": "If left untreated, anthrax in all forms can lead to septicemia and death. Death is apparently due to oxygen depletion, secondary shock, increased vascular permeability, respiratory failure and cardiac failure.",
+      "question": "What can untreated anthrax lead to?"
+    },
+    {
+      "context": "The only known effective prevention against anthrax is the anthrax vaccine. The vaccine was developed from an attenuated strain B. anthracis.",
+      "question": "What is the effective prevention against anthrax?"
+    },
+    {
+      "context": "But in cattle, ciprofloxacin may be effective only in chronic area. Antibiotics should be given to unvaccinated individuals exposed to pulmonary anthrax.",
+      "question": "When should antibiotics be given for anthrax treatment?"
+    },
+    {
+      "context": "Initial symptoms of pulmonary anthrax resemble those of common cold. Later there is difficulty in breathing, cough, fever, fast pulse and cardiovascular collapse.",
+      "question": "What are the initial symptoms of pulmonary anthrax?"
+    },
+    {
+      "context": "A skin lesion begins as a papule and soon becomes a vesicle and breaks, discharging bloody serum. This vesicle, in about 36 hours, becomes a bluish-black necrotic mass (dead tissue).",
+      "question": "What is the progression of a cutaneous anthrax lesion?"
+    }
+  ]
+}

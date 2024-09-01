@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plant tissues are of two main types, viz. meristematic tissue and permanent tissue. Meristematic tissue is located only at specific regions which enables plant growth. Meristematic tissues consist of similar and immature cells that can divide forming new cells. This continuous division helps in increasing the plant's length and thickness.",
+      "question": "What are the main types of plant tissues?"
+    },
+    {
+      "context": "Meristematic tissues are made up of group of similar and immature cells, which can divide and form new cells. Depending upon the position, meristematic tissues are of three types: i) Apical meristems, ii) Intercalary meristems, and iii) Lateral meristems. Each type serves a specific growth function in plants.",
+      "question": "What are the three types of meristematic tissue?"
+    },
+    {
+      "context": "Apical meristem is present at the growing tips of stems and roots and increases the length of the plant body. Intercalary meristems help in elongation of the internodes at the base of leaves and in monocotyledonous plants. Lateral meristems increase the width of the plant body.",
+      "question": "Where is the apical meristem located?"
+    },
+    {
+      "context": "Apical meristem is present at the growing tips of stems and roots and increases the length of the plant body. Intercalary meristems occupy the base of the leaves and assist in elongation. Lateral meristems in stems and roots enhance the plant's width.",
+      "question": "What is the function of lateral meristems?"
+    },
+    {
+      "context": "Meristematic cells divide continuously and help in increasing the length and thickness of the plant. This division takes place in specific regions known as meristematic tissues. The growth facilitated by these cells plays a crucial role in the overall development of plants.",
+      "question": "How do meristematic cells contribute to plant growth?"
+    }
+  ]
+}

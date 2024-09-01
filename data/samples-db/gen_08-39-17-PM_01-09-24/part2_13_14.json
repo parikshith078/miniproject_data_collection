@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Common management practices in dairy and poultry farming are: (i) Proper shelter facilities and their regular cleaning. (ii) Some basic hygienic conditions such as clean water, nutritious food, etc.",
+      "question": "What are basic hygienic conditions in farming?"
+    },
+    {
+      "context": "Fish farming is also called as aquaculture. This is culturing of fish for commercial purposes.",
+      "question": "What is another name for fish farming?"
+    },
+    {
+      "context": "Animals are kept in spacious, airy, and ventilated place. (iv) Prevention and cure of diseases at the right time is ensured.",
+      "question": "Why is ventilation important for farm animals?"
+    },
+    {
+      "context": "Proper shelter facilities and their regular cleaning are essential for dairy farming.",
+      "question": "Why is regular cleaning of shelters necessary?"
+    },
+    {
+      "context": "Fish is a cheap source of animal protein and is cultured for commercial purposes.",
+      "question": "Why is fish considered a cheap source of protein?"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Once a dam is constructed, electricity can be produced at a constant rate. If electricity is not needed, the sluice gates can be shut, stopping electricity generation. The water can be saved for use another time when electricity demand is high.",
+      "question": "How does a dam help manage electricity generation?"
+    },
+    {
+      "context": "The build up of water in the lake means that energy can be stored until needed, when the water is released to produce electricity. When in use, electricity produced by dam systems do not produce greenhouse gases.",
+      "question": "What environmental benefits do dams provide?"
+    },
+    {
+      "context": "Dams are extremely expensive to build and must be built to a very high standard. The high cost of dam construction means that they must operate for many decades to become profitable.",
+      "question": "What is a major economic drawback of building dams?"
+    },
+    {
+      "context": "The flooding of large areas of land means that the natural environment is destroyed. People living in villages and towns that are in the valley to be flooded must move out.",
+      "question": "What social issues arise from dam construction?"
+    },
+    {
+      "context": "The building of large dams can cause serious geological damage. For example, the building of the Hoover Dam in the USA triggered a number of earthquakes and has depressed the earth’s surface at its location.",
+      "question": "What geological risks are associated with dam construction?"
+    },
+    {
+      "context": "Dams built blocking the progress of a river in one country usually means that the water supply from the same river in the following country is out of their control.",
+      "question": "How can dams affect international relations?"
+    },
+    {
+      "context": "The building of the Aswan Dam in Egypt has altered the level of the water table. This is slowly leading to damage of many of its ancient monuments as salts and destructive minerals are deposited in the stone work from rising damp.",
+      "question": "What long-term effects can dams have on historical sites?"
+    }
+  ]
+}

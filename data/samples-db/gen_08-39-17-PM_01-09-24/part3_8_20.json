@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Mendel used a dihybrid cross to study two pairs of characters. For example, he used plants with round and green seeds versus those with wrinkled and yellow seeds. The genotypes involved were RRyy for round and green seeds and rrYY for wrinkled and yellow seeds.",
+      "question": "What is a dihybrid cross?"
+    },
+    {
+      "context": "In Mendel's dihybrid cross, plants with round and green seeds (RRyy) were crossed with those having wrinkled and yellow seeds (rrYY). This setup allowed Mendel to investigate the inheritance of two traits simultaneously.",
+      "question": "What traits did Mendel investigate?"
+    },
+    {
+      "context": "In his second experiment, Mendel utilized a dihybrid cross with two traits: seed shape and seed color, specifically round and green seeds combined with wrinkled and yellow seeds, represented by different genotypes.",
+      "question": "What traits were combined in Mendel's experiment?"
+    },
+    {
+      "context": "The genotype for round and green seeds in Mendel's experiment is RRyy, whereas the genotype for wrinkled and yellow seeds is rrYY. This variety in genotypes was essential for studying inheritance patterns.",
+      "question": "What genotypes were used in the dihybrid cross?"
+    },
+    {
+      "context": "In the F1 generation resulting from the dihybrid cross, all plants produced showed a phenotype that differed from the parent plants, indicating the principles of dominance in genetic traits.",
+      "question": "What did the F1 generation exhibit in Mendel's experiment?"
+    },
+    {
+      "context": "Mendel conducted dihybrid crosses to understand how two traits are inherited together, using round and green seeds (RRyy) crossed with wrinkled and yellow seeds (rrYY) as a prime example.",
+      "question": "Why did Mendel choose to use dihybrid crosses?"
+    },
+    {
+      "context": "The study of dihybrid crosses allows the examination of the inheritance patterns of two different traits, which Mendel analyzed using plants with different seed shapes and colors.",
+      "question": "What does a dihybrid cross allow scientists to study?"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "The transfer of pollen grains from anther to the stigma of a flower is called pollination. The fusion of male and female gametes to form a zygote is called fertilisation. It involves only the male gamete (pollen grain). It involves both male and female gametes.",
+      "question": "What is the difference between pollination and fertilization?"
+    },
+    {
+      "context": "Secretions from seminal vesicles and prostate gland provide nutrition to the sperms and make their transport easier by providing them a fluid medium.",
+      "question": "What is the role of seminal vesicles and prostate gland?"
+    }
+  ]
+}

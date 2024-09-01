@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Striated muscles are characterized by long, unbranched fibres that are multinucleate and have light and dark bands (striations). They are involved in voluntary movements in various parts of the body.",
+      "question": "What are the features of striated muscles?"
+    },
+    {
+      "context": "Smooth muscles consist of spindle-shaped cells that each contain a single nucleus. These muscles are associated with involuntary movements in organs such as the alimentary canal.",
+      "question": "Where is smooth muscle found?"
+    },
+    {
+      "context": "Striated muscles are typically found in areas of the body that allow for voluntary movement, such as the arms and legs, contributing to activities like walking and lifting.",
+      "question": "Which body parts contain striated muscles?"
+    },
+    {
+      "context": "Smooth muscle cells are unique for their shape, being spindle-shaped with a single nucleus. This type of muscle operates without conscious control.",
+      "question": "How are smooth muscle cells shaped?"
+    },
+    {
+      "context": "Striated muscles are distinctive due to their obvious light and dark striations, which result from the arrangement of muscle fibers. This gives them their name.",
+      "question": "What causes striations in striated muscles?"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "A constant interaction between the biotic and abiotic components of the biosphere makes it a dynamic, but stable system. These interactions consist of a transfer of matter and energy between the different components of the biosphere.",
+      "question": "What components are involved in biogeochemical cycles?"
+    },
+    {
+      "context": "The water cycle, also known as the hydrologic cycle, describes the continuous movement of water on, above, and below the surface of the earth. Water can change states among liquid, vapor and ice at various places in the water cycle.",
+      "question": "What is the water cycle also called?"
+    },
+    {
+      "context": "Water evaporates as vapor into the air. Ice and snow can sublimate directly into water vapor. Rising air currents take the vapor up into the atmosphere where cooler temperatures cause it to condense into clouds.",
+      "question": "What happens to water when it evaporates?"
+    },
+    {
+      "context": "Some precipitation falls as snow and can accumulate as ice caps and glaciers, which can store frozen water for thousands of years. Snow packs can thaw and melt, and the melted water flows overland as snowmelt.",
+      "question": "What can accumulate as ice caps and glaciers?"
+    },
+    {
+      "context": "Much of it soaks into the ground as infiltration. Some water infiltrates deep into the ground and replenishes aquifers, which store huge amounts of freshwater for long periods of time.",
+      "question": "What does infiltration refer to in the water cycle?"
+    },
+    {
+      "context": "Air currents move clouds around the globe, cloud particles collide, grow, and fall out of the sky as precipitation. Some precipitation falls back into the oceans or onto land, where the precipitation flows over the ground as surface runoff.",
+      "question": "What happens when cloud particles collide?"
+    },
+    {
+      "context": "The sun, which drives the water cycle, heats water in the oceans. Water evaporates as vapor into the air. Ice and snow can sublimate directly into water vapor.",
+      "question": "What role does the sun play in the water cycle?"
+    },
+    {
+      "context": "Some groundwater finds openings in the land surface and emerges as freshwater springs. Over time, the water reenters the ocean, where our water cycle started.",
+      "question": "What is a source of freshwater springs?"
+    },
+    {
+      "context": "A portion of runoff enters rivers in valleys in the landscape, with stream flow moving water towards the oceans. Runoff and groundwater are stored as freshwater in lakes.",
+      "question": "Where does a portion of runoff enter?"
+    },
+    {
+      "context": "Although the balance of water on Earth remains fairly constant over time, individual water molecules can come and go. The sun, which drives the water cycle, heats water in the oceans.",
+      "question": "Does the total water on Earth change over time?"
+    }
+  ]
+}

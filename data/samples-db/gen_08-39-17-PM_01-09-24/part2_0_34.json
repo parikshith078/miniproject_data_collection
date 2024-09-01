@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Blood is composed of blood cells, platelets and plasma. Blood plays an important role in the transportation of various substances in the body. It also helps in osmoregulation and temperature control.",
+      "question": "What is blood composed of?"
+    },
+    {
+      "context": "Muscular tissue is composed of muscle cells. Muscle cells are specialized cells which have the capability to contract and expand. Due to contraction and expansion, muscles facilitate various kinds of movements in the body.",
+      "question": "What are the specialized cells in muscular tissue?"
+    },
+    {
+      "context": "Muscular tissues are of three types: Striated Muscles, Smooth Muscles. Blood is composed of blood cells, platelets and plasma.",
+      "question": "How many types of muscular tissues are there?"
+    },
+    {
+      "context": "Blood plays an important role in the transportation of various substances in the body. It also helps in osmoregulation and temperature control.",
+      "question": "What role does blood play in temperature control?"
+    },
+    {
+      "context": "Due to contraction and expansion, muscles facilitate various kinds of movements in the body. Muscular tissue is composed of muscle cells.",
+      "question": "What facilitates movement in the body?"
+    }
+  ]
+}

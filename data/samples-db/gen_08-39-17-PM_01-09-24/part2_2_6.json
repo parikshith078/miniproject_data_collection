@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The word ‘angios’ means covered. There is great diversity in species of angiosperm. Angiosperms are also known as flowering plants because the flower is a specialized organ meant for reproduction.",
+      "question": "What does 'angios' mean in context?"
+    },
+    {
+      "context": "There is a single seed leaf in a seed. A seed leaf is a baby plant. Examples: wheat, rice, maize, etc.",
+      "question": "What does monocotyledonous mean?"
+    },
+    {
+      "context": "Angiosperms are also known as flowering plants because the flower is a specialized organ meant for reproduction.",
+      "question": "What is another name for angiosperms?"
+    },
+    {
+      "context": "There is great diversity in species of angiosperm. Angiosperms are also known as flowering plants because the flower is a specialized organ meant for reproduction.",
+      "question": "Why are angiosperms called flowering plants?"
+    },
+    {
+      "context": "A seed leaf is a baby plant. Examples: wheat, rice, maize, etc. There is a single seed leaf in a seed.",
+      "question": "What is a seed leaf?"
+    },
+    {
+      "context": "There is a single seed leaf in a seed. A seed leaf is a baby plant. Examples: wheat, rice, maize, etc.",
+      "question": "What are examples of monocotyledonous plants?"
+    }
+  ]
+}

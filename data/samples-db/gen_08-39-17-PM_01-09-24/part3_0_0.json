@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The maintenance of living organisms must go on even at the conditions, when they are not physically active. Even when we sit idle and during sleeping, this maintenance job through cells functioning has to go on.",
+      "question": "What must go on even when inactive?"
+    },
+    {
+      "context": "The life process includes the activities performed by the different organs to maintain the body. Some of the life processes in the living beings are described below: Nutrition.",
+      "question": "What do life processes help maintain?"
+    },
+    {
+      "context": "The process of obtaining energy through consumption of food is called as nutrition.",
+      "question": "What is the process of obtaining energy called?"
+    },
+    {
+      "context": "Even when we sit idle and during sleeping, this maintenance job through cells functioning has to go on. The life process includes the activities performed by the different organs to maintain the body.",
+      "question": "What happens during sleep in our bodies?"
+    },
+    {
+      "context": "Some of the life processes in the living beings are described below: Nutrition. The process of obtaining energy through consumption of food is called as nutrition.",
+      "question": "What does nutrition provide living beings?"
+    }
+  ]
+}

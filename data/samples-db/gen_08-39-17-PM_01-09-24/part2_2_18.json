@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Vertebrates are divided into two superclasses, viz. pisces and tetrapoda. PISCES are commonly known as fish. The body of fish is streamlined and they are cold-blooded animals.",
+      "question": "What are the two superclasses of vertebrates?"
+    },
+    {
+      "context": "The notochord is replaced by a spinal column during the embryonic stage. Vertebrates are divided into two superclasses, viz. pisces and tetrapoda.",
+      "question": "What replaces the notochord in vertebrates?"
+    },
+    {
+      "context": "Examples of bony fish include Rohu and katla. Pisces are commonly known as fish and they are cold-blooded animals.",
+      "question": "Give two examples of bony fish."
+    },
+    {
+      "context": "Pisces are commonly known as fish. They have a streamlined body and are classified as cold-blooded animals.",
+      "question": "What type of body do fish have?"
+    },
+    {
+      "context": "Vertebrates like pisces have a notochord replaced by a spinal column during development. They are divided into two superclasses.",
+      "question": "What distinguishes pisces in the vertebrate classification?"
+    }
+  ]
+}

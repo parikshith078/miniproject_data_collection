@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Natural resources such as water, forests, coal and petroleum, etc. are important for the survival of human beings.",
+      "question": "Why are natural resources important for survival?"
+    },
+    {
+      "context": "We should stop the cutting of trees (deforestation).",
+      "question": "What should we stop to conserve forests?"
+    },
+    {
+      "context": "We should use recycled paper to reduce the cutting down of trees.",
+      "question": "How can we help reduce tree cutting?"
+    },
+    {
+      "context": "We should not waste water.",
+      "question": "What is one way to conserve water?"
+    },
+    {
+      "context": "We should practice rainwater harvesting.",
+      "question": "What practice helps in conserving water resources?"
+    },
+    {
+      "context": "We should practice car pooling to avoid the excessive use of petroleum.",
+      "question": "What is a method to reduce petroleum use?"
+    },
+    {
+      "context": "We should use alternative sources of energy such as hydro-energy and solar energy.",
+      "question": "What types of energy sources should we consider?"
+    }
+  ]
+}

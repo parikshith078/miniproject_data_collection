@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The biological name is composed of two terms. The first term is called genetic name and the second term is called species name. The genus name starts with a capital letter, while the species name starts with a small letter.",
+      "question": "What does the first term in a biological name represent?"
+    },
+    {
+      "context": "When handwritten, the genus name and species name need to be underlined separately. In print, the scientific name is written in italics.",
+      "question": "How should biological names be written in print?"
+    },
+    {
+      "context": "The genus name starts with a capital letter, while the species name starts with a small letter. The biological name is composed of two terms.",
+      "question": "What is the difference in capitalization between genus and species names?"
+    },
+    {
+      "context": "In print, the scientific name is written in italics. The biological name is composed of two terms.",
+      "question": "What format is used for writing scientific names in print?"
+    },
+    {
+      "context": "The biological name is composed of two terms. The first term is called genetic name and the second term is called species name.",
+      "question": "What are the two terms in a biological name called?"
+    }
+  ]
+}

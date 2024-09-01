@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Epithelial tissue forms the covering or lining of most of the organs. The cells of epithelial tissue are tightly packed and form a continuous sheet. There is a small amount of cementing materials between the cells and no intercellular space is present.",
+      "question": "What is the primary function of epithelial tissue?"
+    },
+    {
+      "context": "Permeability of the epithelial tissue plays a great role in exchange of materials among various organs; it also plays an important role in osmoregulation.",
+      "question": "How does epithelial tissue assist in osmoregulation?"
+    },
+    {
+      "context": "All epithelial tissues are separated by the underlying tissue by an extracellular fibrous basement membrane. Epithelial tissues are of the following types: 1. Simple Epithelium 2. Cuboidal Epithelium 3. Columnar Epithelium 4. Stratified Epithelium.",
+      "question": "What are the types of epithelial tissue?"
+    },
+    {
+      "context": "The epithelial tissue forms the covering or lining of most of the organs. The cells of epithelial tissue are tightly packed and form a continuous sheet.",
+      "question": "What distinguishes epithelial tissue from other tissues?"
+    },
+    {
+      "context": "There is a small amount of cementing materials between the cells of epithelial tissue and no intercellular space is present.",
+      "question": "What structural feature characterizes epithelial tissue?"
+    }
+  ]
+}

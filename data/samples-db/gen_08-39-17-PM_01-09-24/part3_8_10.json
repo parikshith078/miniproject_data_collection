@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Changes seen in girls at the time of puberty are as follows: (i) Growth of hair in armpits and public region. (ii) Mammary glands (breast) develop and hips broaden.",
+      "question": "What are physical changes during puberty?"
+    },
+    {
+      "context": "Uterus, vagina, Fallopian tube enlarge and pelvis widens. Menstruation and ovulation also starts.",
+      "question": "What occurs to reproductive organs during puberty?"
+    },
+    {
+      "context": "The embryo gets nutrition from the mother's blood with the help of special tissue called placenta.",
+      "question": "How does an embryo receive nourishment?"
+    },
+    {
+      "context": "It has villi on the embryo side of the tissue. On the mother's side are blood spaces which the villi.",
+      "question": "What is the role of villi in the placenta?"
+    },
+    {
+      "context": "This gives a large surface area for oxygen and glucose to pass from the mother to the embryo.",
+      "question": "What substances transfer from mother to embryo?"
+    }
+  ]
+}

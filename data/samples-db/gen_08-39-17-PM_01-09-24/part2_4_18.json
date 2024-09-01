@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Infectious diseases spread from an infected person to a healthy person through air, water, food, vectors, physical contact, and sexual contact.",
+      "question": "What are the means of disease spread?"
+    },
+    {
+      "context": "Principles of treatment for infectious diseases consist of two steps: (1) To reduce the effects of the disease, this can be done by taking medicines to bring down the effects of the disease like fever, pain or loose motions etc.",
+      "question": "What is the first principle of treatment?"
+    },
+    {
+      "context": "To kill the microbes, this can be done by taking suitable antibiotics and drugs which kills the microbes, and the disease is cured.",
+      "question": "How can microbes be killed during treatment?"
+    },
+    {
+      "context": "To reduce the effects of the disease, this can be done by taking medicines to bring down the effects of the disease like fever, pain or loose motions etc., and by taking bed rest.",
+      "question": "What helps reduce disease effects?"
+    },
+    {
+      "context": "Infectious diseases spread from an infected person to a healthy person through air, water, food, vectors, physical contact, and sexual contact.",
+      "question": "What are some common transmission methods?"
+    },
+    {
+      "context": "This can be done by taking suitable antibiotics and drugs which kills the microbes, and the disease is cured.",
+      "question": "What role do antibiotics play in disease treatment?"
+    }
+  ]
+}

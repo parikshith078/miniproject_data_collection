@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The nitrogen cycle is the biogeochemical cycle that describes the transformations of nitrogen and nitrogen-containing compounds in nature. It is a cycle which includes gaseous components. Earth’s atmosphere is about 78% nitrogen, making it the largest pool of nitrogen. Nitrogen is essential for many biological processes; it is crucial for any life here on Earth.",
+      "question": "What percentage of nitrogen is in Earth's atmosphere?"
+    },
+    {
+      "context": "Some fixation occurs in lightning strikes, but most fixation is done by free-living or symbiotic bacteria. These bacteria have the nitrogenase enzyme that combines gaseous nitrogen with hydrogen to produce ammonia, which is then further converted by the bacteria to make its own organic compounds.",
+      "question": "What enzyme do nitrogen-fixing bacteria use?"
+    },
+    {
+      "context": "In plants, much of the nitrogen is used in chlorophyll molecules which are essential for photosynthesis and further growth. Processing, or fixation, is necessary to convert gaseous nitrogen into forms usable by living organisms.",
+      "question": "Why is nitrogen fixation necessary for plants?"
+    },
+    {
+      "context": "A few other plants can form such symbioses. Nowadays, a very considerable portion of nitrogen is fixated in ammonia chemical plants. The carbon cycle is the biogeochemical cycle by which carbon is exchanged among the biosphere, pedosphere, geosphere, hydrosphere, and atmosphere of the Earth.",
+      "question": "What are the components involved in carbon exchange?"
+    },
+    {
+      "context": "The carbon cycle is the biogeochemical cycle by which carbon is exchanged among the biosphere, pedosphere, geosphere, hydrosphere, and atmosphere of the Earth. The cycle is usually thought of as four major reservoirs of carbon interconnected by pathways of exchange.",
+      "question": "How many major reservoirs are there in the carbon cycle?"
+    },
+    {
+      "context": "The sediment including fossil fuels is one of the major reservoirs in the carbon cycle. These reservoirs are interconnected by pathways of exchange which facilitate the movement of carbon in various forms throughout the ecosystem.",
+      "question": "What includes fossil fuels in the carbon cycle?"
+    }
+  ]
+}

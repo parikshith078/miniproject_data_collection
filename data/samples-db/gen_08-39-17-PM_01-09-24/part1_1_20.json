@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Ribosomes are very small structures found either in a free state, suspended in the cytoplasm, or attached to the surface of the endoplasmic reticulum. They are composed of ribonucleic acids and proteins. Ribosomes are the site for protein synthesis, where amino acids are assembled into proteins based on the sequence of mRNA.",
+      "question": "What is the function of ribosomes?"
+    },
+    {
+      "context": "Differences between plant cells and animal cells include the presence of a cell wall, chloroplasts, and larger vacuoles in plant cells, whereas animal cells have centrioles and smaller, more numerous vacuoles. Plant cells are rigid due to their cell wall, while animal cells are more flexible.",
+      "question": "List three differences between plant and animal cells."
+    }
+  ]
+}

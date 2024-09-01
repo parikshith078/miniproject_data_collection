@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Endoplasmic reticulum is a complicated and interconnected system of membrane-bound channels and tubules. It is spread throughout the cytoplasm and is continuous with the plasma membrane and nuclear membrane. There are two types of Endoplasmic Reticulum. a) Rough Endoplasmic Reticulum. (RER) b) Smooth Endoplasmic Reticulum. (SER)",
+      "question": "What is the role of the endoplasmic reticulum?"
+    },
+    {
+      "context": "Rough endoplasmic reticulum (Granular endoplasmic reticulum) They are found in cells which synthesize proteins. This type of endoplasmic reticulum possesses rough walls because the ribosomes remain attached with the membrane of endoplasmic reticulum.",
+      "question": "Where is rough endoplasmic reticulum found?"
+    },
+    {
+      "context": "Smooth endoplasmic reticulum (Agranular endoplasmic reticulum) They are found in cells which synthesize lipid. The walls are smooth and ribosomes are not attached to its membrane.",
+      "question": "What is synthesized by the smooth endoplasmic reticulum?"
+    },
+    {
+      "context": "Functions of Endoplasmic Reticulum E.R provides large surface area for the metabolic activities of the cell. Rough endoplasmic reticulum plays an important role in protein synthesis.",
+      "question": "What function does the E.R serve in cells?"
+    },
+    {
+      "context": "Smooth endoplasmic reticulum is involved in the synthesis of steroid hormones and lipids.",
+      "question": "What does smooth endoplasmic reticulum synthesize?"
+    }
+  ]
+}

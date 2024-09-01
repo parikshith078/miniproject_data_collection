@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "The energy flow in ecosystem is said to be unidirectional because the energy lost as heat from the living organisms of a food chain cannot be reused by plants in photosynthesis.",
+      "question": "Why is energy flow considered unidirectional?"
+    },
+    {
+      "context": "The flow of energy in the ecosystem is unidirectional; it enters the plants through photosynthesis and is then passed on through a food chain.",
+      "question": "How does energy enter the ecosystem?"
+    },
+    {
+      "context": "During the transfer of energy through successive trophic levels in an ecosystem, there is a loss of energy all along the path, and no transfer of energy is 100 percent.",
+      "question": "What happens to energy at each trophic level?"
+    },
+    {
+      "context": "The energy available at each successive trophic level is 10 percent of the previous level, leading to a progressive decline in energy available.",
+      "question": "What percentage of energy is available at higher trophic levels?"
+    },
+    {
+      "context": "Nutrients pass from abiotic nutrient stores, such as the soil and the atmosphere, into biotic, plant and animal stores, and are then recycled within the ecosystem.",
+      "question": "What stores do nutrients move between in an ecosystem?"
+    },
+    {
+      "context": "Nutrient movement is cyclic, where the nutrients revolve round an ecosystem, contrasting with the unidirectional flow of energy.",
+      "question": "How does nutrient movement differ from energy flow?"
+    },
+    {
+      "context": "The energy transformations are not perfect and energy is lost in each transformation in the form of heat.",
+      "question": "What form does energy take when it is lost?"
+    },
+    {
+      "context": "Energy cannot be made or destroyed, and energy transformations are subject to thermodynamic laws in ecosystems.",
+      "question": "What do thermodynamic laws state about energy?"
+    },
+    {
+      "context": "The nutrients are then recycled, within the ecosystem, following death and decomposition, contrasting with energy flow.",
+      "question": "What process allows nutrient recycling in ecosystems?"
+    },
+    {
+      "context": "Energy enters the ecosystem through photosynthesis, while nutrients revolve around in a cyclic movement within it.",
+      "question": "How do energy and nutrients enter the ecosystem?"
+    }
+  ]
+}

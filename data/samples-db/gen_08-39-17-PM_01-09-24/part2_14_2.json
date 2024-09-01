@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Honey is an energy rich food. For eg. 1 Kg of honey contains 3200 calories of energy. Honey contains sugars, minerals, vitamins, enzymes and pollen.",
+      "question": "What is the caloric content of honey?"
+    },
+    {
+      "context": "Honey is helpful in building up the haemoglobin content of the blood. Honey is used in the preparation of bread, cakes and biscuits.",
+      "question": "How is honey beneficial for blood health?"
+    },
+    {
+      "context": "Honey contains sugars, minerals, vitamins, enzymes and pollen. Honey is an antiseptic and contains formic acid as the preservative.",
+      "question": "What are some key components found in honey?"
+    },
+    {
+      "context": "Honey is a blood purifier, a cure against cough, cold, sore throat, ulcers of tongue, stomach and intestine.",
+      "question": "Which illnesses can honey help treat?"
+    },
+    {
+      "context": "Honey is used in the production of honey and bee wax. Honey is an energy rich food.",
+      "question": "What are the main products derived from honey bees?"
+    },
+    {
+      "context": "Honey is an antiseptic and contains formic acid as the preservative. Honey is used in the preparation of bread, cakes and biscuits.",
+      "question": "What are the culinary uses of honey?"
+    },
+    {
+      "context": "Honey is an energy rich food. For eg. 1 Kg of honey contains 3200 calories of energy. Honey is a blood purifier.",
+      "question": "What dual roles does honey play in nutrition?"
+    },
+    {
+      "context": "1 Kg of honey contains 3200 calories of energy. Honey is a blood purifier, a cure against cough, cold.",
+      "question": "What is the nutritional significance of honey?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Parasites such as roundworms feed off the human waste in the intestines. Symptoms of various worm infestation include itching, usually of the anus or vaginal area, weight loss, increased appetite, abdominal pain, bowel obstructions, vomiting, disturbed sleep, worms present in the stools or vomit, diarrhea, anemia, symptoms of pneumonia, food poisoning symptoms, aching muscles or joints, or a generally feeling of illness.",
+      "question": "What are common symptoms of worm infestation?"
+    },
+    {
+      "context": "Parasitic disease is typically caused by the parasite’s entry into the body via the skin or mouth. It is not unusual to pick up parasitic infections from soil, typically by either walking barefoot and allowing entry through the feet, or by placing the hands in the dirt and eventually placing the fingers in the mouth.",
+      "question": "How do parasites typically enter the human body?"
+    },
+    {
+      "context": "Symptoms of various worm infestation include itching, usually of the anus or vaginal area, weight loss, increased appetite, abdominal pain, bowel obstructions, vomiting, disturbed sleep, worms present in the stools or vomit, diarrhea, anemia, symptoms of pneumonia, food poisoning symptoms, aching muscles or joints, or a generally feeling of illness.",
+      "question": "What indicates a severe worm infestation?"
+    },
+    {
+      "context": "Often people carry a parasite without ever knowing it. Parasitic disease is typically caused by the parasite’s entry into the body via the skin or mouth. It is not unusual to pick up parasitic infections from soil.",
+      "question": "Can people unknowingly carry parasites?"
+    },
+    {
+      "context": "Symptoms of various worm infestation include itching, usually of the anus or vaginal area, weight loss, increased appetite, abdominal pain, bowel obstructions, vomiting, disturbed sleep, worms present in the stools or vomit, diarrhea, anemia, symptoms of pneumonia.",
+      "question": "What are some severe symptoms of parasitic infections?"
+    }
+  ]
+}

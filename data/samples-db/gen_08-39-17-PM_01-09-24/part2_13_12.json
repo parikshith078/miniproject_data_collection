@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Poultry farming is the practice of raising fowl for egg production and chicken meat. Fowls are used for producing eggs and broilers are used for producing meat. Cross –breeding is common in poultry to develop new varieties with the desirable traits.",
+      "question": "What is the main purpose of poultry farming?"
+    },
+    {
+      "context": "Management practices for poultry farming include maintaining optimum temperature, providing hygienic housing conditions, providing a protein-rich diet with high levels of vitamin A and K, and preventing and controlling pests and diseases.",
+      "question": "What is essential for a protein-rich diet?"
+    },
+    {
+      "context": "Poultry farming is the practice of raising fowl for egg production and chicken meat. Cross-breeding is common in poultry to develop new varieties with desirable traits.",
+      "question": "Why is cross-breeding used in poultry farming?"
+    },
+    {
+      "context": "Management practices for poultry farming include maintaining optimum temperature, providing hygienic housing conditions, providing a protein-rich diet with high levels of vitamin A and K, and preventing and controlling pests and diseases.",
+      "question": "What is a crucial management practice for poultry health?"
+    },
+    {
+      "context": "Fowls are used for producing eggs and broilers are used for producing meat. Cross –breeding is common in poultry to develop new varieties with the desirable traits.",
+      "question": "What type of poultry is raised for meat?"
+    }
+  ]
+}

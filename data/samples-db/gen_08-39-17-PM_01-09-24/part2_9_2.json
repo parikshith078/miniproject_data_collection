@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Water pollution is the contamination of water bodies such as lakes, rivers, ocean and groundwater caused by human activities, which can be harmful to organisms and plants. The addition of undesirable substances to water-bodies could be fertilizers and pesticides used in farming or poisonous substances like mercury. These could also be disease-causing organisms, like the bacteria which cause cholera.",
+      "question": "What can cause water bodies to be contaminated?"
+    },
+    {
+      "context": "The removal of desirable substances from water-bodies affects aquatic organisms. Dissolved oxygen is used by the animals and plants that live in water, and any change that reduces the amount of this dissolved oxygen would adversely affect these organisms. Other nutrients could also be depleted from the water bodies.",
+      "question": "How does the removal of substances affect aquatic life?"
+    },
+    {
+      "context": "A change in temperature in water bodies can be dangerous for aquatic organisms as they are used to a certain temperature range. A sudden marked change would affect their breeding and the eggs and larvae are particularly susceptible to temperature changes.",
+      "question": "What impact does temperature change have on aquatic organisms?"
+    },
+    {
+      "context": "Soil is an important resource that decides the diversity of life in an area. The outermost layer of our Earth is called the crust and the minerals found in this layer supply a variety of nutrients to life-forms. The Sun heats up rocks which expand during the day and contract at night.",
+      "question": "Why is soil important for life diversity?"
+    },
+    {
+      "context": "Water helps in the formation of soil by getting into cracks formed in rocks. If this water freezes, it causes the cracks to widen. Flowing water also wears away rocks over long periods. Fast flowing water carries particles downstream, causing abrasion.",
+      "question": "How does water contribute to soil formation?"
+    },
+    {
+      "context": "Wind erodes rocks in a manner similar to water, breaking them down into smaller particles. The wind also carries sand from one location to another just as water does, leading to soil deposits away from the original rock.",
+      "question": "In what ways does wind aid in soil formation?"
+    }
+  ]
+}

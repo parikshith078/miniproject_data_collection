@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The underlying determinants of chronic diseases are a reflection of the major forces driving social, economic, and cultural change – globalization, urbanization, population aging, and the general policy environment.",
+      "question": "What are the major forces driving chronic diseases?"
+    },
+    {
+      "context": "Chronic diseases and poverty are interconnected in a vicious circle. At the same time, poverty and the worsening of already existing poverty are caused by chronic diseases.",
+      "question": "How does poverty relate to chronic diseases?"
+    },
+    {
+      "context": "The poor are more vulnerable for several reasons, including greater exposure to risks and decreased access to health services.",
+      "question": "Why are poor people more vulnerable to chronic diseases?"
+    },
+    {
+      "context": "Poverty and the worsening of already existing poverty are caused by chronic diseases.",
+      "question": "What causes the worsening of poverty?"
+    },
+    {
+      "context": "Chronic diseases are a reflection of the major forces driving social, economic, and cultural change.",
+      "question": "How do chronic diseases reflect social changes?"
+    }
+  ]
+}

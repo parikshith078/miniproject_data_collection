@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "If there was no Golgi apparatus in the cell, then most activities performed by the Golgi apparatus will not take place. The Golgi apparatus is crucial for processing and packaging proteins and lipids before they are sent to their destinations. Without it, the cell would struggle to transport essential molecules necessary for various functions.",
+      "question": "What is the function of the Golgi apparatus?"
+    },
+    {
+      "context": "Mitochondria are known as the powerhouse of cells. Mitochondria create energy for the cell, and this process of creating energy for the cell is known as cellular respiration. Most chemical reactions involved in cellular respiration occur in the mitochondria. The energy required for various chemical activities needed for life is released by the mitochondria in the form of ATP (Adenosine triphosphate) molecules.",
+      "question": "What is the role of mitochondria in the cell?"
+    },
+    {
+      "context": "If there was no Golgi apparatus in the cell, then most activities performed by the Golgi apparatus will not take place. The absence of this organelle would severely impact the cell's ability to process and deliver proteins effectively, significantly hindering cellular operations.",
+      "question": "What would be the impact of losing the Golgi apparatus?"
+    },
+    {
+      "context": "Mitochondria are known as the powerhouse of cells. They are responsible for generating energy through cellular respiration, a process that converts nutrients into ATP. This energy is vital for all cellular functions, allowing cells to maintain life processes.",
+      "question": "Why are mitochondria essential for cellular functions?"
+    }
+  ]
+}

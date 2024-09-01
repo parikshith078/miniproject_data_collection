@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "To make our school environment eco-friendly, it is essential to plant different kinds of shady and fruity trees. Different flowering plants should also be planted.",
+      "question": "Why is planting trees important for schools?"
+    },
+    {
+      "context": "The water facility should be in good condition. Rooms should be properly ventilated.",
+      "question": "What facilities are necessary for a healthy school environment?"
+    },
+    {
+      "context": "There should be proper provision of dustbins for the disposal of waste. There should be big and clean playgrounds.",
+      "question": "What role do dustbins play in a school's eco-friendliness?"
+    },
+    {
+      "context": "Different flowering plants should also be planted. No waste material and used paper, foil, empty packets should be spread all over the school.",
+      "question": "What types of plants should be included in a school garden?"
+    },
+    {
+      "context": "Rooms should be properly ventilated. There should be big and clean playgrounds.",
+      "question": "How can playgrounds contribute to a better school environment?"
+    }
+  ]
+}

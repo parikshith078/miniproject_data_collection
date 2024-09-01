@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Organisms such as Hydra use regenerative cells for reproduction in the process of budding. In Hydra, a bud develops as an outgrowth due to repeated cell division at one specific site. These buds develop into tiny individuals and when fully mature, detach from the parent body and become new independent individuals.",
+      "question": "How do Hydra reproduce asexually?"
+    },
+    {
+      "context": "Vegetative propagation is the ability of plants to reproduce by bringing forth new plants from existing vegetative structures without sexual reproduction. Some examples of vegetative propagation are given below. Tuber of Potato: The potato tuber is a modified stem.",
+      "question": "What is vegetative propagation in plants?"
+    },
+    {
+      "context": "These buds develop into tiny individuals and when fully mature, detach from the parent body and become new independent individuals. Asexual reproduction allows for quick population increases without the need for mating.",
+      "question": "What happens to buds in Hydra when mature?"
+    },
+    {
+      "context": "Farmers utilize this capability of potatoes to grow potato more quickly; which is not possible by using the seeds of potato. The use of tubers for propagation showcases efficient agricultural practices.",
+      "question": "Why do farmers prefer tubers over seeds?"
+    },
+    {
+      "context": "Each ‘eye’ of a potato can give rise to a new potato plant. The eyes are crucial for the reproduction process, highlighting the specialization of the potato tuber.",
+      "question": "What is the role of 'eyes' in potato propagation?"
+    }
+  ]
+}

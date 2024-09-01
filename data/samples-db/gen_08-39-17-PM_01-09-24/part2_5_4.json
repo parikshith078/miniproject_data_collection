@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Viral infections occur when a virus enters the body and invades the inside of the body’s cells in order to reproduce. If the body’s immune system is unable to fight off the virus, it multiplies and spreads to other cells, repeating the process and leading to a widespread infection.",
+      "question": "How do viral infections spread within the body?"
+    },
+    {
+      "context": "Risk factors for catching a viral disease or developing complications include advanced age, compromised immune system, a history of chronic disease, malnourishment, not getting enough rest, and high levels of stress.",
+      "question": "What are key risk factors for developing viral diseases?"
+    },
+    {
+      "context": "Types of viruses that cause a variety of viral infections include Epstein-Barr virus, Human immunodeficiency virus (HIV), Human papillomavirus (HPV), and Influenza viruses.",
+      "question": "Which viruses can lead to viral infections?"
+    },
+    {
+      "context": "Viral diseases can occur in any age group or population. Risk factors for catching a viral disease include not washing hands frequently and sharing needles to inject drugs.",
+      "question": "What behaviors increase risk of viral diseases?"
+    },
+    {
+      "context": "Compromised immune system due to an immunodeficiency disorder, HIV/AIDS, cancer, or kidney disease increases the risk for viral diseases.",
+      "question": "How does a compromised immune system affect viral disease risk?"
+    },
+    {
+      "context": "Young age, especially in infancy and elementary-school-age children, is a risk factor for viral diseases due to their developing immune systems.",
+      "question": "Why are young children at higher risk for viral diseases?"
+    },
+    {
+      "context": "Sharing needles for drug use or tattooing is a risky behavior that can lead to the transmission of viral infections like HIV.",
+      "question": "What risky behavior can transmit viral infections?"
+    },
+    {
+      "context": "Malnourishment is a risk factor that can weaken the immune system, making it more difficult for the body to fight viral infections.",
+      "question": "How does malnourishment affect viral infection susceptibility?"
+    }
+  ]
+}

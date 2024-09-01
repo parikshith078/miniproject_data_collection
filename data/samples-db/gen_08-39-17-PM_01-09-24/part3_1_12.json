@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The process by which a living being utilizes the food to get energy is called respiration. Respiration is an oxidation reaction in which carbohydrate is oxidized to produce energy.",
+      "question": "What is the definition of respiration?"
+    },
+    {
+      "context": "Mitochondrion is the site of respiration and the energy released is stored in the form of ATP (Adenosine triphosphate).",
+      "question": "Where does respiration take place?"
+    },
+    {
+      "context": "Breaking down glucose into pyruvate: This step happens in the cytoplasm. Glucose molecule is broken down into pyruvic acid.",
+      "question": "Where does glucose breakdown occur?"
+    },
+    {
+      "context": "Glucose molecule is composed of 6 carbon atoms, while pyruvic acid is composed of 3 carbon atoms.",
+      "question": "How many carbon atoms are in glucose?"
+    },
+    {
+      "context": "Further breaking down of pyruvic acid takes place in mitochondria and the molecules formed depend on the type of respiration in a particular organism.",
+      "question": "Where is pyruvic acid further broken down?"
+    },
+    {
+      "context": "Respiration is of two types, viz. aerobic respiration and anaerobic respiration.",
+      "question": "What are the two types of respiration?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plant body is differentiated into root, stem, and leaf. Vascular system is present. They do not bear seeds and hence are called cryptogams.",
+      "question": "What is the structure of Pteridophyta?"
+    },
+    {
+      "context": "They bear seeds. Seeds are naked, i.e., not covered. The word ‘gymnos’ means naked and ‘sperma’ means seed.",
+      "question": "What distinguishes gymnosperms from other plants?"
+    },
+    {
+      "context": "Examples include Marsilea, ferns, horsetails, etc. They do not bear seeds and hence are called cryptogams.",
+      "question": "Can you name examples of Pteridophyta?"
+    },
+    {
+      "context": "The word ‘gymnos’ means naked and ‘sperma’ means seed. Examples include Pine, cycas, deodar, etc.",
+      "question": "What do the terms 'gymnos' and 'sperma' mean?"
+    },
+    {
+      "context": "Plants of rest of the divisions bear seeds and hence are called phanerogams. They bear seeds.",
+      "question": "How are phanerogams different from cryptogams?"
+    }
+  ]
+}

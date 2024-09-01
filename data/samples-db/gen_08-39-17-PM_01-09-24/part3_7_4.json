@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Spores are tiny, spherical, asexual reproductive bodies which under favourable conditions, such as damp and warm environments, germinate to produce new plants. They are covered by a hard protective wall that enables the plant to survive unfavourable conditions.",
+      "question": "What do spores help plants survive?"
+    },
+    {
+      "context": "Multicellular organisms cannot reproduce by cell division because they are not simple random collections of cells, but rather organized into specialized tissues and organs. This organization makes cell-by-cell division impractical for these organisms.",
+      "question": "Why can't complex organisms reproduce by cell division?"
+    },
+    {
+      "context": "Spores are beneficial for reproduction in certain organisms, as they can remain dormant in harsh conditions until favorable circumstances arise for germination and growth into new individuals or plants.",
+      "question": "How do spores benefit reproduction in tough conditions?"
+    },
+    {
+      "context": "Complex multicellular organisms lack the specialized tissues that simple organisms possess, which have the potential to regenerate and grow into a new organism, making reproduction more complex in these larger systems.",
+      "question": "What do complex organisms lack for regeneration?"
+    },
+    {
+      "context": "The protective wall surrounding spores helps them endure and protect themselves against environmental stresses, allowing them to survive during harsh periods until the right conditions return for growth.",
+      "question": "What protects spores during unfavorable conditions?"
+    }
+  ]
+}

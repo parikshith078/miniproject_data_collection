@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "If the weight of the beetles is reduced because of starvation, that will not change the DNA of the germ cells.",
+      "question": "How does starvation affect beetle DNA?"
+    },
+    {
+      "context": "Change in non reproductive tissues cannot be passed on to the DNA of the germ cells.",
+      "question": "Can non-reproductive tissue changes be inherited?"
+    },
+    {
+      "context": "Darwin's theory states organisms can reproduce offspring at a fast pace.",
+      "question": "What does Darwin's theory say about reproduction?"
+    },
+    {
+      "context": "Organisms have unlimited capacity to reproduce: Organisms can reproduce offspring at a fast pace.",
+      "question": "What is one key point of Darwin's theory?"
+    },
+    {
+      "context": "Therefore even if some generations of beetles lose their weight because of starvation, that is not an example of evolution.",
+      "question": "Why isn't weight loss due to starvation considered evolution?"
+    }
+  ]
+}
