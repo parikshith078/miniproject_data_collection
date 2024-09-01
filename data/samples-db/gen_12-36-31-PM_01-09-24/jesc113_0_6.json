@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The flow of energy is unidirectional. The energy that is captured by the autotrophs does not revert back to the solar input and the energy which passes to the herbivores does not come back to autotrophs.",
+      "question": "What is meant by unidirectional energy flow?"
+    },
+    {
+      "context": "Instead of a straight line food chain, the relationship can be shown as a series of branching lines called a food web.",
+      "question": "How can food chains be represented visually?"
+    },
+    {
+      "context": "The length and complexity of food chains vary greatly. Instead of a straight line food chain, the relationship can be shown as a series of branching lines called a food web.",
+      "question": "What does a food web illustrate in ecosystems?"
+    },
+    {
+      "context": "The energy that is captured by the autotrophs does not revert back to the solar input and the energy which passes to the herbivores does not come back to autotrophs.",
+      "question": "What happens to energy after it is captured by autotrophs?"
+    }
+  ]
+}

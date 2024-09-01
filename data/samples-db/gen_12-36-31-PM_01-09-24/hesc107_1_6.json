@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "To keep the body healthy, every human being, at any age, needs to have a balanced diet. The person must also observe personal hygiene and undertake adequate physical exercise. During adolescence, however, these become even more essential as the body is growing.",
+      "question": "Why is balanced diet essential during adolescence?"
+    },
+    {
+      "context": "To keep the body healthy, every human being, at any age, needs to have a balanced diet. The person must also observe personal hygiene and undertake adequate physical exercise. During adolescence, however, these become even more essential as the body is growing.",
+      "question": "What role does physical exercise play in health?"
+    },
+    {
+      "context": "To keep the body healthy, every human being, at any age, needs to have a balanced diet. The person must also observe personal hygiene and undertake adequate physical exercise. During adolescence, however, these become even more essential as the body is growing.",
+      "question": "How does personal hygiene impact health in adolescents?"
+    },
+    {
+      "context": "To keep the body healthy, every human being, at any age, needs to have a balanced diet. The person must also observe personal hygiene and undertake adequate physical exercise. During adolescence, however, these become even more essential as the body is growing.",
+      "question": "What is the significance of exercise during growth periods?"
+    }
+  ]
+}

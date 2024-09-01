@@ -1,0 +1,28 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Autotrophic Nutrition",
+      "Content": "So far, we have talked about how autotrophs meet their energy requirements. But they also need other raw materials for building their body. Water used in photosynthesis is taken up from the soil by the roots in terrestrial plants. Other materials like nitrogen, phosphorus, iron and magnesium are taken up from the soil. Nitrogen is an essential element used in the synthesis of proteins and other compounds. This is taken up in the form of inorganic nitrates or nitrites. Or it is taken up as organic compounds which have been prepared by bacteria from atmospheric nitrogen."
+    },
+    {
+      "sub-topic": "Heterotrophic Nutrition",
+      "Content": "Each organism is adapted to its environment. The form of nutrition differs depending on the type and availability of food material as well as how it is obtained by the organism. For example, whether the food source is stationary (such as grass) or mobile (such as a deer), would allow for differences in how the food is accessed and what is the nutritive apparatus used by a cow and a lion. There is a range of strategies by which the food is taken in and used by the organism. Some organisms break down the food material outside the body and then absorb it. Examples are fungi like bread moulds, yeast and mushrooms. Others take in whole material and break it down inside their bodies. What can be taken in and broken down depends on the body design and functioning. Some other organisms derive nutrition from plants or animals without killing them. This parasitic nutritive strategy is used by a wide variety of organisms like cuscuta (amar-bel), ticks, lice, leeches and tape-worms."
+    },
+    {
+      "sub-topic": "How do Organisms obtain their Nutrition?",
+      "Content": "Since the food and the way it is obtained differ, the digestive system is different in various organisms. In single-celled organisms, the food may be taken in by the entire surface. But as the complexity of the organism increases, different parts become specialised to perform different functions. For example, Amoeba takes in food using temporary finger-like extensions of the cell surface that fuse over the food particle forming a food-vacuole. Inside the food-vacuole, complex substances are broken down into simpler ones which then diffuse into the cytoplasm. The remaining undigested material is moved to the surface of the cell and thrown out. In Paramoecium, which is also a unicellular organism, the cell has a definite shape and food is taken in at a specific spot. Food is moved to this spot by the movement of cilia which cover the entire surface of the cell."
+    },
+    {
+      "sub-topic": "Nutrition in Human Beings",
+      "Content": "The alimentary canal is basically a long tube extending from the mouth to the anus. In this, we can see that the tube has different parts. Various regions are specialised to perform different functions. When we eat something we like, our mouth ‘waters’. This is actually not only water, but a fluid called saliva secreted by the salivary glands. Another aspect of the food we ingest is its complex nature. If it is to be absorbed from the alimentary canal, it has to be broken into smaller molecules. This is done with the help of biological catalysts called enzymes. The saliva contains an enzyme called salivary amylase that breaks down starch which is a complex molecule to give simple sugar. The food is mixed thoroughly with saliva and moved around the mouth while chewing by the muscular tongue. The exit of food from the stomach is regulated by a sphincter muscle which releases it in small amounts into the small intestine. From the stomach, the food now enters the small intestine."
+    },
+    {
+      "sub-topic": "More to Know!",
+      "Content": "Dental caries or tooth decay causes gradual softening of enamel and dentine. It begins when bacteria acting on sugars produce acids that soften or demineralise the enamel. Masses of bacterial cells together with food particles stick to the teeth to form dental plaque. Saliva cannot reach the tooth surface to neutralise the acid as plaque covers the teeth. Brushing the teeth after eating removes the plaque before the bacteria produce acids. If untreated, microorganisms may invade the pulp, causing inflammation and infection."
+    },
+    {
+      "sub-topic": "Respiration",
+      "Content": "We have discussed nutrition in organisms in the last section. The food material taken in during the process of nutrition is used in cells to provide energy for various life processes. Diverse organisms do this in different ways – some use oxygen to break down glucose completely into carbon dioxide and water, some use other pathways that do not involve oxygen. In all cases, the first step is the break-down of glucose, a six-carbon molecule, into a three-carbon molecule called pyruvate. This process takes place in the cytoplasm. Further, the pyruvate may be converted into ethanol and carbon dioxide. This process takes place in yeast during fermentation. Since this process takes place in the absence of air (oxygen), it is called anaerobic respiration. Breakdown of pyruvate using oxygen takes place in the mitochondria. This process breaks up the three-carbon pyruvate molecule to give three molecules of carbon dioxide. The other product is water. Since this process takes place in the presence of air (oxygen), it is called aerobic respiration."
+    }
+  ]
+}

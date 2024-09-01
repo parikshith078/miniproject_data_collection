@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "It is more necessary for teenagers because the increased activity of sweat glands sometimes makes the body smelly. All parts of the body should be washed and cleaned every day.",
+      "question": "Why is personal hygiene crucial for teenagers?"
+    },
+    {
+      "context": "If cleanliness is not maintained there are chances of catching bacterial infection.",
+      "question": "What can happen if cleanliness is ignored?"
+    },
+    {
+      "context": "Girls should take special care of cleanliness during the time of menstrual flow.",
+      "question": "Why should girls prioritize hygiene during menstruation?"
+    },
+    {
+      "context": "Change pads after every 4–5 hours as per the requirement.",
+      "question": "How often should menstrual pads be changed?"
+    },
+    {
+      "context": "Everyone should have a bath at least once every day.",
+      "question": "How often should individuals bathe for hygiene?"
+    }
+  ]
+}

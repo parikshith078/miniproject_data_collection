@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Muscular tissue consists of elongated cells, also called muscle fibres. This tissue is responsible for movement in our body. These muscles are called skeletal muscles as they are mostly attached to bones.",
+      "question": "What are muscle fibres responsible for?"
+    },
+    {
+      "context": "Under the microscope, these muscles show alternate light and dark bands or striations when stained appropriately. Smooth muscles control involuntary movements.",
+      "question": "What characteristic do skeletal muscles have under a microscope?"
+    },
+    {
+      "context": "These muscles are called skeletal muscles as they are mostly attached to bones and help in body movement. Smooth muscles control involuntary movements.",
+      "question": "What type of movements do smooth muscles control?"
+    },
+    {
+      "context": "Muscular tissue consists of elongated cells, also called muscle fibres. This tissue is responsible for movement in our body.",
+      "question": "What are the elongated cells in muscular tissue called?"
+    },
+    {
+      "context": "These muscles are called skeletal muscles as they are mostly attached to bones and help in body movement. Under the microscope, these muscles show alternate light and dark bands.",
+      "question": "What helps in the identification of skeletal muscles under a microscope?"
+    }
+  ]
+}

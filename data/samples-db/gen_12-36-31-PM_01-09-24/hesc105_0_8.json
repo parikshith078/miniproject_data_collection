@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Professor Ahmad organizes a visit to a biosphere reserve for Paheli, Boojho and their classmates. He selects a place named Pachmarhi Biosphere Reserve. He knows that the plants and animals found here are similar to those of the upper Himalayan peaks and to those belonging to the lower western ghats.",
+      "question": "What is the name of the biosphere reserve?"
+    },
+    {
+      "context": "Professor Ahmad believes that the biodiversity found here is unique. He requests Madhavji, a forest employee, to guide the children inside the biosphere reserve. He explains that preserving areas of such biological importance make them a part of our national heritage.",
+      "question": "Why are biosphere reserves considered important?"
+    },
+    {
+      "context": "He knows that the plants and animals found here are similar to those of the upper Himalayan peaks and to those belonging to the lower western ghats. Professor Ahmad believes that the biodiversity found here is unique.",
+      "question": "What types of ecosystems are compared in Pachmarhi?"
+    },
+    {
+      "context": "Professor Ahmad organizes a visit to a biosphere reserve for Paheli, Boojho and their classmates. He selects a place named Pachmarhi Biosphere Reserve. He requests Madhavji, a forest employee, to guide the children inside the biosphere reserve.",
+      "question": "Who guides the children in the reserve?"
+    },
+    {
+      "context": "He explains that preserving areas of such biological importance make them a part of our national heritage. Professor Ahmad believes that the biodiversity found here is unique.",
+      "question": "What does Professor Ahmad believe about biodiversity?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plants take in simple compounds such as CO2 and photosynthesize energy stored in their chlorophyll-containing organs, namely leaves. For plants, the soil is the nearest and richest source of raw materials like nitrogen, phosphorus and other minerals.",
+      "question": "What do plants absorb from the soil?"
+    },
+    {
+      "context": "A proper system of transportation is essential to provide raw materials in leaves and energy in roots.",
+      "question": "Why is a transportation system important for plants?"
+    },
+    {
+      "context": "The absorption of these substances occurs through the part in contact with the soil, namely roots.",
+      "question": "Which part of the plant absorbs nutrients?"
+    },
+    {
+      "context": "Plants take in simple compounds such as CO2 and photosynthesize energy stored in their chlorophyll-containing organs, namely leaves.",
+      "question": "What do leaves help plants do with CO2?"
+    },
+    {
+      "context": "The absorption of these substances occurs through the part in contact with the soil, namely roots.",
+      "question": "What part of the plant contacts the soil for absorption?"
+    }
+  ]
+}

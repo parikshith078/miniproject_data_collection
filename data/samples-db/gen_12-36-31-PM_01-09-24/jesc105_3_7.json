@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "The transport of soluble products of photosynthesis is called translocation and occurs in the part of the vascular tissue known as phloem.",
+      "question": "What is the transport of photosynthesis products called?"
+    },
+    {
+      "context": "Phloem also transports amino acids and other substances, especially to the storage organs of roots, fruits, and seeds and to growing organs.",
+      "question": "What substances does phloem transport besides sugars?"
+    },
+    {
+      "context": "Translocation in phloem is achieved using energy, with material like sucrose transferred into phloem tissue using energy from ATP, which increases the osmotic pressure.",
+      "question": "How is translocation in phloem achieved?"
+    },
+    {
+      "context": "Translocation and occurs in the part of the vascular tissue known as phloem. Phloem also transports amino acids.",
+      "question": "Where does translocation occur in plants?"
+    },
+    {
+      "context": "Translocation in phloem is achieved using energy, with material like sucrose transferred into phloem tissue using energy from ATP.",
+      "question": "What energy source is used for sucrose transfer?"
+    },
+    {
+      "context": "Phloem also transports amino acids and other substances, especially to the storage organs of roots, fruits, and seeds.",
+      "question": "What are storage organs fed by phloem?"
+    },
+    {
+      "context": "Translocation occurs in the phloem and is essential for transporting nutrients throughout the plant.",
+      "question": "Why is translocation important in plants?"
+    }
+  ]
+}

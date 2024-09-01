@@ -1,0 +1,40 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Discovery of Cells",
+      "Content": "While examining a thin slice of cork, Robert Hooke saw that the cork resembled the structure of a honeycomb consisting of many little compartments. Cork is a substance which comes from the bark of a tree. This was in the year 1665 when Hooke made this chance observation through a self-designed microscope. Robert Hooke called these boxes cells. Cell is a Latin word for ‘a little room’. This may seem to be a very small and insignificant incident but it is very important in the history of science. This was the very first time that someone had observed that living things appear to consist of separate units. The use of the word ‘cell’ to describe these units is being used till this day in biology. Let us find out about cells."
+    },
+    {
+      "sub-topic": "Types of Organisms",
+      "Content": "Chlamydomonas, Paramoecium and bacteria. These organisms are called unicellular organisms (uni = single). On the other hand, many cells group together in a single body and assume different functions in it to form various body parts in multicellular organisms (multi = many) such as some fungi, plants and animals. Every multicellular organism has come from a single cell. How? Cells divide to produce cells of their own kind. All cells thus come from pre-existing cells."
+    },
+    {
+      "sub-topic": "Cell Observation and Activities",
+      "Content": "We can try preparing temporary mounts of leaf peels, tips of roots of onion or even peels of onions of different sizes. After performing the above activity, let us see what the answers to the following questions would be: (a) Do all cells look alike in terms of shape and size? (b) Do all cells look alike in structure? (c) Could we find differences among cells from different parts of a plant body? (d) What similarities could we find? Some organisms can also have cells of different kinds."
+    },
+    {
+      "sub-topic": "Historical Perspectives on Cell Biology",
+      "Content": "Not only onions, but all organisms that we observe around are made up of cells. However, there are also single cells that live on their own. Cells were first discovered by Robert Hooke in 1665. He observed the cells in a cork slice with the help of a primitive microscope. Leeuwenhoek (1674), with the improved microscope, discovered the free living cells in pond water for the first time. It was Robert Brown in 1831 who discovered the nucleus in the cell. Purkinje in 1839 coined the term ‘protoplasm’ for the fluid substance of the cell. The cell theory, that all the plants and animals are composed of cells and that the cell is the basic unit of life, was presented by two biologists, Schleiden (1838) and Schwann (1839). The cell theory was further expanded by Virchow (1855) by suggesting that all cells arise from pre-existing cells. With the discovery of the electron microscope in 1940, it was possible to observe and understand the complex structure of the cell and its various organelles."
+    },
+    {
+      "sub-topic": "Cell Structure and Functions",
+      "Content": "The shape and size of cells are related to the specific function they perform. Some cells like Amoeba have changing shapes. In some cases the cell shape could be more or less fixed and peculiar for a particular type of cell; for example, nerve cells have a typical shape. Each living cell has the capacity to perform certain basic functions that are characteristic of all living forms. How does a living cell perform these basic functions? We know that there is a division of labour in multicellular organisms such as human beings. This means that different parts of the human body perform different functions. The human body has a heart to pump blood, a stomach to digest food and so on. Similarly, division of labour is also seen within a single cell. In fact, each such cell has got certain specific components within it known as cell organelles."
+    },
+    {
+      "sub-topic": "Cell Organisation",
+      "Content": "We saw above that the cell has special components called organelles. How is a cell organised? If we study a cell under a microscope, we would come across three features in almost every cell; plasma membrane, nucleus and cytoplasm. All activities inside the cell and interactions of the cell with its environment are possible due to these features. Let us see how."
+    },
+    {
+      "sub-topic": "Plasma Membrane",
+      "Content": "This is the outermost covering of the cell that separates the contents of the cell from its external environment. The plasma membrane allows or permits the entry and exit of some materials in and out of the cell. It also prevents movement of some other materials. The cell membrane, therefore, is called a selectively permeable membrane."
+    },
+    {
+      "sub-topic": "Diffusion and Osmosis",
+      "Content": "How does the movement of substances take place into the cell? How do substances move out of the cell? Some substances like carbon dioxide or oxygen can move across the cell membrane by a process called diffusion. We have studied the process of diffusion in earlier chapters. We saw that there is spontaneous movement of a substance from a region of high concentration to a region where its concentration is low."
+    },
+    {
+      "sub-topic": "Effect of Solutions on Cells",
+      "Content": "The movement of water across the plasma membrane is also affected by the amount of substance dissolved in water. Thus, osmosis is the net diffusion of water across a selectively permeable membrane toward a higher solute concentration. What will happen if we put an animal cell or a plant cell into a solution of sugar or salt in water? One of the following three things could happen: 1. If the medium surrounding the cell has a higher water concentration than the cell, meaning that the outside solution is very dilute, the cell will gain water by osmosis. Such a solution is known as a hypotonic solution. 2. If the medium has exactly the same water concentration as the cell, there will be no net movement of water across the cell membrane. This is known as an isotonic solution. 3. If the medium has a lower concentration of water than the cell, meaning that it is a very concentrated solution, the cell will lose water by osmosis. This is known as a hypertonic solution. Thus, osmosis is a special case of diffusion through a selectively permeable membrane."
+    }
+  ]
+}

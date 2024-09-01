@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Gas exchange in plants primarily occurs through tiny pores on the leaves called stomata. These stomata allow carbon dioxide to enter for photosynthesis. However, gas exchange also happens across the surfaces of other plant parts such as stems and roots.",
+      "question": "What are stomata used for in plants?"
+    },
+    {
+      "context": "The primary function of stomata is to facilitate the exchange of gases, particularly allowing carbon dioxide to enter leaves. This exchange is crucial for the process of photosynthesis to occur effectively in plants.",
+      "question": "What is the main function of stomata?"
+    },
+    {
+      "context": "While stomata are the most recognized sites for gas exchange in leaves, it is essential to understand that gas exchange does not only occur in leaves. Stems and roots also participate in the process, affecting overall plant respiration.",
+      "question": "Where else does gas exchange occur in plants?"
+    },
+    {
+      "context": "Massive amounts of gaseous exchange take place in the leaves through stomata, but it is important to note that exchange of gases occurs across the surface of stems, roots, and leaves as well, thus enhancing plant respiration.",
+      "question": "Why is gas exchange important in plants?"
+    },
+    {
+      "context": "In understanding plant physiology, it is crucial to recognize that stomata play a key role in gas exchange for photosynthesis, but gas exchange is not limited to leaves. Stems and roots also have surface areas for this process.",
+      "question": "What role do stems and roots play in gas exchange?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The maturation of the egg occurs within the ovarian follicles where it develops and prepares for ovulation. If fertilization happens, the egg embeds itself in the thickened uterine wall.",
+      "question": "What happens to the egg after fertilization?"
+    },
+    {
+      "context": "If pregnancy does not occur, the thickened uterine wall breaks down, leading to menstruation. This cycle is influenced by hormonal changes in the body.",
+      "question": "What occurs if pregnancy does not happen?"
+    },
+    {
+      "context": "Upon release, the egg can be fertilized and subsequently begins to divide. This process is crucial for the development of the embryo.",
+      "question": "What occurs after the egg is released?"
+    },
+    {
+      "context": "The egg's maturation, its subsequent release, and the changes in the uterine wall are vital processes in the reproductive cycle of females.",
+      "question": "What are the stages of egg maturation?"
+    },
+    {
+      "context": "In the absence of fertilization, the thickening of the uterine wall is reversed as the body prepares for the next cycle.",
+      "question": "What happens to the uterine wall if fertilization fails?"
+    }
+  ]
+}

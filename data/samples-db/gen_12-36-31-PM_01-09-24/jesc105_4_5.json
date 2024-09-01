@@ -1,0 +1,60 @@
+{
+  "samples": [
+    {
+      "context": "Nephrons are the functional units of the kidneys, responsible for filtering blood and producing urine. Each nephron consists of a glomerulus and a tubular system, where filtration, reabsorption, and secretion occur. Blood enters the glomerulus under pressure, allowing water, ions, and small molecules to be filtered into the Bowman’s capsule, while larger blood components are retained in circulation.",
+      "question": "What are the main components of nephrons?"
+    },
+    {
+      "context": "Plants use various methods to eliminate excretory products, including secretion through glands, transpiration, and storage in vacuoles. Gaseous wastes like oxygen may exit through stomata, while solid waste can sometimes be shed through leaves. Some plants also have specialized structures to excrete waste into the soil.",
+      "question": "How do plants eliminate excretory products?"
+    },
+    {
+      "context": "The regulation of urine production in humans is primarily controlled by hormones such as antidiuretic hormone (ADH) and aldosterone. These hormones adjust the amount of water reabsorbed in the nephrons, influencing urine concentration and volume. The body's hydration status also plays a crucial role in this regulation.",
+      "question": "What hormones regulate urine production?"
+    },
+    {
+      "context": "The kidneys in human beings are a part of the system for (c) excretion. They filter blood, remove waste products, maintain fluid balance, and regulate electrolyte levels, playing a critical role in homeostasis within the body.",
+      "question": "Which system do the kidneys belong to?"
+    },
+    {
+      "context": "The xylem in plants is responsible for (a) transport of water. It consists of vessels and tracheids that efficiently transport water and dissolved minerals from the roots to the rest of the plant, playing a vital role in hydration and nutrient delivery during photosynthesis.",
+      "question": "What does xylem primarily transport?"
+    },
+    {
+      "context": "Fats are digested through emulsification by bile salts and enzymatic action by lipases. This process occurs mainly in the small intestine, where fats are broken down into fatty acids and glycerol, allowing their absorption into the bloodstream.",
+      "question": "Where does fat digestion occur in the body?"
+    },
+    {
+      "context": "Saliva plays a crucial role in digestion by containing enzymes like amylase, which begins the breakdown of carbohydrates, and lipase, which aids in fat digestion. Saliva also moistens food for easier swallowing and protects the mouth with its antimicrobial properties.",
+      "question": "What are the functions of saliva in digestion?"
+    },
+    {
+      "context": "Autotrophic nutrition requires sunlight, carbon dioxide, and water for photosynthesis, during which glucose is produced. The by-products include oxygen, released as a waste during the process, and starch, which may be stored for later use.",
+      "question": "What are the products of autotrophic nutrition?"
+    },
+    {
+      "context": "Aerobic respiration requires oxygen to produce energy efficiently, while anaerobic respiration occurs without oxygen and results in less energy production. Organisms such as yeast and some bacteria utilize anaerobic respiration, producing by-products like ethanol or lactic acid.",
+      "question": "How do aerobic and anaerobic respiration differ?"
+    },
+    {
+      "context": "The alveoli are tiny air sacs in the lungs, designed with thin walls and a large surface area to maximize gas exchange. Their moist surfaces facilitate the diffusion of oxygen into the blood and carbon dioxide out of the blood, enhancing respiratory efficiency.",
+      "question": "What structural features enhance gas exchange in alveoli?"
+    },
+    {
+      "context": "A deficiency of hemoglobin can lead to anemia, causing fatigue, weakness, and decreased oxygen transport in the body. This condition affects various bodily functions and can result in serious health issues if not addressed.",
+      "question": "What are the effects of low hemoglobin levels?"
+    },
+    {
+      "context": "Double circulation refers to the two distinct circuits that blood follows: the pulmonary circuit, for oxygenation in the lungs, and the systemic circuit, for delivering oxygen to body tissues. This system is essential for maintaining high blood pressure and efficient nutrient delivery.",
+      "question": "What is double circulation in the human body?"
+    },
+    {
+      "context": "Xylem and phloem differ in their transport functions; xylem transports water and minerals from roots to leaves, while phloem carries organic nutrients (mainly sugars) throughout the plant. Xylem operates in one direction, whereas phloem transport is bidirectional.",
+      "question": "How does xylem transportation differ from phloem?"
+    },
+    {
+      "context": "Both alveoli and nephrons have specialized structures for exchange: alveoli have a large surface area with thin walls for gas exchange, while nephrons have a filtration unit (glomerulus) and a network for reabsorption. Both systems ensure efficient exchange tailored to their functions in respiration and excretion.",
+      "question": "How do nephrons and alveoli facilitate exchange?"
+    }
+  ]
+}

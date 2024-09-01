@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fish production includes finned true fish as well as shellfish such as prawns and molluscs. There are two ways of obtaining fish: capture fishing and culture fishery.",
+      "question": "What are the two methods of obtaining fish?"
+    },
+    {
+      "context": "The water source of the fish can be either seawater or freshwater, such as in rivers and ponds. Fishing can thus be done both by capture and culture of fish.",
+      "question": "What types of water sources are used for fish?"
+    },
+    {
+      "context": "Fish is a cheap source of animal protein for our food. Fish production includes the finned true fish as well as shellfish such as prawns and molluscs.",
+      "question": "Why is fish an important food source?"
+    },
+    {
+      "context": "The other way of obtaining fish is by fish farming, which is called culture fishery. Fishing can thus be done both by capture and culture of fish.",
+      "question": "What is fish farming also known as?"
+    },
+    {
+      "context": "There are two ways of obtaining fish: one is from natural resources, which is called capture fishing. The other way is by fish farming.",
+      "question": "What is the difference between capture and culture fishery?"
+    }
+  ]
+}

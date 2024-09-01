@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "In females, the reproductive phase of life begins at puberty (10 to 12 years of age) and generally lasts till approximately 45 to 50 years.",
+      "question": "When does the female reproductive phase begin?"
+    },
+    {
+      "context": "One ovum matures and is released by one of the ovaries once in about 28 to 30 days.",
+      "question": "How often is an ovum released from the ovaries?"
+    },
+    {
+      "context": "During this period, the wall of the uterus becomes thick to receive the egg, in case it is fertilised and begins to develop.",
+      "question": "What happens to the uterus during the ovulation period?"
+    },
+    {
+      "context": "If fertilisation does not occur, the released egg and the thickened lining of the uterus along with its blood vessels are shed off, causing menstruation.",
+      "question": "What occurs if fertilisation does not happen?"
+    },
+    {
+      "context": "The capacity for maturation and production of gametes lasts for a much longer time in males than in females.",
+      "question": "How does the gamete production duration compare between sexes?"
+    },
+    {
+      "context": "This results in pregnancy. If fertilisation does not occur, the released egg and the thickened lining of the uterus are shed off.",
+      "question": "What are the two outcomes after the ovum is released?"
+    }
+  ]
+}

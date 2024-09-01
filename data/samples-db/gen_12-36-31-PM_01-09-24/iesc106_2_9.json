@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Stomata are small openings on the surface of leaves that play a crucial role in plant physiology. They regulate gas exchange by allowing carbon dioxide to enter for photosynthesis while facilitating the release of oxygen produced during the process. Additionally, stomata help control water loss through transpiration, which also aids in nutrient movement within the plant.",
+      "question": "What role do stomata play in gas exchange?"
+    },
+    {
+      "context": "Stomata are vital for maintaining the plant’s internal gas concentrations and regulating transpiration. By opening and closing in response to environmental conditions, stomata help prevent excessive water loss while still allowing necessary gas exchange. This functioning is essential for photosynthesis and overall plant health.",
+      "question": "How do stomata help in preventing water loss?"
+    },
+    {
+      "context": "The stomatal pores are surrounded by guard cells that control their opening and closing. This mechanism allows plants to respond to environmental factors like light, humidity, and carbon dioxide levels. Furthermore, the regulation of stomata is critical for optimizing photosynthesis and conserving water under varying conditions.",
+      "question": "What controls the opening and closing of stomata?"
+    },
+    {
+      "context": "In plants, stomata serve multiple functions including gas exchange for photosynthesis and respiration, and regulation of water loss through transpiration. When stomata open, they allow CO2 to enter while also letting water vapor escape, which is crucial for maintaining plant health and optimal growth conditions.",
+      "question": "What gas do stomata allow to enter during photosynthesis?"
+    },
+    {
+      "context": "The stomata are essential for the process of transpiration, which not only helps with nutrient absorption but also puts a cooling effect on the plant. By opening stomata, plants can effectively lose water through evaporation, thus helping to lower their temperature during heat stress periods.",
+      "question": "What is transpiration's effect on plant temperature?"
+    }
+  ]
+}

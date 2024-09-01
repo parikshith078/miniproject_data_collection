@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In human beings, air is taken into the body through the nostrils. The air passing through the nostrils is filtered by fine hairs that line the passage.",
+      "question": "What filters the air in nostrils?"
+    },
+    {
+      "context": "Human beings inhale air through nostrils, where it is filtered by fine hairs lining the passage.",
+      "question": "How does air enter the human respiratory system?"
+    },
+    {
+      "context": "The air taken in through nostrils in humans is filtered by fine hairs that line the passage, ensuring cleanliness.",
+      "question": "What role do fine hairs play in breathing?"
+    },
+    {
+      "context": "Air enters the human body through nostrils, which have fine hairs to filter the air that passes through them.",
+      "question": "What happens to air in the nostrils?"
+    },
+    {
+      "context": "Nostrils allow air entry in humans and feature fine hairs that serve to filter the air, cleaning it before it enters the lungs.",
+      "question": "Why are the hairs in the nostrils important?"
+    }
+  ]
+}

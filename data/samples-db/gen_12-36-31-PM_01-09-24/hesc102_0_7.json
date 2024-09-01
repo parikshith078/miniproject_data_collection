@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Some bacteria are able to fix nitrogen from the atmosphere to enrich soil with nitrogen and increase its fertility. These microbes are commonly called biological nitrogen fixers.",
+      "question": "What do we call bacteria fixing nitrogen?"
+    },
+    {
+      "context": "The nutrients released in the process can be used by the plants again. The plant waste has been converted into manure by the action of microbes.",
+      "question": "How are nutrients recycled in the soil?"
+    },
+    {
+      "context": "These microbes are commonly called biological nitrogen fixers. Some bacteria are able to fix nitrogen from the atmosphere to enrich soil with nitrogen.",
+      "question": "What role do biological nitrogen fixers play in soil?"
+    },
+    {
+      "context": "The plant waste has been converted into manure by the action of microbes. Some bacteria are able to fix nitrogen from the atmosphere.",
+      "question": "How do microbes convert plant waste?"
+    },
+    {
+      "context": "Increasing Soil Fertility includes enriching soil with nitrogen and increasing its fertility. The nutrients released in the process can be used by the plants again.",
+      "question": "What is meant by increasing soil fertility?"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "When we breathe we can actually feel the movement of our chest. For this we have specialised cells called muscle cells. The contraction and relaxation of these cells result in movement.",
+      "question": "What do muscle cells help us do?"
+    },
+    {
+      "context": "Blood flows and carries various substances from one part of the body to the other. For example, it carries oxygen and food to all cells.",
+      "question": "What does blood carry to the cells?"
+    },
+    {
+      "context": "Blood and muscles are both examples of tissues found in our body.",
+      "question": "What are two examples of tissues in our body?"
+    }
+  ]
+}

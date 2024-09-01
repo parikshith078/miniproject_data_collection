@@ -1,0 +1,32 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Introduction",
+      "Content": "We have seen that reproductive processes give rise to new individuals that are similar, but subtly different. We have discussed how some amount of variation is produced even during asexual reproduction. And the number of successful variations are maximised by the process of sexual reproduction. If we observe a field of sugarcane we find very little variations among the individual plants. But in a number of animals including human beings, which reproduce sexually, quite distinct variations are visible among different individuals. In this chapter, we shall be studying the mechanism by which variations are created and inherited."
+    },
+    {
+      "sub-topic": "Variation During Reproduction",
+      "Content": "Inheritance from the previous generation provides both a common basic body design, and subtle changes in it, for the next generation. The second generation will have differences that they inherit from the first generation, as well as newly created differences. If one bacterium divides, and then the resultant two bacteria divide again, the four individual bacteria generated would be very similar. There would be only very minor differences between them, generated due to small inaccuracies in DNA copying. However, if sexual reproduction is involved, even greater diversity will be generated."
+    },
+    {
+      "sub-topic": "Heredity",
+      "Content": "The most obvious outcome of the reproductive process still remains the generation of individuals of similar design. The rules of heredity determine the process by which traits and characteristics are reliably inherited. We know that a child bears all the basic features of a human being. However, it does not look exactly like its parents, and human populations show a great deal of variation."
+    },
+    {
+      "sub-topic": "Inherited Traits",
+      "Content": "The rules for inheritance of such traits in human beings are related to the fact that both the father and the mother contribute practically equal amounts of genetic material to the child. This means that each trait can be influenced by both paternal and maternal DNA. Mendel worked out the main rules of such inheritance, and it is interesting to look at some of his experiments from more than a century ago."
+    },
+    {
+      "sub-topic": "Rules for the Inheritance of Traits",
+      "Content": "Mendel used a number of contrasting visible characters of garden peas – round/wrinkled seeds, tall/short plants, white/violet flowers and so on. He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny. There were no halfway characteristics in the first-generation, or F1 progeny – no ‘medium-height’ plants. All plants were tall. This meant that only one of the parental traits was seen, not some mixture of the two. However, the second-generation, or F2, progeny of the F1 tall plants are not all tall. Instead, one quarter of them are short, indicating that both tallness and shortness traits were inherited in the F1 plants, but only tallness was expressed."
+    },
+    {
+      "sub-topic": "Independent Inheritance of Traits",
+      "Content": "What happens when pea plants showing two different characteristics, rather than just one, are bred with each other? They are all tall and have round seeds. However, some F2 progeny are tall plants with round seeds, and some were short plants with wrinkled seeds. They would also have some F2 progeny that showed new combinations. Thus, tallness and round seeds are independently inherited."
+    },
+    {
+      "sub-topic": "How Traits Get Expressed",
+      "Content": "Cellular DNA is the information source for making proteins in the cell. A section of DNA that provides information for one protein is called the gene for that protein. If the gene for an enzyme has an alteration that makes the enzyme less efficient, the amount of hormone produced will be less, resulting in a short plant. If progeny plants inherited a single whole gene set from each parent, the traits would be linked to each other and cannot be independently inherited. This is explained by the fact that each gene set is present as separate independent pieces, each called a chromosome. When two germ cells combine, they will restore the normal number of chromosomes in the progeny, ensuring the stability of the DNA of the species."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cellular DNA is the information source for making proteins in the cell. A section of DNA that provides information for one protein is called the gene for that protein.",
+      "question": "What determines the information for proteins?"
+    },
+    {
+      "context": "If the gene for an enzyme has an alteration that makes the enzyme less efficient, the amount of hormone produced will be less, resulting in a short plant.",
+      "question": "What happens if an enzyme gene is altered?"
+    },
+    {
+      "context": "If progeny plants inherited a single whole gene set from each parent, the traits would be linked to each other and cannot be independently inherited.",
+      "question": "What occurs if plants inherit a whole gene set from parents?"
+    },
+    {
+      "context": "This is explained by the fact that each gene set is present as separate independent pieces, each called a chromosome.",
+      "question": "What are the separate pieces of the gene set called?"
+    },
+    {
+      "context": "When two germ cells combine, they will restore the normal number of chromosomes in the progeny, ensuring the stability of the DNA of the species.",
+      "question": "What do germ cells restore in progeny during fertilization?"
+    }
+  ]
+}

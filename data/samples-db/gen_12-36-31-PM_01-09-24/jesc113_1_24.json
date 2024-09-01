@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Improvements in our lifestyle have resulted in greater amounts of waste material generation. Changes in attitude also have a role to play, with more and more things we use becoming disposable. To combat this issue, initiatives like recycling programs, composting, and reducing single-use plastics can be implemented. Educating the public about waste reduction is also crucial.",
+      "question": "What are some ways to decrease waste?"
+    },
+    {
+      "context": "Changes in attitude also have a role to play, with more and more things we use becoming disposable. To address this, communities can promote reusable alternatives, such as cloth bags, stainless steel water bottles, and biodegradable products. Increased awareness about the environmental impact of waste is vital in this shift.",
+      "question": "Why have attitudes towards waste changed?"
+    },
+    {
+      "context": "To combat this issue, initiatives like recycling programs, composting, and reducing single-use plastics can be implemented. Waste management systems need to evolve to handle the increasing waste efficiently. Governments and organizations may also need to collaborate on policies that encourage sustainable practices.",
+      "question": "How can communities promote recycling effectively?"
+    },
+    {
+      "context": "Educating the public about waste reduction is also crucial. Schools can incorporate waste management education into the curriculum to instill responsible habits early on. Additionally, hosting community workshops on recycling and composting can further spread awareness.",
+      "question": "Why is public education important for waste management?"
+    },
+    {
+      "context": "Communities can promote reusable alternatives, such as cloth bags, stainless steel water bottles, and biodegradable products. These alternatives help minimize the impact of disposable products on the environment. Moreover, incentivizing the use of these items can motivate consumers to change their habits.",
+      "question": "What alternatives to disposables can reduce waste?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Some natural causes of deforestation are forest fires and severe droughts. Human activities, such as agriculture expansion, logging, and urbanization, are significant man-made causes.",
+      "question": "What are man-made causes of deforestation?"
+    },
+    {
+      "context": "Natural causes of deforestation include forest fires and severe droughts. However, human-induced factors like industrialization contribute significantly to forest loss.",
+      "question": "What are some natural causes of deforestation?"
+    },
+    {
+      "context": "Aside from forest fires and severe droughts, deforestation can also result from activities such as livestock grazing and mining, which are driven by human needs.",
+      "question": "What causes deforestation besides natural factors?"
+    },
+    {
+      "context": "Deforestation can stem from both natural and human activities. Human actions include logging, agriculture, and infrastructural development, among others.",
+      "question": "What natural events lead to deforestation?"
+    },
+    {
+      "context": "Some natural causes of deforestation are forest fires and severe droughts. Meanwhile, logging and land clearing for agriculture are man-made causes of deforestation.",
+      "question": "Can you name any natural deforestation causes?"
+    }
+  ]
+}

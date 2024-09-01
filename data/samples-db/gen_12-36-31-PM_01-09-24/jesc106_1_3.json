@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Muscle cells have special proteins that change both their shape and their arrangement in the cell in response to nervous electrical impulses.",
+      "question": "What do muscle cells respond to?"
+    },
+    {
+      "context": "When a nerve impulse reaches the muscle, the muscle fibre must move. The simplest notion of movement at the cellular level is that muscle cells will move by changing their shape so that they shorten.",
+      "question": "How do muscle cells move at the cellular level?"
+    },
+    {
+      "context": "In other words, when the action or movement is to be performed, muscle tissue will do the final job.",
+      "question": "What performs the final job of movement?"
+    },
+    {
+      "context": "So far, we have been talking about nervous tissue, and how it collects information, sends it around the body, processes information, makes decisions based on information.",
+      "question": "What does nervous tissue do with information?"
+    },
+    {
+      "context": "When a nerve impulse reaches the muscle, the muscle fibre must move.",
+      "question": "What happens when a nerve impulse reaches the muscle?"
+    }
+  ]
+}

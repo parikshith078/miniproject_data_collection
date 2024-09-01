@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Drip irrigation is a method that conserves water by delivering water directly to the plants' roots through a system of tubes and emitters. This method minimizes evaporation and runoff, making it more efficient. Observing the changes in seeds can help determine the effectiveness of the irrigation practice.",
+      "question": "How does drip irrigation benefit plants?"
+    },
+    {
+      "context": "During field trips, students can gather different seed types and learn about their selection. Understanding the various methods of irrigation, including drip irrigation, helps compare their efficiency. This activity emphasizes the importance of choosing the right seed for optimal growth.",
+      "question": "What should be noted about seeds during field trips?"
+    },
+    {
+      "context": "Observing daily whether drip irrigation saves water involves checking the amount of water used compared to traditional methods. Additionally, noting changes in seed growth over time can provide insights into how different irrigation techniques affect crop yield and health.",
+      "question": "What changes should be noted in the seeds?"
+    },
+    {
+      "context": "Collecting different types of seeds allows students to engage in hands-on learning about agriculture. Labeling seeds and understanding their irrigation needs helps students appreciate the diversity in plant growth and the environmental factors that influence it.",
+      "question": "Why is it important to label different types of seeds?"
+    },
+    {
+      "context": "The extended learning activity encourages students to think critically about the efficiency of irrigation methods. By observing water usage and seed changes, they can develop a deeper understanding of water conservation in agriculture and its impact on farming practices.",
+      "question": "What is the goal of observing water usage in agriculture?"
+    }
+  ]
+}

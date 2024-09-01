@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plants obtain essential nutrients from three primary sources: air, water, and soil. The air supplies carbon and oxygen, while water provides hydrogen and oxygen. Soil is vital for macronutrients such as nitrogen, phosphorus, potassium, calcium, magnesium, and sulphur, as well as micronutrients like iron, manganese, boron, zinc, copper, molybdenum, and chlorine.",
+      "question": "What are the primary sources of nutrients for plants?"
+    },
+    {
+      "context": "Soil contains both macronutrients and micronutrients vital for plant growth. Macronutrients include essential elements like nitrogen, phosphorus, potassium, calcium, magnesium, and sulphur. On the other hand, micronutrients include nutrients such as iron, manganese, boron, zinc, copper, molybdenum, and chlorine that are required in smaller quantities.",
+      "question": "List two macronutrients essential for plant growth."
+    },
+    {
+      "context": "In addition to carbon and oxygen from the air and hydrogen and oxygen from water, plants require nutrients from soil. These nutrients are categorized into macronutrients, including nitrogen, phosphorus, potassium, calcium, magnesium, and sulphur; and micronutrients, which consist of iron, manganese, boron, zinc, copper, molybdenum, and chlorine.",
+      "question": "What role does soil play in plant nutrition?"
+    },
+    {
+      "context": "Macronutrients are nutrients that plants need in larger quantities, whereas micronutrients are required in smaller doses. Key macronutrients include nitrogen, phosphorus, potassium, calcium, magnesium, and sulphur, vital for various growth processes, while micronutrients, like iron and zinc, play crucial roles in specific biological functions.",
+      "question": "What is the difference between macronutrients and micronutrients?"
+    },
+    {
+      "context": "Plants rely on various nutrients obtained from air, water, and soil for their growth and development. The essential nutrients are classified into two main categories; macronutrients such as nitrogen, phosphorus, and potassium, and micronutrients including iron, manganese, and copper, which are all critical for healthy plant function.",
+      "question": "Name one micronutrient necessary for plant health."
+    }
+  ]
+}

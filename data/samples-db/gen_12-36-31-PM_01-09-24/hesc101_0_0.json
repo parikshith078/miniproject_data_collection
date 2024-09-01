@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "To as agricultural practices which are listed below: (i) Preparation of soil (ii) Sowing (iii) Adding manure and fertilisers (iv) Irrigation (v) Protecting from weeds (vi) Harvesting (vii) Storage",
+      "question": "What are the basic practices of crop production?"
+    },
+    {
+      "context": "The preparation of soil is the first step before growing a crop. One of the most important tasks in agriculture is to turn the soil and loosen it. This allows the roots to penetrate deep into the soil.",
+      "question": "What is the first step before growing a crop?"
+    },
+    {
+      "context": "The loose soil allows the roots to breathe easily even when they go deep into the soil. Why does the loosening of soil allow the roots to breathe easily?",
+      "question": "How does loosening soil benefit plant roots?"
+    },
+    {
+      "context": "The loosened soil helps in the growth of earthworms and microbes present in the soil. These organisms are friends of the farmer since they further turn and loosen the soil and add humus to it.",
+      "question": "Why are earthworms and microbes important in soil?"
+    },
+    {
+      "context": "Sowing is an important part of crop production. Before sowing, good quality, clean and healthy seeds of a good variety are selected.",
+      "question": "What is crucial before the sowing process?"
+    },
+    {
+      "context": "Farmers prefer to use seeds which give high yield. Selection of Seeds before sowing is crucial, ensuring optimal growth conditions and crop yield.",
+      "question": "What type of seeds do farmers prefer?"
+    },
+    {
+      "context": "India is a vast country. The climatic conditions like temperature, humidity and rainfall vary from one region to another. Accordingly, there is a rich variety of crops grown in different parts of the country.",
+      "question": "What varies in different regions of India affecting crops?"
+    },
+    {
+      "context": "When plants of the same kind are cultivated at one place on a large scale, it is called a crop. For example, crop of wheat means that all the plants grown in a field are that of wheat.",
+      "question": "What is defined as a crop?"
+    },
+    {
+      "context": "Kharif Crops: The crops which are sown in the rainy season are called kharif crops. The rainy season in India is generally from June to September.",
+      "question": "When are kharif crops sown?"
+    },
+    {
+      "context": "The crops grown in the winter season (October to March) are called rabi crops. Examples of rabi crops are wheat, gram, pea, mustard and linseed.",
+      "question": "What are rabi crops and when are they grown?"
+    }
+  ]
+}

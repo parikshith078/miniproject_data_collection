@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Arteries are the vessels which carry blood away from the heart to various organs of the body. Since the blood emerges from the heart under high pressure, the arteries have thick, elastic walls.",
+      "question": "What do arteries do in the circulatory system?"
+    },
+    {
+      "context": "Veins collect the blood from different organs and bring it back to the heart. They do not need thick walls because the blood is no longer under pressure; instead they have valves that ensure that the blood flows only in one direction.",
+      "question": "What is the function of veins in the body?"
+    },
+    {
+      "context": "The smallest vessels have walls which are one-cell thick and are called capillaries. Exchange of material between the blood and surrounding cells takes place across this thin wall.",
+      "question": "What role do capillaries play in the circulatory system?"
+    },
+    {
+      "context": "The capillaries then join together to form veins that convey the blood away from the organ or tissue.",
+      "question": "What do capillaries form when they join together?"
+    },
+    {
+      "context": "Since the blood emerges from the heart under high pressure, the arteries have thick, elastic walls.",
+      "question": "Why do arteries have thick walls?"
+    },
+    {
+      "context": "They do not need thick walls because the blood is no longer under pressure; instead they have valves that ensure that the blood flows only in one direction.",
+      "question": "Why are valves important in veins?"
+    }
+  ]
+}

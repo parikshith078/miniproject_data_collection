@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In every cell, three main features are observed; plasma membrane, nucleus, and cytoplasm. The plasma membrane is the outer layer that protects the cell, while the nucleus contains genetic material. The cytoplasm is the area where organelles are suspended and various activities occur.",
+      "question": "What are the three main cell features?"
+    },
+    {
+      "context": "The plasma membrane controls what enters and exits the cell, maintaining homeostasis. The nucleus stores DNA and coordinates cell activities, while the cytoplasm is essential for metabolic processes and supports organelles' functions.",
+      "question": "What is the function of the plasma membrane?"
+    },
+    {
+      "context": "We can see that all activities within the cell depend on the presence of the nucleus, which regulates gene expression, and the cytoplasm, where metabolic processes occur, ensuring that the cell functions properly.",
+      "question": "Which organelle regulates gene expression?"
+    },
+    {
+      "context": "Under the microscope, the structural division of a cell is evident where the plasma membrane acts as a boundary, the cytoplasm contains various organelles, and the nucleus serves as a control center for the cell's activities.",
+      "question": "What role does the nucleus serve in the cell?"
+    },
+    {
+      "context": "The interactions between a cell and its environment hinge on the protective role of the plasma membrane, which allows selective permeability, while the cytoplasm hosts necessary biochemical reactions.",
+      "question": "How does the plasma membrane interact with the environment?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "We should keep a handkerchief on the nose and mouth while sneezing. It is better to keep a distance from infected persons. Why does the teacher keep telling us not to let water collect anywhere in the neighbourhood? All mosquitoes breed in water.",
+      "question": "Why should we avoid water collection?"
+    },
+    {
+      "context": "All mosquitoes breed in water. Hence, one should not let water collect anywhere, in coolers, tyres, flower pot, etc.",
+      "question": "Where do mosquitoes breed?"
+    },
+    {
+      "context": "It is better to keep a distance from infected persons. Why does the teacher keep telling us not to let water collect anywhere in the neighbourhood?",
+      "question": "What should you do to prevent mosquito breeding?"
+    },
+    {
+      "context": "We should keep a handkerchief on the nose and mouth while sneezing. It is better to keep a distance from infected persons.",
+      "question": "What should we do while sneezing?"
+    },
+    {
+      "context": "Hence, one should not let water collect anywhere, in coolers, tyres, flower pot, etc. All mosquitoes breed in water.",
+      "question": "What areas should be checked for standing water?"
+    }
+  ]
+}

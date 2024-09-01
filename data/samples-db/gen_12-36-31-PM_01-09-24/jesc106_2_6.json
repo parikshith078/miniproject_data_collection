@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The endocrine system consists of glands that release hormones directly into the bloodstream, regulating various bodily functions. Hormones control metabolism, growth, development, tissue function, sleep, and mood. The major glands include the pituitary, thyroid, adrenal, and pancreas.",
+      "question": "What regulates metabolism in the body?"
+    },
+    {
+      "context": "In addition to their role in growth and development, animal hormones also influence reproductive processes, stress responses, and homeostasis. Each hormone has specific target organs to initiate its effects, facilitating communication throughout the body.",
+      "question": "What do animal hormones influence in reproduction?"
+    },
+    {
+      "context": "The endocrine system also plays a critical role in maintaining homeostasis within the body. Hormones help regulate the balance of fluids, sugars, and other essential nutrients, enabling the body to function optimally under varying conditions.",
+      "question": "How do hormones help maintain homeostasis?"
+    },
+    {
+      "context": "Various types of hormones are produced by different glands, such as insulin from the pancreas which regulates glucose levels, and adrenaline from the adrenal glands which prepares the body for a 'fight or flight' response during stress.",
+      "question": "Which hormone regulates glucose levels?"
+    },
+    {
+      "context": "In plants, hormones like auxins and gibberellins control growth patterns and responses to environmental stimuli, demonstrating that hormones are essential not just in animals but across various life forms.",
+      "question": "What do plant hormones control?"
+    }
+  ]
+}

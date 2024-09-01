@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Reproduction is essential for the survival of species, ensuring the continuation of genetic material from one generation to the next. It allows for the development of new individuals, maintaining biodiversity, and adapting to changing environments.",
+      "question": "Why is reproduction important for organisms?"
+    },
+    {
+      "context": "Fertilisation in human beings starts when a sperm cell from the male joins with an egg cell from the female. This process takes place in the fallopian tube, where the genetic material of both cells merges to form a new cell called a zygote.",
+      "question": "What is fertilisation in human beings?"
+    },
+    {
+      "context": "(a) Internal fertilisation occurs (i) in female body. (b) A tadpole develops into an adult frog by the process of (ii) metamorphosis. (c) The number of nuclei present in a zygote is (iii) two.",
+      "question": "Where does internal fertilisation occur?"
+    },
+    {
+      "context": "Oviparous animals lay eggs, and the young ones develop externally. Each sperm is indeed a single cell. In frogs, external fertilisation is the process where eggs and sperm meet outside the female body.",
+      "question": "Do oviparous animals give birth?"
+    },
+    {
+      "context": "The zygote is formed as a result of fertilisation when a sperm and egg combine. It contains two nuclei: one from the sperm and one from the egg, doubling the genetic material.",
+      "question": "What forms when fertilisation occurs?"
+    },
+    {
+      "context": "A zygote is the fertilised egg right after fertilisation, while a foetus is a more developed embryo that has undergone multiple cell divisions and significant growth.",
+      "question": "What is the difference between a zygote and a foetus?"
+    },
+    {
+      "context": "Asexual reproduction is a mode of reproduction that does not involve the fusion of gametes and results in offspring genetically identical to the parent. Two methods of asexual reproduction in animals include binary fission and budding.",
+      "question": "Define asexual reproduction."
+    },
+    {
+      "context": "The embryo gets embedded in the uterus, which is the female reproductive organ designed to support the developing fetus throughout pregnancy.",
+      "question": "Where does the embryo embed in females?"
+    },
+    {
+      "context": "Metamorphosis is a biological process by which an organism undergoes a dramatic change in form and structure after birth. Examples include frogs, which transition from tadpoles to adult frogs, and butterflies, which change from larvae to adult insects.",
+      "question": "What is metamorphosis?"
+    },
+    {
+      "context": "Internal fertilisation occurs inside the female body, while external fertilisation happens outside. Both methods have different reproductive strategies and are adapted to particular environments.",
+      "question": "How do internal and external fertilisation differ?"
+    }
+  ]
+}

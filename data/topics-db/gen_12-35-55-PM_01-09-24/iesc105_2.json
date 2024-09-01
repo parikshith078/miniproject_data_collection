@@ -1,0 +1,36 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Golgi Apparatus",
+      "Content": "### 5.2.5 ( ii) Golgi Apparatus\nThe Golgi apparatus, first described by Camillo Golgi, consists of a system of membrane-bound vesicles (flattened sacs) arranged approximately parallel to each other in stacks called cisterns. These membranes often have connections with the membranes of ER and therefore constitute another portion of a complex cellular membrane system. The material synthesised near the ER is packaged and dispatched to various targets inside and outside the cell through the Golgi apparatus. Its functions include the storage, modification and packaging of products in vesicles. In some cases, complex sugars may be made from simple sugars in the Golgi apparatus. The Golgi apparatus is also involved in the formation of lysosomes."
+    },
+    {
+      "sub-topic": "Lysosomes",
+      "Content": "### 5.2.5 ( iii) Lysosomes\nStructurally, lysosomes are membrane-bound sacs filled with digestive enzymes. These enzymes are made by RER. Lysosomes are a kind of waste disposal system of the cell. These help to keep the cell clean by digesting any foreign material as well as worn-out cell organelles. Foreign materials entering the cell, such as bacteria or food, as well as old organelles end up in the lysosomes, which break complex substances into simpler substances. Lysosomes are able to do this because they contain powerful digestive enzymes capable of breaking down all organic material. During the disturbance in cellular metabolism, for example, when the cell gets damaged, lysosomes may burst and the enzymes digest their own cell. Therefore, lysosomes are also known as the ‘suicide bags’ of a cell."
+    },
+    {
+      "sub-topic": "Mitochondria",
+      "Content": "### 5.2.5 ( iv) Mitochondria\nMitochondria are known as the powerhouses of the cell. Mitochondria have two membrane coverings. The outer membrane is porous while the inner membrane is deeply folded. These folds increase surface area for ATP- generating chemical reactions. The energy required for various chemical activities needed for life is released by mitochondria in the form of ATP (Adenosine triphosphate) molecules. ATP is known as the energy currency of the cell. The body uses energy stored in ATP for making new chemical compounds and for mechanical work. Mitochondria are strange organelles in the sense that they have their own DNA and ribosomes. Therefore, mitochondria are able to make some of their own proteins."
+    },
+    {
+      "sub-topic": "Plastids",
+      "Content": "### 5.2.5 ( v) Plastids\nPlastids are present only in plant cells. There are two types of plastids – chromoplasts (coloured plastids) and leucoplasts (white or colourless plastids). Chromoplasts containing the pigment chlorophyll are known as chloroplasts. Chloroplasts are important for photosynthesis in plants. Chloroplasts also contain various yellow or orange pigments in addition to chlorophyll. Leucoplasts are primarily organelles in which materials such as starch, oils and protein granules are stored. The internal organisation of the chloroplast consists of numerous membrane layers embedded in a material called the stroma. These are similar to mitochondria in external structure. Like the mitochondria, plastids also have their own DNA and ribosomes."
+    },
+    {
+      "sub-topic": "Vacuoles",
+      "Content": "### 5.2.5 ( vi) Vacuoles\nVacuoles are storage sacs for solid or liquid contents. Vacuoles are small sized in animal cells while plant cells have very large vacuoles. The central vacuole of some plant cells may occupy 50-90% of the cell volume. In plant cells vacuoles are full of cell sap and provide turgidity and rigidity to the cell. Many substances of importance in the life of the plant cell are stored in vacuoles. These include amino acids, sugars, various organic acids and some proteins. In single-celled organisms like Amoeba, the food vacuole contains the food items that the Amoeba has consumed. In some unicellular organisms, specialised vacuoles also play important roles in expelling excess water and some wastes from the cell."
+    },
+    {
+      "sub-topic": "Cell Division",
+      "Content": "### Cell Division\nNew cells are formed in organisms in order to grow, to replace old, dead and injured cells, and to form gametes required for reproduction. The process by which new cells are made is called cell division. There are two main types of cell division: mitosis and meiosis. The process of cell division by which most of the cells divide for growth is called mitosis. In this process, each cell called mother cell divides to form two identical daughter cells. The daughter cells have the same number of chromosomes as the mother cell. It helps in growth and repair of tissues in organisms. Specific cells of reproductive organs or tissues in animals and plants divide to form gametes, which after fertilisation give rise to offspring. They divide by a different process called meiosis which involves two consecutive divisions. When a cell divides by meiosis it produces four new cells instead of just two. The new cells only have half the number of chromosomes than that of the mother cells."
+    },
+    {
+      "sub-topic": "Fundamental Unit of Life",
+      "Content": "### The Fundamental Unit of Life\nEach cell thus acquires its structure and ability to function because of the organisation of its membrane and organelles in specific ways. The cell thus has a basic structural organisation. This helps the cells to perform functions like respiration, obtaining nutrition, and clearing of waste material, or forming new proteins. Thus, the cell is the fundamental structural unit of living organisms. It is also the basic functional unit of life."
+    },
+    {
+      "sub-topic": "Camillo Golgi",
+      "Content": "### Golgi's Work on the Nervous System\nThat time most of his investigations were concerned with the nervous system, In 1872 he accepted the post of Chief Medical Officer at the Hospital for the Chronically Sick at Abbiategrasso. He first started his investigations into the nervous system in a little kitchen of this hospital, which he had converted into a laboratory. However, the work of greatest importance, which Golgi carried out was a revolutionary method of staining individual nerve and cell structures. This method is referred to as the ‘black reaction’. This method uses a weak solution of silver nitrate and is particularly valuable in tracing the processes and most delicate ramifications of cells. All through his life, he continued to work on these lines, modifying and improving this technique. Golgi received the highest honours and awards in recognition of his work. He shared the Nobel prize in 1906 with Santiago Ramony Cajal for their work on the structure of the nervous system."
+    }
+  ]
+}

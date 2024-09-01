@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Depending on the complexity of these carbon sources, different organisms can then use different kinds of nutritional processes.",
+      "question": "What influences the type of nutritional processes used?"
+    },
+    {
+      "context": "These sources of energy, therefore, need to be broken down or built up in the body.",
+      "question": "What must happen to energy sources in the body?"
+    },
+    {
+      "context": "Since life on earth depends on carbon-based molecules, most of these food sources are also carbon-based.",
+      "question": "What type of molecules do organisms depend on?"
+    },
+    {
+      "context": "For this, a series of chemical reactions in the body are necessary.",
+      "question": "What processes are needed for energy conversion?"
+    },
+    {
+      "context": "If the body size of the organisms is to grow, additional raw material will also be needed from outside.",
+      "question": "What is required for organism growth?"
+    },
+    {
+      "context": "The outside sources of energy could be quite varied, since the environment is not under the control of the individual organism.",
+      "question": "Why are energy sources varied?"
+    },
+    {
+      "context": "These sources of energy... must be finally converted to a uniform source of energy.",
+      "question": "What must be done to diversify energy sources?"
+    }
+  ]
+}

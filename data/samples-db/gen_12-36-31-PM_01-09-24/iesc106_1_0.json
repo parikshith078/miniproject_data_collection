@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Complex tissues are made of more than one type of cells. All these cells coordinate to perform a common function. Xylem and phloem are examples of such complex tissues.",
+      "question": "What are the examples of complex tissues?"
+    },
+    {
+      "context": "Yet another type of permanent tissue is complex tissue. All these cells coordinate to perform a common function.",
+      "question": "What defines a complex tissue?"
+    },
+    {
+      "context": "Xylem and phloem are examples of such complex tissues. They are both conducting tissues and constitute a vascular bundle.",
+      "question": "What role do xylem and phloem play?"
+    },
+    {
+      "context": "Such tissues are called simple permanent tissue. Yet another type of permanent tissue is complex tissue.",
+      "question": "What is the distinction between simple and complex tissue?"
+    },
+    {
+      "context": "Complex tissues are made of more than one type of cells. They are both conducting tissues and constitute a vascular bundle.",
+      "question": "How do complex tissues differ in structure?"
+    }
+  ]
+}

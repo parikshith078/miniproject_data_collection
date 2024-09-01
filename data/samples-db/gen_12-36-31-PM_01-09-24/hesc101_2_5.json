@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Irrigation is the process of supplying water to crops to aid their growth. Two methods of irrigation that conserve water include: Drip irrigation delivers water directly to the base of the plant, minimizing evaporation and runoff.",
+      "question": "What is drip irrigation?"
+    },
+    {
+      "context": "Sprinkler irrigation uses a system of pipes and pumps to spray water like rainfall, reducing waste and runoff. This method is versatile and can cover large areas.",
+      "question": "How does sprinkler irrigation work?"
+    },
+    {
+      "context": "Irrigation is crucial for agriculture as it helps in providing consistent moisture. Drip irrigation minimizes evaporation by delivering water directly to plants.",
+      "question": "Why is drip irrigation efficient?"
+    },
+    {
+      "context": "Two methods of irrigation that conserve water include drip irrigation and sprinkler irrigation. Both methods help in reducing waste and ensuring adequate water supply.",
+      "question": "What are the benefits of modern irrigation methods?"
+    },
+    {
+      "context": "Drip irrigation minimizes evaporation and runoff by delivering water at the plant's base. This precision helps conserve precious water resources effectively.",
+      "question": "What advantage does drip irrigation have?"
+    },
+    {
+      "context": "Sprinkler irrigation mimics natural rainfall using pipes and pumps. It is effective for larger fields and reduces the amount of water wasted.",
+      "question": "What makes sprinkler irrigation suitable for large areas?"
+    }
+  ]
+}

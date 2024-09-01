@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The type of reproduction in which only a single parent is involved is called asexual reproduction. In hydra, new individuals develop from buds.",
+      "question": "What is asexual reproduction?"
+    },
+    {
+      "context": "In hydra, new individuals develop from buds. This method of asexual reproduction is called budding.",
+      "question": "What is budding in hydra?"
+    },
+    {
+      "context": "Amoeba reproduces by dividing itself into two. This type of asexual reproduction is called binary fission.",
+      "question": "How does amoeba reproduce?"
+    },
+    {
+      "context": "This method of asexual reproduction is called budding. Amoeba reproduces by dividing itself into two.",
+      "question": "What are the methods of asexual reproduction?"
+    },
+    {
+      "context": "Apart from budding and binary fission, there are other methods by which a single parent reproduces young ones.",
+      "question": "What are other methods of asexual reproduction?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In an experimental setup to observe photosynthesis, two different leaves were placed in a clear solution. After a few hours of exposure to sunlight, both leaves were checked for the presence of starch, which indicates the occurrence of photosynthesis and the production of glucose in plants.",
+      "question": "Do both the leaves show the presence of starch?"
+    },
+    {
+      "context": "During the photosynthesis experiment, two types of leaves were tested. One was from a plant known to be a high photosynthesis producer, while the other was from a shade-loving plant. After sunlight exposure, both leaves were assessed for any color change, a sign of starch formation.",
+      "question": "Do both leaves exhibit any color change?"
+    },
+    {
+      "context": "After conducting photosynthesis experiments with two different plant leaves, results showed that one leaf turned blue-black when tested with iodine, indicating starch presence. The second leaf showed no such change despite similar conditions.",
+      "question": "Are both leaves observed for starch presence?"
+    },
+    {
+      "context": "In the experiment to demonstrate photosynthesis, two leaves were tested for starch presence. One leaf was from a low-light plant, while the other was from a direct sunlight plant. Results indicated differing levels of starch accumulation in each leaf.",
+      "question": "Is starch presence consistent in both leaves?"
+    },
+    {
+      "context": "Two leaves from different plant species were subjected to an experiment involving light exposure to assess their ability to carry out photosynthesis. After several hours, a starch test was conducted to determine if starch was produced in either leaf.",
+      "question": "Did both leaves produce starch in the experiment?"
+    }
+  ]
+}

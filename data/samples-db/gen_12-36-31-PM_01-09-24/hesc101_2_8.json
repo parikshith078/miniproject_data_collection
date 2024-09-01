@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Weeds are unwanted plants that grow alongside crops. They can be controlled through methods such as manual removal, using herbicides, and implementing crop rotation to disrupt their growth cycle.",
+      "question": "What are methods to control weeds?"
+    },
+    {
+      "context": "Weeds are unwanted plants that grow alongside crops. They can be controlled through methods such as manual removal, using herbicides, and implementing crop rotation to disrupt their growth cycle.",
+      "question": "What is the purpose of crop rotation?"
+    },
+    {
+      "context": "Weeds are unwanted plants that grow alongside crops. They can be controlled through methods such as manual removal, using herbicides, and implementing crop rotation to disrupt their growth cycle.",
+      "question": "What defines a weed in agriculture?"
+    },
+    {
+      "context": "Weeds are unwanted plants that grow alongside crops. They can be controlled through methods such as manual removal, using herbicides, and implementing crop rotation to disrupt their growth cycle.",
+      "question": "What does manual removal involve in weed control?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Animal husbandry is the scientific management of animal livestock. It includes various aspects such as feeding, breeding and disease control.",
+      "question": "What does animal husbandry involve?"
+    },
+    {
+      "context": "As the population increases and as living standards increase, the demand for milk, eggs, and meat is also going up.",
+      "question": "Why is the demand for animal products rising?"
+    },
+    {
+      "context": "Animal-based farming includes cattle, goat, sheep, poultry, and fish farming.",
+      "question": "Which animals are involved in animal-based farming?"
+    },
+    {
+      "context": "Therefore, livestock production also needs to be improved.",
+      "question": "What needs to be improved in livestock production?"
+    },
+    {
+      "context": "Animal husbandry includes various aspects such as feeding, breeding and disease control.",
+      "question": "What aspects does animal husbandry manage?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Another example of chemotropism is the growth of pollen tubes towards ovules. It is vital for plants to communicate information rapidly to achieve quick responses to stimuli, which they achieve using electrical impulses or chemical communication.",
+      "question": "What is chemotropism in plants?"
+    },
+    {
+      "context": "For example, a hormone called auxin, synthesized at the shoot tip, helps the cells to grow longer. When light is coming from one side of the plant, auxin diffuses towards the shady side of the shoot, stimulating the cells to grow longer on that side and causing the plant to bend towards light.",
+      "question": "What role does auxin play in plant growth?"
+    },
+    {
+      "context": "It is vital for plants to communicate information rapidly to achieve quick responses to stimuli, which they achieve using electrical impulses or chemical communication.",
+      "question": "How do plants respond to stimuli?"
+    },
+    {
+      "context": "When light is coming from one side of the plant, auxin diffuses towards the shady side of the shoot, stimulating the cells to grow longer on that side and causing the plant to bend towards light.",
+      "question": "What causes a plant to bend towards light?"
+    },
+    {
+      "context": "A hormone called auxin, synthesized at the shoot tip, helps the cells to grow longer. When light is coming from one side of the plant, auxin diffuses towards the shady side of the shoot.",
+      "question": "Where is auxin synthesized in plants?"
+    }
+  ]
+}

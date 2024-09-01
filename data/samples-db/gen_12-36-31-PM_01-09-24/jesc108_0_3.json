@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mendel worked out the main rules of such inheritance, and it is interesting to look at some of his experiments from more than a century ago. Inherited Traits show that both parents contribute to the genetic makeup of their offspring.",
+      "question": "What did Mendel study in inheritance?"
+    },
+    {
+      "context": "This means that each trait can be influenced by both paternal and maternal DNA. The rules for inheritance of such traits in human beings are related to the fact that both the father and the mother contribute practically equal amounts of genetic material to the child.",
+      "question": "How do parents contribute to traits?"
+    },
+    {
+      "context": "The rules for inheritance of such traits in human beings are related to the fact that both the father and the mother contribute practically equal amounts of genetic material to the child. This equal contribution affects the development of traits in children.",
+      "question": "What affects the development of traits in children?"
+    },
+    {
+      "context": "Mendel worked out the main rules of such inheritance, and it is interesting to look at some of his experiments from more than a century ago. His experiments laid the groundwork for our understanding of genetics.",
+      "question": "What did Mendel's experiments contribute to?"
+    },
+    {
+      "context": "Inherited Traits show that both parents contribute to the genetic makeup of their offspring. This highlights the significance of both paternal and maternal influence in determining traits.",
+      "question": "What highlights the significance of maternal influence?"
+    }
+  ]
+}

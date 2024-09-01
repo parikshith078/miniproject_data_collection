@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Mendel took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny. There were no halfway characteristics in the first-generation, or F1 progeny – no ‘medium-height’ plants. All plants were tall.",
+      "question": "What traits did Mendel study in pea plants?"
+    },
+    {
+      "context": "The second-generation, or F2, progeny of the F1 tall plants are not all tall. Instead, one quarter of them are short, indicating that both tallness and shortness traits were inherited in the F1 plants, but only tallness was expressed.",
+      "question": "What ratio of F2 plants was short?"
+    },
+    {
+      "context": "Mendel used a number of contrasting visible characters of garden peas – round/wrinkled seeds, tall/short plants, white/violet flowers and so on. He took pea plants with different characteristics.",
+      "question": "Which characters did Mendel observe in peas?"
+    },
+    {
+      "context": "The F1 progeny showed only one of the parental traits, not some mixture of the two. However, the second-generation showed a mix of traits, with one quarter being short.",
+      "question": "What was observed in the F1 progeny of Mendel's crosses?"
+    },
+    {
+      "context": "Mendel's experiments with peas demonstrated that some traits were dominant over others, as seen in the first generation where all plants were tall, despite one parent being short.",
+      "question": "What trait was dominant in the first generation?"
+    },
+    {
+      "context": "Mendel's work showed that traits could be inherited separately, as evidenced by the appearance of short plants in the F2 generation, even though the F1 generation was uniformly tall.",
+      "question": "What did Mendel's F2 generation reveal?"
+    }
+  ]
+}

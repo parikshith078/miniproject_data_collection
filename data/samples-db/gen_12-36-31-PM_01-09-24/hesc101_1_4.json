@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Modern methods of irrigation help us to use water economically. The main methods used are as follows: (i) Sprinkler System: This system is more useful on uneven land where sufficient water is not available. The perpendicular pipes, having rotating nozzles on top, are joined to the main pipeline at regular intervals.",
+      "question": "What is the purpose of a sprinkler system?"
+    },
+    {
+      "context": "When water is allowed to flow through the main pipe under pressure with the help of a pump, it escapes from the rotating nozzles. It gets sprinkled on the crop as if it is raining.",
+      "question": "How does the sprinkler system operate?"
+    },
+    {
+      "context": "In this system, the water falls drop by drop directly near the roots. So it is called drip system. It is the best technique for watering fruit plants, gardens and trees.",
+      "question": "What is the main advantage of the drip system?"
+    },
+    {
+      "context": "Water is not wasted at all. It is a boon in regions where availability of water is poor.",
+      "question": "Why is the drip system beneficial in dry areas?"
+    },
+    {
+      "context": "The perpendicular pipes, having rotating nozzles on top, are joined to the main pipeline at regular intervals. When water is allowed to flow through the main pipe under pressure with the help of a pump.",
+      "question": "What components make up a sprinkler system?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Tissue is a group of cells similar in structure and function. Plant tissues are of two main types – meristematic and permanent. Meristematic tissue is the dividing tissue present in the growing regions of the plant.",
+      "question": "What are the two main types of plant tissues?"
+    },
+    {
+      "context": "Permanent tissues are derived from meristematic tissue once they lose the ability to divide. They are classified as simple and complex tissues.",
+      "question": "How are permanent tissues classified in plants?"
+    },
+    {
+      "context": "Parenchyma, collenchyma and sclerenchyma are three types of simple tissues. Xylem and phloem are types of complex tissues.",
+      "question": "What are the types of simple plant tissues?"
+    },
+    {
+      "context": "Animal tissues can be epithelial, connective, muscular and nervous tissue.",
+      "question": "What are the four types of animal tissues?"
+    },
+    {
+      "context": "Meristematic tissue is the dividing tissue present in the growing regions of the plant. Permanent tissues are derived from meristematic tissue once they lose the ability to divide.",
+      "question": "What is meristematic tissue and its role?"
+    },
+    {
+      "context": "Epithelial, connective, muscular, and nervous tissues are categorized under animal tissues, serving different functions within the body.",
+      "question": "Name the four categories of animal tissues."
+    }
+  ]
+}

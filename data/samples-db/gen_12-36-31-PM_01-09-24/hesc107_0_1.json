@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Growing up is a natural process. The period of life, when the body undergoes changes, leading to reproductive maturity, is called adolescence.",
+      "question": "What is adolescence?"
+    },
+    {
+      "context": "Adolescence begins around the age of 11 and lasts up to 18 or 19 years of age.",
+      "question": "When does adolescence typically start?"
+    },
+    {
+      "context": "In girls, adolescence may begin a year or two earlier than in boys.",
+      "question": "Who begins adolescence earlier, girls or boys?"
+    },
+    {
+      "context": "The human body undergoes several changes during adolescence. These changes mark the onset of puberty.",
+      "question": "What marks the onset of puberty?"
+    },
+    {
+      "context": "The most important change which marks puberty is that boys and girls become capable of reproduction.",
+      "question": "What is the key change during puberty?"
+    }
+  ]
+}

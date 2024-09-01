@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Cells were first discovered by Robert Hooke in 1665. He observed the cells in a cork slice with the help of a primitive microscope. Leeuwenhoek (1674), with the improved microscope, discovered the free living cells in pond water for the first time.",
+      "question": "Who first discovered cells in cork?"
+    },
+    {
+      "context": "The cell theory, that all the plants and animals are composed of cells and that the cell is the basic unit of life, was presented by two biologists, Schleiden (1838) and Schwann (1839).",
+      "question": "Who presented the cell theory?"
+    },
+    {
+      "context": "Purkinje in 1839 coined the term ‘protoplasm’ for the fluid substance of the cell. The cell theory was further expanded by Virchow (1855) by suggesting that all cells arise from pre-existing cells.",
+      "question": "Who coined the term ‘protoplasm’?"
+    },
+    {
+      "context": "With the discovery of the electron microscope in 1940, it was possible to observe and understand the complex structure of the cell and its various organelles.",
+      "question": "What invention in 1940 improved cell observation?"
+    },
+    {
+      "context": "Leeuwenhoek (1674), with the improved microscope, discovered the free living cells in pond water for the first time. It was Robert Brown in 1831 who discovered the nucleus in the cell.",
+      "question": "Who discovered the nucleus in the cell?"
+    },
+    {
+      "context": "The cell theory was further expanded by Virchow (1855) by suggesting that all cells arise from pre-existing cells.",
+      "question": "What did Virchow suggest about cells?"
+    }
+  ]
+}

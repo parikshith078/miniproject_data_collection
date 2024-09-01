@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Farmers in northern India used to grow legumes as fodder in one season and wheat in the next season. This helped in the replenishment of the soil with nitrogen. Farmers are being encouraged to adopt this practice.",
+      "question": "What do farmers grow after legumes?"
+    },
+    {
+      "context": "This helped in the replenishment of the soil with nitrogen. Farmers are being encouraged to adopt this practice.",
+      "question": "What is the benefit of growing legumes?"
+    },
+    {
+      "context": "In the previous classes, you have learnt about Rhizobium bacteria. These are present in the nodules of roots of leguminous plants.",
+      "question": "Where are Rhizobium bacteria found?"
+    },
+    {
+      "context": "They fix atmospheric nitrogen. Farmers are being encouraged to adopt this practice.",
+      "question": "What do Rhizobium bacteria do?"
+    },
+    {
+      "context": "Farmers in northern India used to grow legumes as fodder in one season and wheat in the next season.",
+      "question": "What crops are involved in this farming practice?"
+    },
+    {
+      "context": "This helped in the replenishment of the soil with nitrogen. Farmers are being encouraged to adopt this practice.",
+      "question": "Why are farmers encouraged to use this farming method?"
+    }
+  ]
+}

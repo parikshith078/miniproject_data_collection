@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The first is the choice of seeds for planting. The second is the nurturing of the crop plants. The third is the protection of the growing and harvested crops from loss.",
+      "question": "What are the three activities for crop yield improvement?"
+    },
+    {
+      "context": "Thus, the major groups of activities for improving crop yields can be classified as: Crop variety improvement, Crop production improvement, Crop protection management.",
+      "question": "Name the major groups for improving crop yields."
+    },
+    {
+      "context": "The choice of seeds for planting and nurturing of the crop plants are crucial for enhancing yields.",
+      "question": "Why is seed choice important for crop yield?"
+    },
+    {
+      "context": "Crop production improvement focuses on effective cultivation techniques to enhance growth and yield.",
+      "question": "What does crop production improvement involve?"
+    },
+    {
+      "context": "Crop protection management is essential to safeguard crops from pests and diseases after harvest.",
+      "question": "What is the purpose of crop protection management?"
+    }
+  ]
+}

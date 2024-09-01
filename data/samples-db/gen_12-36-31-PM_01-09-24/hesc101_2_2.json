@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Crops are categorized into different types based on their growing seasons. Kharif crops are sown with the onset of the monsoon and harvested at the end of the rainy season. Examples include paddy and maize.",
+      "question": "What are examples of kharif crops?"
+    },
+    {
+      "context": "Rabi crops are typically sown in the winter season and harvested in the spring. They require cool weather for germination and warm weather for maturation. Wheat and gram are common examples.",
+      "question": "Which crops are classified as rabi crops?"
+    }
+  ]
+}

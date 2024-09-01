@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The processes which together perform this maintenance job are life processes. Since these maintenance processes are needed to prevent damage and breakdown, energy is needed for them.",
+      "question": "What are life processes responsible for?"
+    },
+    {
+      "context": "Energy is needed for them. This energy comes from outside the body of the individual organism.",
+      "question": "Where does the energy for life processes come from?"
+    },
+    {
+      "context": "So there must be a process to transfer a source of energy from outside the body of the organism, which we call food, to the inside, a process we commonly call nutrition.",
+      "question": "What is the process that transfers energy into organisms?"
+    },
+    {
+      "context": "Even when we are just sitting in class, even if we are just asleep, this maintenance job has to go on.",
+      "question": "What happens to life processes during inactivity?"
+    },
+    {
+      "context": "The maintenance functions of living organisms must go on even when they are not doing anything particular.",
+      "question": "Why are maintenance functions essential for living organisms?"
+    }
+  ]
+}

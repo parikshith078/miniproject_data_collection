@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "A group of cells that are similar in structure and/or work together to achieve a particular function forms a tissue. Plants are stationary or fixed – they don’t move. Since they have to be upright, they have a large quantity of supportive tissue. The supportive tissue generally has dead cells. Animals, on the other hand, move around in search of food, mates, and shelter. They consume more energy as compared to plants.",
+      "question": "What is a key characteristic of plant tissues?"
+    },
+    {
+      "context": "The growth in plants is limited to certain regions, while this is not so in animals. There are some tissues in plants that divide throughout their life. These tissues are localised in certain regions. Based on the dividing capacity of the tissues, various plant tissues can be classified as growing or meristematic tissue and permanent tissue.",
+      "question": "How is growth different in plants and animals?"
+    },
+    {
+      "context": "The structural organisation of organs and organ systems is far more specialised and localised in complex animals than even in very complex plants. This fundamental difference reflects the different modes of life pursued by these two major groups of organisms, particularly in their different feeding methods.",
+      "question": "What reflects the life modes of plants and animals?"
+    },
+    {
+      "context": "Another difference between animals and plants is in the pattern of growth. The structural organisation of organs and organ systems is far more specialised and localised in complex animals than even in very complex plants. Also, they are differently adapted for a sedentary existence on one hand (plants) and active locomotion on the other (animals).",
+      "question": "How are plants adapted for their lifestyle?"
+    },
+    {
+      "context": "Plants have a large quantity of supportive tissue. The supportive tissue generally has dead cells. Animals move around in search of food, mates, and shelter, consuming more energy as compared to plants. Most of the tissues they contain are living.",
+      "question": "What type of tissue is abundant in plants?"
+    },
+    {
+      "context": "Cell growth in animals is more uniform. So, there is no such demarcation of dividing and non-dividing regions in animals. This is different from plants where growth is limited to certain regions.",
+      "question": "What type of cell growth occurs in animals?"
+    },
+    {
+      "context": "Do plants and animals have the same structure? Do they both perform similar functions? There are noticeable differences between the two. The supportive tissue generally has dead cells in plants, while most of the tissues in animals are living.",
+      "question": "What is a difference in tissue between plants and animals?"
+    }
+  ]
+}

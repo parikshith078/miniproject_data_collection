@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Wildlife sanctuaries serve as protected areas that allow limited human activities to coexist with wildlife. People residing in these areas can graze their livestock, collect firewood, and gather medicinal plants. However, the key aim is to maintain a balance between human needs and wildlife conservation. The activities permitted are regulated to ensure that they do not disrupt the animals' natural behaviors or habitats.",
+      "question": "What activities can people do in wildlife sanctuaries?"
+    },
+    {
+      "context": "In wildlife sanctuaries, residents have the right to engage in sustainable practices such as livestock grazing, the collection of firewood, and the gathering of medicinal plants. These activities are permitted to support the livelihoods of local communities while also aiming to minimize their impact on the wildlife and the ecosystem around them.",
+      "question": "How do activities in wildlife sanctuaries affect animals?"
+    },
+    {
+      "context": "The concept of wildlife sanctuaries is to provide a safe haven for animals while allowing limited human interaction. Activities like grazing, firewood collection, and harvesting medicinal plants are regulated to ensure that wildlife does not get disturbed and continues to thrive. This creates a balance between human needs and wildlife conservation efforts.",
+      "question": "Why are certain activities allowed in wildlife sanctuaries?"
+    },
+    {
+      "context": "In wildlife sanctuaries, local residents can carry out activities such as grazing their livestock, gathering firewood, or collecting medicinal plants. These practices are important for the community's survival but must be carefully managed to avoid harming the wildlife and ecosystems. The goal is to ensure that both humans and wildlife can coexist without negatively impacting each other.",
+      "question": "What is the purpose of activities allowed in wildlife sanctuaries?"
+    },
+    {
+      "context": "Sanctuaries allow humans to live in proximity to nature, where certain permitted activities such as livestock grazing and the collection of firewood take place. This interplay must not endanger the wildlife, but rather support their existence. Effective management of these activities ensures that the wildlife can thrive under these shared conditions.",
+      "question": "What is the goal of human activities in wildlife sanctuaries?"
+    }
+  ]
+}

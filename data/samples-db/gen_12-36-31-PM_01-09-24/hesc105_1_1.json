@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Animals whose numbers are diminishing to a level that they might face extinction are known as the endangered animals. Boojho is reminded of the dinosaurs which became extinct a long time ago. Are only big animals facing extinction?",
+      "question": "What are endangered animals?"
+    },
+    {
+      "context": "Small animals are much more in danger of becoming extinct than the bigger animals. At times, we kill snakes, frogs, lizards, bats and owls ruthlessly without realising their importance in the ecosystem.",
+      "question": "Why are small animals endangered?"
+    },
+    {
+      "context": "They form part of food chains and food webs. An ecosystem is made of all the plants, animals and microorganisms in an area along with non-living components such as climate, soil, river deltas etc.",
+      "question": "What is an ecosystem composed of?"
+    },
+    {
+      "context": "By killing them we are harming ourselves. They might be small in size but their role in the ecosystem cannot be ignored.",
+      "question": "How do small animals affect the ecosystem?"
+    },
+    {
+      "context": "Madhavji tells Paheli that small animals are much more in danger of becoming extinct than the bigger animals.",
+      "question": "Who explains the endangered status of small animals?"
+    }
+  ]
+}

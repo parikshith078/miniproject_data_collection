@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "These green dots are cell organelles called chloroplasts which contain chlorophyll. Chlorophyll is vital in capturing light energy from the sun during photosynthesis, a process that converts light energy into chemical energy.",
+      "question": "What organelles contain chlorophyll?"
+    },
+    {
+      "context": "Let us do an activity which demonstrates that chlorophyll is essential for photosynthesis. In this activity, we will investigate the role of chlorophyll in capturing light energy for the photosynthetic process in plants.",
+      "question": "What is the purpose of the planned activity?"
+    },
+    {
+      "context": "If you carefully observe a cross-section of a leaf under the microscope, you will notice that some cells contain green dots. These dots are essential for the process of photosynthesis as they contain chlorophyll.",
+      "question": "What do the green dots in leaf cells represent?"
+    },
+    {
+      "context": "Chlorophyll is vital in capturing light energy from the sun during photosynthesis. It absorbs blue and red light most effectively while reflecting green light, which gives leaves their color.",
+      "question": "What colors of light does chlorophyll absorb?"
+    },
+    {
+      "context": "Chlorophyll is vital in capturing light energy. This energy is then converted into chemical energy that plants use to produce glucose from carbon dioxide and water.",
+      "question": "What energy does chlorophyll capture during photosynthesis?"
+    }
+  ]
+}

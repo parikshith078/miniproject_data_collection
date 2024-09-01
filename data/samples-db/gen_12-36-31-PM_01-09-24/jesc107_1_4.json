@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The DNA copying mechanism, as we have noted, cannot be absolutely accurate, and the resultant errors are a source of variations in populations of organisms. Every individual organism cannot be protected by variations, but in a population, variations are useful for ensuring the survival of the species.",
+      "question": "Why are variations important for species survival?"
+    },
+    {
+      "context": "The creation of two new cells from one involves copying of the DNA as well as of the cellular apparatus. The DNA copying mechanism, as we have noted, cannot be absolutely accurate, and the resultant errors are a source of variations in populations of organisms.",
+      "question": "What process leads to variations in organisms?"
+    },
+    {
+      "context": "Every individual organism cannot be protected by variations, but in a population, variations are useful for ensuring the survival of the species.",
+      "question": "How do variations contribute to population survival?"
+    },
+    {
+      "context": "The DNA copying mechanism, as we have noted, cannot be absolutely accurate, and the resultant errors are a source of variations in populations of organisms.",
+      "question": "What causes errors in DNA copying?"
+    },
+    {
+      "context": "The creation of two new cells from one involves copying of the DNA as well as of the cellular apparatus.",
+      "question": "What does the creation of new cells involve?"
+    }
+  ]
+}

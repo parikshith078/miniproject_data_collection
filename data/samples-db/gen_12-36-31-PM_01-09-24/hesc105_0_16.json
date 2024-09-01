@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Madhavji explains that these reserves are large and diverse enough to protect whole sets of ecosystems. They preserve flora, fauna, landscape and historic objects of an area.",
+      "question": "What do these reserves protect?"
+    },
+    {
+      "context": "Satpura National Park is the first Reserve Forest of India. It is a pity that even protected forests are not safe because people living in the neighbourhood encroach upon them and destroy them.",
+      "question": "What is the significance of Satpura National Park?"
+    },
+    {
+      "context": "Even protected forests are not safe because people living in the neighbourhood encroach upon them and destroy them.",
+      "question": "What threatens the safety of protected forests?"
+    },
+    {
+      "context": "Children are now eager to go to Satpura National Park, which preserves flora, fauna, landscape and historic objects.",
+      "question": "Why are the children eager to visit Satpura National Park?"
+    },
+    {
+      "context": "These reserves are large and diverse enough to protect whole sets of ecosystems, including flora and fauna.",
+      "question": "What ecosystems do the reserves protect?"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Kaka’s thyroid gland was not producing the hormone thyroxine. Their aunt also told them that their uncle was suffering from ‘diabetes’ because his pancreas was not producing the hormone insulin in sufficient quantities.",
+      "question": "What hormone is affected in Kaka's condition?"
+    },
+    {
+      "context": "The aunt told them that adrenal glands secrete hormones which maintain the correct salt balance in the blood. Adrenals also produce the hormone adrenalin.",
+      "question": "What do adrenal glands help maintain in the body?"
+    },
+    {
+      "context": "Thyroid and adrenals secrete their hormones when they receive orders from the pituitary through its hormones.",
+      "question": "Which gland signals the thyroid and adrenal glands?"
+    },
+    {
+      "context": "Pituitary also secretes growth hormone which is necessary for the normal growth of a person.",
+      "question": "What hormone does the pituitary gland produce for growth?"
+    }
+  ]
+}

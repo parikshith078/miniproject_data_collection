@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Tiger Reserve is unique in the sense that a significant increase in the population of tigers has been seen here. Once upon a time, animals like lions, elephants, wild animals has become difficult because of disturbances in their natural habitat.",
+      "question": "What has happened to tiger populations?"
+    },
+    {
+      "context": "Professor Ahmad tells them that in order to protect plants and animals strict rules are imposed in all National Parks.",
+      "question": "What does Professor Ahmad say about National Parks?"
+    },
+    {
+      "context": "Tiger Reserve is unique in the sense that a significant increase in the population of tigers has been seen here. Once upon a time, animals like lions, elephants, wild animals has become difficult because of disturbances in their natural habitat.",
+      "question": "What animals are mentioned as being affected?"
+    },
+    {
+      "context": "Once upon a time, animals like lions, elephants, wild animals has become difficult because of disturbances in their natural habitat.",
+      "question": "What caused difficulties for certain animals?"
+    },
+    {
+      "context": "In order to protect plants and animals strict rules are imposed in all National Parks.",
+      "question": "What measures are taken in National Parks?"
+    }
+  ]
+}

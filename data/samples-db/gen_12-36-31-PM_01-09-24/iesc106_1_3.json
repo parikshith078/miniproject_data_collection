@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The covering or protective tissues in the animal body are epithelial tissues. Epithelium covers most organs and cavities within the body. It also forms a barrier to keep different body systems separate.",
+      "question": "What role does epithelial tissue play in the body?"
+    },
+    {
+      "context": "The skin, the lining of the mouth, the lining of blood vessels, lung alveoli and kidney tubules are all made of epithelial tissue. Epithelial tissue cells are tightly packed and form a continuous sheet.",
+      "question": "Where can epithelial tissue be found in the body?"
+    },
+    {
+      "context": "Epithelial tissues cover most organs and cavities within the body. It also forms a barrier to keep different body systems separate. The skin is an example of this tissue type.",
+      "question": "What is an example of epithelial tissue in the body?"
+    },
+    {
+      "context": "Epithelial tissue cells are tightly packed and form a continuous sheet. This structure allows them to provide protection and serve various functions in the body.",
+      "question": "How are epithelial tissue cells arranged?"
+    },
+    {
+      "context": "Epithelium covers most organs and cavities within the body. It also forms a barrier to keep different body systems separate, maintaining the integrity of the body's various compartments.",
+      "question": "What is a key function of epithelial tissue in organs?"
+    }
+  ]
+}

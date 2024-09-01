@@ -1,0 +1,48 @@
+{
+  "samples": [
+    {
+      "context": "Asexual reproduction takes place through budding in various organisms, including Yeast, which is a type of fungus. In Yeast, new individuals are formed from the parent organism while still attached, allowing for rapid population growth under favorable conditions.",
+      "question": "What organisms reproduce asexually by budding?"
+    },
+    {
+      "context": "In human beings, the female reproductive system includes organs like the ovary, uterus, and fallopian tubes. However, the vas deferens is a part of the male reproductive system, which transports sperm from the testes to the urethra.",
+      "question": "What is not part of the female reproductive system?"
+    },
+    {
+      "context": "The anther is a key part of the stamen in flowering plants. It is responsible for producing and containing pollen grains, which are essential for the process of fertilization and reproduction in plants.",
+      "question": "What does the anther contain?"
+    },
+    {
+      "context": "Sexual reproduction has several advantages over asexual reproduction, including increased genetic diversity, which can lead to better adaptation to changing environments, and the potential for evolutionary advantages due to genetic variation.",
+      "question": "What are advantages of sexual reproduction?"
+    },
+    {
+      "context": "The testis in human beings performs crucial functions, including the production of sperm and the secretion of hormones such as testosterone, which are necessary for the development of male reproductive tissues and secondary sexual characteristics.",
+      "question": "What functions do testes perform in humans?"
+    },
+    {
+      "context": "Menstruation occurs as part of the menstrual cycle, when the lining of the uterus is shed. This typically happens if no fertilization has taken place, signaling a reset for the reproductive cycle in females.",
+      "question": "Why does menstruation occur?"
+    },
+    {
+      "context": "A labelled diagram of a longitudinal section of a flower should include parts such as the stamen, pistil, petals, and sepals. This helps illustrate the structure and function of each part within the reproductive process of flowering plants.",
+      "question": "What should be included in a flower diagram?"
+    },
+    {
+      "context": "Different methods of contraception include hormonal pills, condoms, intrauterine devices (IUDs), sterilization, and natural methods. Each method varies in effectiveness, ease of use, and side effects.",
+      "question": "What are the methods of contraception?"
+    },
+    {
+      "context": "Unicellular organisms often reproduce asexually through methods like binary fission, while multicellular organisms can reproduce both sexually and asexually. This distinction highlights the complexity of reproduction across different life forms.",
+      "question": "How do reproduction modes differ in organism types?"
+    },
+    {
+      "context": "Reproduction contributes to stability in populations of species by ensuring a continuous generation of individuals, which helps maintain population size and genetic diversity, promoting resilience against environmental changes.",
+      "question": "How does reproduction ensure stability in species populations?"
+    },
+    {
+      "context": "Contraceptive methods can be adopted for various reasons, including to prevent unwanted pregnancies, to space out children, to manage health conditions, and to facilitate family planning according to personal or socio-economic circumstances.",
+      "question": "What are reasons for adopting contraceptive methods?"
+    }
+  ]
+}

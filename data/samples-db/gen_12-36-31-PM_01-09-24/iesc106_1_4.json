@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Blood is a type of connective tissue. The cells of connective tissue are loosely spaced and embedded in an intercellular matrix.",
+      "question": "What type of tissue is blood classified as?"
+    },
+    {
+      "context": "The matrix may be jelly-like, fluid, dense or rigid. Blood has a fluid (liquid) matrix called plasma.",
+      "question": "What is the liquid matrix of blood called?"
+    },
+    {
+      "context": "The matrix may be jelly-like, fluid, dense or rigid. Blood has a fluid (liquid) matrix called plasma, in which red blood corpuscles, white blood corpuscles and platelets are suspended.",
+      "question": "What components are suspended in blood plasma?"
+    },
+    {
+      "context": "Bone is another example of a connective tissue. Bone cells are embedded in a hard matrix composed of calcium and phosphorus compounds.",
+      "question": "What materials compose the bone's hard matrix?"
+    },
+    {
+      "context": "Blood has a fluid (liquid) matrix called plasma, in which red blood corpuscles, white blood corpuscles and platelets are suspended.",
+      "question": "Which type of blood cells are suspended in plasma?"
+    }
+  ]
+}

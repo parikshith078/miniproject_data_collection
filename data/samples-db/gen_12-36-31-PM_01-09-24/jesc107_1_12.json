@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In girls, breast size begins to increase, with darkening of the skin of the nipples at the tips of the breasts. Also, girls begin to menstruate at around this time.",
+      "question": "What changes occur in girls during adolescence?"
+    },
+    {
+      "context": "Boys begin to have new thick hair growth on the face and their voices begin to crack.",
+      "question": "What are the facial changes in boys?"
+    },
+    {
+      "context": "Further, the penis occasionally begins to become enlarged and erect, either in daydreams or at night.",
+      "question": "What happens to boys' penises during adolescence?"
+    },
+    {
+      "context": "In girls, breast size begins to increase, with darkening of the skin of the nipples at the tips of the breasts.",
+      "question": "What happens to girls' breasts during puberty?"
+    },
+    {
+      "context": "Also, girls begin to menstruate at around this time.",
+      "question": "At what age do girls typically start menstruating?"
+    }
+  ]
+}

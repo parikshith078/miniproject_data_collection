@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Pollination is crucial for plant reproduction and can occur in different ways. Thus the pollen needs to be transferred from the stamen to the stigma. If this transfer of pollen occurs in the same flower, it is referred to as self-pollination.",
+      "question": "What is self-pollination?"
+    },
+    {
+      "context": "Self-pollination occurs within a single flower, whereas cross-pollination involves different flowers. If the pollen is transferred from one flower to another, it is known as cross-pollination.",
+      "question": "What is cross-pollination?"
+    },
+    {
+      "context": "Pollination can be achieved by various agents. This transfer of pollen from one flower to another is achieved by agents like wind, water, or animals.",
+      "question": "What are the agents of pollination?"
+    },
+    {
+      "context": "While self-pollination occurs in the same flower, cross-pollination enhances genetic diversity. If the pollen is transferred from one flower to another, it is known as cross-pollination.",
+      "question": "Why is cross-pollination important?"
+    },
+    {
+      "context": "Many plants rely on external agents for reproduction. This transfer of pollen from one flower to another is achieved by agents like wind, water, or animals.",
+      "question": "How does wind contribute to pollination?"
+    }
+  ]
+}

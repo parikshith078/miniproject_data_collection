@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Essential life processes include the characteristics that organisms carry out to maintain life such as respiration, sensitivity, movement, growth, reproduction, excretion, and nutrition. Each of these processes is crucial for sustaining life and ensuring that organisms can adapt and survive in their environments.",
+      "question": "What are essential life processes?"
+    },
+    {
+      "context": "These life processes work interdependently within living organisms. For example, plants carry out photosynthesis as part of nutrition, while animals perform respiration to exchange gases and produce energy, facilitating other processes like movement and growth.",
+      "question": "How do life processes work together?"
+    },
+    {
+      "context": "Growth is a vital life process where organisms increase in size and maturity over time. This process involves cell division and differentiation, allowing living beings to develop from single cells into complex structures, which is essential for reproduction and survival.",
+      "question": "What is the importance of growth in life processes?"
+    },
+    {
+      "context": "Reproduction is another essential life process that enables species to perpetuate themselves. It can occur sexually or asexually, and this diversity in reproductive strategies increases the chances of survival against environmental changes and challenges.",
+      "question": "Why is reproduction important for life?"
+    },
+    {
+      "context": "Excretion is the process of removing waste products from an organism's body, which is vital to prevent toxic buildup. This function is performed by specialized organs depending on the organism, playing a key role in maintaining homeostasis.",
+      "question": "What role does excretion play in life processes?"
+    }
+  ]
+}

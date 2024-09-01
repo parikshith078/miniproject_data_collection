@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "An egg by dissolving it in dilute hydrochloric acid. The shell is mostly calcium carbonate. A thin outer skin now encloses the egg. Put the egg in pure water and observe after 5 minutes. What do we observe? The egg swells because water passes into it by osmosis.",
+      "question": "What happens to the egg in pure water?"
+    },
+    {
+      "context": "Place a similar de-shelled egg in a concentrated salt solution and observe for 5 minutes. The egg shrinks. Why? Water passes out of the egg solution into the salt solution because the salt solution is more concentrated.",
+      "question": "Why does the egg shrink in salt solution?"
+    },
+    {
+      "context": "Each gains water and swells when placed in water. However, when placed in the concentrated solution it loses water, and consequently shrinks. Unicellular freshwater organisms and most plant cells tend to gain water through osmosis.",
+      "question": "What happens to dried fruits in plain water?"
+    },
+    {
+      "context": "Absorption of water by plant roots is also an example of osmosis. Thus, diffusion is important in exchange of gases and water in the life of a cell. In additions to this, the cell also obtains nutrition from its environment.",
+      "question": "Why is diffusion important for cells?"
+    },
+    {
+      "context": "The plasma membrane is flexible and is made up of organic molecules called lipids and proteins. However, we can observe the structure of the plasma membrane only through an electron microscope.",
+      "question": "What is the composition of the plasma membrane?"
+    },
+    {
+      "context": "The flexibility of the cell membrane also enables the cell to engulf in food and other material from its external environment. Such processes are known as endocytosis.",
+      "question": "What is endocytosis in cells?"
+    },
+    {
+      "context": "Amoeba acquires its food through such processes. Dried raisins or apricots in plain water can show how cells absorb water through osmosis.",
+      "question": "How does an amoeba obtain its food?"
+    }
+  ]
+}

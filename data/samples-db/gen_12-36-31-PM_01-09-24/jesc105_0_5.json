@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The process of acquiring oxygen from outside the body, and to use it in the process of break-down of food sources for cellular needs, is what we call respiration.",
+      "question": "What is the definition of respiration?"
+    },
+    {
+      "context": "Oxidising-reducing reactions are some of the most common chemical means to break-down molecules.",
+      "question": "What are oxidising-reducing reactions used for?"
+    },
+    {
+      "context": "For this, many organisms use oxygen sourced from outside the body.",
+      "question": "Where do many organisms source their oxygen?"
+    },
+    {
+      "context": "Respiration is the process of acquiring oxygen and using it for cellular needs.",
+      "question": "How does respiration benefit cells?"
+    },
+    {
+      "context": "Many organisms use oxygen sourced from outside the body for respiration.",
+      "question": "Why do organisms need oxygen for respiration?"
+    }
+  ]
+}

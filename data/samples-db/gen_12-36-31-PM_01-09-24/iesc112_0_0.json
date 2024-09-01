@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "We know that all living organisms need food. Food supplies proteins, carbohydrates, fats, vitamins and minerals, all of which we require for body development, growth and health. Both plants and animals are major sources of food for us.",
+      "question": "Why do living organisms need food?"
+    },
+    {
+      "context": "We obtain most of this food from agriculture and animal husbandry. We read in newspapers that efforts are always being made to improve production from agriculture and animal husbandry.",
+      "question": "How do we obtain most of our food?"
+    },
+    {
+      "context": "India is a very populous country. Our population is more than one billion people, and it is still growing. As food for this growing population, we will soon need more than a quarter of a billion tonnes of grain every year.",
+      "question": "What is India's current population?"
+    },
+    {
+      "context": "But India is already intensively cultivated. Therefore, it is necessary to increase our production efficiency for both crops and livestock.",
+      "question": "Why is more food production efficiency necessary?"
+    },
+    {
+      "context": "As food for this growing population, we will soon need more than a quarter of a billion tonnes of grain every year. This can be done by farming on more land.",
+      "question": "How much grain will India need annually?"
+    }
+  ]
+}

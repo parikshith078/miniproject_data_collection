@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "There are two modes by which animals reproduce. These are: (i) Sexual reproduction, and (ii) Asexual reproduction. Sexual reproduction involves the combination of genetic material from two parents, while asexual reproduction results in offspring that are genetically identical to a single parent.",
+      "question": "What are the two modes of reproduction?"
+    },
+    {
+      "context": "There are two modes by which animals reproduce. These are: (i) Sexual reproduction, and (ii) Asexual reproduction. Asexual reproduction includes methods like fission, budding, and fragmentation, which all produce clones of the parent.",
+      "question": "What is a characteristic of asexual reproduction?"
+    },
+    {
+      "context": "There are two modes by which animals reproduce: sexual and asexual. Sexual reproduction leads to genetic diversity, while asexual reproduction results in genetically identical offspring, leading to less variation within a population.",
+      "question": "How does sexual reproduction affect genetic diversity?"
+    },
+    {
+      "context": "There are two modes by which animals reproduce: Sexual reproduction, involving two parents, and asexual reproduction, which requires only one parent. A common example of asexual reproduction is budding in certain organisms like hydra.",
+      "question": "What is an example of asexual reproduction?"
+    },
+    {
+      "context": "There are two primary modes of reproduction animals use: sexual and asexual. While sexual reproduction combines genetic material from two individuals, asexual reproduction allows a single organism to reproduce independently.",
+      "question": "What is the role of two parents in reproduction?"
+    }
+  ]
+}

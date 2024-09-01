@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The plant cell wall is mainly composed of cellulose. Cellulose is a complex substance and provides structural strength to plants. When a living plant cell loses water through osmosis, there is shrinkage or contraction of the contents of the cell away from the cell wall. This phenomenon is known as plasmolysis.",
+      "question": "What is the main component of the cell wall?"
+    },
+    {
+      "context": "Plasmolysis occurs when a living plant cell loses water through osmosis. We can observe this phenomenon by performing specific activities with Rhoeo leaves.",
+      "question": "What is plasmolysis in plant cells?"
+    },
+    {
+      "context": "It appears that only living cells, and not dead cells, are able to absorb water by osmosis. Cell walls permit the cells of plants, fungi and bacteria to withstand very dilute (hypotonic) external media without bursting.",
+      "question": "Which cells can absorb water by osmosis?"
+    },
+    {
+      "context": "In such media, the cells tend to take up water by osmosis. The cell swells, building up pressure against the cell wall. The wall exerts an equal pressure against the swollen cell.",
+      "question": "What happens to cells in hypotonic media?"
+    },
+    {
+      "context": "The cell wall lies outside the plasma membrane. The cell wall allows plant cells to withstand changes in their surrounding medium better than animal cells.",
+      "question": "What is the location of the cell wall in plant cells?"
+    }
+  ]
+}

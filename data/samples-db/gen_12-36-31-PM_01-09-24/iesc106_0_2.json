@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The growth of plants occurs only in certain specific regions. This is because the dividing tissue, also known as meristematic tissue, is located only at these points. Depending on the region where they are present, meristematic tissues are classified as apical, lateral, and intercalary.",
+      "question": "What are the types of meristematic tissue?"
+    },
+    {
+      "context": "Apical meristem is present at the growing tips of stems and roots and increases the length of the stem and the root. The girth of the stem or root increases due to lateral meristem (cambium).",
+      "question": "Where is apical meristem located?"
+    },
+    {
+      "context": "New cells produced by meristem are initially like those of meristem itself, but as they grow and mature, their characteristics slowly change and they become differentiated as components of other tissues.",
+      "question": "How do meristematic cells change over time?"
+    },
+    {
+      "context": "Cells of meristematic tissue are very active; they have dense cytoplasm, thin cellulose walls, and prominent nuclei. They lack vacuoles.",
+      "question": "What characteristics do meristematic cells lack?"
+    },
+    {
+      "context": "Intercalary meristem, seen in some plants, is located near the node. Cells of meristematic tissue are very active; they have dense cytoplasm, thin cellulose walls, and prominent nuclei.",
+      "question": "What is the function of intercalary meristem?"
+    }
+  ]
+}

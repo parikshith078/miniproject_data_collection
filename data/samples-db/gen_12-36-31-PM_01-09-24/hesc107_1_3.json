@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The hormones secreted by the pituitary stimulate testes and ovaries to produce their hormones. You have already learnt that the pituitary gland is an endocrine gland. It is attached to the brain.",
+      "question": "What do pituitary hormones stimulate?"
+    },
+    {
+      "context": "Apart from the pituitary, the testes and the ovaries, there are other endocrine glands in the body such as thyroid, pancreas and adrenals.",
+      "question": "Name three other endocrine glands."
+    },
+    {
+      "context": "You have already learnt that the pituitary gland is an endocrine gland. It is attached to the brain.",
+      "question": "Where is the pituitary gland located?"
+    },
+    {
+      "context": "The hormones secreted by the pituitary stimulate testes and ovaries to produce their hormones. Apart from the pituitary, the testes and the ovaries, there are other endocrine glands in the body.",
+      "question": "Which glands are stimulated by the pituitary?"
+    },
+    {
+      "context": "The hormones secreted by the pituitary stimulate testes and ovaries to produce their hormones. It is attached to the brain.",
+      "question": "What is the function of pituitary hormones?"
+    }
+  ]
+}

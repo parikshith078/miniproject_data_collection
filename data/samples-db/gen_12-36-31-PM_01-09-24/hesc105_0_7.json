@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Having become aware of the effects of deforestation, Paheli and Boojho are worried. They go to Professor Ahmad and ask him how forests and wildlife can be saved.",
+      "question": "Who are Paheli and Boojho concerned about?"
+    },
+    {
+      "context": "Biosphere is that part of the earth in which living organisms exist or which supports life. Biological diversity or biodiversity, refers to the variety of organisms existing on the earth, their interrelationships and their relationship with the environment.",
+      "question": "What does biodiversity refer to?"
+    },
+    {
+      "context": "They go to Professor Ahmad and ask him how forests and wildlife can be saved. Biosphere is that part of the earth in which living organisms exist or which supports life.",
+      "question": "Who do Paheli and Boojho seek advice from?"
+    },
+    {
+      "context": "Biological diversity or biodiversity, refers to the variety of organisms existing on the earth, their interrelationships and their relationship with the environment.",
+      "question": "What does the term biosphere mean?"
+    },
+    {
+      "context": "Having become aware of the effects of deforestation, Paheli and Boojho are worried. They go to Professor Ahmad and ask him how forests and wildlife can be saved.",
+      "question": "What issue causes concern for Paheli and Boojho?"
+    }
+  ]
+}

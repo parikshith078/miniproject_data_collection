@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Cell division is essential for growth, replacement of dead cells, and forming gametes. Mitosis creates two identical daughter cells, while meiosis involves two divisions, producing four cells with half the chromosomes.",
+      "question": "What is the purpose of cell division?"
+    },
+    {
+      "context": "In cell division, mitosis occurs for growth and tissue repair, generating two identical daughter cells. In contrast, meiosis produces four gametes with half the chromosomes of the mother cell.",
+      "question": "How many cells does mitosis produce?"
+    },
+    {
+      "context": "Mitosis results in daughter cells with the same number of chromosomes as the mother cell. Conversely, meiosis reduces the chromosome number by half, resulting in four new cells.",
+      "question": "What is the outcome of meiosis?"
+    },
+    {
+      "context": "The mother cell divides through mitosis, producing two identical daughter cells essential for tissue repair. Gametes are produced through meiosis, which is crucial for reproduction.",
+      "question": "What type of cell division forms gametes?"
+    },
+    {
+      "context": "Cell division is vital for organisms to grow, replace cells, and reproduce. Mitosis is crucial for growth, while meiosis results in gametes for reproduction through two divisions.",
+      "question": "What are the two types of cell division?"
+    },
+    {
+      "context": "Meiosis includes two consecutive divisions, producing four cells with half the chromosomes of the original mother cell. This process is necessary for sexual reproduction in organisms.",
+      "question": "What happens during meiosis?"
+    }
+  ]
+}

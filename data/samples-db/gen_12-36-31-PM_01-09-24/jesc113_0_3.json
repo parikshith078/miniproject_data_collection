@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Organisms can be grouped as producers, consumers and decomposers according to the manner in which they obtain their sustenance from the environment.",
+      "question": "What are the three groups of organisms?"
+    },
+    {
+      "context": "All green plants and certain bacteria are called the producers.",
+      "question": "Which organisms are classified as producers?"
+    },
+    {
+      "context": "Organisms depend on the producers either directly or indirectly for their sustenance.",
+      "question": "How do organisms rely on producers?"
+    },
+    {
+      "context": "These organisms which consume the food produced are called the consumers.",
+      "question": "What term is used for organisms that consume food?"
+    },
+    {
+      "context": "Organisms can be grouped as producers, consumers and decomposers according to the manner in which they obtain their sustenance.",
+      "question": "What criterion is used to group organisms?"
+    },
+    {
+      "context": "Producers make organic compounds like sugar and starch from inorganic substances using the radiant energy of the Sun.",
+      "question": "How do producers create organic compounds?"
+    },
+    {
+      "context": "Organisms depend on the producers either directly or indirectly for their sustenance.",
+      "question": "Do consumers rely on producers directly?"
+    },
+    {
+      "context": "Certain bacteria along with green plants can be classified as producers.",
+      "question": "What type of bacteria are also considered producers?"
+    }
+  ]
+}

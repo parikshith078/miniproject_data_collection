@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cork tissue is a protective layer found in the bark of trees and serves multiple purposes. It acts as a barrier against environmental threats such as pathogens, physical damage, and water loss. Additionally, cork cells are filled with air, which aids insulation and supports the structure of the plant.",
+      "question": "What role does cork play in plants?"
+    },
+    {
+      "context": "The cork layer contains suberin, a waxy substance that makes the tissue impermeable to water and gases. This property is essential in preventing extreme water loss in dry conditions, thus helping the plant retain moisture. The layers of cork also help protect underlying tissues from mechanical injury.",
+      "question": "How does suberin enhance the cork's function?"
+    },
+    {
+      "context": "Cork tissues are developed from the cork cambium, a layer of meristematic cells that produce cork cells on the outside and phelloderm on the inside. The continuous production of cork throughout the life of the tree increases its ability to protect against external stresses and contributes to the overall durability of the plant.",
+      "question": "Where do cork tissues originate in plants?"
+    },
+    {
+      "context": "Due to its structure, cork also provides thermal insulation, which helps plants survive in varying temperature conditions. It keeps the inner tissues safe from extreme heat or cold, thereby maintaining metabolic functions effectively throughout the seasons.",
+      "question": "Why is thermal insulation important for cork?"
+    },
+    {
+      "context": "The cork's protective function extends to preventing water loss and providing a defense against pest invasions. Its effective barrier qualities enable trees to stay healthy and thriving despite changes in their environment, contributing to their long lifespan.",
+      "question": "In what ways does cork defend against pests?"
+    }
+  ]
+}

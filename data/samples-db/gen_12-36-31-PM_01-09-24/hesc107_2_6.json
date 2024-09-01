@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "As children grow, there are noticeable patterns in height development between boys and girls. In early childhood, boys and girls grow at similar rates. However, during puberty, girls tend to experience a growth spurt earlier than boys, leading to a temporary height advantage for girls.",
+      "question": "What patterns are observed in height growth?"
+    },
+    {
+      "context": "The interaction between height and age reveals distinct growth trajectories for boys and girls. Until age 10, there is little difference in their heights. Post puberty, typically around age 12 for girls and 14 for boys, girls often reach their adult height sooner.",
+      "question": "At what age do girls typically grow taller?"
+    },
+    {
+      "context": "In analyzing the height data and corresponding age, it becomes clear that girls' growth spurts occur earlier than those of boys. By the age of 14, many girls have reached significant portions of their adult height, which contrasts with boys who continue to grow.",
+      "question": "Who experiences growth spurts earlier?"
+    }
+  ]
+}

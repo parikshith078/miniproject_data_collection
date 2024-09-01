@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Walking and playing in fresh air keeps the body fit and healthy. All young boys and girls should take walks, exercise and play outdoor games.",
+      "question": "Why is outdoor activity important for young people?"
+    },
+    {
+      "context": "Walking and playing in fresh air keeps the body fit and healthy. All young boys and girls should take walks, exercise and play outdoor games.",
+      "question": "What activities are suggested for physical fitness?"
+    },
+    {
+      "context": "Walking and playing in fresh air keeps the body fit and healthy. All young boys and girls should take walks, exercise and play outdoor games.",
+      "question": "How does fresh air contribute to health?"
+    },
+    {
+      "context": "Walking and playing in fresh air keeps the body fit and healthy. All young boys and girls should take walks, exercise and play outdoor games.",
+      "question": "Who should engage in outdoor games and activities?"
+    },
+    {
+      "context": "Walking and playing in fresh air keeps the body fit and healthy. All young boys and girls should take walks, exercise and play outdoor games.",
+      "question": "What benefits do outdoor games provide?"
+    }
+  ]
+}

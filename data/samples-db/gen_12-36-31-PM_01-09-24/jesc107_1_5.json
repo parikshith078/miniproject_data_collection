@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Germ cells from two individuals combine during sexual reproduction to form a zygote, which has the correct chromosome number and DNA content. This zygote requires energy stores to develop into an organism with specialised tissues.",
+      "question": "Why are energy stores important for the zygote?"
+    },
+    {
+      "context": "When two germ cells unite, they create a zygote with the appropriate chromosome number. For the organism to develop properly, it needs to have adequate energy reserves.",
+      "question": "What happens when germ cells combine during reproduction?"
+    },
+    {
+      "context": "The union of two germ cells during reproduction leads to a zygote, which must gather energy to grow into a fully developed organism with specific tissues and organs.",
+      "question": "What must the zygote gather to develop properly?"
+    },
+    {
+      "context": "During sexual reproduction, germ cells merge, creating a zygote. To become a complex organism, this zygote must have enough energy reserves.",
+      "question": "What is formed when germ cells combine?"
+    },
+    {
+      "context": "For an organism to develop from a zygote with specialised organs, it needs sufficient energy once germ cells combine during sexual reproduction.",
+      "question": "How does a zygote develop into an organism?"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Mendel's experiments with pea plants showed that traits are inherited in a predictable manner, revealing that some traits can mask the presence of others, leading to the concept of dominance and recessiveness. Through careful cross-breeding of plants with various traits, he observed that certain traits appeared more frequently in the offspring, while others were hidden.",
+      "question": "What do Mendel’s experiments demonstrate about dominance?"
+    },
+    {
+      "context": "Mendel's law of independent assortment explains that traits are inherited independently from one another. In his experiments, he crossed pea plants with two different traits and found that the inheritance of one trait did not affect the inheritance of the other. This principle helps to predict the genetic makeup of future generations.",
+      "question": "What does Mendel’s law of independent assortment state?"
+    },
+    {
+      "context": "In a scenario where a man with blood group A marries a woman with blood group O, their daughter having blood group O suggests that the A allele from the father is not sufficient to display the A trait, indicating that the O blood group trait might be recessive. However, further analysis of the father's genotype (AA or AO) would be needed to confirm which trait is dominant.",
+      "question": "Can the blood type information confirm which trait is dominant?"
+    },
+    {
+      "context": "In humans, the sex of a child is determined by the combination of sex chromosomes inherited from the parents. Females have two X chromosomes, while males have one X and one Y chromosome. A child inherits one sex chromosome from each parent, determining whether they will develop as male or female, depending on the presence of the Y chromosome.",
+      "question": "How is a child's sex determined in humans?"
+    }
+  ]
+}

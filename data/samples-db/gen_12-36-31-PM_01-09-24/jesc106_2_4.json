@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Insulin is a hormone produced by the pancreas and helps in regulating blood sugar levels. If it is not secreted in proper amounts, the sugar level in the blood rises, causing many harmful effects.",
+      "question": "What hormone regulates blood sugar levels?"
+    },
+    {
+      "context": "As a treatment, they might be taking injections of insulin, which helps in regulating blood sugar levels.",
+      "question": "What treatment involves taking insulin injections?"
+    },
+    {
+      "context": "If insulin is not secreted in proper amounts, the sugar level in the blood rises, causing many harmful effects.",
+      "question": "What happens if insulin is not secreted properly?"
+    },
+    {
+      "context": "Diabetes is a condition where the body has issues with insulin, leading to high blood sugar levels.",
+      "question": "What condition is related to insulin issues?"
+    },
+    {
+      "context": "Insulin is important for regulating sugar levels and its lack can lead to serious health issues.",
+      "question": "Why is insulin important for health?"
+    }
+  ]
+}

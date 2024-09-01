@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Reflex arcs are formed in the spinal cord itself, although the information input also goes on to reach the brain. Reflex arcs have evolved in animals because the thinking process of the brain is not fast enough. In fact, many animals have very little or none of the complex neuron network needed for thinking.",
+      "question": "Why do reflex arcs evolve in animals?"
+    },
+    {
+      "context": "Such a connection is commonly called a reflex arc. Nerves from all over the body meet in a bundle in the spinal cord on their way to the brain. Reflex arcs are formed in this spinal cord itself, although the information input also goes on to reach the brain.",
+      "question": "What is a reflex arc?"
+    },
+    {
+      "context": "The best place, of course, would be at the point where they first meet each other. Nerves from all over the body meet in a bundle in the spinal cord on their way to the brain. Reflex arcs have evolved in animals because the thinking process of the brain is not fast enough.",
+      "question": "Where do nerves meet to form reflex arcs?"
+    },
+    {
+      "context": "Rather than having to think about the sensation of heat, if the nerves that detect heat were to be connected to the nerves that move muscles in a simpler way, the process of detecting the signal or the input and responding to it by an output action might be completed quickly.",
+      "question": "How do reflex actions work?"
+    },
+    {
+      "context": "Of course, reflex arcs have evolved in animals because the thinking process of the brain is not fast enough. In fact, many animals have very little or none of the complex neuron network needed for thinking.",
+      "question": "What limits brain processing in reflex actions?"
+    }
+  ]
+}

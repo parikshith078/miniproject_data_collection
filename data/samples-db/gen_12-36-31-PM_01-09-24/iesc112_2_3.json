@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Popular marine fish varieties include pomfret, mackerel, tuna, sardines, and Bombay duck. Marine fish are caught using many kinds of fishing nets from fishing boats.",
+      "question": "What are popular varieties of marine fish?"
+    },
+    {
+      "context": "Some marine fish of high economic value are also farmed in seawater. This includes finned fishes like mullets, bhetki, and pearl spots, shellfish such as prawns, mussels, and oysters as well as seaweed.",
+      "question": "What types of marine life are farmed?"
+    },
+    {
+      "context": "Yields are increased by locating large schools of fish in the open sea using satellites and echo-sounders. Some marine fish of high economic value are also farmed in seawater.",
+      "question": "How are marine fish yields increased?"
+    },
+    {
+      "context": "As marine fish stocks get further depleted, the demand for more fish can only be met by such culture fisheries, a practice called mariculture.",
+      "question": "What practice helps meet the demand for fish?"
+    },
+    {
+      "context": "Oysters are also cultivated for the pearls they make. This includes finned fishes like mullets, bhetki, and pearl spots, shellfish such as prawns, mussels, and oysters as well as seaweed.",
+      "question": "What are oysters cultivated for?"
+    }
+  ]
+}

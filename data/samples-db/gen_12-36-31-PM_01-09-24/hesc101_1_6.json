@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "In harvesting, crops are pulled out or cut close to the ground. It usually takes 3 to 4 months for a cereal crop to mature.",
+      "question": "How long does it take for cereal crops to mature?"
+    },
+    {
+      "context": "Harvesting in our country is either done manually by sickle or by a machine called harvester.",
+      "question": "What tools are used for harvesting crops?"
+    },
+    {
+      "context": "The grain seeds need to be separated from the chaff. This process is called threshing.",
+      "question": "What is the process to separate seeds from chaff?"
+    },
+    {
+      "context": "This is carried out with the help of a machine called ‘combine’ which is in fact a harvester as well as a thresher.",
+      "question": "What is a combine used for in harvesting?"
+    },
+    {
+      "context": "Harvesting crops can be done either manually by sickle or by a machine called harvester.",
+      "question": "What are the two methods of harvesting discussed?"
+    },
+    {
+      "context": "This process is called threshing. This is carried out with the help of a machine called ‘combine’ which is in fact a harvester as well as a thresher.",
+      "question": "What equipment assists in the threshing process?"
+    }
+  ]
+}

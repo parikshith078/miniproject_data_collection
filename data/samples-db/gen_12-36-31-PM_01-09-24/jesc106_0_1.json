@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Blocking your nose affects your sense of smell, which is crucial for tasting flavors. While sugar may feel sweet, much of what we perceive as taste is actually detected by our noses. When you eat with a blocked nose, you may only experience the basic sweetness without the complexity of flavors that come from the aroma of the food.",
+      "question": "Why does blocking the nose change taste?"
+    },
+    {
+      "context": "When you have a cold, your nasal passages may be congested, limiting your ability to smell. This can significantly dull your sense of taste, causing food to seem bland and unappetizing. The blockage removes the rich flavors usually detected through aromas, leading to a diminished tasting experience.",
+      "question": "How does a cold affect your sense of taste?"
+    },
+    {
+      "context": "Taste is a combination of both gustatory (taste) and olfactory (smell) senses. When you take a bite of food, the aroma travels up to your olfactory receptors, which enhance the flavors experienced. Blocking your nose prevents this aroma from reaching your sense of smell, reducing flavor perception and altering the overall eating experience.",
+      "question": "What roles do taste and smell play together?"
+    },
+    {
+      "context": "The human nervous system integrates various sensory inputs to create a complete perception of flavor. When you block your nose while tasting sugar or food, the absence of smell can lead to an incomplete sensory experience, preventing you from fully appreciating the taste. This integration is disrupted in cold and blocked nose situations.",
+      "question": "How does the nervous system integrate taste and smell?"
+    },
+    {
+      "context": "Our sense of smell plays a vital part in the way we experience flavors. Many foods may taste bland or less flavorful if the ability to smell is inhibited. When you block your nose and consume sugar, you're likely only sensing sweetness rather than the full flavor spectrum, which includes smells that enhance taste.",
+      "question": "What is the role of smell in tasting food?"
+    }
+  ]
+}

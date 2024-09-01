@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "This change from larva to adult is called metamorphosis. Metamorphosis in insects is controlled by insect hormones. In a frog, it is controlled by thyroxine, the hormone produced by thyroid.",
+      "question": "What is metamorphosis in frogs controlled by?"
+    },
+    {
+      "context": "Thyroxine production requires the presence of iodine in water. If the water in which the tadpoles are growing does not contain sufficient iodine, the tadpoles cannot become adults.",
+      "question": "What is necessary for thyroxine production?"
+    },
+    {
+      "context": "This change from larva to adult is called metamorphosis. In a frog, it is controlled by thyroxine, the hormone produced by thyroid.",
+      "question": "What is the term used for the larva to adult change?"
+    },
+    {
+      "context": "If the water in which the tadpoles are growing does not contain sufficient iodine, the tadpoles cannot become adults. Metamorphosis in insects is controlled by insect hormones.",
+      "question": "What happens if there is insufficient iodine in water?"
+    },
+    {
+      "context": "Metamorphosis in insects is controlled by insect hormones. In a frog, it is controlled by thyroxine, the hormone produced by thyroid.",
+      "question": "What hormone controls frog metamorphosis?"
+    }
+  ]
+}

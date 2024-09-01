@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Adolescents are more independent than before and are also self-conscious. Intellectual development takes place and they tend to spend considerable time thinking.",
+      "question": "How do adolescents demonstrate independence?"
+    },
+    {
+      "context": "Intellectual development takes place and they tend to spend considerable time thinking. It is often the time in one’s life when the brain has the greatest capacity for learning.",
+      "question": "When does the brain have high learning capacity?"
+    },
+    {
+      "context": "Sometimes, however, an adolescent may feel insecure while trying to adjust to the changes in the body and mind. But as adolescent learners, you should know that there is no reason to feel insecure.",
+      "question": "Why might adolescents feel insecure?"
+    },
+    {
+      "context": "These changes are a natural part of growing up. Adolescents are more independent than before and are also self-conscious.",
+      "question": "What are natural changes in adolescence?"
+    },
+    {
+      "context": "Adolescence is also a period of change in a person’s way of thinking. It is often the time in one’s life when the brain has the greatest capacity for learning.",
+      "question": "What changes occur in thinking during adolescence?"
+    }
+  ]
+}

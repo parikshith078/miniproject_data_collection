@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Without decomposers in the ecosystem, garbage and organic waste would accumulate, leading to a buildup of dead plants and animals. This would result in a significant disruption in nutrient cycling, as nutrients would not be recycled back into the soil for plant uptake. The ecosystem could eventually become unhealthy, affecting other organisms.",
+      "question": "What happens if decomposers are absent?"
+    },
+    {
+      "context": "Decomposers play a crucial role in breaking down organic material, returning vital nutrients to the soil. If these organisms were not present, the ecosystem would face challenges including nutrient depletion and increased waste. This could harm plant life and ultimately affect the entire food web.",
+      "question": "How do decomposers affect nutrient cycling?"
+    },
+    {
+      "context": "The absence of decomposers leads to an environment filled with dead organisms, as decomposition would not occur. This lack of breakdown could create unsanitary conditions, potentially leading to diseases and the collapse of local ecosystems, as plants would lack necessary nutrients.",
+      "question": "What would happen to dead organisms without decomposers?"
+    },
+    {
+      "context": "Microorganisms like bacteria and fungi act as decomposers by breaking down dead materials and waste. In their absence, ecosystems can deteriorate as the organic material cannot return to the soil, potentially leading to a shortage of nutrients necessary for plant growth and survival.",
+      "question": "What role do microorganisms play in the ecosystem?"
+    },
+    {
+      "context": "Decomposers, including bacteria and fungi, are essential for recycling nutrients. They break down complex organic compounds into simpler substances that enrich the soil. Without these processes, the environment would struggle with overloads of organic waste, which would hinder plant growth and biodiversity.",
+      "question": "Why are decomposers vital for plant growth?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Paheli and Boojho had visited the forest along with Professor Ahmad and Tibu. They were eager to share their experiences with their classmates.",
+      "question": "Who visited the forest with Paheli and Boojho?"
+    },
+    {
+      "context": "Other children in the class were eager to share their experiences as some of them had visited Bharatpur Sanctuary.",
+      "question": "Which sanctuary did some children visit?"
+    },
+    {
+      "context": "Some others had heard about Kaziranga National Park, Lockchao Wildlife Sanctuary, Great Nicobar Biosphere Reserve and Tiger Reserve, etc.",
+      "question": "What is one of the parks mentioned in the text?"
+    },
+    {
+      "context": "They were eager to share their experiences with their classmates.",
+      "question": "Who were eager to share their experiences?"
+    },
+    {
+      "context": "The experiences of children in forests included various national parks and sanctuaries.",
+      "question": "What was a common theme of the children's experiences?"
+    }
+  ]
+}

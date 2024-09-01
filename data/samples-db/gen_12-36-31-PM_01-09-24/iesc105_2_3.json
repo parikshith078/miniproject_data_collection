@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Plastids are present only in plant cells. There are two types of plastids – chromoplasts (coloured plastids) and leucoplasts (white or colourless plastids).",
+      "question": "What types of plastids are found in plant cells?"
+    },
+    {
+      "context": "Chloroplasts are important for photosynthesis in plants. Chloroplasts also contain various yellow or orange pigments in addition to chlorophyll.",
+      "question": "What is the main function of chloroplasts?"
+    },
+    {
+      "context": "Leucoplasts are primarily organelles in which materials such as starch, oils and protein granules are stored.",
+      "question": "What do leucoplasts mainly store?"
+    },
+    {
+      "context": "The internal organisation of the chloroplast consists of numerous membrane layers embedded in a material called the stroma.",
+      "question": "What is the material inside chloroplasts called?"
+    },
+    {
+      "context": "Like the mitochondria, plastids also have their own DNA and ribosomes.",
+      "question": "Do plastids have their own DNA?"
+    },
+    {
+      "context": "Chloroplasts containing the pigment chlorophyll are known as chloroplasts.",
+      "question": "What pigment is found in chloroplasts?"
+    },
+    {
+      "context": "Chromoplasts containing the pigment chlorophyll are known as chloroplasts. Chloroplasts are important for photosynthesis in plants.",
+      "question": "What pigment do chromoplasts contain?"
+    },
+    {
+      "context": "Chloroplasts contain various yellow or orange pigments in addition to chlorophyll.",
+      "question": "What additional pigments do chloroplasts contain?"
+    },
+    {
+      "context": "The internal organisation of the chloroplast consists of numerous membrane layers embedded in a material called the stroma.",
+      "question": "What characterizes the internal structure of chloroplasts?"
+    },
+    {
+      "context": "Leucoplasts are primarily organelles in which materials such as starch, oils and protein granules are stored.",
+      "question": "What kinds of materials can leucoplasts store?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Food is also obtained from animals for which animals are reared. This is called animal husbandry. Many people living in the coastal areas consume fish as a major part of their diet.",
+      "question": "What does animal husbandry refer to?"
+    },
+    {
+      "context": "Food is also obtained from animals for which animals are reared. This is called animal husbandry. Many people living in the coastal areas consume fish as a major part of their diet.",
+      "question": "How do coastal people obtain food?"
+    },
+    {
+      "context": "Food is also obtained from animals for which animals are reared. This is called animal husbandry. Many people living in the coastal areas consume fish as a major part of their diet.",
+      "question": "What type of food is important for coastal dwellers?"
+    },
+    {
+      "context": "Food is also obtained from animals for which animals are reared. This is called animal husbandry. Many people living in the coastal areas consume fish as a major part of their diet.",
+      "question": "What is one source of food from animals?"
+    },
+    {
+      "context": "Food is also obtained from animals for which animals are reared. This is called animal husbandry. Many people living in the coastal areas consume fish as a major part of their diet.",
+      "question": "Where is fish consumption significant?"
+    }
+  ]
+}

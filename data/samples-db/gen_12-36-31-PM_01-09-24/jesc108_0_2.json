@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "The most obvious outcome of the reproductive process still remains the generation of individuals of similar design.",
+      "question": "What outcome does reproduction primarily lead to?"
+    },
+    {
+      "context": "The rules of heredity determine the process by which traits and characteristics are reliably inherited.",
+      "question": "What do the rules of heredity determine?"
+    },
+    {
+      "context": "A child bears all the basic features of a human being. However, it does not look exactly like its parents.",
+      "question": "How does a child inherit features from its parents?"
+    },
+    {
+      "context": "Human populations show a great deal of variation despite shared traits.",
+      "question": "What is notable about variation in human populations?"
+    },
+    {
+      "context": "The rules of heredity determine the process by which traits and characteristics are reliably inherited.",
+      "question": "What is inherited through the process of heredity?"
+    },
+    {
+      "context": "Although children share basic features, they do not resemble their parents exactly.",
+      "question": "Do children look exactly like their parents?"
+    },
+    {
+      "context": "Heredity explains the inheritance of traits and characteristics in individuals.",
+      "question": "What does heredity explain regarding individuals?"
+    }
+  ]
+}

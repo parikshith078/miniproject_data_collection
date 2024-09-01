@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Different ways of growing crops can be used to give maximum benefit. Mixed cropping is growing two or more crops simultaneously on the same piece of land, for example, wheat + gram, or wheat + mustard, or groundnut + sunflower.",
+      "question": "What is mixed cropping?"
+    },
+    {
+      "context": "Inter-cropping is growing two or more crops simultaneously on the same field in a definite pattern. A few rows of one crop alternate with a few rows of a second crop, for example, soyabean + maize, or finger millet (bajra) + cowpea (lobia).",
+      "question": "What defines inter-cropping?"
+    },
+    {
+      "context": "This reduces risk and provides some insurance against failure of one of the crops. Inter-cropping is growing two or more crops simultaneously on the same field in a definite pattern.",
+      "question": "What is a benefit of mixed cropping?"
+    },
+    {
+      "context": "The crops are selected such that their nutrient requirements are different. This ensures maximum utilization of the nutrients supplied, and also prevents pests and diseases from spreading to all the plants belonging to one crop in a field.",
+      "question": "How does inter-cropping benefit nutrient use?"
+    },
+    {
+      "context": "Crop rotation is the growing of different crops on a piece of land in a pre-planned succession, which is done for different crop combinations depending upon the duration.",
+      "question": "What is crop rotation?"
+    }
+  ]
+}

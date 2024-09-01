@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "At puberty, the voice box or the larynx begins to grow. Boys develop larger voice boxes. The growing voice box in boys can be seen as a protruding part of the throat called Adam’s apple.",
+      "question": "What changes occur in boys' voice boxes?"
+    },
+    {
+      "context": "Generally, girls have a high pitched voice, whereas boys have a deep voice. In adolescent boys, sometimes, the muscles of the growing voice box go out of control and the voice becomes hoarse.",
+      "question": "How does puberty affect voice pitch in boys and girls?"
+    },
+    {
+      "context": "During puberty, boys begin to grow facial hair and also develop hair on their chest. In both, boys and girls, hair grows under the arms and in the region above the thighs or the pubic region.",
+      "question": "What changes in hair growth occur during puberty?"
+    },
+    {
+      "context": "These features help to distinguish the male from the female—they are called secondary sexual characters.",
+      "question": "What are secondary sexual characters?"
+    },
+    {
+      "context": "In girls, the larynx is hardly visible from the outside because of its small size. Generally, girls have a high pitched voice.",
+      "question": "Why is the larynx less visible in girls?"
+    }
+  ]
+}

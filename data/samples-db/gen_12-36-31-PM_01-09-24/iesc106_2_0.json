@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Tissues are collections of cells that perform specific functions in an organism. They are made up of similar cells that work together to carry out particular tasks necessary for the body's operation. The four main types of tissues in animals are epithelial, connective, muscle, and nervous tissue, each serving distinct functions in maintaining health and supporting life.",
+      "question": "What is the definition of tissue?"
+    },
+    {
+      "context": "In biological terms, a tissue is an ensemble of similar cells that collaborate to fulfill a specific purpose. Tissues are vital components that make up organs and play critical roles in various bodily functions. The classification of tissues helps in studying their structure and function in organisms, providing insight into how they contribute to the overall system.",
+      "question": "How are tissues defined in biology?"
+    },
+    {
+      "context": "The concept of tissue refers to a group of cells that have a common origin and work together to perform a certain function. These tissues are essential for the structure and function of organs, and they can be categorized based on their roles and characteristics. Understanding tissues is crucial for studying anatomy and physiology across different organisms.",
+      "question": "What does tissue refer to in biology?"
+    },
+    {
+      "context": "Tissue is defined as a collection of specialized cells that group together to perform a specific function. This organization allows multicellular organisms to build complex systems and structures that maintain life. Various types of tissues include those involved in protection, support, movement, and communication within the body.",
+      "question": "Can you define what tissue means?"
+    }
+  ]
+}

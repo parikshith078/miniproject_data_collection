@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The reproductive parts of angiosperms are located in the flower. You have already studied the different parts of a flower – sepals, petals, stamens, and pistil.",
+      "question": "What are the main reproductive parts of a flower?"
+    },
+    {
+      "context": "You have already studied the different parts of a flower – sepals, petals, stamens, and pistil. Stamens and pistil are the reproductive parts of a flower which contain the germ-cells.",
+      "question": "Which parts of the flower contain germ-cells?"
+    },
+    {
+      "context": "Stamens and pistil are the reproductive parts of a flower which contain the germ-cells. The reproductive parts of angiosperms are located in the flower.",
+      "question": "Where are the reproductive parts of angiosperms found?"
+    },
+    {
+      "context": "You have already studied the different parts of a flower – sepals, petals, stamens, and pistil. Stamens and pistil are the reproductive parts of a flower.",
+      "question": "Name four parts of a flower you have studied."
+    },
+    {
+      "context": "The reproductive parts of angiosperms are located in the flower. Stamens and pistil are the reproductive parts of a flower which contain the germ-cells.",
+      "question": "What is located in the flower of angiosperms?"
+    }
+  ]
+}

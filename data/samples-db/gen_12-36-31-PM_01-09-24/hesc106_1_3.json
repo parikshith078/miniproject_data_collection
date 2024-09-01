@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Budding is a type of asexual reproduction where a new organism develops from an outgrowth of a parent. In hydra, these outgrowths are called buds, and they form as bulges from the parent body. Observing hydra under a microscope can help identify these buds, which may vary in size.",
+      "question": "What are the outgrowths from the hydra called?"
+    },
+    {
+      "context": "When observing hydra slides, you might notice one or more bulges that represent developing new individuals. These bulges are a key characteristic of the budding process, highlighting a method of asexual reproduction present in both hydra and yeast.",
+      "question": "How do new individuals develop in hydra?"
+    },
+    {
+      "context": "The process of budding in hydra involves a single parent organism producing new individuals through the formation of buds. This is a classic example of asexual reproduction, as no gametes are involved and offspring are genetically identical to the parent.",
+      "question": "What type of reproduction is seen in hydra?"
+    },
+    {
+      "context": "In your examination of hydra slides, observing the number and size of buds can provide insights into the growth and reproductive patterns of these organisms. This observation can also be compared with similar processes occurring in yeast.",
+      "question": "What do you need to count while observing hydra?"
+    },
+    {
+      "context": "The budding process in hydra can be illustrated through a diagram, showcasing the parent hydra and the developing buds. This visual comparison with established figures helps in understanding the asexual reproduction mechanism clearly.",
+      "question": "What should you draw after observing the hydra?"
+    }
+  ]
+}

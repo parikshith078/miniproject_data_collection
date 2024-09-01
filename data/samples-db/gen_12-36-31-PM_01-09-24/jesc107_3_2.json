@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. The ovaries produce eggs and hormones, while the fallopian tubes transport eggs from the ovaries to the uterus. The uterus is where fertilized eggs can implant and develop during pregnancy, and the vagina serves as the birth canal.",
+      "question": "What are the parts of the female reproductive system?"
+    },
+    {
+      "context": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. The function of the ovaries is crucial, as they are the primary female reproductive organs that produce eggs and hormones needed for reproduction.",
+      "question": "What is the function of the ovaries?"
+    },
+    {
+      "context": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. The fallopian tubes play a critical role in transporting eggs from the ovaries to the uterus for potential fertilization.",
+      "question": "What is the role of the fallopian tubes?"
+    },
+    {
+      "context": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. The uterus provides a nurturing environment for a developing fetus during pregnancy.",
+      "question": "What is the function of the uterus?"
+    },
+    {
+      "context": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. The vagina is an essential part of the female anatomy, acting as the passage for menstrual fluid and as a canal for childbirth.",
+      "question": "What role does the vagina play during childbirth?"
+    }
+  ]
+}

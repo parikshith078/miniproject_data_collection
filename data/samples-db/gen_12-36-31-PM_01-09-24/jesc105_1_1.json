@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Each organism is adapted to its environment. The form of nutrition differs depending on the type and availability of food material as well as how it is obtained by the organism.",
+      "question": "How does environment affect organism nutrition?"
+    },
+    {
+      "context": "For example, whether the food source is stationary (such as grass) or mobile (such as a deer), would allow for differences in how the food is accessed.",
+      "question": "What affects food access for organisms?"
+    },
+    {
+      "context": "Some organisms break down the food material outside the body and then absorb it. Examples are fungi like bread moulds, yeast and mushrooms.",
+      "question": "What types of organisms digest food externally?"
+    },
+    {
+      "context": "Others take in whole material and break it down inside their bodies. What can be taken in and broken down depends on the body design and functioning.",
+      "question": "How do some organisms process their food?"
+    },
+    {
+      "context": "This parasitic nutritive strategy is used by a wide variety of organisms like cuscuta (amar-bel), ticks, lice, leeches and tape-worms.",
+      "question": "Which organisms use parasitic nutrition strategies?"
+    }
+  ]
+}

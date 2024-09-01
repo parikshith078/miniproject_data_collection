@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In these processes, ATP is broken down giving rise to a fixed amount of energy which can drive the endothermic reactions taking place in the cell. This energy release is crucial for various cellular functions, including muscle contraction and cellular repair.",
+      "question": "What drives endothermic reactions in cells?"
+    },
+    {
+      "context": "In these processes, ATP is broken down giving rise to a fixed amount of energy which can drive the endothermic reactions taking place in the cell. The breakdown of ATP is a key aspect of metabolism and energy utilization.",
+      "question": "What is ATP broken down to release?"
+    },
+    {
+      "context": "In these processes, ATP is broken down giving rise to a fixed amount of energy which can drive the endothermic reactions taking place in the cell. The energy harnessed from ATP is essential for maintaining cellular activities.",
+      "question": "Why is ATP important for cells?"
+    },
+    {
+      "context": "In these processes, ATP is broken down giving rise to a fixed amount of energy which can drive the endothermic reactions taking place in the cell. Understanding ATP's role helps in grasping how cells manage their energy needs.",
+      "question": "What does ATP breakdown provide for the cell?"
+    },
+    {
+      "context": "In these processes, ATP is broken down giving rise to a fixed amount of energy which can drive the endothermic reactions taking place in the cell. This mechanism allows cells to perform work and functions effectively.",
+      "question": "How do cells utilize the energy from ATP?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "If the medium surrounding the cell has a higher water concentration than the cell, meaning that the outside solution is very dilute, the cell will gain water by osmosis. Such a solution is known as a hypotonic solution.",
+      "question": "What is a hypotonic solution?"
+    },
+    {
+      "context": "If the medium has exactly the same water concentration as the cell, there will be no net movement of water across the cell membrane. This is known as an isotonic solution.",
+      "question": "What occurs in an isotonic solution?"
+    },
+    {
+      "context": "If the medium has a lower concentration of water than the cell, meaning that it is a very concentrated solution, the cell will lose water by osmosis. This is known as a hypertonic solution.",
+      "question": "What happens in a hypertonic solution?"
+    },
+    {
+      "context": "The movement of water across the plasma membrane is also affected by the amount of substance dissolved in water. Thus, osmosis is the net diffusion of water across a selectively permeable membrane toward a higher solute concentration.",
+      "question": "What affects water movement across membranes?"
+    },
+    {
+      "context": "Thus, osmosis is a special case of diffusion through a selectively permeable membrane.",
+      "question": "How is osmosis related to diffusion?"
+    }
+  ]
+}

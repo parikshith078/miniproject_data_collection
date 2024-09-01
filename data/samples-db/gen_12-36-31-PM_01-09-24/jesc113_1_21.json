@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Waste management is crucial for maintaining cleanliness and protecting the environment. Local bodies such as panchayats and municipal corporations are responsible for collecting and treating waste. They implement separate mechanisms to handle biodegradable and non-biodegradable waste. Biodegradable waste often goes to composting facilities, while non-biodegradable waste is sent for recycling or landfilling.",
+      "question": "What is the role of local bodies in waste management?"
+    },
+    {
+      "context": "Many resident welfare associations also play a significant role in managing waste in their communities. They often collaborate with municipal bodies to ensure proper waste segregation at the source. This means residents are encouraged to separate their waste into biodegradable and non-biodegradable categories to make the collection and treatment process more efficient.",
+      "question": "How do resident associations contribute to waste management?"
+    },
+    {
+      "context": "To improve waste management practices, local bodies have started awareness campaigns. These campaigns educate residents about the importance of waste segregation and how it can reduce environmental impact. Many municipalities also provide separate bins for different types of waste to facilitate easier sorting and collection.",
+      "question": "What measures do local bodies use to educate residents?"
+    },
+    {
+      "context": "In some regions, local bodies have set up facilities for processing biodegradable waste into compost. This not only reduces the volume of waste sent to landfills but also provides a useful product for gardening and agriculture. Non-biodegradable waste, on the other hand, is managed through recycling programs to recover materials and reduce landfill use.",
+      "question": "What happens to biodegradable waste in waste management?"
+    },
+    {
+      "context": "The effectiveness of waste management largely depends on public participation. Local bodies encourage community involvement and provide necessary resources such as bins and collection schedules. By treating waste appropriately, communities can significantly minimize their environmental footprint and promote sustainability.",
+      "question": "Why is public participation important in waste management?"
+    }
+  ]
+}

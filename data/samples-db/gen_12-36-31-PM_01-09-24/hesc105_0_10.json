@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Biosphere reserves are the areas meant for conservation of biodiversity. The biosphere reserves help to maintain the biodiversity and culture of that area. A biosphere reserve may also contain other protected areas in it.",
+      "question": "What is the main purpose of biosphere reserves?"
+    },
+    {
+      "context": "The Pachmarhi Biosphere Reserve consists of one national park named Satpura and two wildlife sanctuaries named Bori and Pachmarhi.",
+      "question": "What are the components of Pachmarhi Biosphere Reserve?"
+    },
+    {
+      "context": "Madhavji explains that biosphere reserves are the areas meant for conservation of biodiversity.",
+      "question": "Who explains the purpose of biosphere reserves?"
+    },
+    {
+      "context": "Biosphere reserves help to maintain the biodiversity and culture of that area.",
+      "question": "How do biosphere reserves benefit local culture?"
+    },
+    {
+      "context": "Children along with Professor Ahmad and Madhavji enter the biosphere reserve area.",
+      "question": "Who are the characters visiting the biosphere reserve?"
+    }
+  ]
+}

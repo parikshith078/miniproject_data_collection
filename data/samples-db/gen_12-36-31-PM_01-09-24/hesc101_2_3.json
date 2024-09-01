@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The preparation of soil involves several steps, including ploughing, leveling, and adding manure to enhance soil fertility.",
+      "question": "What steps are involved in soil preparation?"
+    },
+    {
+      "context": "Sowing is the process of planting seeds in the soil, which can be done manually or using machines.",
+      "question": "How can sowing be performed?"
+    },
+    {
+      "context": "Weeding involves removing unwanted plants (weeds) that compete with the crops for nutrients, light, and space.",
+      "question": "What is the purpose of weeding in agriculture?"
+    },
+    {
+      "context": "Threshing is the method of separating the grain from the chaff after harvest, which can be performed by beating the harvested crop or using a threshing machine.",
+      "question": "What is threshing in agriculture?"
+    },
+    {
+      "context": "The preparation of soil involves several steps, including ploughing, leveling, and adding manure to enhance soil fertility.",
+      "question": "Why is manure added during soil preparation?"
+    }
+  ]
+}

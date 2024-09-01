@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Transpiration helps in the absorption and upward movement of water and minerals dissolved in it from roots to leaves. It also helps in temperature regulation.",
+      "question": "What is the role of transpiration in plants?"
+    },
+    {
+      "context": "The loss of water in the form of vapour from the aerial parts of the plant creates a suction that pulls water from the xylem cells of roots.",
+      "question": "How does transpiration create suction in plants?"
+    },
+    {
+      "context": "During the day when the stomata are open, the transpiration pull becomes the major driving force in the movement of water in the xylem.",
+      "question": "When is the major driving force for water movement?"
+    },
+    {
+      "context": "Transpiration helps in the absorption and upward movement of water and minerals dissolved in it from roots to leaves.",
+      "question": "How does transpiration contribute to water absorption?"
+    },
+    {
+      "context": "It also helps in temperature regulation. The loss of water in the form of vapour from the aerial parts of the plant creates a suction.",
+      "question": "What other function does transpiration serve beyond water movement?"
+    }
+  ]
+}

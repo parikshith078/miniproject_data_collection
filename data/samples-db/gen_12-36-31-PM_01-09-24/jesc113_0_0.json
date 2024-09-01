@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Our elders tell us that the ‘environment’ is not what it used to be earlier; others say that we should work in a healthy ‘environment’;",
+      "question": "How has the environment changed over time?"
+    },
+    {
+      "context": "Global summits involving the developed and developing countries are regularly held to discuss ‘environmental’ issues.",
+      "question": "What is the purpose of global summits regarding the environment?"
+    },
+    {
+      "context": "Others say that we should work in a healthy ‘environment’; and global summits involving the developed and developing countries are regularly held.",
+      "question": "Why is a healthy environment important for work?"
+    },
+    {
+      "context": "Our elders tell us that the ‘environment’ is not what it used to be earlier;",
+      "question": "What do elders believe about the current state of the environment?"
+    }
+  ]
+}

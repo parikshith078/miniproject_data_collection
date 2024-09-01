@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Some of these changes are common to both boys and girls. We begin to notice thick hair growing in new parts of the body such as armpits and the genital area between the thighs, which can also become darker in colour.",
+      "question": "What hair changes occur during adolescence?"
+    },
+    {
+      "context": "Thinner hair can also appear on legs and arms, as well as on the face. Thick hair growing in new parts of the body such as armpits.",
+      "question": "Where does thick hair grow during adolescence?"
+    },
+    {
+      "context": "We begin to notice thick hair growing in new parts of the body such as armpits and the genital area between the thighs. Thinner hair can also appear on legs.",
+      "question": "What types of hair growth are observed during puberty?"
+    },
+    {
+      "context": "Thinner hair can also appear on legs and arms, as well as on the face. Some changes are common to both boys and girls.",
+      "question": "What body areas experience thinner hair growth?"
+    },
+    {
+      "context": "Thick hair growing in new parts of the body such as armpits and the genital area between the thighs. Changes are common to both boys and girls.",
+      "question": "Which body areas develop thick hair during adolescence?"
+    }
+  ]
+}

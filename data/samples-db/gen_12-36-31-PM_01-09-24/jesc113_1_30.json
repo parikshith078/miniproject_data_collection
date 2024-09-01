@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The waste we generate may be biodegradable or non-biodegradable. The disposal of the waste we generate is causing serious environmental problems.",
+      "question": "What are the two types of waste?"
+    },
+    {
+      "context": "The waste we generate may be biodegradable or non-biodegradable. The disposal of the waste we generate is causing serious environmental problems.",
+      "question": "Why is waste disposal a concern?"
+    },
+    {
+      "context": "The waste we generate may be biodegradable or non-biodegradable. The disposal of the waste we generate is causing serious environmental problems.",
+      "question": "What does biodegradable waste refer to?"
+    },
+    {
+      "context": "The waste we generate may be biodegradable or non-biodegradable. The disposal of the waste we generate is causing serious environmental problems.",
+      "question": "What type of waste causes serious problems?"
+    },
+    {
+      "context": "The waste we generate may be biodegradable or non-biodegradable. The disposal of the waste we generate is causing serious environmental problems.",
+      "question": "How can waste be categorized?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Plants show two different types of movement – one dependent on growth and the other independent of growth. Let us think about the first kind of movement, such as that of the sensitive plant.",
+      "question": "What are the two types of plant movement?"
+    },
+    {
+      "context": "The directional movement of a seedling is caused by growth. If it is prevented from growing, it will not show any movement.",
+      "question": "What causes the movement of a seedling?"
+    },
+    {
+      "context": "The plants also use electrical-chemical means to convey this information from cell to cell, but unlike in animals, there is no specialised tissue in plants for the conduction of information.",
+      "question": "How do plants convey information internally?"
+    },
+    {
+      "context": "Since no growth is involved, the plant must actually move its leaves in response to touch. But there is no nervous tissue, nor any muscle tissue.",
+      "question": "What kind of tissue is absent in sensitive plants?"
+    },
+    {
+      "context": "If it is prevented from growing, it will not show any movement. So plants show two different types of movement.",
+      "question": "What happens if a plant's growth is prevented?"
+    },
+    {
+      "context": "The sensitive plant moves its leaves in response to touch without involving growth processes.",
+      "question": "How does the sensitive plant respond to touch?"
+    },
+    {
+      "context": "Plants show two different types of movement – one dependent on growth and the other independent of growth.",
+      "question": "Can you name a movement that is independent of growth?"
+    },
+    {
+      "context": "Let us think about the first kind of movement, such as that of the sensitive plant. Since no growth is involved, the plant must actually move its leaves in response to touch.",
+      "question": "What is an example of a plant that moves without growth?"
+    }
+  ]
+}

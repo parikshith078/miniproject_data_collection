@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The alimentary canal is basically a long tube extending from the mouth to the anus. In this, we can see that the tube has different parts. Various regions are specialised to perform different functions.",
+      "question": "What is the main function of the alimentary canal?"
+    },
+    {
+      "context": "When we eat something we like, our mouth ‘waters’. This is actually not only water, but a fluid called saliva secreted by the salivary glands.",
+      "question": "What does the mouth produce when we see appetizing food?"
+    },
+    {
+      "context": "The saliva contains an enzyme called salivary amylase that breaks down starch which is a complex molecule to give simple sugar.",
+      "question": "What enzyme in saliva helps break down starch?"
+    },
+    {
+      "context": "The food is mixed thoroughly with saliva and moved around the mouth while chewing by the muscular tongue.",
+      "question": "How is food moved around in the mouth while chewing?"
+    },
+    {
+      "context": "The exit of food from the stomach is regulated by a sphincter muscle which releases it in small amounts into the small intestine.",
+      "question": "What controls the release of food from the stomach?"
+    },
+    {
+      "context": "From the stomach, the food now enters the small intestine.",
+      "question": "What is the next organ food enters after the stomach?"
+    }
+  ]
+}

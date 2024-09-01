@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The ozone layer is primarily depleted by man-made chemicals known as chlorofluorocarbons (CFCs), halons, and other related compounds. These substances, once widely used in refrigeration, aerosol sprays, and foam production, release chlorine and bromine when they are broken down by ultraviolet (UV) radiation in the stratosphere.",
+      "question": "What chemicals deplete the ozone layer?"
+    },
+    {
+      "context": "Chlorofluorocarbons, or CFCs, are a major factor in ozone layer depletion. Upon reaching the stratosphere, UV radiation causes these chemicals to release chlorine atoms, which then catalyze the destruction of ozone molecules, thinning the protective layer over time.",
+      "question": "How do CFCs affect the ozone layer?"
+    },
+    {
+      "context": "Besides CFCs, other ozone-depleting substances include halons and carbon tetrachloride. These chemicals also contribute to ozone depletion by releasing significant amounts of chlorine and bromine into the atmosphere, making them harmful to the ozone layer.",
+      "question": "Which additional substances affect ozone depletion?"
+    },
+    {
+      "context": "The Montreal Protocol, established in 1987, aimed to phase out the production of many ozone-depleting chemicals, primarily CFCs and halons. This global agreement has been successful in reducing the use of these substances and is an important step toward ozone layer recovery.",
+      "question": "What is the Montreal Protocol's purpose?"
+    },
+    {
+      "context": "Research indicates that while the global phase-out of CFCs has led to a slow recovery of the ozone layer, the presence of new compounds, such as hydrochlorofluorocarbons (HCFCs), still poses risks to the ozone layer.",
+      "question": "What compounds pose ongoing risks to the ozone layer?"
+    }
+  ]
+}

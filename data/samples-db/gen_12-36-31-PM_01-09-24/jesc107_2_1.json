@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "If the egg is not fertilised, it lives for about one day. Since the ovary releases one egg every month, the uterus also prepares itself every month to receive a fertilised egg. Thus its lining becomes thick and spongy.",
+      "question": "What happens after the egg is released?"
+    },
+    {
+      "context": "This lining becomes thick and spongy. This would be required for nourishing the embryo if fertilisation had taken place. Now, however, this lining is not needed any longer.",
+      "question": "What is the function of the uterine lining?"
+    },
+    {
+      "context": "So, the lining slowly breaks and comes out through the vagina as blood and mucous. This cycle takes place roughly every month and is known as menstruation.",
+      "question": "What is the process called when the uterine lining sheds?"
+    },
+    {
+      "context": "It usually lasts for about two to eight days. If the egg is not fertilised, it lives for about one day.",
+      "question": "How long does menstruation typically last?"
+    },
+    {
+      "context": "Thus its lining becomes thick and spongy. This would be required for nourishing the embryo if fertilisation had taken place.",
+      "question": "Why does the uterus prepare a thick lining?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fishes take in water through their mouths and force it past the gills where the dissolved oxygen is taken up by blood. This process is essential for their survival as it allows them to obtain the oxygen needed for cellular respiration.",
+      "question": "How do fishes obtain oxygen?"
+    },
+    {
+      "context": "Fishes take in water through their mouths and force it past the gills where the dissolved oxygen is taken up by blood. The gills are specialized structures that maximize the surface area for gas exchange.",
+      "question": "What structure do fishes use for gas exchange?"
+    },
+    {
+      "context": "Fishes take in water through their mouths and force it past the gills where the dissolved oxygen is taken up by blood. This mechanism is crucial for efficient respiration in aquatic environments where oxygen levels can vary.",
+      "question": "Why is gill respiration important for fish?"
+    },
+    {
+      "context": "Fishes take in water through their mouths and force it past the gills where the dissolved oxygen is taken up by blood. This method of respiration is adapted to the aquatic life that fish lead.",
+      "question": "What adaptation helps fish in respiration?"
+    },
+    {
+      "context": "Fishes take in water through their mouths and force it past the gills where the dissolved oxygen is taken up by blood. The process of respiration in these aquatic animals is vital for their metabolism and energy production.",
+      "question": "What role does respiration play in fish metabolism?"
+    }
+  ]
+}

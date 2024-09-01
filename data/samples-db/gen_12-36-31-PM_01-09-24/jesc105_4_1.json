@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plants use completely different strategies for excretion compared to animals. They can expel waste products generated during photosynthesis, such as oxygen. To manage excess water, plants utilize transpiration. Other waste products are stored in vacuoles or lost through fallen leaves.",
+      "question": "How do plants manage excess water?"
+    },
+    {
+      "context": "Players in plant excretion include the use of dead cells in tissues, falling leaves, and storage as resins and gums.",
+      "question": "What are the players involved in plant excretion?"
+    },
+    {
+      "context": "Waste material may be stored in the cytoplasm or cell vacuoles, removed via falling leaves, or excreted into the soil around them.",
+      "question": "Where can waste material be stored in plants?"
+    },
+    {
+      "context": "Moreover, plants can excrete waste into the surrounding soil. Methods of Plant Excretion include the use of dead cells in tissues and falling leaves.",
+      "question": "What method do plants use to excrete waste into the soil?"
+    },
+    {
+      "context": "To manage excess water, plants utilize transpiration. Other waste products are stored in vacuoles or lost through fallen leaves.",
+      "question": "What happens to waste products in plants?"
+    }
+  ]
+}

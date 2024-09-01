@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Reproduction resulting from the fusion of male and female gametes is called sexual reproduction. The reproductive organs in the female include ovaries, oviducts and uterus.",
+      "question": "What is sexual reproduction?"
+    },
+    {
+      "context": "The ovary produces female gametes called ova and the testes produce male gametes called sperms. The fusion of ovum and sperm is called fertilisation.",
+      "question": "What gametes do ovaries and testes produce?"
+    },
+    {
+      "context": "Fertilisation that takes place inside the female body is called internal fertilisation. This is observed in human beings and other animals such as hens, cows and dogs.",
+      "question": "What is internal fertilisation?"
+    },
+    {
+      "context": "Fertilisation that takes place outside the female body is called external fertilisation. This is observed in frogs, fish, starfish, etc.",
+      "question": "What is external fertilisation?"
+    },
+    {
+      "context": "The zygote divides repeatedly to give rise to an embryo. The embryo gets embedded in the wall of the uterus for further development.",
+      "question": "What develops from the zygote?"
+    },
+    {
+      "context": "The stage of the embryo in which all the body parts are identifiable is called foetus. Animals such as human beings, cows and dogs which give birth to young ones are called viviparous animals.",
+      "question": "What is a foetus?"
+    },
+    {
+      "context": "Animals such as hen, frog, lizard and butterfly which lay eggs are called oviparous animals.",
+      "question": "What are oviparous animals?"
+    },
+    {
+      "context": "The fertilised egg is called a zygote. Fertilisation that takes place inside the female body is called internal fertilisation.",
+      "question": "What is the fertilised egg called?"
+    }
+  ]
+}

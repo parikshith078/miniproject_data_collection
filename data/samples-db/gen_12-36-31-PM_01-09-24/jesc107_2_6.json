@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "If the vas deferens in the male is blocked, sperm transfer will be prevented. If the fallopian tube in the female is blocked, the egg will not be able to reach the uterus.",
+      "question": "What happens if the vas deferens is blocked?"
+    },
+    {
+      "context": "Surgical methods can be used to create such blocks. While surgical methods are safe in the long run, surgery itself can cause infections and other problems if not performed properly.",
+      "question": "What are the risks of surgical contraception?"
+    },
+    {
+      "context": "If the fallopian tube in the female is blocked, the egg will not be able to reach the uterus. In both cases fertilisation will not take place.",
+      "question": "How does a blocked fallopian tube affect fertilization?"
+    },
+    {
+      "context": "Surgical methods can be used to create such blocks. While surgical methods are safe in the long run, surgery itself can cause infections and other problems if not performed properly.",
+      "question": "Why are surgical methods considered safe in the long run?"
+    },
+    {
+      "context": "If the vas deferens in the male is blocked, sperm transfer will be prevented. In both cases fertilisation will not take place.",
+      "question": "What is the effect of blocking the vas deferens on fertilization?"
+    }
+  ]
+}

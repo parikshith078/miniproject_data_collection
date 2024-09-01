@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The Golgi apparatus consists of a system of membrane-bound vesicles arranged in stacks called cisterns. These membranes often have connections with the membranes of ER and are part of a complex cellular system.",
+      "question": "What is the structure of Golgi apparatus?"
+    },
+    {
+      "context": "The Golgi apparatus functions include storage, modification, and packaging of products in vesicles, and complex sugars may be formed from simple sugars within it.",
+      "question": "What are the functions of the Golgi apparatus?"
+    },
+    {
+      "context": "The Golgi apparatus is involved in packaging material synthesised near the ER and dispatching it to targets inside and outside the cell.",
+      "question": "What role does the Golgi apparatus play in cellular transport?"
+    },
+    {
+      "context": "The Golgi apparatus also plays a critical role in the formation of lysosomes, which are important for cellular digestion.",
+      "question": "How is the Golgi apparatus related to lysosomes?"
+    },
+    {
+      "context": "Camillo Golgi first described the Golgi apparatus, which consists of flattened sacs called cisterns.",
+      "question": "Who first described the Golgi apparatus?"
+    }
+  ]
+}

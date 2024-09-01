@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Phloem transports food from leaves to other parts of the plant. Except phloem fibres, other phloem cells are living cells. Sieve plate, Sieve tube, Phloem parenchyma, Companion cell are the constituents of phloem.",
+      "question": "What is the function of phloem?"
+    },
+    {
+      "context": "Except phloem fibres, other phloem cells are living cells. Sieve plate, Sieve tube, Phloem parenchyma, Companion cell are the constituents of phloem.",
+      "question": "Which cells in phloem are not living?"
+    },
+    {
+      "context": "Xylem includes Tracheid, Vessel, Xylem parenchyma. Phloem transports food from leaves to other parts of the plant.",
+      "question": "What are the main components of xylem?"
+    },
+    {
+      "context": "Phloem transports food from leaves to other parts of the plant. Sieve plate, Sieve tube, Phloem parenchyma, Companion cell are the constituents of phloem.",
+      "question": "Name a constituent of phloem."
+    },
+    {
+      "context": "Except phloem fibres, other phloem cells are living cells. Xylem includes Tracheid, Vessel, Xylem parenchyma.",
+      "question": "What type of cells make up the phloem?"
+    }
+  ]
+}

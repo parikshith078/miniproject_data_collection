@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In case fertilisation occurs, the zygote is allowed to develop for about a week and then it is placed in the mother’s uterus.",
+      "question": "How long does zygote development take before implantation?"
+    },
+    {
+      "context": "Complete development takes place in the uterus and the baby is born like any other baby.",
+      "question": "Do test-tube babies develop differently from others?"
+    },
+    {
+      "context": "Babies born through this technique are called test-tube babies.",
+      "question": "What term is used for babies born via IVF?"
+    },
+    {
+      "context": "The zygote is allowed to develop for about a week and then placed in the mother’s uterus.",
+      "question": "What happens to the zygote after a week of development?"
+    },
+    {
+      "context": "In case fertilisation occurs, the zygote is allowed to develop for about a week.",
+      "question": "What initiates the process of IVF?"
+    }
+  ]
+}

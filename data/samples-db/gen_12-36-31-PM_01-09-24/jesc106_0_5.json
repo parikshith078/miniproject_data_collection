@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The fore-brain is the main thinking part of the brain. It has regions which receive sensory impulses from various receptors. Separate areas of the fore-brain are specialised for hearing, smell, sight and so on.",
+      "question": "What is the main function of the fore-brain?"
+    },
+    {
+      "context": "There are separate areas of association where this sensory information is interpreted by putting it together with information from other receptors as well as with information that is already stored in the brain.",
+      "question": "What role do association areas play in the brain?"
+    },
+    {
+      "context": "Based on all this, a decision is made about how to respond and the information is passed on to the motor areas which control the movement of voluntary muscles, for example, our leg muscles.",
+      "question": "What do motor areas control in the brain?"
+    },
+    {
+      "context": "The brain has three such major parts or regions, namely the fore-brain, mid-brain, and hind-brain.",
+      "question": "What are the three major parts of the brain?"
+    },
+    {
+      "context": "Separate areas of the fore-brain are specialised for hearing, smell, sight and so on.",
+      "question": "What functions are specialized in the fore-brain?"
+    }
+  ]
+}

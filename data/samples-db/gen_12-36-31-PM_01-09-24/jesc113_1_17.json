@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Biodegradable materials are those that can be broken down by natural processes, typically through the activities of microorganisms. Common examples include food scraps, paper products, and some types of plastics. Non-biodegradable materials, on the other hand, resist these natural processes and can remain in the environment for many years. Examples include metals, glass, and conventional plastics.",
+      "question": "What are biodegradable materials?"
+    },
+    {
+      "context": "Biodegradable materials decompose through natural processes, reducing environmental impact. Non-biodegradable materials accumulate in the environment, contributing to pollution and ecosystem disruption. Awareness of these differences can guide consumer choices toward more sustainable options.",
+      "question": "What is the difference between biodegradable and non-biodegradable?"
+    },
+    {
+      "context": "Non-biodegradable materials pose significant challenges in waste management, as they do not break down easily and can lead to landfill overflow. They can also release harmful substances into the environment, affecting soil and water quality. Identifying these materials is crucial for reducing ecological footprints.",
+      "question": "Why are non-biodegradable materials a problem?"
+    },
+    {
+      "context": "Many biodegradable materials, such as certain plastics, are designed to decompose more rapidly than traditional plastics. These innovations can help tackle plastic pollution, although some biodegradable options still require specific conditions to break down effectively and might not degrade in typical landfill environments.",
+      "question": "How do some biodegradable plastics work?"
+    },
+    {
+      "context": "Education about the impact of both biodegradable and non-biodegradable materials is essential for promoting sustainable practices. By making informed decisions, individuals can help minimize waste and promote a healthier environment, focusing on reducing, reusing, and recycling whenever possible.",
+      "question": "Why is education about waste important?"
+    }
+  ]
+}

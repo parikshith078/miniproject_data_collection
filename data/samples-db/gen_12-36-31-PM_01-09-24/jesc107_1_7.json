@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The swollen bottom part is the ovary, middle elongated part is the style, and the terminal part which may be sticky is the stigma. The ovary contains ovules and each ovule has an egg cell.",
+      "question": "What are the parts of a flower involved in fertilization?"
+    },
+    {
+      "context": "The male germ-cell produced by pollen grain fuses with the female gamete present in the ovule.",
+      "question": "What fuses with the female gamete during fertilization?"
+    },
+    {
+      "context": "This fusion of the germ-cells or fertilisation gives us the zygote which is capable of growing into a new plant.",
+      "question": "What does fertilization produce in plants?"
+    },
+    {
+      "context": "The ovary contains ovules and each ovule has an egg cell. The male germ-cell produced by pollen grain fuses with the female gamete.",
+      "question": "What is contained in the ovary of a flower?"
+    },
+    {
+      "context": "The male germ-cell produced by pollen grain fuses with the female gamete present in the ovule. This fusion of the germ-cells or fertilisation gives us the zygote.",
+      "question": "What is the outcome of germ-cell fusion in plants?"
+    }
+  ]
+}

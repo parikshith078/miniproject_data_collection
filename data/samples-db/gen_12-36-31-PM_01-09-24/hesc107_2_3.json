@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "The Adam's apple, also known as the laryngeal prominence, is more prominent in males due to the influence of testosterone during puberty. This external feature is an indicator of male maturity and sexual differentiation.",
+      "question": "What is the significance of the Adam's apple?"
+    },
+    {
+      "context": "Secondary sexual characteristics develop during puberty and include features such as breast development in females and increased muscle mass in males. These traits are driven by sexual hormones and play a role in sexual attraction.",
+      "question": "What are secondary sexual characteristics?"
+    },
+    {
+      "context": "Sex determination in the unborn baby is primarily determined by the combination of sex chromosomes inherited from the parents. Typically, a baby will be male with one X and one Y chromosome and female with two X chromosomes.",
+      "question": "How is sex determined in unborn babies?"
+    }
+  ]
+}

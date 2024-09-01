@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Each step or level of the food chain forms a trophic level. The autotrophs or the producers are at the first trophic level.",
+      "question": "What are the first trophic level organisms?"
+    },
+    {
+      "context": "The herbivores or the primary consumers come at the second, small carnivores or the secondary consumers at the third.",
+      "question": "Which organisms are secondary consumers?"
+    },
+    {
+      "context": "The green plants in a terrestrial ecosystem capture about 1% of the energy of sunlight that falls on their leaves.",
+      "question": "How much energy do green plants capture?"
+    },
+    {
+      "context": "Larger carnivores or the tertiary consumers form the fourth trophic level.",
+      "question": "What is the fourth trophic level made of?"
+    },
+    {
+      "context": "The autotrophs or the producers are at the first trophic level.",
+      "question": "What role do autotrophs play in food chains?"
+    }
+  ]
+}

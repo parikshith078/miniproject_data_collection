@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "As the children walk around the biosphere reserve they appreciate the green wealth of the forest. They are very happy to see tall teak trees and animals inside the forest. Suddenly, Paheli finds a rabbit and wants to catch it. Professor Ahmad stops her. He explains that animals are comfortable and happy in their own habitat.",
+      "question": "Why shouldn't Paheli catch the rabbit?"
+    },
+    {
+      "context": "Madhavji explains that some animals and plants typically belong to a particular area. The plants and animals found in a particular area are termed flora and fauna respectively of that area.",
+      "question": "What do flora and fauna refer to?"
+    },
+    {
+      "context": "Sal, teak, mango, jamun, silver ferns, arjun, etc., are the flora and chinkara, blue-bull, barking deer, cheetal, leopard, wild dog, wolf, etc., are examples of the fauna of the Pachmarhi Biosphere Reserve.",
+      "question": "Give examples of flora in Pachmarhi."
+    },
+    {
+      "context": "Professor Ahmad explains that animals are comfortable and happy in their own habitat. We should not disturb them.",
+      "question": "What should we avoid doing to animals in their habitat?"
+    },
+    {
+      "context": "Madhavji explains that some animals and plants typically belong to a particular area. The plants and animals found in a particular area are termed flora and fauna respectively of that area.",
+      "question": "What do flora and fauna indicate about an area?"
+    }
+  ]
+}

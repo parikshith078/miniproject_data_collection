@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "As organisms are consumed by the next level in the food chain, energy is transferred, but not all energy is passed on. Some is lost as heat, which is why food chains typically have a limited number of trophic levels.",
+      "question": "Why is energy lost in food chains?"
+    },
+    {
+      "context": "In an ecosystem, the loss of energy from one trophic level to the next restricts the number of organisms that can be supported at higher levels. This energy loss occurs because not all energy consumed is used for growth and reproduction.",
+      "question": "How does energy loss affect food chains?"
+    },
+    {
+      "context": "Human activities such as farming, industrial processes, and pollution have significant effects on ecosystems, altering habitats and disrupting the balance necessary for different species to thrive.",
+      "question": "What are the effects of human activities on ecosystems?"
+    },
+    {
+      "context": "The energy pyramid illustrates how energy decreases at higher trophic levels, which explains why there are generally fewer predators than there are herbivores or plants in a healthy ecosystem.",
+      "question": "What does the energy pyramid illustrate?"
+    },
+    {
+      "context": "Ecosystems can only sustain a limited number of trophic levels due to energy loss, which is a natural law described by the second law of thermodynamics, emphasizing the inefficiency of energy transfer.",
+      "question": "What limits the number of trophic levels?"
+    }
+  ]
+}

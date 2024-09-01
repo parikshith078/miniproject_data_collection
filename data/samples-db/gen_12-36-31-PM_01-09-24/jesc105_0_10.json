@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Some organisms use simple food material obtained from inorganic sources in the form of carbon dioxide and water. These organisms, the autotrophs, include green plants and some bacteria.",
+      "question": "What do autotrophs use for nutrition?"
+    },
+    {
+      "context": "Other organisms utilise complex substances. These complex substances have to be broken down into simpler ones before they can be used for the upkeep and growth of the body.",
+      "question": "What do heterotrophs rely on for nutrition?"
+    },
+    {
+      "context": "To achieve this, organisms use bio-catalysts called enzymes. Autotrophs and heterotrophs fulfill their energy needs differently.",
+      "question": "What are enzymes used for in nutrition?"
+    },
+    {
+      "context": "The general requirement for energy and materials is common in all organisms, but it is fulfilled in different ways.",
+      "question": "How do organisms fulfill their energy requirements?"
+    },
+    {
+      "context": "Some organisms use simple food material obtained from inorganic sources in the form of carbon dioxide and water.",
+      "question": "What sources do autotrophs obtain food from?"
+    },
+    {
+      "context": "These complex substances have to be broken down into simpler ones before they can be used for the upkeep and growth of the body.",
+      "question": "Why must complex substances be broken down?"
+    },
+    {
+      "context": "These organisms, the autotrophs, include green plants and some bacteria.",
+      "question": "Which types of organisms are considered autotrophs?"
+    },
+    {
+      "context": "The general requirement for energy and materials is common in all organisms, but it is fulfilled in different ways.",
+      "question": "What do all organisms have in common regarding nutrition?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Non-biodegradable wastes, such as plastics and certain metals, persist in the environment for long periods, leading to significant pollution. These materials can accumulate in landfills, oceans, and other habitats, causing harm to wildlife and ecosystems. Additionally, their degradation can release toxic substances, further contaminating soil and water resources.",
+      "question": "What is the impact of non-biodegradable wastes?"
+    },
+    {
+      "context": "The improper disposal of non-biodegradable wastes results in overflowing landfills and littered landscapes, affecting both urban and rural environments. These wastes can obstruct waterways, contributing to flooding and harming aquatic life. Furthermore, the presence of such wastes creates health hazards for humans due to the potential release of harmful chemicals.",
+      "question": "How do non-biodegradable wastes affect the environment?"
+    },
+    {
+      "context": "Non-biodegradable waste contributes significantly to pollution, as these materials do not decompose naturally. Instead, they can take hundreds of years to break down, during which they can leach harmful pollutants into the soil and water. This leads to environmental degradation and poses a threat to both biodiversity and human health.",
+      "question": "Why is non-biodegradable waste a concern?"
+    },
+    {
+      "context": "Increased consumption of products packaged in non-biodegradable materials leads to significant waste management challenges. As cities grow, so does the volume of waste, leading to sanitation issues and higher costs for waste management systems. Effective strategies to reduce this waste are essential for sustainable urban development.",
+      "question": "What challenges arise from non-biodegradable waste?"
+    },
+    {
+      "context": "The introduction of non-biodegradable materials into the ecosystem disrupts the natural balance, affecting organisms that rely on natural materials for survival. Wildlife may ingest plastic, mistaking it for food, which can lead to injury or death. This has a cascading effect on food chains and ecological interactions.",
+      "question": "How does non-biodegradable waste affect wildlife?"
+    }
+  ]
+}

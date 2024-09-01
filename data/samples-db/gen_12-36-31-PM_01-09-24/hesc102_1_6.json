@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Robert Köch (1876) discovered the bacterium (Bacillus anthracis) which causes anthrax disease. His research laid foundational principles for the germ theory of disease.",
+      "question": "What bacterium did Robert Köch discover?"
+    },
+    {
+      "context": "Robert Köch (1876) discovered the bacterium (Bacillus anthracis) which causes anthrax disease. His work was pivotal in understanding how diseases are transmitted.",
+      "question": "What disease is caused by Bacillus anthracis?"
+    },
+    {
+      "context": "Robert Köch (1876) discovered the bacterium (Bacillus anthracis) which causes anthrax disease. This discovery was crucial for later developments in microbiology.",
+      "question": "In what year did Robert Köch make his discovery?"
+    },
+    {
+      "context": "Robert Köch (1876) discovered the bacterium (Bacillus anthracis) which causes anthrax disease. This was a key step toward developing treatments for bacterial infections.",
+      "question": "Who is associated with the discovery of Bacillus anthracis?"
+    },
+    {
+      "context": "Robert Köch (1876) discovered the bacterium (Bacillus anthracis) which causes anthrax disease. His findings contributed greatly to medical science.",
+      "question": "What was the significance of Köch's discovery?"
+    }
+  ]
+}

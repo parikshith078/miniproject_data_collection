@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The remarkable increase in food grain production in India from 1952 to 2010 can be attributed to several factors. These include the introduction of high-yielding variety (HYV) seeds, better irrigation facilities, improved fertilizer usage, and advances in agricultural technology. Additionally, government policies and programs aimed at supporting farmers have played a pivotal role in enhancing agricultural productivity.",
+      "question": "What contributed to India's food production increase?"
+    },
+    {
+      "context": "Factors such as the extensive use of chemical fertilizers and pesticides, as well as the development of better crop management practices, have significantly contributed to the substantial rise in food production. Furthermore, government interventions, such as minimum support prices and agricultural subsidies, have encouraged farmers to adopt modern farming techniques.",
+      "question": "How did fertilizers impact food production in India?"
+    },
+    {
+      "context": "The introduction of modern farming techniques, including mechanized agriculture, has led to more efficient farming practices. Enhanced irrigation techniques and the construction of dams have also allowed previously arid land to be cultivated, contributing to the increased food grain output in a limited land area.",
+      "question": "What role did modern techniques play in food production?"
+    },
+    {
+      "context": "The Green Revolution, which occurred during the late 1960s and 1970s, marked a significant turning point in Indian agriculture. It involved the adoption of high-yielding varieties of seeds and improved irrigation methods, which drastically increased food production and aimed to achieve self-sufficiency in staple crops like wheat and rice.",
+      "question": "What was the Green Revolution's impact on agriculture?"
+    },
+    {
+      "context": "Government programs designed to promote research and development in agriculture have led to significant innovations. These programs have encouraged universities and research institutions to come up with better crop varieties and farming practices, resulting in a steady increase in food grain productivity over the decades.",
+      "question": "How did government programs influence agricultural research?"
+    }
+  ]
+}

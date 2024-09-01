@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Xylem consists of tracheids, vessels, xylem parenchyma, and xylem fibers. Tracheids and vessels have thick walls, and many are dead cells when mature.",
+      "question": "What are the components of xylem?"
+    },
+    {
+      "context": "Phloem is made up of five types of cells: sieve cells, sieve tubes, companion cells, phloem fibers, and the phloem parenchyma.",
+      "question": "What types of cells make up phloem?"
+    },
+    {
+      "context": "Sieve tubes are tubular and play an essential role in the transport of nutrients throughout the plant.",
+      "question": "What is the main function of sieve tubes?"
+    },
+    {
+      "context": "Xylem fibers are mainly supportive in function. Phloem is made up of five types of cells.",
+      "question": "What is the function of xylem fibers?"
+    },
+    {
+      "context": "Tracheids and vessels are tubular structures. This allows them to transport water and minerals vertically.",
+      "question": "How do tracheids and vessels contribute to transport?"
+    },
+    {
+      "context": "The parenchyma stores food. Xylem fibers support the plant structure.",
+      "question": "What role does parenchyma play in xylem?"
+    }
+  ]
+}

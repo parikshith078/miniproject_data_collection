@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "If we see a dog running, or a cow chewing cud, or a man shouting loudly on the street, we know that these are living beings. What if the dog or the cow or the man were asleep?",
+      "question": "What indicates that animals are alive?"
+    },
+    {
+      "context": "We see them breathing, and we know that they are alive. What about plants? How do we know that they are alive?",
+      "question": "How can we tell if plants are alive?"
+    },
+    {
+      "context": "In other words, we tend to think of some sort of movement, either growth-related or not, as common evidence for being alive.",
+      "question": "What movement indicates a living organism?"
+    },
+    {
+      "context": "But a plant that is not visibly growing is still alive, and some animals can breathe without visible movement.",
+      "question": "Can living organisms be inactive yet still be alive?"
+    },
+    {
+      "context": "We see them green, some of us will say. But what about plants that have leaves of colours other than green?",
+      "question": "How do plant colors relate to their liveliness?"
+    }
+  ]
+}

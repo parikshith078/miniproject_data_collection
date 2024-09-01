@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The blood brings carbon dioxide from the rest of the body for release into the alveoli, and the oxygen in the alveolar air is taken up by blood in the alveolar blood vessels to be transported to all the cells in the body.",
+      "question": "What is exchanged in the lungs?"
+    },
+    {
+      "context": "The blood brings carbon dioxide from the rest of the body for release into the alveoli, and the oxygen in the alveolar air is taken up by blood in the alveolar blood vessels to be transported to all the cells in the body.",
+      "question": "Where does oxygen from the alveoli go?"
+    },
+    {
+      "context": "The blood brings carbon dioxide from the rest of the body for release into the alveoli, and the oxygen in the alveolar air is taken up by blood in the alveolar blood vessels to be transported to all the cells in the body.",
+      "question": "What role do the alveoli play in gas exchange?"
+    },
+    {
+      "context": "The blood brings carbon dioxide from the rest of the body for release into the alveoli, and the oxygen in the alveolar air is taken up by blood in the alveolar blood vessels to be transported to all the cells in the body.",
+      "question": "How does blood transport carbon dioxide?"
+    },
+    {
+      "context": "The blood brings carbon dioxide from the rest of the body for release into the alveoli, and the oxygen in the alveolar air is taken up by blood in the alveolar blood vessels to be transported to all the cells in the body.",
+      "question": "What happens to carbon dioxide in the alveoli?"
+    }
+  ]
+}

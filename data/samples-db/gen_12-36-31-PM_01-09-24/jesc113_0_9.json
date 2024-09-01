@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Ozone at the higher levels of the atmosphere shields the surface of the earth from ultraviolet (UV) radiation from the Sun.",
+      "question": "What does the ozone layer protect us from?"
+    },
+    {
+      "context": "The amount of ozone in the atmosphere began to drop sharply in the 1980s.",
+      "question": "When did ozone levels start decreasing significantly?"
+    },
+    {
+      "context": "This decrease has been linked to synthetic chemicals like chlorofluorocarbons (CFCs).",
+      "question": "What chemicals are linked to ozone depletion?"
+    },
+    {
+      "context": "Ozone (O3) is a molecule formed by three atoms of oxygen.",
+      "question": "What is the chemical formula for ozone?"
+    },
+    {
+      "context": "Chlorofluorocarbons (CFCs) are used as refrigerants and in fire extinguishers.",
+      "question": "What is one use of chlorofluorocarbons?"
+    }
+  ]
+}

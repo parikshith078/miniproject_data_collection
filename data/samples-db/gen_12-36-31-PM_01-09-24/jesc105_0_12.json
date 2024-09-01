@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The carbohydrates which are not used immediately are stored in the form of starch, which serves as the internal energy reserve to be used as and when required by the plant.",
+      "question": "How are carbohydrates stored in plants?"
+    },
+    {
+      "context": "A somewhat similar situation is seen in us where some of the energy derived from the food we eat is stored in our body in the form of glycogen.",
+      "question": "What form of energy storage is found in humans?"
+    },
+    {
+      "context": "A somewhat similar situation is seen in us where some of the energy derived from the food we eat is stored in our body in the form of glycogen.",
+      "question": "How does the human body store energy?"
+    },
+    {
+      "context": "The carbohydrates which are not used immediately are stored in the form of starch, which serves as the internal energy reserve to be used as and when required by the plant.",
+      "question": "What is the purpose of stored starch in plants?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Waste generated at home typically includes various materials like food scraps, plastic, paper, and metal. Municipalities often have waste collection systems in place to gather this waste, which can involve curbside pickups and designated drop-off centers.",
+      "question": "What types of waste are generated at home?"
+    },
+    {
+      "context": "After collection, the waste is transported to a landfill, recycling facility, or composting site. Education of residents about proper waste segregation plays a crucial role in effective waste management and minimizing environmental impact.",
+      "question": "Where is the collected waste transported?"
+    },
+    {
+      "context": "In many cities, waste collection is organized into different days for recyclable materials and general waste. This system helps ensure that the waste is sorted appropriately to maximize recycling and reduce landfill use.",
+      "question": "How is waste collection scheduled in cities?"
+    },
+    {
+      "context": "Countries often implement recycling programs that encourage residents to separate recyclable materials from general waste. These programs can significantly reduce the amount of waste sent to landfills.",
+      "question": "Why is waste separation important in waste management?"
+    },
+    {
+      "context": "Additionally, many homes now have compost bins for organic waste, which can reduce the total waste generated. Composting helps create nutrient-rich soil while also minimizing methane emissions from landfills.",
+      "question": "What is the purpose of composting household waste?"
+    }
+  ]
+}

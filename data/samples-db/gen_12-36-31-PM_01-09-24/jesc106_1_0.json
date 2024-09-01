@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Involuntary actions are controlled by the mid-brain and hind-brain. All these involuntary actions including blood pressure, salivation and vomiting are controlled by the medulla in the hind-brain.",
+      "question": "Which brain parts control involuntary actions?"
+    },
+    {
+      "context": "Involuntary actions are controlled by the mid-brain and hind-brain. All these involuntary actions including blood pressure, salivation and vomiting are controlled by the medulla in the hind-brain.",
+      "question": "What functions are regulated by the medulla?"
+    },
+    {
+      "context": "Involuntary actions are controlled by the mid-brain and hind-brain. All these involuntary actions including blood pressure, salivation and vomiting are controlled by the medulla in the hind-brain.",
+      "question": "What role does the medulla play in involuntary actions?"
+    },
+    {
+      "context": "Involuntary actions are controlled by the mid-brain and hind-brain. All these involuntary actions including blood pressure, salivation and vomiting are controlled by the medulla in the hind-brain.",
+      "question": "What are examples of involuntary actions?"
+    }
+  ]
+}

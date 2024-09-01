@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Different crops require different climatic conditions, temperature and photoperiods for their growth and completion of their life cycle. Photoperiods are related to the duration of sunlight. Growth of plants and flowering are dependent on sunlight.",
+      "question": "How do photoperiods affect crop growth?"
+    },
+    {
+      "context": "Plants manufacture their food in sunlight by the process of photosynthesis. Different crops require different climatic conditions, temperature and photoperiods for their growth.",
+      "question": "What process do plants use to make food?"
+    },
+    {
+      "context": "Growth of plants and flowering are dependent on sunlight. Different crops require different climatic conditions, temperature and photoperiods for their growth and completion of their life cycle.",
+      "question": "What do plants need for growth and flowering?"
+    },
+    {
+      "context": "Photoperiods are related to the duration of sunlight. Different crops require different climatic conditions, temperature and photoperiods for their growth and completion of their life cycle.",
+      "question": "What are photoperiods linked to in crop growth?"
+    },
+    {
+      "context": "As we all know, plants manufacture their food in sunlight by the process of photosynthesis. Growth of plants and flowering are dependent on sunlight.",
+      "question": "What is the role of sunlight in plant life?"
+    }
+  ]
+}

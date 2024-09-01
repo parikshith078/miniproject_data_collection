@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The ozone layer serves as a shield, absorbing the majority of the Sun's harmful ultraviolet (UV) radiation. Damage to this layer increases the risk of skin cancer, cataracts, and other health issues in humans, as well as affecting ecosystems and wildlife.",
+      "question": "What are the health risks associated with ozone depletion?"
+    },
+    {
+      "context": "In response to ozone layer depletion, the global community adopted the Montreal Protocol in 1987, which aims to phase out the production and use of ozone-depleting substances, such as chlorofluorocarbons (CFCs).",
+      "question": "What international agreement addresses ozone layer damage?"
+    },
+    {
+      "context": "The depletion of the ozone layer is concerning because it leads to enhanced UV radiation reaching the Earth's surface. This results in negative impacts on human health, including increased incidents of skin cancer, weakened immune systems, and harm to marine ecosystems.",
+      "question": "How does ozone depletion affect ecosystems?"
+    },
+    {
+      "context": "Scientists have been monitoring the ozone layer and have noted some recovery since the implementation of the Montreal Protocol. However, continued vigilance and enforcement of regulations on ozone-depleting substances are crucial to its health.",
+      "question": "What has been the effect of the Montreal Protocol on the ozone layer?"
+    },
+    {
+      "context": "Ozone layer depletion is connected to climate change, as certain greenhouse gases also affect the ozone layer. Efforts to limit these emissions contribute to both climate change mitigation and ozone protection efforts.",
+      "question": "How is climate change related to ozone layer depletion?"
+    }
+  ]
+}

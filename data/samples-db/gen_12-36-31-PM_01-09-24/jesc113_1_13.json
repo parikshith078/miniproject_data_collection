@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Enzymes are specific in their action, specific enzymes are needed for the break-down of a particular substance. That is why we will not get any energy if we try to eat coal.",
+      "question": "Why can't we get energy from eating coal?"
+    },
+    {
+      "context": "Enzymes are specific in their action, specific enzymes are needed for the break-down of a particular substance.",
+      "question": "What is the role of enzymes in digestion?"
+    },
+    {
+      "context": "Have you ever wondered why the same enzyme does not break-down everything we eat?",
+      "question": "Why do different substances require different enzymes?"
+    },
+    {
+      "context": "That is why we will not get any energy if we try to eat coal.",
+      "question": "What does coal illustrate about enzyme specificity?"
+    }
+  ]
+}

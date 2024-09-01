@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The sex chromosomes of the father determine the sex of an unborn baby. The belief that the mother is responsible for the sex of her baby is completely wrong and to blame her for this is totally unjustified.",
+      "question": "Which parent determines the baby's sex?"
+    },
+    {
+      "context": "Now you know that the sex chromosomes of the father determine the sex of an unborn baby. The belief that the mother is responsible for the sex of her baby is completely wrong and to blame her for this is totally unjustified.",
+      "question": "Who is unjustly blamed for a baby's sex?"
+    },
+    {
+      "context": "The belief that the mother is responsible for the sex of her baby is completely wrong and to blame her for this is totally unjustified.",
+      "question": "What belief about baby gender is incorrect?"
+    },
+    {
+      "context": "The sex chromosomes of the father determine the sex of an unborn baby. The belief that the mother is responsible for the sex of her baby is completely wrong.",
+      "question": "What role do father's chromosomes play in gender?"
+    },
+    {
+      "context": "Now you know that the sex chromosomes of the father determine the sex of an unborn baby. Blaming the mother for the baby's sex is unjust.",
+      "question": "Why is it unjust to blame the mother for gender?"
+    }
+  ]
+}

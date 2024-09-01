@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "A Mendelian experiment involved breeding tall pea plants with violet flowers with short pea plants bearing white flowers. The resulting progeny all had violet flowers but nearly half were short, indicating that the tall parent's genetic make-up plays a significant role in determining flower color and height.",
+      "question": "What does progeny color suggest about genetics?"
+    },
+    {
+      "context": "In a study of eye color in children, researchers found that those with light-colored eyes often had parents who also possessed light-colored eyes. This relationship raises questions about whether a trait is dominant or recessive, suggesting an influence of parental traits in offspring.",
+      "question": "What does this imply about eye color inheritance?"
+    },
+    {
+      "context": "A project aims to identify the dominant coat color in dogs by breeding different colored dogs and observing the traits in the offspring. This involves crossbreeding and analyzing the resulting puppies to determine which color appears most frequently.",
+      "question": "How would you design a project for dog coat color?"
+    },
+    {
+      "context": "The equal genetic contribution of male and female parents in offspring is ensured through gamete formation, where each parent contributes one allele for each trait during fertilization. This Mendelian principle maintains genetic diversity and balance.",
+      "question": "How is genetic contribution balanced in progeny?"
+    }
+  ]
+}

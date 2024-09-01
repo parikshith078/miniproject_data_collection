@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In a typical classroom, the waste generated can include paper, plastic wrappers, food scraps, and other materials. On average, a classroom of 30 students produces about 2-3 kg of waste daily. Among this waste, approximately 30% is biodegradable, primarily food scraps and paper products.",
+      "question": "What percentage of classroom waste is biodegradable?"
+    },
+    {
+      "context": "A classroom generates various types of waste, with an average of 2 kg produced daily. This includes paper, plastic, and organic waste. The biodegradable fraction consists mainly of leftover food and paper. Knowing the total waste helps determine how much can be composted.",
+      "question": "How much waste does a classroom generate daily?"
+    },
+    {
+      "context": "Waste management in schools involves tracking the amount of waste produced in classrooms. With around 2 to 3 kilograms of waste generated per day, students and teachers can work together to reduce and recycle materials effectively. Understanding what is biodegradable helps in the composting effort.",
+      "question": "What is the average waste generated in a classroom?"
+    },
+    {
+      "context": "About 30% of the waste produced in classrooms is biodegradable. This includes materials such as fruit peels and used paper. This information is crucial for implementing effective waste management practices, including recycling and composting.",
+      "question": "What types of materials are usually biodegradable in classrooms?"
+    },
+    {
+      "context": "In classrooms, a significant portion of daily waste is biodegradable, which can be composted. This portion typically consists of food items and paper. Proper waste tracking is essential for understanding and reducing overall waste production.",
+      "question": "What does biodegradable waste in a classroom typically consist of?"
+    }
+  ]
+}

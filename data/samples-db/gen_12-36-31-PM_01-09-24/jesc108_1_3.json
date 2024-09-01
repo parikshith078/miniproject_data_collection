@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The sex of the children will be determined by what they inherit from their father. A child who inherits an X chromosome from her father will be a girl, and one who inherits a Y chromosome from him will be a boy.",
+      "question": "How is a child's sex determined?"
+    },
+    {
+      "context": "As Fig. 8.6 shows, half the children will be boys and half will be girls. A child who inherits an X chromosome from her father will be a girl.",
+      "question": "What is the ratio of boys to girls?"
+    },
+    {
+      "context": "A child who inherits a Y chromosome from him will be a boy. Thus, the sex of the children will be determined by what they inherit from their father.",
+      "question": "What chromosome indicates a male child?"
+    },
+    {
+      "context": "Half the children will be boys and half will be girls. A child who inherits an X chromosome from her father will be a girl.",
+      "question": "What chromosome does a girl inherit from her father?"
+    },
+    {
+      "context": "Thus, the sex of the children will be determined by what they inherit from their father. As Fig. 8.6 shows, half the children will be boys and half will be girls.",
+      "question": "Who determines the sex of the children?"
+    }
+  ]
+}

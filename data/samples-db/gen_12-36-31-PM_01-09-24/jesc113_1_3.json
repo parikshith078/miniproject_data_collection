@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The use of chemicals like CFCs has endangered the ozone layer. Since the ozone layer protects against ultraviolet radiation from the Sun, this could damage the environment.",
+      "question": "What endangers the ozone layer?"
+    },
+    {
+      "context": "Since the ozone layer protects against ultraviolet radiation from the Sun, this could damage the environment.",
+      "question": "What does the ozone layer protect against?"
+    },
+    {
+      "context": "The use of chemicals like CFCs has endangered the ozone layer. This could damage the environment.",
+      "question": "What chemicals are responsible for ozone depletion?"
+    },
+    {
+      "context": "Since the ozone layer protects against ultraviolet radiation from the Sun, this could damage the environment.",
+      "question": "How does ozone layer depletion affect the environment?"
+    }
+  ]
+}

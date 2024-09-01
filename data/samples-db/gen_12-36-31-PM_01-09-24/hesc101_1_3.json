@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The sources of water for irrigation are— wells, tubewells, ponds, lakes, rivers, dams and canals. Traditional Methods of Irrigation The water available in wells, lakes and canals is lifted up by different methods in different regions, for taking it to the fields.",
+      "question": "What are main sources of irrigation?"
+    },
+    {
+      "context": "Traditional Methods of Irrigation The water available in wells, lakes and canals is lifted up by different methods in different regions, for taking it to the fields. Cattle or human labour is used in these methods.",
+      "question": "What methods are used for lifting water?"
+    },
+    {
+      "context": "The various traditional ways are: (i) moat (pulley-system) (ii) chain pump (iii) dheerki, and (iv) rahat (Lever system). Pumps are commonly used for lifting water.",
+      "question": "List the traditional irrigation methods."
+    },
+    {
+      "context": "Pumps are commonly used for lifting water. Diesel, biogas, electricity and solar energy is used to run these pumps.",
+      "question": "What energy sources power modern irrigation pumps?"
+    },
+    {
+      "context": "So these methods are cheaper, but less efficient. The various traditional ways are: (i) moat (pulley-system) (ii) chain pump (iii) dheerki, and (iv) rahat (Lever system).",
+      "question": "Why are traditional irrigation methods considered less efficient?"
+    }
+  ]
+}

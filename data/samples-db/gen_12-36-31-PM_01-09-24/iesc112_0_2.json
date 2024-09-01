@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Food security is a multifaceted issue that involves not only the availability of food but also people's ability to access it. Simply increasing grain production for storage in warehouses cannot solve the problem of malnutrition and hunger. People should have money to purchase food.",
+      "question": "What is food security dependent on?"
+    },
+    {
+      "context": "To achieve food security, it is essential to ensure that food is not only available but also accessible to individuals and families. Merely increasing grain production for storage in warehouses cannot address the underlying issue of malnutrition and hunger. People must have sufficient income to buy food.",
+      "question": "Why can't increasing grain production alone solve hunger?"
+    },
+    {
+      "context": "Food insecurity is a complex problem that requires a comprehensive approach. Increasing grain production and storing it in warehouses is not sufficient to tackle malnutrition and hunger; rather, it is crucial that individuals and families have the financial means to purchase food, thus ensuring true food security.",
+      "question": "What must individuals have to access food?"
+    },
+    {
+      "context": "The concept of food security encompasses both the supply of food and the ability of people to obtain it. Increasing grain production is not enough if the population lacks the financial resources. For food security to be meaningful, people need both food availability and access to food through income or purchasing power.",
+      "question": "How is food security defined in this context?"
+    }
+  ]
+}

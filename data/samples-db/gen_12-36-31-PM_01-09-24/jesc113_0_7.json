@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Pesticides and other chemicals are used to protect crops and often pollute water. These chemicals are washed into the soil or water bodies, from where they enter the food chain through plants.",
+      "question": "How do pesticides enter the food chain?"
+    },
+    {
+      "context": "As chemicals from pesticides accumulate in plants, they are absorbed by aquatic life too. This leads to higher concentrations at each trophic level due to their non-degradable nature.",
+      "question": "What is biological magnification?"
+    },
+    {
+      "context": "These chemicals are taken up by aquatic plants and animals, leading to an accumulation in the food chain as they are not readily broken down or degraded in the environment.",
+      "question": "Why are pesticides harmful in the food chain?"
+    },
+    {
+      "context": "Biological magnification occurs when harmful chemicals like pesticides accumulate progressively at each trophic level, affecting ecosystems and food safety.",
+      "question": "What effect do pesticides have on ecosystem health?"
+    },
+    {
+      "context": "These chemicals are either washed into the soil or into water bodies, where they can be absorbed by plants, thus entering the ecosystem and impacting higher trophic levels.",
+      "question": "How do pesticides affect soil and water bodies?"
+    }
+  ]
+}

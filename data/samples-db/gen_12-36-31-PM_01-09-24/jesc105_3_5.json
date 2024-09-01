@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In xylem tissue, vessels and tracheids of the roots, stems, and leaves are interconnected to form a continuous system of water-conducting channels reaching all parts of the plant.",
+      "question": "What forms the water-conducting system in plants?"
+    },
+    {
+      "context": "At the roots, cells in contact with the soil actively take up ions. This creates a difference in the concentration of these ions between the root and the soil.",
+      "question": "What creates the concentration difference in roots?"
+    },
+    {
+      "context": "Water moves into the root from the soil to eliminate this difference. This means that there is steady movement of water into root xylem, creating a column of water that is steadily pushed upwards.",
+      "question": "How does water move into the roots?"
+    },
+    {
+      "context": "However, this pressure by itself is unlikely to be enough to move water over the heights commonly seen in plants.",
+      "question": "Why is root pressure insufficient for tall plants?"
+    },
+    {
+      "context": "Plants use another strategy to move water upwards via transpiration.",
+      "question": "What is the strategy plants use to transport water upward?"
+    }
+  ]
+}

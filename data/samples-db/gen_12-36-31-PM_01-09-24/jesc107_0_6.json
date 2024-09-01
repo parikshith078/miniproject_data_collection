@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Many fully differentiated organisms have the ability to give rise to new individual organisms from their body parts. That is, if the individual is somehow cut or broken up into many pieces, many of these pieces grow into separate individuals. For example, simple animals like Hydra and Planaria can be cut into any number of pieces and each piece grows into a complete organism.",
+      "question": "What organisms can regenerate from pieces?"
+    },
+    {
+      "context": "Regeneration is carried out by specialised cells. These cells proliferate and make large numbers of cells. From this mass of cells, different cells undergo changes to become various cell types and tissues. These changes take place in an organised sequence referred to as development.",
+      "question": "What type of cells are involved in regeneration?"
+    },
+    {
+      "context": "However, regeneration is not the same as reproduction, since most organisms would not normally depend on being cut up to reproduce. This process is significant for understanding how certain organisms can recover from injury and survive in harsh environments.",
+      "question": "Why is regeneration different from reproduction?"
+    },
+    {
+      "context": "From this mass of cells, different cells undergo changes to become various cell types and tissues. These changes take place in an organised sequence referred to as development. Regeneration allows organisms to restore lost body parts or even form entirely new individuals from parts of themselves.",
+      "question": "What is the process that follows cell proliferation in regeneration?"
+    }
+  ]
+}

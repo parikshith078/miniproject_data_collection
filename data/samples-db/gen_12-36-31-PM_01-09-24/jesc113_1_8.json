@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "In order to manage waste effectively, burying it in a pit in the school garden can be a viable option. If there is no available space, using an old bucket or flower pot as a container can work. It's important to cover the material with at least 15 cm of soil to prevent odors and pests.",
+      "question": "Why should the waste be covered with soil?"
+    },
+    {
+      "context": "When reducing waste, one approach is to bury materials in a pit located in the school garden. If there's limited space for this, opting for an old bucket or flower pot is recommended. A key step is covering the waste with a minimum of 15 cm of soil.",
+      "question": "What to do if there is no space available?"
+    },
+    {
+      "context": "To manage organic waste responsibly, you can either bury it in a school garden pit or use an old container. In situations where space is scarce, it is advisable to collect the waste in a bucket or flower pot and ensure it is covered by at least 15 cm of soil.",
+      "question": "What containers can be used for waste collection?"
+    }
+  ]
+}

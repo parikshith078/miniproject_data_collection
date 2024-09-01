@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plants require nutrients for growth, supplied by air, water, and soil. Essential nutrients include carbon, hydrogen, oxygen, and thirteen others from soil. Macro-nutrients are needed in large quantities, while micro-nutrients are needed in small amounts.",
+      "question": "What are macro-nutrients in plants?"
+    },
+    {
+      "context": "Nutrients are supplied to plants by air, water, and soil. Essential nutrients include carbon and oxygen from air, hydrogen from water, and thirteen other nutrients from soil, which are categorized as macro and micro.",
+      "question": "How do plants receive their nutrients?"
+    },
+    {
+      "context": "Among essential nutrients, some are needed in large quantities, termed macro-nutrients, while others, required in smaller quantities, are called micro-nutrients. This classification helps in understanding plant nutritional needs.",
+      "question": "What distinguishes macro-nutrients from micro-nutrients?"
+    },
+    {
+      "context": "Air supplies carbon and oxygen, while hydrogen comes from water, and soil provides the remaining essential nutrients for plant growth, which are needed for various functions in the plant system.",
+      "question": "What sources provide nutrients for plants?"
+    },
+    {
+      "context": "Nutrient requirements for plants are essential for their development and growth. Among the essential nutrients, those needed in larger quantities are called macro-nutrients, contrasted with smaller quantity micro-nutrients.",
+      "question": "Why are some nutrients called micro-nutrients?"
+    }
+  ]
+}

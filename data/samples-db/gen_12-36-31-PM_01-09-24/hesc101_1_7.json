@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Harvested grains have more moisture. If freshly harvested grains (seeds) are stored without drying, they may get spoilt or attacked by organisms, making them unfit for use or for germination.",
+      "question": "Why is drying grains important before storage?"
+    },
+    {
+      "context": "Storage of produce is an important task. If the harvested grains are to be kept for longer time, they should be safe from moisture, insects, rats and microorganisms.",
+      "question": "What should grains be protected from?"
+    },
+    {
+      "context": "Hence, before storing them, the grains are properly dried in the sun to reduce the moisture in them.",
+      "question": "How are grains dried before storage?"
+    },
+    {
+      "context": "If the harvested grains are to be kept for longer time, they should be safe from moisture, insects, rats and microorganisms.",
+      "question": "What do grains need to be kept safe from?"
+    },
+    {
+      "context": "If freshly harvested grains (seeds) are stored without drying, they may get spoilt or attacked by organisms.",
+      "question": "What happens if grains are not dried before storage?"
+    }
+  ]
+}

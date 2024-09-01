@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "To avoid leakage which would lead to a loss of pressure and reduce the efficiency of the pumping system, the blood has platelet cells which circulate around the body and plug these leaks by helping to clot the blood at these points of injury.",
+      "question": "What is the role of platelets in blood?"
+    },
+    {
+      "context": "To avoid leakage which would lead to a loss of pressure and reduce the efficiency of the pumping system, the blood has platelet cells which circulate around the body and plug these leaks by helping to clot the blood at these points of injury.",
+      "question": "How do platelets contribute to blood maintenance?"
+    },
+    {
+      "context": "To avoid leakage which would lead to a loss of pressure and reduce the efficiency of the pumping system, the blood has platelet cells which circulate around the body and plug these leaks by helping to clot the blood at these points of injury.",
+      "question": "Why are platelets important for the circulatory system?"
+    },
+    {
+      "context": "To avoid leakage which would lead to a loss of pressure and reduce the efficiency of the pumping system, the blood has platelet cells which circulate around the body and plug these leaks by helping to clot the blood at these points of injury.",
+      "question": "What happens when blood vessels are injured?"
+    },
+    {
+      "context": "To avoid leakage which would lead to a loss of pressure and reduce the efficiency of the pumping system, the blood has platelet cells which circulate around the body and plug these leaks by helping to clot the blood at these points of injury.",
+      "question": "In what way do platelets help prevent blood loss?"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Irrigation is essential for growing crops and varies according to several factors. In summer, the frequency of watering is increased because the temperatures are higher, which accelerates water loss through evaporation. Therefore, farmers need to supply more water during this time to ensure crops receive adequate moisture.",
+      "question": "Why is irrigation frequency higher in summer?"
+    },
+    {
+      "context": "The process of irrigation not only depends on the type of crop but is also influenced by the soil's water retention capacity. During warmer weather, like summer, the increased heat causes more water to evaporate from both the soil and the plants. Consequently, farmers may adjust their irrigation schedules to accommodate these changes and maintain optimal growing conditions.",
+      "question": "What factors affect irrigation frequency?"
+    },
+    {
+      "context": "In the agricultural practices of irrigation, water is supplied to crops systematically based on various influences including climate. Specifically, during hotter summer months, plants undergo more significant water loss due to evaporation, necessitating adjustments in irrigation frequency to ensure that crops do not suffer from water stress.",
+      "question": "How does evaporation influence irrigation needs?"
+    },
+    {
+      "context": "Different crops require varying amounts of water, and irrigation scheduling must consider environmental factors. For instance, in summer, because temperatures are higher, evaporation rates increase, leading farmers to irrigate their fields more frequently to meet the hydration needs of their crops during this period.",
+      "question": "What role does temperature play in irrigation?"
+    }
+  ]
+}

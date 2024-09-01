@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Human chromosomes are not all paired; most have maternal and paternal copies with 22 pairs. The sex chromosomes differ as women have two X chromosomes and men have one X and one shorter Y chromosome. Thus, women are XX and men are XY.",
+      "question": "What are the sex chromosome combinations for women?"
+    },
+    {
+      "context": "Women have a pair of X sex chromosomes while men have an X and a Y chromosome. This distinction in chromosomes plays a crucial role in determining biological sex.",
+      "question": "What chromosome combination do men have?"
+    },
+    {
+      "context": "All human chromosomes are organized into pairs, except for the sex chromosomes where women have XX and men have XY. This difference in sex chromosomes is essential for understanding genetic inheritance of sex.",
+      "question": "How are the sex chromosomes different in men and women?"
+    },
+    {
+      "context": "Human chromosomes consist of 22 pairs of autosomes and one pair of sex chromosomes. The sex chromosomes are essential for differentiating between male and female genetic traits.",
+      "question": "What role do sex chromosomes play in genetics?"
+    },
+    {
+      "context": "The genetic inheritance of sex relies on chromosomes where women have two X chromosomes, and men have one X and one Y chromosome. This unique pairing determines biological sex at conception.",
+      "question": "How does genetic inheritance determine sex?"
+    }
+  ]
+}

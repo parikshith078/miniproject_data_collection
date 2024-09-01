@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Wildlife sanctuaries protect various threatened species, such as elephants and rhinoceroses, in their natural habitat. Sanctuaries offer unique landscapes, including broad level forests and mountain forests. Unlike zoos, these environments support the natural behaviors of animals.",
+      "question": "What are wildlife sanctuaries designed to preserve?"
+    },
+    {
+      "context": "In wildlife sanctuaries, animals like the python and gharial thrive in landscapes that mimic their natural habitats. These areas are essential for the animals to exhibit their natural behaviors, unlike zoos that often have artificial settings.",
+      "question": "How do sanctuaries differ from zoos?"
+    },
+    {
+      "context": "In a zoo, animals are kept in enclosures that may not accurately reflect their natural environments. Observing how well the animals adapt can give insight into the suitability of these artificial settings for their welfare.",
+      "question": "What should you observe in a zoo's animal conditions?"
+    },
+    {
+      "context": "Indian wildlife sanctuaries showcase diverse ecosystems and provide a home for various endangered animals. This preservation is crucial for maintaining biodiversity and protecting species from extinction.",
+      "question": "Why are wildlife sanctuaries important for biodiversity?"
+    },
+    {
+      "context": "The comparison between wildlife sanctuaries and zoos raises questions about animal welfare. While sanctuaries focus on conservation in natural settings, zoos provide a different approach to education about wildlife.",
+      "question": "What educational role do zoos serve compared to sanctuaries?"
+    }
+  ]
+}

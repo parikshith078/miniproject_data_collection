@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Professor Ahmad explains about Red Data Book to the children. He tells them that Red Data Book is the source book which keeps a record of all the endangered animals and plants.",
+      "question": "What does the Red Data Book record?"
+    },
+    {
+      "context": "Red Data Book is maintained internationally by an organisation. India also maintains Red Data Book for plants and animals found in India.",
+      "question": "Who maintains the Red Data Book in India?"
+    },
+    {
+      "context": "Red Data Book is the source book which keeps a record of all the endangered animals and plants. Red Data Book is maintained internationally by an organisation.",
+      "question": "What is the purpose of the Red Data Book?"
+    },
+    {
+      "context": "India also maintains Red Data Book for plants and animals found in India. Professor Ahmad explains about Red Data Book to the children.",
+      "question": "Which country has its own Red Data Book?"
+    }
+  ]
+}

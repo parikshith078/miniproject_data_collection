@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The right meal for adolescents consists of balanced nutrition that supports their growth and development. Healthy options include whole grains, lean proteins, and a variety of fruits and vegetables. Meals should be nutrient-rich and avoid excessive amounts of sugars and unhealthy fats.",
+      "question": "What does a balanced meal include for adolescents?"
+    },
+    {
+      "context": "The right meal for adolescents consists of balanced nutrition that supports their growth and development. It is important to incorporate foods that provide essential vitamins and minerals, such as those found in fruits, vegetables, and whole grains.",
+      "question": "Why is balanced nutrition important for adolescents?"
+    },
+    {
+      "context": "The right meal for adolescents consists of (i) chips, noodles, coke. (ii) chapati, dal, vegetables. (iii) rice, noodles, and burger. (iv) vegetable cutlets, chips, and lemon drink. Among these, some options are healthier than others and provide better nutrition.",
+      "question": "Which meal options provide healthier nutrition for adolescents?"
+    },
+    {
+      "context": "The right meal for adolescents consists of (i) chips, noodles, coke. (ii) chapati, dal, vegetables. (iii) rice, noodles, and burger. (iv) vegetable cutlets, chips, and lemon drink. It is essential to choose meals that nourish the body appropriately during growth spurts.",
+      "question": "What are some food options for adolescents?"
+    },
+    {
+      "context": "The right meal for adolescents consists of (i) chips, noodles, coke. (ii) chapati, dal, vegetables. (iii) rice, noodles, and burger. (iv) vegetable cutlets, chips, and lemon drink. Nutritional choices impact adolescent health significantly.",
+      "question": "How do meal choices affect adolescent health?"
+    }
+  ]
+}

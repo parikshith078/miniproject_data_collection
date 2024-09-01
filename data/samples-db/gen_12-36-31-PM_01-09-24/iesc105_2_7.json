@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Camillo Golgi first started his investigations into the nervous system in a little kitchen of the Hospital for the Chronically Sick at Abbiategrasso, which he had converted into a laboratory. However, the work of greatest importance, which Golgi carried out was a revolutionary method of staining individual nerve and cell structures. This method is referred to as the ‘black reaction’.",
+      "question": "What is the ‘black reaction’ technique?"
+    },
+    {
+      "context": "Golgi received the highest honours and awards in recognition of his work. He shared the Nobel prize in 1906 with Santiago Ramony Cajal for their work on the structure of the nervous system.",
+      "question": "Who did Golgi share the Nobel prize with?"
+    },
+    {
+      "context": "In 1872 he accepted the post of Chief Medical Officer at the Hospital for the Chronically Sick at Abbiategrasso. All through his life, he continued to work on these lines, modifying and improving this technique.",
+      "question": "What position did Golgi hold in 1872?"
+    },
+    {
+      "context": "This method uses a weak solution of silver nitrate and is particularly valuable in tracing the processes and most delicate ramifications of cells. Golgi’s work on the nervous system was crucial to understanding cell structures.",
+      "question": "Why is Golgi's staining method valuable?"
+    },
+    {
+      "context": "That time most of his investigations were concerned with the nervous system, and he first started his investigations in a little kitchen he had converted into a laboratory.",
+      "question": "Where did Golgi conduct his early research?"
+    }
+  ]
+}

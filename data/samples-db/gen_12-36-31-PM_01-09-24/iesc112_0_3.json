@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "In India, as in many other agriculture-based countries, farming ranges from small to very large farms. Different farmers thus have more or less land, money and access to information and technologies.",
+      "question": "How does farm size vary in India?"
+    },
+    {
+      "context": "Different farmers thus have more or less land, money and access to information and technologies. In short, it is the money or financial conditions that allow farmers to take up different farming practices and agricultural technologies.",
+      "question": "What factors impact farming practices in India?"
+    },
+    {
+      "context": "There is a correlation between higher inputs and yields. Thus, the farmer’s purchasing capacity for inputs decides cropping system and production practices.",
+      "question": "What affects the cropping system in agriculture?"
+    },
+    {
+      "context": "Therefore, production practices can be at different levels. They include ‘no cost’ production, ‘low cost’ production and ‘high cost’ production practices.",
+      "question": "What are the types of production practices in agriculture?"
+    },
+    {
+      "context": "Different farmers thus have more or less land, money and access to information and technologies. In short, it is the money or financial conditions that allow farmers to take up different farming practices.",
+      "question": "What role does money play in farming?"
+    },
+    {
+      "context": "It is the money or financial conditions that allow farmers to take up different farming practices and agricultural technologies. There is a correlation between higher inputs and yields.",
+      "question": "How does financial condition affect yields?"
+    },
+    {
+      "context": "In short, it is the money or financial conditions that allow farmers to take up different farming practices and agricultural technologies. Therefore, production practices can be at different levels.",
+      "question": "What determines the level of production practices?"
+    }
+  ]
+}

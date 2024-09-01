@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In the previous chapter, you have learnt how animals reproduce. It is only after ‘growing up’ to a certain age that human beings and many other animals can reproduce.",
+      "question": "Why do humans reproduce after a certain age?"
+    },
+    {
+      "context": "In this chapter, you will learn about changes that take place in the human body after which a person becomes capable of reproduction.",
+      "question": "What changes enable human reproduction?"
+    },
+    {
+      "context": "It is only after ‘growing up’ to a certain age that human beings and many other animals can reproduce.",
+      "question": "What marks the beginning of human reproduction?"
+    },
+    {
+      "context": "Why can humans reproduce only after a certain age? In this chapter, you will learn about changes that take place in the human body.",
+      "question": "What must happen for humans to reproduce?"
+    },
+    {
+      "context": "You have learnt how animals reproduce. It is only after ‘growing up’ to a certain age that human beings can reproduce.",
+      "question": "How does animal reproduction relate to humans?"
+    }
+  ]
+}

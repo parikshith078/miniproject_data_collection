@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The skin consists of multiple layers of cells, including the epidermis and dermis, and serves as a protective barrier against environmental factors. It also plays roles in sensation and thermoregulation. Bark of a tree is composed of several types of protective tissues and has phloem that transports nutrients. Bone is a hard tissue that provides structural support and helps protect organs. The lining of kidney tubules is epithelial tissue responsible for filtration and secretion. Vascular bundles are complex tissues that include xylem and phloem, which transport water, nutrients, and carbohydrates in plants.",
+      "question": "What type of tissue is the skin?"
+    },
+    {
+      "context": "The skin consists of multiple layers of cells, including the epidermis and dermis, and serves as a protective barrier against environmental factors. It also plays roles in sensation and thermoregulation. Bark of a tree is composed of several types of protective tissues and has phloem that transports nutrients. Bone is a hard tissue that provides structural support and helps protect organs. The lining of kidney tubules is epithelial tissue responsible for filtration and secretion. Vascular bundles are complex tissues that include xylem and phloem, which transport water, nutrients, and carbohydrates in plants.",
+      "question": "Which tissue lines the kidney tubules?"
+    },
+    {
+      "context": "The skin consists of multiple layers of cells, including the epidermis and dermis, and serves as a protective barrier against environmental factors. It also plays roles in sensation and thermoregulation. Bark of a tree is composed of several types of protective tissues and has phloem that transports nutrients. Bone is a hard tissue that provides structural support and helps protect organs. The lining of kidney tubules is epithelial tissue responsible for filtration and secretion. Vascular bundles are complex tissues that include xylem and phloem that transport water, nutrients, and carbohydrates in plants.",
+      "question": "What type of tissue is found in vascular bundles?"
+    },
+    {
+      "context": "The skin consists of multiple layers of cells, including the epidermis and dermis, and serves as a protective barrier against environmental factors. It also plays roles in sensation and thermoregulation. Bark of a tree is composed of several types of protective tissues and has phloem that transports nutrients. Bone is a hard tissue that provides structural support and helps protect organs. The lining of kidney tubules is epithelial tissue responsible for filtration and secretion. Vascular bundles are complex tissues that include xylem and phloem, which transport water, nutrients, and carbohydrates in plants.",
+      "question": "What tissue type composes bones?"
+    },
+    {
+      "context": "The skin consists of multiple layers of cells, including the epidermis and dermis, and serves as a protective barrier against environmental factors. It also plays roles in sensation and thermoregulation. Bark of a tree is composed of several types of protective tissues and has phloem that transports nutrients. Bone is a hard tissue that provides structural support and helps protect organs. The lining of kidney tubules is epithelial tissue responsible for filtration and secretion. Vascular bundles are complex tissues that include xylem and phloem that transport water, nutrients, and carbohydrates in plants.",
+      "question": "Identify the tissue type in tree bark."
+    }
+  ]
+}

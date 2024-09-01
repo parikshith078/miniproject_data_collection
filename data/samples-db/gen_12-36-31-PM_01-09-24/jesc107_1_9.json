@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The seed contains the future plant or embryo which develops into a seedling under appropriate conditions. This process is known as germination.",
+      "question": "What is the outcome of germination?"
+    },
+    {
+      "context": "The seed contains the future plant or embryo which develops into a seedling under appropriate conditions. This process is known as germination.",
+      "question": "What begins the process of germination?"
+    },
+    {
+      "context": "The seed contains the future plant or embryo which develops into a seedling under appropriate conditions. This process is known as germination.",
+      "question": "What does a seed develop into?"
+    },
+    {
+      "context": "The seed contains the future plant or embryo which develops into a seedling under appropriate conditions. This process is known as germination.",
+      "question": "What is contained within a seed?"
+    },
+    {
+      "context": "The seed contains the future plant or embryo which develops into a seedling under appropriate conditions. This process is known as germination.",
+      "question": "What are the right conditions for germination?"
+    }
+  ]
+}

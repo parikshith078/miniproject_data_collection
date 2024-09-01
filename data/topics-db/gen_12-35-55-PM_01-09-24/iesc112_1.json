@@ -1,0 +1,40 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Soil Management",
+      "Content": "In clayey soils, the large quantities of organic matter help in drainage and in avoiding water logging. In using manure we use biological waste material, which is advantageous in protecting soil fertility. Manure for maintaining soil fertility has to be considered while aiming for optimum yields in crop production. Organic farming is a farming system with minimal or no use of chemicals as fertilizers, herbicides, pesticides, etc., and with a maximum input of organic manures, recycled farm-wastes (straw and livestock excreta), use of bio-agents such as culture of blue green algae in preparation of biofertilizers, neem leaves or turmeric specifically in grain storage as bio-pesticides, with healthy cropping systems."
+    },
+    {
+      "sub-topic": "Nutrient Supply",
+      "Content": "Air carbon, oxygen Water hydrogen, oxygen Soil (i) Macronutrients: nitrogen, phosphorus, potassium, calcium, magnesium, sulphur (ii) Micronutrients: iron, manganese, boron, zinc, copper, molybdenum, chlorine."
+    },
+    {
+      "sub-topic": "Irrigation",
+      "Content": "Most agriculture in India is rain-fed, meaning the success of crops in most areas is dependent on timely monsoons and sufficient rainfall spread throughout the growing season. Hence, poor monsoons cause crop failure. Ensuring that the crops get water at the right stages during their growing season can increase the expected yields of any crop. Therefore, many measures are used to bring more and more agricultural land under irrigation."
+    },
+    {
+      "sub-topic": "Irrigation Systems",
+      "Content": "India has a wide variety of water resources and a highly varied climate. Under such conditions, several different kinds of irrigation systems are adopted to supply water to agricultural lands depending on the kinds of water resources available. These include wells, canals, rivers, and tanks. Wells: There are two types of wells, namely dug wells and tube wells. In a dug well, water is collected from water bearing strata. Tube wells can tap water from the deeper strata. From these wells, water is lifted by pumps for irrigation. Canals: This is usually an elaborate and extensive irrigation system. In this system canals receive water from one or more reservoirs or from rivers. The main canal is divided into branch canals having further distributaries to irrigate fields. River Lift Systems: In areas where canal flow is insufficient or irregular due to inadequate reservoir release, the lift system is more rational. Water is directly drawn from the rivers for supplementing irrigation in areas close to rivers. Tanks: These are small storage reservoirs, which intercept and store the run-off of smaller catchment areas. Fresh initiatives for increasing the water available for agriculture include rainwater harvesting and watershed management. This involves building small check-dams which lead to an increase in groundwater levels. The check-dams stop the rainwater from flowing away and also reduce soil erosion."
+    },
+    {
+      "sub-topic": "Cropping Patterns",
+      "Content": "Different ways of growing crops can be used to give maximum benefit. Mixed cropping is growing two or more crops simultaneously on the same piece of land, for example, wheat + gram, or wheat + mustard, or groundnut + sunflower. This reduces risk and provides some insurance against failure of one of the crops. Inter-cropping is growing two or more crops simultaneously on the same field in a definite pattern. A few rows of one crop alternate with a few rows of a second crop, for example, soyabean + maize, or finger millet (bajra) + cowpea (lobia). The crops are selected such that their nutrient requirements are different. This ensures maximum utilization of the nutrients supplied, and also prevents pests and diseases from spreading to all the plants belonging to one crop in a field. Crop rotation is the growing of different crops on a piece of land in a pre-planned succession, which is done for different crop combinations depending upon the duration."
+    },
+    {
+      "sub-topic": "Crop Protection Management",
+      "Content": "Field crops are infested by a large number of weeds, insect pests, and diseases. If weeds and pests are not controlled at the appropriate time, they can damage the crops so much that most of the crop is lost. Weeds are unwanted plants in the cultivated field, which compete for food, space, and light. They take up nutrients and reduce the growth of the crop. Therefore, removal of weeds from cultivated fields during the early stages of crop growth is essential for a good harvest. Generally, insect pests attack the plants in three ways: (i) they cut the root, stem, and leaf, (ii) they suck the cell sap from various parts of the plant, and (iii) they bore into stem and fruits. They thus affect the health of the crop and reduce yields. Diseases in plants are caused by pathogens such as bacteria, fungi, and viruses. These pathogens can be present in and transmitted through the soil, water, and air. Weeds, insects, and diseases can be controlled by various methods."
+    },
+    {
+      "sub-topic": "Storage of Grains",
+      "Content": "Factors responsible for losses are biotic—insects, rodents, fungi, mites, and bacteria, and abiotic—inappropriate moisture and temperatures in the place of storage. These factors cause degradation in quality, loss in weight, poor germinability, discoloration of produce, all leading to poor marketability. These factors can be controlled by proper treatment and by systematic management of warehouses. Preventive and control measures are used before grains are stored for future use. They include strict cleaning of the produce before storage, proper drying of the produce first in sunlight and then in shade, and fumigation using chemicals that can kill pests."
+    },
+    {
+      "sub-topic": "Animal Husbandry",
+      "Content": "Animal husbandry is the scientific management of animal livestock. It includes various aspects such as feeding, breeding and disease control. Animal-based farming includes cattle, goat, sheep, poultry, and fish farming. As the population increases and as living standards increase, the demand for milk, eggs, and meat is also going up. Therefore, livestock production also needs to be improved."
+    },
+    {
+      "sub-topic": "Cattle Farming",
+      "Content": "Cattle husbandry is done for two purposes—milk and draught labor for agricultural work such as tilling, irrigation, and carting. Indian cattle belong to two different species, Bos indicus (cows) and Bos bubalis (buffaloes). Milk-producing females are called milch animals (dairy animals), while the ones used for farm labor are called draught animals. Milk production can be increased by increasing the lactation period. Exotic or foreign breeds (for example, Jersey, Brown Swiss) are selected for long lactation periods, while local breeds (for example, Red Sindhi, Sahiwal) show excellent resistance to diseases. The two can be cross-bred to get animals with both the desired qualities."
+    }
+  ]
+}

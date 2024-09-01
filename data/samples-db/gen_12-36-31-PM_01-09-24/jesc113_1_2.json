@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "In recent years, regulations such as the Montreal Protocol have been effective in phasing out substances that deplete the ozone layer, including chlorofluorocarbons (CFCs). Scientists have observed signs of recovery in the ozone layer as a result of these measures. The size of the ozone hole has been gradually decreasing, indicating that international efforts to control emissions are having a positive impact.",
+      "question": "What has the Montreal Protocol achieved?"
+    },
+    {
+      "context": "Research indicates that the ongoing regulations on CFC emissions have contributed to the healing of the ozone layer. Satellite data shows that the size of the hole in the ozone has decreased in recent years, validating the effectiveness of the global response to ozone depletion since the 1980s.",
+      "question": "How has the ozone hole changed recently?"
+    },
+    {
+      "context": "The depletion of the ozone layer has been linked to increases in ultraviolet radiation reaching the Earth. To counteract this, various countries implemented environmental regulations targeting ozone-depleting chemicals, including bans and usage limitations. Recent studies show these regulations are starting to reverse some of the ozone layer damage.",
+      "question": "What impact do regulations have on ozone depletion?"
+    },
+    {
+      "context": "Studies conducted over the past decade show a significant reduction in the size of the ozone hole over Antarctica, largely due to international agreements that limited the production of harmful chemicals. This recovery is a testament to the effectiveness of global cooperation on environmental issues. Researchers continue to monitor this trend closely.",
+      "question": "What do studies show about the ozone hole?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Some of the common diseases affecting humans include influenza, which is transmitted through respiratory droplets, and tuberculosis, which spreads through the air. Preventive measures include vaccination for influenza and wearing masks to protect against TB transmission.",
+      "question": "What is the mode of transmission for influenza?"
+    },
+    {
+      "context": "Other diseases like HIV, transmitted through blood and bodily fluids, and malaria, which is carried by mosquitoes, also significantly impact human health. Prevention techniques involve using condoms and mosquito nets, respectively.",
+      "question": "How is malaria transmitted to humans?"
+    },
+    {
+      "context": "The table also outlines diseases such as hepatitis, which spreads through contaminated food and water, and cholera, which is largely preventable through proper sanitation and hygiene practices.",
+      "question": "What are preventive methods for cholera?"
+    },
+    {
+      "context": "The health implications of these diseases can be serious, which emphasizes the importance of understanding their transmission and prevention methods to effectively manage public health.",
+      "question": "Why is understanding disease transmission important?"
+    },
+    {
+      "context": "Preventing diseases requires a multi-faceted approach, including vaccination, proper sanitation, and public health campaigns to educate populations on disease transmission and prevention strategies.",
+      "question": "What are general methods of disease prevention?"
+    }
+  ]
+}

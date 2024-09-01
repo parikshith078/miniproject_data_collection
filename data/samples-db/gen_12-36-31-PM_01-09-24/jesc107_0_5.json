@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In multi-cellular organisms with relatively simple body organisation, simple reproductive methods can still work. Spirogyra, for example, simply breaks up into smaller pieces upon maturation. These pieces or fragments grow into new individuals.",
+      "question": "What organism reproduces by fragmentation?"
+    },
+    {
+      "context": "The reason is that many multi-cellular organisms, as we have seen, are not simply a random collection of cells. Specialised cells are organised as tissues, and tissues are organised into organs, which then have to be placed at definite positions in the body.",
+      "question": "Why can't all multi-cellular organisms reproduce by simple division?"
+    },
+    {
+      "context": "Multi-cellular organisms, therefore, need to use more complex ways of reproduction. This complexity arises from the organization of tissues and organs within their bodies.",
+      "question": "What type of reproduction do complex organisms need?"
+    },
+    {
+      "context": "These pieces or fragments grow into new individuals. This is not true for all multi-cellular organisms. They cannot simply divide cell-by-cell.",
+      "question": "How do fragments from Spirogyra develop?"
+    },
+    {
+      "context": "Specialised cells are organised as tissues, and tissues are organised into organs, which then have to be placed at definite positions in the body.",
+      "question": "What is the organization of cells in multi-cellular organisms?"
+    }
+  ]
+}

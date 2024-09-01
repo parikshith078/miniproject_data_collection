@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Since the sexual act always has the potential to lead to pregnancy, pregnancy will make major demands on the body and the mind of the woman.",
+      "question": "What demands does pregnancy make on women?"
+    },
+    {
+      "context": "If she is not ready for it, her health will be adversely affected. Therefore, many ways have been devised to avoid pregnancy.",
+      "question": "Why is pregnancy prevention important?"
+    },
+    {
+      "context": "Many ways have been devised to avoid pregnancy, which indicates various methods exist for this purpose.",
+      "question": "What methods exist for avoiding pregnancy?"
+    },
+    {
+      "context": "Pregnancy will make major demands on the body and the mind of the woman, indicating how significant the change is.",
+      "question": "How does pregnancy affect a woman's body and mind?"
+    },
+    {
+      "context": "Reproductive challenges arise when pregnancy occurs unexpectedly, causing potential health issues.",
+      "question": "What challenges may arise from unexpected pregnancy?"
+    }
+  ]
+}

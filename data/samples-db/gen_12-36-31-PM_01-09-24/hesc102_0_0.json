@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Microorganisms are classified into four major groups: bacteria, fungi, protozoa, and some algae. Some of the common microorganisms are shown in Figs. 2.1 - 2.4. Viruses are also microscopic but are different from other microorganisms.",
+      "question": "What are the four major groups of microorganisms?"
+    },
+    {
+      "context": "Common ailments like cold, influenza (flu), and most coughs are caused by viruses. Serious diseases like polio and chicken pox are also caused by viruses.",
+      "question": "Which diseases are caused by viruses?"
+    },
+    {
+      "context": "Microorganisms are so small in size that they cannot be seen with the unaided eye. Some of these, such as the fungus that grows on bread, can be seen with a magnifying glass.",
+      "question": "Why are microorganisms called microbes?"
+    },
+    {
+      "context": "Observe these patches through a magnifying glass. You will see tiny, black rounded structures. Do you know what these structures are and where do these come from?",
+      "question": "What can you observe on spoiled bread?"
+    },
+    {
+      "context": "Diseases like dysentery and malaria are caused by protozoa, whereas typhoid and tuberculosis (TB) are bacterial diseases. You have learned about some of these microorganisms in Classes VI and VII.",
+      "question": "What types of diseases are caused by bacteria?"
+    }
+  ]
+}

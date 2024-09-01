@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Early marriage refers to the union of individuals at young ages, typically before reaching adulthood. This practice is often accompanied by various challenges such as lack of education, emotional immaturity, and financial instability. Furthermore, early marriage can lead to health risks, including complications during childbirth for young mothers. It can perpetuate cycles of poverty and limit opportunities for personal and professional development.",
+      "question": "What are the challenges of early marriage?"
+    },
+    {
+      "context": "Individuals who marry early may face significant barriers to completing their education. The responsibilities of being a spouse and potential parent can distract them from their studies. This often results in their own financial dependence and reduced societal contributions. Additionally, young marriages can be marked by power imbalances and limited conflict resolution strategies, leading to unhealthy relationship dynamics.",
+      "question": "How does early marriage affect education?"
+    },
+    {
+      "context": "Health issues are a major concern for those who marry early, especially for women. Young brides often encounter risks such as early pregnancies which can lead to severe health complications, both for themselves and their children. The lack of access to healthcare and reproductive education further exacerbates these risks, leaving young couples unprepared for parenthood and the challenges it entails.",
+      "question": "What health risks are associated with early marriage?"
+    },
+    {
+      "context": "The legal status of early marriage varies widely around the world, with some countries setting the legal marriage age at 18, while others might allow marriage at a younger age with parental consent. Awareness of the laws surrounding early marriage is crucial for understanding the social and legal implications of such unions, as individuals may not fully realize their rights and options.",
+      "question": "What is the legal status of early marriage?"
+    }
+  ]
+}

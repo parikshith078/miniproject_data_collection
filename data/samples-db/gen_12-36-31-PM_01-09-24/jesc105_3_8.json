@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The excretory system of human beings includes a pair of kidneys, a pair of ureters, a urinary bladder, and a urethra.",
+      "question": "What does the excretory system consist of?"
+    },
+    {
+      "context": "Urine produced in the kidneys passes through the ureters into the urinary bladder where it is stored until released through the urethra.",
+      "question": "How is urine transported from kidneys to the outside?"
+    },
+    {
+      "context": "Kidneys are located in the abdomen, one on either side of the backbone. Urine produced in the kidneys passes through the ureters into the urinary bladder.",
+      "question": "Where are the kidneys located in the human body?"
+    },
+    {
+      "context": "The purpose of making urine is to filter out waste products from the blood such as nitrogenous waste.",
+      "question": "What is the primary function of urine production?"
+    },
+    {
+      "context": "Each kidney has large numbers of filtration units called nephrons packed close together.",
+      "question": "What are the filtration units in the kidneys called?"
+    }
+  ]
+}

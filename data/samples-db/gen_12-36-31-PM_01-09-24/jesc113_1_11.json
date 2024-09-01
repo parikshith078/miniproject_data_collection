@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Waste management involves the collection, transport, processing, recycling or disposal of waste materials. Over time, certain materials in waste can change their form and structure, especially organic materials like food scraps and yard waste that decompose naturally, as well as plastics that undergo chemical weathering.",
+      "question": "What materials change over time?"
+    },
+    {
+      "context": "Common examples of materials that change their form and structure include biodegradable waste such as food and garden waste, which decompose into compost, and certain plastics that can break down into microplastics. This transformation is vital for effective waste management.",
+      "question": "Which waste materials decompose naturally?"
+    },
+    {
+      "context": "In the context of waste management, materials like paper and food waste are known to change their physical form as they decompose. Additionally, many metals can oxidize and alter their structure when exposed to the environment, affecting their recyclability.",
+      "question": "Which materials oxidize and change form?"
+    },
+    {
+      "context": "Chemicals in waste, such as solvents and food waste, can change their structure due to microbial activity. When managing waste, it's important to understand which materials will alter over time and how they impact recycling efforts and landfills.",
+      "question": "What chemicals change their structure in waste?"
+    },
+    {
+      "context": "When managing waste, one can observe that organic materials, plastics, and metals undergo changes in their structure and form. It's critical for waste management systems to account for these transformations during recycling and disposal processes.",
+      "question": "What types of waste undergo structural changes?"
+    }
+  ]
+}

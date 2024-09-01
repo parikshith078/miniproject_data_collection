@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Most agriculture in India is rain-fed, meaning the success of crops in most areas is dependent on timely monsoons and sufficient rainfall spread throughout the growing season.",
+      "question": "What does rain-fed agriculture depend on?"
+    },
+    {
+      "context": "Ensuring that the crops get water at the right stages during their growing season can increase the expected yields of any crop.",
+      "question": "How can crop yields be increased?"
+    },
+    {
+      "context": "Hence, poor monsoons cause crop failure. Ensuring that the crops get water at the right stages during their growing season can increase the expected yields of any crop.",
+      "question": "What effect do poor monsoons have?"
+    },
+    {
+      "context": "Therefore, many measures are used to bring more and more agricultural land under irrigation.",
+      "question": "Why is there a push for more irrigation?"
+    }
+  ]
+}

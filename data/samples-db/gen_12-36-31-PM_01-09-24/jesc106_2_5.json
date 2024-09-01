@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Feedback mechanisms are critical in regulating hormone secretion in precise amounts. For instance, when blood sugar levels rise, pancreatic cells detect this change and increase their insulin production. Subsequently, as blood sugar levels decline, the secretion of insulin decreases correspondingly.",
+      "question": "What triggers the pancreas to release insulin?"
+    },
+    {
+      "context": "The regulation of hormone release heavily relies on feedback mechanisms. A classic example is when blood sugar increases; the pancreas senses this and secretes more insulin to help lower the sugar level. Once the sugar level decreases, insulin production is reduced to maintain balance.",
+      "question": "How does the body respond to high blood sugar?"
+    },
+    {
+      "context": "In order to maintain homeostasis, hormones must be secreted in specific amounts, which is managed through feedback mechanisms. When the blood sugar rises, pancreatic cells produce more insulin. This process continues until the blood sugar levels normalize, leading to reduced insulin secretion.",
+      "question": "What happens when blood sugar levels drop?"
+    },
+    {
+      "context": "Hormone secretion is tightly regulated by feedback mechanisms to ensure balance in bodily functions. For example, elevated blood sugar levels prompt the pancreas to secrete more insulin. When blood sugar levels fall, the secretion of insulin is subsequently decreased to prevent low sugar levels.",
+      "question": "What is the effect of falling blood sugar levels?"
+    }
+  ]
+}

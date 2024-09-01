@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Every cell has a membrane around it to keep its own contents separate from the external environment. Large and complex cells, including cells from multicellular organisms, need a lot of chemical activities to support their complicated structure and function.",
+      "question": "What is the purpose of the cell membrane?"
+    },
+    {
+      "context": "To keep these activities of different kinds separate from each other, these cells use membrane-bound little structures (or ‘organelles’) within themselves. This is one of the features of the eukaryotic cells that distinguish them from prokaryotic cells.",
+      "question": "How do organelles differentiate eukaryotic cells?"
+    },
+    {
+      "context": "Some important examples of cell organelles which we will discuss now are: endoplasmic reticulum, Golgi apparatus, lysosomes, mitochondria and plastids. They are important because they carry out some very crucial functions in cells.",
+      "question": "What are some examples of cell organelles?"
+    },
+    {
+      "context": "The endoplasmic reticulum (ER) is a large network of membrane-bound tubes and sheets. It looks like long tubules or round or oblong bags (vesicles). The ER membrane is similar in structure to the plasma membrane.",
+      "question": "What is the structure of the endoplasmic reticulum?"
+    },
+    {
+      "context": "There are two types of ER– rough endoplasmic reticulum (RER) and smooth endoplasmic reticulum (SER). RER looks rough under a microscope because it has particles called ribosomes attached to its surface.",
+      "question": "What distinguishes rough ER from smooth ER?"
+    },
+    {
+      "context": "The manufactured proteins are then sent to various places in the cell depending on need, using the ER. The SER helps in the manufacture of fat molecules, or lipids, important for cell function.",
+      "question": "What is the role of SER in the cell?"
+    },
+    {
+      "context": "Some of these proteins and lipids help in building the cell membrane. This process is known as membrane biogenesis. Some other proteins and lipids function as enzymes and hormones.",
+      "question": "What is membrane biogenesis?"
+    },
+    {
+      "context": "Thus, one function of the ER is to serve as channels for the transport of materials (especially proteins) between various regions of the cytoplasm or between the cytoplasm and the nucleus.",
+      "question": "What transport function does the ER serve?"
+    },
+    {
+      "context": "The ER also functions as a cytoplasmic framework providing a surface. Thus, it is crucial for various cellular activities and structures within the cell.",
+      "question": "How does the ER support cell structure?"
+    },
+    {
+      "context": "Although the ER varies greatly in appearance in different cells, it always forms a network system. Thus, one function of the ER is to serve as channels for the transport of materials.",
+      "question": "What is a common feature of the ER in different cells?"
+    }
+  ]
+}

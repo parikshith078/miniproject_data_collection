@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Migratory birds fly to far away areas every year during a particular time because of climatic changes.",
+      "question": "Why do migratory birds fly long distances?"
+    },
+    {
+      "context": "These birds have flown here from other parts of the world.",
+      "question": "Where do migratory birds come from?"
+    },
+    {
+      "context": "Birds who cover long distances to reach another land are known as migratory birds.",
+      "question": "What are birds that travel long distances called?"
+    },
+    {
+      "context": "They fly for laying eggs as the weather in their natural habitat becomes very cold and inhospitable.",
+      "question": "What is one reason why birds migrate?"
+    },
+    {
+      "context": "Madhavji tells the children that these are migratory birds.",
+      "question": "Who explains about migratory birds to the children?"
+    },
+    {
+      "context": "Migratory birds fly to far away areas every year during a particular time because of climatic changes.",
+      "question": "What triggers the migration of birds?"
+    }
+  ]
+}

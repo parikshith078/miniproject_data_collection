@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In humans, reproduction involves the fusion of male and female gametes to create a zygote. This process starts with the release of sperm from the male and an egg from the female.",
+      "question": "What is the role of gametes in reproduction?"
+    },
+    {
+      "context": "As we grow older, our bodies undergo various changes that prepare us for reproduction. This includes the development of primary and secondary sexual characteristics.",
+      "question": "What changes occur in the body as humans age?"
+    },
+    {
+      "context": "Sexual reproduction in humans is a complex process that begins with the formation of sperm in males and eggs in females, which are then combined during fertilization.",
+      "question": "What initiates sexual reproduction in humans?"
+    },
+    {
+      "context": "The process of reproduction is crucial for the continuation of the human species, involving both physical and hormonal changes as we mature into adulthood.",
+      "question": "Why is reproduction important for humans?"
+    },
+    {
+      "context": "To understand human reproduction, it is essential to know about the endocrine system, which regulates the hormones responsible for sexual maturation.",
+      "question": "What system regulates hormones in human reproduction?"
+    }
+  ]
+}

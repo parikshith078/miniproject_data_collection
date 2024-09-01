@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The process of sugarcane crop production begins with the preparation of the soil, ensuring that it is suitable for planting. This is followed by manuring to enhance soil fertility. Sowing is the next step, where the sugarcane seeds or cuttings are planted in the prepared soil. Irrigation is then applied to ensure adequate water supply for growth.",
+      "question": "What is the first step in sugarcane production?"
+    },
+    {
+      "context": "Once the sugarcane seeds are sown, proper irrigation practices are crucial for the plants' growth. After a period of growth, the next step is harvesting the mature sugarcane crop. Finally, the harvested crop is sent to the sugar factory for processing.",
+      "question": "What comes after the irrigation step?"
+    },
+    {
+      "context": "The sequence of sugarcane crop production includes various important steps, starting from the preparation of the soil and followed by manuring. After sowing the seeds, irrigation is applied regularly to support the growing plants. Eventually, the mature crop is harvested and sent to sugar factories for further processing.",
+      "question": "What process follows manuring in sugarcane production?"
+    },
+    {
+      "context": "In order to produce sugarcane, farmers first prepare the soil to create a suitable environment for planting. After this preparation, manuring is conducted to improve the nutrient content of the soil. Once the land is ready, sowing takes place, followed by regular irrigation to nurture the plants until harvest.",
+      "question": "What is done to enhance soil fertility?"
+    },
+    {
+      "context": "After the soil is prepared and manuring is completed, the sowing of sugarcane seeds occurs. Post sowing, irrigation is essential for providing water to the young plants. Once fully grown, the crop is harvested, and the last step involves sending it to sugar factories where it will be processed into sugar.",
+      "question": "What is the last step in sugarcane crop production?"
+    }
+  ]
+}

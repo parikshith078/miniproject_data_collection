@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The epidermis is usually made of a single layer of cells. In some plants living in very dry habitats, the epidermis may be thicker since protection against water loss is critical. The entire surface of a plant has an outer covering epidermis.",
+      "question": "What is the structure of the epidermis?"
+    },
+    {
+      "context": "Epidermal cells on the aerial parts of the plant often secrete a waxy, water-resistant layer on their outer surface. This aids in protection against loss of water, mechanical injury, and invasion by parasitic fungi.",
+      "question": "What function does the waxy layer serve?"
+    },
+    {
+      "context": "The epidermis also has small pores called stomata, which are necessary for exchanging gases with the atmosphere. Stomata are enclosed by two kidney-shaped cells called guard cells.",
+      "question": "What role do stomata play in plants?"
+    },
+    {
+      "context": "Most epidermal cells are relatively flat. Since it has a protective role to play, cells of epidermal tissue form a continuous layer without intercellular spaces.",
+      "question": "Why do epidermal cells form a continuous layer?"
+    },
+    {
+      "context": "Epidermal cells of the roots, whose function is water absorption, commonly bear long hair-like parts that greatly increase the total absorptive surface area.",
+      "question": "How do root epidermal cells aid in water absorption?"
+    },
+    {
+      "context": "In some plants like desert plants, epidermis has a thick waxy coating of cutin (a chemical substance with water-proof quality) on its outer surface.",
+      "question": "What is cutin and why is it important?"
+    }
+  ]
+}

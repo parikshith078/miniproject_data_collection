@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Weeding is necessary since weeds compete with the crop plants for water, nutrients, space and light.",
+      "question": "Why is weeding necessary for crops?"
+    },
+    {
+      "context": "Farmers adopt many ways to remove weeds and control their growth.",
+      "question": "What methods do farmers use to control weeds?"
+    },
+    {
+      "context": "Tilling before sowing of crops helps in uprooting and killing of weeds.",
+      "question": "How does tilling help with weed control?"
+    },
+    {
+      "context": "Some weeds interfere even in harvesting and may be poisonous for animals and human beings.",
+      "question": "What problems can weeds cause during harvesting?"
+    },
+    {
+      "context": "The removal of weeds is called weeding.",
+      "question": "What is the term for removing weeds?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Electronic items often contain hazardous materials such as lead, mercury, cadmium, and brominated flame retardants. Improper disposal of these materials can result in soil and water contamination, posing risks to human health and the environment.",
+      "question": "What hazardous materials are in electronics?"
+    },
+    {
+      "context": "When electronic waste is not disposed of properly, hazardous materials can leach into the ground, contaminating water supplies. For example, lead from circuit boards can seep into the soil and groundwater.",
+      "question": "How do hazardous materials affect water supplies?"
+    },
+    {
+      "context": "Electronics also contain plastics that, when incinerated, can release toxic fumes and dioxins into the air. These pollutants can contribute to air pollution and pose health risks to living organisms.",
+      "question": "What happens to plastics when electronics are burned?"
+    },
+    {
+      "context": "The presence of cadmium in electronic waste can lead to severe environmental problems. When released into the ecosystem, cadmium accumulates in the food chain, affecting plants, animals, and humans.",
+      "question": "What is the impact of cadmium on the food chain?"
+    },
+    {
+      "context": "Lead exposure from electronic waste can cause neurological problems in humans and animals. This is of particular concern for children, who are more vulnerable to the effects of lead poisoning.",
+      "question": "What are the effects of lead on human health?"
+    },
+    {
+      "context": "When electronic devices are disposed of in landfills, the hazardous materials they contain can degrade and potentially poison local ecosystems, harming wildlife and biodiversity.",
+      "question": "How do landfills harm local ecosystems?"
+    }
+  ]
+}

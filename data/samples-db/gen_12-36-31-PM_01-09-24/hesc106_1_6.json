@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In a honey bee hive, a colony consists of several thousand bees. Only the queen bee lays eggs, while all other female bees are worker bees responsible for maintaining the hive.",
+      "question": "What is the role of worker bees?"
+    },
+    {
+      "context": "The queen bee is the only bee in the colony that lays eggs, laying thousands of them. Fertilised eggs develop into females and unfertilised eggs become males, known as drones.",
+      "question": "What do unfertilised eggs develop into?"
+    },
+    {
+      "context": "Worker bees build the hive, care for young bees, and feed the queen bee to ensure she can continue laying eggs for the colony's survival.",
+      "question": "Why do worker bees feed the queen bee?"
+    },
+    {
+      "context": "Maintaining the hive's temperature at around 35 °C is essential for the incubation of the eggs laid by the queen bee, a task driven by the worker bees' efforts.",
+      "question": "What temperature do worker bees maintain for incubation?"
+    },
+    {
+      "context": "The queen bee’s primary function in the hive is to lay eggs, while the worker bees take on nurturing and maintaining responsibilities within the colony.",
+      "question": "What is the primary function of the queen bee?"
+    }
+  ]
+}

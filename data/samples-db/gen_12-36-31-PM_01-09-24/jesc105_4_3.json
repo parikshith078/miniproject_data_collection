@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Organ donation involves the generous act of donating an organ to someone suffering from organ failure. This process can be done with the donor's consent and can potentially save lives.",
+      "question": "What is organ donation?"
+    },
+    {
+      "context": "Organs commonly donated include kidneys, hearts, livers, and others. Donations can occur both posthumously and while the donor is still alive, depending on the organ.",
+      "question": "What organs can be donated?"
+    },
+    {
+      "context": "Transplantation is necessary when a recipient’s organ has failed due to disease or injury, and it can significantly enhance or save lives.",
+      "question": "Why is transplantation necessary?"
+    },
+    {
+      "context": "Ask yourself about the procedures involved in organ donation and the criteria for being an organ donor.",
+      "question": "What should you consider about organ donation?"
+    }
+  ]
+}

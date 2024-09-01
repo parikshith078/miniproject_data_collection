@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Asexual reproduction allows new generations to be created from a single individual. This mode of reproduction does not involve the fusion of gametes and can occur in various organisms.",
+      "question": "What is asexual reproduction?"
+    },
+    {
+      "context": "All modes of reproduction that allow new generations from a single individual are classified as asexual reproduction. This type of reproduction is common in many species.",
+      "question": "How many individuals are needed for asexual reproduction?"
+    },
+    {
+      "context": "In asexual reproduction, new generations are produced by a single organism without the need for mating or genetic contribution from another individual.",
+      "question": "Does asexual reproduction involve two parents?"
+    },
+    {
+      "context": "Asexual reproduction encompasses various modes that produce offspring from a single parent. Unlike sexual reproduction, it does not involve gametes.",
+      "question": "What distinguishes asexual reproduction from sexual reproduction?"
+    },
+    {
+      "context": "The concept of asexual reproduction refers to the ability of organisms to reproduce without the genetic input from another individual, thus creating clones.",
+      "question": "What is the main characteristic of asexual reproduction?"
+    }
+  ]
+}

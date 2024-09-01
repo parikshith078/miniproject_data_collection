@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Microorganisms are used for the large-scale production of alcohol, wine, and acetic acid (vinegar). Yeast is used for commercial production of alcohol and wine. For this purpose, yeast is grown on natural sugars present in grains like barley, wheat, rice, crushed fruit juices, etc.",
+      "question": "What microorganisms are used for alcohol production?"
+    },
+    {
+      "context": "Commercial Use of Microorganisms: Microorganisms are used for the large-scale production of alcohol, wine, and acetic acid (vinegar). Yeast is used for commercial production of alcohol and wine.",
+      "question": "What is vinegar commonly produced from?"
+    },
+    {
+      "context": "For this purpose, yeast is grown on natural sugars present in grains like barley, wheat, rice, crushed fruit juices, etc.",
+      "question": "What do yeast feed on during fermentation?"
+    },
+    {
+      "context": "Microorganisms are used for the large-scale production of alcohol, wine, and acetic acid (vinegar).",
+      "question": "List one use of microorganisms in food production."
+    },
+    {
+      "context": "Yeast is used for commercial production of alcohol and wine. For this purpose, yeast is grown on natural sugars present in grains like barley, wheat, rice, crushed fruit juices, etc.",
+      "question": "Which grains are used to grow yeast?"
+    }
+  ]
+}

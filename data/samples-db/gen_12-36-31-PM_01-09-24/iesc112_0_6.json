@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "This approach depends on finding a crop variety that can give a good yield. Varieties or strains of crops can be selected by breeding for various useful characteristics such as disease resistance, response to fertilisers, product quality and high yields.",
+      "question": "What is a primary goal of crop variety improvement?"
+    },
+    {
+      "context": "One way of incorporating desirable characters into crop varieties is by hybridization. Hybridization refers to crossing between genetically dissimilar plants.",
+      "question": "What is hybridization in crop improvement?"
+    },
+    {
+      "context": "Hybridization refers to crossing between genetically dissimilar plants. This crossing may be intervarietal (between different varieties), interspecific (between two different species of the same genus) or intergeneric (between different genera).",
+      "question": "What types of hybridization are there?"
+    },
+    {
+      "context": "Varieties or strains of crops can be selected by breeding for various useful characteristics such as disease resistance, response to fertilisers, product quality and high yields.",
+      "question": "What characteristics are targeted in crop breeding?"
+    },
+    {
+      "context": "This approach depends on finding a crop variety that can give a good yield. One way of incorporating desirable characters into crop varieties is by hybridization.",
+      "question": "Why is yield important in crop variety improvement?"
+    }
+  ]
+}

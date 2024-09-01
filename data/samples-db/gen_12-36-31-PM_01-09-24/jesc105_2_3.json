@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "ATP acts like a battery in cells, providing energy for various biological processes. Its ability to store and transfer energy enables cells to perform tasks such as muscle contraction and active transport.",
+      "question": "What is the role of ATP in cells?"
+    },
+    {
+      "context": "Similar to a battery, ATP releases energy when it is broken down into ADP and inorganic phosphate. This energy release is crucial for fueling cellular activities and reactions.",
+      "question": "How does ATP release energy for cellular functions?"
+    },
+    {
+      "context": "Cells utilize ATP as an energy currency, powering various cellular processes that require energy input, much like how different devices use a battery.",
+      "question": "Why is ATP referred to as energy currency?"
+    },
+    {
+      "context": "Just as a battery can be used in different devices, ATP can provide energy for various cellular functions including metabolism, movement, and synthesis of macromolecules.",
+      "question": "In what ways can ATP be utilized by cells?"
+    },
+    {
+      "context": "ATP serves as the primary energy carrier in all living organisms, enabling efficient energy transfer for activities that sustain life, similar to how batteries power tools.",
+      "question": "What makes ATP essential for living organisms?"
+    }
+  ]
+}

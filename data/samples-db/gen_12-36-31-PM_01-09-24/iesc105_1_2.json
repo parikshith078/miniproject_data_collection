@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "The nucleus plays a central role in cellular reproduction, the process by which a single cell divides and forms two new cells. It also plays a crucial part, along with the environment, in determining the way the cell will develop and what form it will exhibit at maturity, by directing the chemical activities of the cell.",
+      "question": "What is the main function of the nucleus?"
+    },
+    {
+      "context": "The nucleus contains chromosomes, which are visible as rod-shaped structures only when the cell is about to divide. Chromosomes contain information for inheritance of characters from parents to next generation in the form of DNA molecules.",
+      "question": "What information do chromosomes carry?"
+    },
+    {
+      "context": "Apart from iodine solution we could also use safranin solution or methylene blue solution to stain the cells.",
+      "question": "What other staining solutions can be used?"
+    },
+    {
+      "context": "Organisms with cells having a nuclear membrane are called eukaryotes. Prokaryotic cells also lack most of the other cytoplasmic organelles present in eukaryotic cells.",
+      "question": "What are organisms without a nuclear membrane called?"
+    },
+    {
+      "context": "The nuclear membrane has pores which allow the transfer of material from inside the nucleus to its outside, that is, to the cytoplasm.",
+      "question": "What allows material transfer out of the nucleus?"
+    },
+    {
+      "context": "Whenever the cell is about to divide, the chromatin material gets organised into chromosomes. The nucleus plays a central role in cellular reproduction.",
+      "question": "What happens to chromatin during cell division?"
+    },
+    {
+      "context": "The nucleus has a double layered covering called nuclear membrane. The nucleus contains chromosomes, which are composed of DNA and protein.",
+      "question": "What is the structure covering the nucleus?"
+    },
+    {
+      "context": "In some organisms like bacteria, the nuclear region of the cell may be poorly defined due to the absence of a nuclear membrane.",
+      "question": "What is a nucleoid?"
+    },
+    {
+      "context": "Was there a darkly coloured, spherical or oval, dot-like structure near the centre of each cell? This structure is called nucleus.",
+      "question": "What is the structure found in the center of the cell?"
+    },
+    {
+      "context": "In a cell which is not dividing, this DNA is present as part of chromatin material. Chromatin material is visible as tangled structures.",
+      "question": "What form is DNA in when the cell is not dividing?"
+    }
+  ]
+}

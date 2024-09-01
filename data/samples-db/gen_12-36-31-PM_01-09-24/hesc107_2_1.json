@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Reproductive age in women starts when their menstruation begins, marking the onset of the menstrual cycle and the ability to conceive. This typically occurs during puberty, which can vary in onset among individuals, but is generally around the ages of 12 to 14. It signifies a crucial phase in female development where various physical and hormonal changes lead to reproductive capability.",
+      "question": "What marks the start of women's reproductive age?"
+    },
+    {
+      "context": "Reproductive age in women starts when their menstruation begins. The menstrual cycle involves a monthly series of changes in hormone levels, which prepare the body for potential pregnancy. This period of fertility can last for several decades until menopause occurs, signaling the end of a woman's reproductive years.",
+      "question": "When does menstruation typically begin?"
+    },
+    {
+      "context": "Reproductive age in women starts when their menstruation begins, which is an important sign of sexual maturity. This period is characterized by the full development of the reproductive system and an increase in fertility. Puberty plays a significant role in this transition as the body undergoes various changes due to hormonal influences.",
+      "question": "What signifies sexual maturity in women?"
+    },
+    {
+      "context": "Reproductive age in women starts when their menstruation begins, and it is a critical indicator of reproductive health. This physiological change not only suggests the onset of potential fertility but also triggers other developments in the body, including breast development and peak body growth. Understanding this phase is essential for overall health education.",
+      "question": "What indicates the onset of fertility in women?"
+    },
+    {
+      "context": "Reproductive age in women starts when their menstruation begins, typically around the early teenage years. This marks the initiation of regular menstrual cycles, which can vary greatly among individuals in terms of timing and experience. Awareness of reproductive health is vital during this time to manage menstrual cycles and understand body changes.",
+      "question": "At what age does menstruation typically start?"
+    }
+  ]
+}

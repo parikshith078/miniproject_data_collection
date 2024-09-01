@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Permanent tissue is formed when cells from meristematic tissue take up specific roles and lose their ability to divide, a process known as differentiation. This leads to the development of different types of permanent tissues. Parenchyma, a common simple permanent tissue, consists of unspecialised living cells with thin walls and large intercellular spaces.",
+      "question": "What is parenchyma primarily responsible for?"
+    },
+    {
+      "context": "In plants, permanent tissues like collenchyma allow certain parts to bend without breaking while providing mechanical support. This flexible tissue is found below the epidermis in leaf stalks. The cells are elongated and thickened at the corners with minimal intercellular spaces.",
+      "question": "Where is collenchyma primarily located?"
+    },
+    {
+      "context": "Sclerenchyma is a type of permanent tissue that provides hardness and stiffness to plants. The cells are dead, long, and narrow, with thick walls due to lignin, leaving no internal space. This tissue is crucial for giving strength to various plant parts.",
+      "question": "What is the main function of sclerenchyma?"
+    },
+    {
+      "context": "Differentiation in plants leads to the formation of permanent tissues and includes various types such as parenchyma, collenchyma, and sclerenchyma. These tissues arise from meristematic tissue, which loses division capacity and adapts to specific functions within the plant.",
+      "question": "What process leads to permanent tissue formation?"
+    },
+    {
+      "context": "Aquatic plants contain a specific type of parenchyma called aerenchyma, which has large air cavities that assist in floating. This adaptation is vital for survival in water environments and highlights the versatility of parenchymal tissue in different plant habitats.",
+      "question": "What is the role of aerenchyma in aquatic plants?"
+    }
+  ]
+}

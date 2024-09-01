@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fertilisers are chemical substances that provide specific nutrients to crops, while manure is organic matter derived from plants and animals that improves soil structure and fertility over time.",
+      "question": "What are the main differences between fertilisers and manure?"
+    },
+    {
+      "context": "Fertilisers are chemical substances that provide specific nutrients to crops, while manure is organic matter derived from plants and animals that improves soil structure and fertility over time.",
+      "question": "How do fertilisers benefit crop growth?"
+    },
+    {
+      "context": "Fertilisers are chemical substances that provide specific nutrients to crops, while manure is organic matter derived from plants and animals that improves soil structure and fertility over time.",
+      "question": "Why is manure beneficial for soil health?"
+    },
+    {
+      "context": "Fertilisers are chemical substances that provide specific nutrients to crops, while manure is organic matter derived from plants and animals that improves soil structure and fertility over time.",
+      "question": "What type of matter is manure derived from?"
+    },
+    {
+      "context": "Fertilisers are chemical substances that provide specific nutrients to crops, while manure is organic matter derived from plants and animals that improves soil structure and fertility over time.",
+      "question": "What do fertilisers provide to crops?"
+    }
+  ]
+}

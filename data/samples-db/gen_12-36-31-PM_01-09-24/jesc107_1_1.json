@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The thread-like structures that developed on the bread in Activity 7.2 above are the hyphae of the bread mould (Rhizopus). They are not reproductive parts. On the other hand, the tiny blob-on-a-stick structures are involved in reproduction.",
+      "question": "What are the structures involved in reproduction?"
+    },
+    {
+      "context": "The blobs are sporangia, which contain cells, or spores, that can eventually develop into new Rhizopus individuals.",
+      "question": "What do sporangia contain that aids reproduction?"
+    },
+    {
+      "context": "The spores are covered by thick walls that protect them until they come into contact with another moist surface and can begin to grow.",
+      "question": "What protects the spores of Rhizopus?"
+    },
+    {
+      "context": "Even in many simple multi-cellular organisms, specific reproductive parts can be identified. The blobs are sporangia, which contain cells, or spores.",
+      "question": "What type of organism is mentioned in this context?"
+    },
+    {
+      "context": "The tiny blob-on-a-stick structures are involved in reproduction. The blobs are sporangia, which contain cells, or spores.",
+      "question": "What is the role of sporangia?"
+    },
+    {
+      "context": "The spores can eventually develop into new Rhizopus individuals. The spores are covered by thick walls that protect them.",
+      "question": "What do spores develop into?"
+    }
+  ]
+}

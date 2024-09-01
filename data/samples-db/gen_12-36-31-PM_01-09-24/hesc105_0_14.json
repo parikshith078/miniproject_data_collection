@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Wildlife Sanctuaries like reserve forests provide protection and suitable living conditions to wild animals. Professor Ahmad explains that killing (poaching) or capturing animals in general is strictly prohibited and punishable by law in all such places.",
+      "question": "What is prohibited in wildlife sanctuaries?"
+    },
+    {
+      "context": "Professor Ahmad explains that killing (poaching) or capturing animals in general is strictly prohibited and punishable by law in all such places. Wildlife Sanctuaries like reserve forests provide protection and suitable living conditions to wild animals.",
+      "question": "What do wildlife sanctuaries provide to animals?"
+    },
+    {
+      "context": "Killing (poaching) or capturing animals is strictly prohibited and punishable by law in all such places. Soon Paheli sees a board with ‘Pachmarhi Wildlife Sanctuary’ written on it.",
+      "question": "What happens to poaching in these areas?"
+    },
+    {
+      "context": "Soon Paheli sees a board with ‘Pachmarhi Wildlife Sanctuary’ written on it. Wildlife Sanctuaries like reserve forests provide protection and suitable living conditions to wild animals.",
+      "question": "What does Pachmarhi Wildlife Sanctuary aim to protect?"
+    },
+    {
+      "context": "Wildlife Sanctuaries provide protection and suitable living conditions to wild animals. Killing (poaching) or capturing animals in general is strictly prohibited and punishable by law in all such places.",
+      "question": "Why are wildlife sanctuaries important?"
+    }
+  ]
+}

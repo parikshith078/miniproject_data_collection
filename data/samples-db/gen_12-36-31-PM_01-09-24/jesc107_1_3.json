@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Sexual reproduction requires the involvement of both males and females to produce new generations, which enhances genetic diversity. This mode of reproduction contrasts with asexual reproduction, where only one parent is involved. Genetic diversity is crucial for adaptation to changing environments.",
+      "question": "What enhances genetic diversity in reproduction?"
+    },
+    {
+      "context": "The need for both sexes in sexual reproduction ensures a combination of genetic material, which can lead to healthier offspring. In asexual reproduction, the offspring are genetically identical to the parent, which may limit the population's ability to adapt to environmental changes.",
+      "question": "What is a limitation of asexual reproduction?"
+    },
+    {
+      "context": "The significance of sexual reproduction is that it promotes genetic variation, which is vital for evolution and species survival. On the other hand, asexual reproduction can lead to a lack of diversity, making populations more vulnerable to diseases and environmental shifts.",
+      "question": "Why is genetic variation important for species survival?"
+    },
+    {
+      "context": "While sexual reproduction involves two parents and increases genetic diversity, asexual reproduction allows for faster population growth since it requires only one individual. However, the lack of genetic variation in asexual reproduction can hinder adaptability.",
+      "question": "How does asexual reproduction affect adaptability?"
+    }
+  ]
+}

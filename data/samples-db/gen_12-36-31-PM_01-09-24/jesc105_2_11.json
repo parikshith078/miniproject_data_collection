@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In human beings, the respiratory pigment is haemoglobin which has a very high affinity for oxygen. This pigment is present in the red blood corpuscles.",
+      "question": "What is the role of haemoglobin?"
+    },
+    {
+      "context": "This pigment is present in the red blood corpuscles, allowing for effective oxygen transportation throughout the body.",
+      "question": "Where is haemoglobin found in the blood?"
+    },
+    {
+      "context": "Haemoglobin's high affinity for oxygen enables it to bind oxygen efficiently in the lungs and release it in tissues.",
+      "question": "Why is haemoglobin important for oxygen transport?"
+    },
+    {
+      "context": "Oxygen is carried in the blood primarily by haemoglobin, which enables cells to obtain the oxygen they need.",
+      "question": "What does haemoglobin transport in the blood?"
+    },
+    {
+      "context": "The presence of haemoglobin in red blood cells is crucial for maintaining oxygen levels in the body.",
+      "question": "Why is hemoglobin essential for humans?"
+    }
+  ]
+}

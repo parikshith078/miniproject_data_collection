@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Neurons are specialized cells that transmit impulses throughout the nervous system. They consist of three main parts: the cell body, dendrites, and axon. Dendrites receive signals from other neurons, and the axon conducts impulses away from the cell body to communicate with other neurons or muscles.",
+      "question": "What are the main parts of neurons?"
+    },
+    {
+      "context": "The primary function of neurons is to receive messages from other cells and to transmit these messages in the form of electrical impulses. Neurons communicate by releasing neurotransmitters at synapses, which are the junctions between two neurons.",
+      "question": "How do neurons communicate with each other?"
+    },
+    {
+      "context": "In addition to transmitting impulses, neurons also play a crucial role in processing information. They can integrate signals from multiple sources and decide whether to pass the information along to other neurons or initiate a response in the body.",
+      "question": "What role do neurons play in processing information?"
+    },
+    {
+      "context": "Neurons vary in structure and function according to their locations and roles in the nervous system. Sensory neurons, motor neurons, and interneurons are the three main types, each serving a different purpose in nerve signal transmission.",
+      "question": "What are the three main types of neurons?"
+    }
+  ]
+}

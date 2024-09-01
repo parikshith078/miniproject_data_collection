@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "When we walk or ride a bicycle, we are using up energy. Even when we are not doing any apparent activity, energy is needed to maintain a state of order in our body.",
+      "question": "What do we use energy for in our bodies?"
+    },
+    {
+      "context": "We also need materials from outside in order to grow, develop, synthesise protein and other substances needed in the body.",
+      "question": "What materials do we need to grow and develop?"
+    },
+    {
+      "context": "This source of energy and materials is the food we eat.",
+      "question": "What provides energy and materials for our bodies?"
+    },
+    {
+      "context": "Even when we are not doing any apparent activity, energy is needed to maintain a state of order in our body.",
+      "question": "Why do we need energy even at rest?"
+    }
+  ]
+}

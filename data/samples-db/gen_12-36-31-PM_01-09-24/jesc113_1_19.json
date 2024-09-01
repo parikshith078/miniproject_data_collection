@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Biodegradable plastics are designed to break down more quickly than traditional plastics. They are made from renewable sources such as corn starch or sugarcane and can decompose naturally when exposed to the right conditions. However, some biodegradable plastics still require specific environments, like industrial composting, to fully decompose without releasing harmful substances.",
+      "question": "What are biodegradable plastics made from?"
+    },
+    {
+      "context": "Non-biodegradable materials, such as traditional plastic bags and bottles, can persist in the environment for hundreds of years. When these items are discarded, they contribute to pollution and can harm wildlife and ecosystems. Efforts to reduce non-biodegradable waste include recycling and finding alternative packaging solutions.",
+      "question": "What harm do non-biodegradable materials cause?"
+    },
+    {
+      "context": "Beyond the environmental impact, biodegradable plastics can still present challenges. If they don’t decompose as expected, they contribute to pollution. Moreover, with the rise in biodegradable options, confusion among consumers can lead to improper disposal, negating the benefits of these materials if they end up in landfills instead of composting facilities.",
+      "question": "What challenges do biodegradable plastics face?"
+    },
+    {
+      "context": "To effectively dispose of biodegradable plastics, specific conditions such as heat, moisture, and microorganisms are needed. Without these, biodegradable materials may still linger in landfills and contribute to waste issues similar to traditional plastics. Understanding the disposal process is crucial for environmental benefits.",
+      "question": "What conditions are needed for biodegradable plastics to decompose?"
+    },
+    {
+      "context": "Many environmental advocates promote biodegradable plastics as a solution to pollution. However, the production process itself may still create carbon emissions, and the reliance on agricultural products can lead to land use concerns. Therefore, while biodegradable plastics can help, they aren't a complete solution to plastic pollution.",
+      "question": "What are the potential downsides of biodegradable plastics?"
+    }
+  ]
+}

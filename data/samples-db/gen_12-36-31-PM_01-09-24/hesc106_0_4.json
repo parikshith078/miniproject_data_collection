@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The female reproductive organs are a pair of ovaries, oviducts (fallopian tubes) and the uterus. The ovary produces female gametes called ova (eggs). In human beings, a single matured egg is released into the oviduct by one of the ovaries every month.",
+      "question": "What do the ovaries produce in females?"
+    },
+    {
+      "context": "The ovary produces female gametes called ova (eggs). In human beings, a single matured egg is released into the oviduct by one of the ovaries every month. Uterus is the part where development of the baby takes place.",
+      "question": "Where does the development of the baby occur?"
+    },
+    {
+      "context": "Uterus is the part where development of the baby takes place. Like the sperm, an egg is also a single cell. The ovary produces female gametes called ova (eggs).",
+      "question": "How many cells make up an egg?"
+    },
+    {
+      "context": "In human beings, a single matured egg is released into the oviduct by one of the ovaries every month. Uterus is the part where development of the baby takes place. Like the sperm, an egg is also a single cell.",
+      "question": "How often is a matured egg released?"
+    },
+    {
+      "context": "Female reproductive organs include a pair of ovaries, oviducts (fallopian tubes) and the uterus. The ovary produces female gametes called ova (eggs).",
+      "question": "What are the main organs in the female reproductive system?"
+    }
+  ]
+}

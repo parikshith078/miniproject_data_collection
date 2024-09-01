@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "So, how do they respond to stimuli? When we touch the leaves of a chhui-mui (the ‘sensitive’ or ‘touch-me-not’ plant of the Mimosa family), they begin to fold up and droop. When a seed germinates, the root goes down, the stem comes up into the air.",
+      "question": "What happens when chhui-mui leaves are touched?"
+    },
+    {
+      "context": "When a seed germinates, the root goes down, the stem comes up into the air. Firstly, the leaves of the sensitive plant move very quickly in response to touch.",
+      "question": "What direction does a seed's root grow during germination?"
+    },
+    {
+      "context": "The leaves of the sensitive plant move very quickly in response to touch. There is no growth involved in this movement.",
+      "question": "Is growth involved in the movement of sensitive plant leaves?"
+    },
+    {
+      "context": "Animals have a nervous system for controlling and coordinating the activities of the body. But plants have neither a nervous system nor muscles.",
+      "question": "What system do animals have for controlling their body activities?"
+    },
+    {
+      "context": "But plants have neither a nervous system nor muscles. So, how do they respond to stimuli?",
+      "question": "Why don't plants respond using a nervous system?"
+    },
+    {
+      "context": "When we touch the leaves of a chhui-mui (the ‘sensitive’ or ‘touch-me-not’ plant of the Mimosa family), they begin to fold up and droop.",
+      "question": "What is a chhui-mui also known as?"
+    },
+    {
+      "context": "When a seed germinates, the root goes down, the stem comes up into the air.",
+      "question": "What emerges from the soil during seed germination?"
+    },
+    {
+      "context": "Firstly, the leaves of the sensitive plant move very quickly in response to touch. There is no growth involved in this movement.",
+      "question": "What type of movement occurs in the sensitive plant's leaves?"
+    }
+  ]
+}

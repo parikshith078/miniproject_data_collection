@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Living organisms must keep repairing and maintaining their structures due to environmental effects that can cause disorder. If this order breaks down, the organism can no longer survive. Therefore, molecular movements are essential for life.",
+      "question": "Why do organisms need to maintain their structures?"
+    },
+    {
+      "context": "The organized, ordered nature of living structures is threatened by environmental factors. To prevent breakdown, living organisms must engage in maintenance processes involving molecular movement to repair their tissues and cells.",
+      "question": "What threatens the order of living structures?"
+    },
+    {
+      "context": "To maintain the life of an organism, molecular movements are crucial. These movements involve transporting molecules necessary for the repair and structural integrity of cells and tissues, which are made up of smaller components.",
+      "question": "What role do molecular movements play for organisms?"
+    },
+    {
+      "context": "Maintenance processes in living organisms are vital for survival. The constant movement of molecules helps to keep tissues healthy and allows for the necessary repairs that prevent the breakdown of organized structures.",
+      "question": "How do molecular movements contribute to survival?"
+    },
+    {
+      "context": "Living organisms consist of highly organized structures that require constant upkeep. As environmental influences can disrupt this order, molecular processes are essential to manage and repair cellular integrity and functionality.",
+      "question": "What is the purpose of molecular processes in organisms?"
+    }
+  ]
+}

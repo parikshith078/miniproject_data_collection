@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Movements over very small scales will be invisible to the naked eye – movements of molecules, for example.",
+      "question": "What type of movements are invisible?"
+    },
+    {
+      "context": "Using visible movement as the defining characteristic of life is not enough.",
+      "question": "Why is visible movement insufficient for defining life?"
+    },
+    {
+      "context": "Viruses do not show any molecular movement in them until they infect some cell.",
+      "question": "When do viruses exhibit molecular movement?"
+    },
+    {
+      "context": "If we ask this question to professional biologists, they will say yes.",
+      "question": "What do professional biologists say about molecular movement?"
+    },
+    {
+      "context": "That is partly why there is a controversy about whether they are truly alive or not.",
+      "question": "What causes controversy regarding the status of viruses?"
+    }
+  ]
+}

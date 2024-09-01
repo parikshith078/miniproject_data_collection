@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "This is known as double circulation. Fishes have only two chambers to their hearts, while other vertebrates, like mammals, have a more complex system where blood goes through the heart twice during each cycle.",
+      "question": "What type of circulation do mammals have?"
+    },
+    {
+      "context": "This is known as double circulation. Fishes have only two chambers to their hearts, while other vertebrates, like mammals, have a more complex system where blood goes through the heart twice during each cycle.",
+      "question": "How many chambers do fish hearts have?"
+    },
+    {
+      "context": "This is known as double circulation. Fishes have only two chambers to their hearts, while other vertebrates, like mammals, have a more complex system where blood goes through the heart twice during each cycle.",
+      "question": "Which vertebrates exhibit double circulation?"
+    },
+    {
+      "context": "This is known as double circulation. Fishes have only two chambers to their hearts, while other vertebrates, like mammals, have a more complex system where blood goes through the heart twice during each cycle.",
+      "question": "What key feature distinguishes mammal circulation?"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Amniocentesis is a medical procedure used to extract amniotic fluid from the amniotic sac surrounding a developing fetus. This fluid contains fetal cells and various substances that can be analyzed to assess the health of the fetus or identify genetic conditions. This technique is valuable as it provides information about potential genetic disorders, chromosomal abnormalities, and can also be used to determine the sex of the unborn child.",
+      "question": "What is the purpose of amniocentesis?"
+    },
+    {
+      "context": "Amniocentesis is a procedure performed between the 15th and 20th weeks of pregnancy. By analyzing the fluid, doctors can determine whether there are any conditions that may affect the unborn child. However, in India, the use of this technique to identify the sex of the child is banned because it leads to sex-selective abortion, contributing to gender imbalance in society.",
+      "question": "Why is amniocentesis banned for sex determination in India?"
+    },
+    {
+      "context": "The technique of amniocentesis offers insights into various fetal conditions and allows parents to make informed decisions about their pregnancy. Despite its benefits in diagnosing health issues, the practice has raised ethical concerns, particularly in regions where a cultural preference for male children exists, prompting regulatory actions in countries like India to prevent misuse.",
+      "question": "How does amniocentesis benefit prenatal care?"
+    },
+    {
+      "context": "Amniocentesis not only helps in diagnosing potential genetic disorders but also identifies the sex of the unborn child, which has led to its controversial use. In India, the preference for male offspring has prompted the government to enact laws prohibiting the use of this technique specifically for gender determination, aiming to prevent female feticide.",
+      "question": "What ethical issues arise from amniocentesis?"
+    }
+  ]
+}

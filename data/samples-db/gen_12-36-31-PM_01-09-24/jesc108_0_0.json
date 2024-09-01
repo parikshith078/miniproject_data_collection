@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "We have discussed how some amount of variation is produced even during asexual reproduction. And the number of successful variations are maximised by the process of sexual reproduction.",
+      "question": "How does sexual reproduction affect variation?"
+    },
+    {
+      "context": "If we observe a field of sugarcane we find very little variations among the individual plants. But in a number of animals including human beings, which reproduce sexually, quite distinct variations are visible among different individuals.",
+      "question": "What contrasts do we see in sugarcane and animals?"
+    },
+    {
+      "context": "In this chapter, we shall be studying the mechanism by which variations are created and inherited.",
+      "question": "What will this chapter focus on regarding variations?"
+    },
+    {
+      "context": "We have seen that reproductive processes give rise to new individuals that are similar, but subtly different.",
+      "question": "What is a result of reproductive processes?"
+    },
+    {
+      "context": "And the number of successful variations are maximised by the process of sexual reproduction.",
+      "question": "What does sexual reproduction maximise?"
+    }
+  ]
+}

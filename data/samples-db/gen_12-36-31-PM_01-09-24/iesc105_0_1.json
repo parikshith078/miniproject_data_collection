@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Chlamydomonas, Paramoecium and bacteria. These organisms are called unicellular organisms (uni = single). On the other hand, many cells group together in a single body and assume different functions in it to form various body parts in multicellular organisms (multi = many) such as some fungi, plants and animals.",
+      "question": "What are examples of unicellular organisms?"
+    },
+    {
+      "context": "Every multicellular organism has come from a single cell. How? Cells divide to produce cells of their own kind. All cells thus come from pre-existing cells.",
+      "question": "How do multicellular organisms develop from a single cell?"
+    },
+    {
+      "context": "On the other hand, many cells group together in a single body and assume different functions in it to form various body parts in multicellular organisms (multi = many) such as some fungi, plants and animals.",
+      "question": "What is characteristic of multicellular organisms?"
+    },
+    {
+      "context": "These organisms are called unicellular organisms (uni = single). On the other hand, many cells group together in a single body and assume different functions in it to form various body parts in multicellular organisms (multi = many).",
+      "question": "What does 'uni' mean in unicellular organisms?"
+    },
+    {
+      "context": "Cells divide to produce cells of their own kind. All cells thus come from pre-existing cells.",
+      "question": "What is the source of all cells?"
+    }
+  ]
+}

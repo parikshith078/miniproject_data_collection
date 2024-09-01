@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Providing water to the crops is irrigation, ensuring they receive enough moisture for growth during dry periods.",
+      "question": "What is the term for providing water to crops?"
+    },
+    {
+      "context": "Keeping crop grains for a long time under proper conditions is storage, which helps to prevent spoilage and loss of quality.",
+      "question": "What do we call the act of keeping grains for a long time?"
+    },
+    {
+      "context": "Certain plants of the same kind grown on a large scale are crops, which are cultivated for food, fiber, or other agricultural products.",
+      "question": "What are plants grown on a large scale called?"
+    },
+    {
+      "context": "A rabi crop that is also one of the pulses is gram, a nutritious legume often used in various dishes.",
+      "question": "Which rabi crop is also classified as a pulse?"
+    },
+    {
+      "context": "A machine used for cutting the matured crop is a harvester, making the process of collecting crops more efficient and less labor-intensive.",
+      "question": "What is the name of the machine that cuts matured crops?"
+    },
+    {
+      "context": "A process of separating the grain from chaff is threshing, which is an essential step in preparing the crop for market or storage.",
+      "question": "What is the process of separating grain from chaff called?"
+    }
+  ]
+}

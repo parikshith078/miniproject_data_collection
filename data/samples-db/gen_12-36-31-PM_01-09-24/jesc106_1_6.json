@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "When plants respond to stimuli slowly by growing in a particular direction, this is an example of movement due to growth. Environmental triggers such as light, or gravity will change the directions that plant parts grow in.",
+      "question": "What triggers growth-dependent movements?"
+    },
+    {
+      "context": "In two different kinds of phototropic movement, shoots respond by bending towards light while roots respond by bending away from it.",
+      "question": "How do shoots and roots respond to light?"
+    },
+    {
+      "context": "These directional, or tropic movements can be either towards the stimulus, or away from it. Environmental triggers such as light, or gravity will change the directions that plant parts grow in.",
+      "question": "What do tropic movements respond to?"
+    },
+    {
+      "context": "Environmental triggers such as light, or gravity will change the directions that plant parts grow in. These directional, or tropic movements can be either towards the stimulus, or away from it.",
+      "question": "Can tropic movements occur away from stimuli?"
+    },
+    {
+      "context": "Environmental triggers such as light, or gravity will change the directions that plant parts grow in. In two different kinds of phototropic movement, shoots respond by bending towards light while roots respond by bending away from it.",
+      "question": "What kind of stimulus affects plant growth directions?"
+    }
+  ]
+}

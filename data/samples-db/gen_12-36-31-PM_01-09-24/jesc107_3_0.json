@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Puberty also brings about various physical changes in the body. In girls, there is an increase in breast size and changes in body shape, while boys experience new facial hair growth.",
+      "question": "What changes occur in girls during puberty?"
+    },
+    {
+      "context": "These changes are signs of sexual maturation. In girls, there is an increase in breast size and changes in body shape.",
+      "question": "What are signs of sexual maturation in girls?"
+    },
+    {
+      "context": "In boys, new facial hair growth occurs during puberty, which is a change indicating sexual maturation.",
+      "question": "What physical change is experienced by boys during puberty?"
+    },
+    {
+      "context": "Various physical changes in the body occur during puberty, including an increase in breast size among girls.",
+      "question": "What physical change do girls experience at puberty?"
+    },
+    {
+      "context": "During puberty, girls undergo changes such as breast growth and alterations in body shape.",
+      "question": "What are two physical changes in girls during puberty?"
+    }
+  ]
+}

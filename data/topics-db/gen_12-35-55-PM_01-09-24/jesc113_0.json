@@ -1,0 +1,48 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Introduction to Environment",
+      "Content": "Our elders tell us that the ‘environment’ is not what it used to be earlier; others say that we should work in a healthy ‘environment’; and global summits involving the developed and developing countries are regularly held to discuss ‘environmental’ issues."
+    },
+    {
+      "sub-topic": "Understanding Ecosystems",
+      "Content": "All organisms such as plants, animals, microorganisms and human beings as well as the physical surroundings interact with each other and maintain a balance in nature. All the interacting organisms in an area together with the non-living constituents of the environment form an ecosystem. Thus, an ecosystem consists of biotic components comprising living organisms and abiotic components comprising physical factors like temperature, rainfall, wind, soil and minerals. For example, if you visit a garden you will find different plants, such as grasses, trees; flower bearing plants like rose, jasmine, sunflower; and animals like frogs, insects and birds. All these living organisms interact with each other and their growth, reproduction and other activities are affected by the abiotic components of ecosystem."
+    },
+    {
+      "sub-topic": "Human-made Ecosystems",
+      "Content": "Another type of ecosystem is the aquarium. An aquarium is an example of a human-made ecosystem. Let us try to design one. What are the things that we need to keep in mind when we create an aquarium? The fish would need a free space for swimming, water, oxygen and food. We can provide oxygen through an oxygen pump (aerator) and fish food which is available in the market. If we add a few aquatic plants and animals it can become a self-sustaining system. Can you think how this happens?"
+    },
+    {
+      "sub-topic": "Roles in Ecosystems",
+      "Content": "We have seen in earlier classes that organisms can be grouped as producers, consumers and decomposers according to the manner in which they obtain their sustenance from the environment. Which organisms can make organic compounds like sugar and starch from inorganic substances using the radiant energy of the Sun in the presence of chlorophyll? All green plants and certain bacteria are called the producers. Organisms depend on the producers either directly or indirectly for their sustenance? These organisms which consume the food produced, either directly from producers or indirectly by feeding on other consumers are called the consumers."
+    },
+    {
+      "sub-topic": "Decomposers in the Ecosystem",
+      "Content": "Imagine the situation where you do not clean the aquarium and some fish and plants have died. The microorganisms, comprising bacteria and fungi, break-down the dead remains and waste products of organisms. These microorganisms are the decomposers as they break down the complex organic substances into simple inorganic substances that go into the soil and are used up once more by the plants. What will happen to the garbage, and dead animals and plants in their absence?"
+    },
+    {
+      "sub-topic": "Food Chains and Trophic Levels",
+      "Content": "This series of organisms feeding on one another forms a food chain. Each step or level of the food chain forms a trophic level. The autotrophs or the producers are at the first trophic level. The herbivores or the primary consumers come at the second, small carnivores or the secondary consumers at the third, and larger carnivores or the tertiary consumers form the fourth trophic level. The green plants in a terrestrial ecosystem capture about 1% of the energy of sunlight that falls on their leaves and convert it into food energy."
+    },
+    {
+      "sub-topic": "Energy Flow in Ecosystems",
+      "Content": "The flow of energy is unidirectional. The energy that is captured by the autotrophs does not revert back to the solar input and the energy which passes to the herbivores does not come back to autotrophs. The length and complexity of food chains vary greatly. Instead of a straight line food chain, the relationship can be shown as a series of branching lines called a food web."
+    },
+    {
+      "sub-topic": "Pesticides and Biological Magnification",
+      "Content": "Water gets polluted by the use of several pesticides and other chemicals to protect our crops from diseases and pests. These chemicals are either washed down into the soil or into the water bodies. From the soil, these are absorbed by the plants along with water and minerals, and from the water bodies, these are taken up by aquatic plants and animals. This is one of the ways in which they enter the food chain. As these chemicals are not degradable, these get accumulated progressively at each trophic level. This phenomenon is known as biological magnification."
+    },
+    {
+      "sub-topic": "Impact of Human Activities on Environment",
+      "Content": "We are an integral part of the environment. Changes in the environment affect us and our activities change the environment around us. In this chapter, we shall be looking at two of the environmental problems in detail, that is, depletion of the ozone layer and waste disposal."
+    },
+    {
+      "sub-topic": "Ozone Layer Depletion",
+      "Content": "Ozone (O3) is a molecule formed by three atoms of oxygen. Ozone at the higher levels of the atmosphere shields the surface of the earth from ultraviolet (UV) radiation from the Sun. The amount of ozone in the atmosphere began to drop sharply in the 1980s. This decrease has been linked to synthetic chemicals like chlorofluorocarbons (CFCs) which are used as refrigerants and in fire extinguishers."
+    },
+    {
+      "sub-topic": "International Efforts Against Ozone Depletion",
+      "Content": "In 1987, the United Nations Environment Programme (UNEP) succeeded in forging an agreement to freeze CFC production at 1986 levels. It is now mandatory for countries to avoid further depletion of the ozone layer through monitoring and controlling the use of ozone-depleting substances."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "India has a wide variety of water resources and a highly varied climate. Under such conditions, several different kinds of irrigation systems are adopted to supply water to agricultural lands depending on the kinds of water resources available.",
+      "question": "What affects irrigation system choice in India?"
+    },
+    {
+      "context": "Tube wells can tap water from the deeper strata. From these wells, water is lifted by pumps for irrigation.",
+      "question": "What is the function of tube wells?"
+    },
+    {
+      "context": "This is usually an elaborate and extensive irrigation system. In this system canals receive water from one or more reservoirs or from rivers.",
+      "question": "What do canals receive water from?"
+    },
+    {
+      "context": "Water is directly drawn from the rivers for supplementing irrigation in areas close to rivers.",
+      "question": "How are rivers used in irrigation systems?"
+    },
+    {
+      "context": "These are small storage reservoirs, which intercept and store the run-off of smaller catchment areas.",
+      "question": "What are tanks used for in irrigation?"
+    },
+    {
+      "context": "Fresh initiatives for increasing the water available for agriculture include rainwater harvesting and watershed management.",
+      "question": "What initiatives help increase agricultural water?"
+    },
+    {
+      "context": "The check-dams stop the rainwater from flowing away and also reduce soil erosion.",
+      "question": "What is the purpose of check-dams?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Animals have two main reproduction modes, which are sexual and asexual reproduction. Sexual reproduction involves the combination of genetic material from two parents, while asexual reproduction does not require a mate and involves a single organism producing offspring.",
+      "question": "What are the modes of reproduction in animals?"
+    },
+    {
+      "context": "Sexual reproduction in animals typically involves the union of male and female gametes, leading to genetic variation in offspring. On the other hand, asexual reproduction can occur through mechanisms like budding or binary fission, resulting in clones of the parent.",
+      "question": "What is sexual reproduction in animals?"
+    },
+    {
+      "context": "In sexual reproduction, offspring inherit genetic material from both parents, leading to diverse traits. Asexual reproduction involves a single parent and creates genetically identical offspring, which can be advantageous in stable environments.",
+      "question": "What is a characteristic of asexual reproduction?"
+    },
+    {
+      "context": "Both sexual and asexual reproduction have different advantages and disadvantages. While sexual reproduction increases genetic diversity, asexual reproduction can lead to rapid population growth in favorable conditions.",
+      "question": "What is the advantage of sexual reproduction?"
+    },
+    {
+      "context": "While animals can reproduce sexually, where genetic diversity occurs, some species have adapted to also reproduce asexually, allowing for survival in specific ecological niches where mates may be scarce.",
+      "question": "Why do some animals reproduce asexually?"
+    }
+  ]
+}

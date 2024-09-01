@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Endemic species are those species of plants and animals which are found exclusively in a particular area.",
+      "question": "What defines an endemic species?"
+    },
+    {
+      "context": "A particular type of animal or plant may be endemic to a zone, a state or a country.",
+      "question": "Where can endemic species be found?"
+    },
+    {
+      "context": "Madhavji tells them that this is known as the giant squirrel and is endemic to this area.",
+      "question": "What is an example of an endemic animal?"
+    },
+    {
+      "context": "Children are surprised to see a very big squirrel. This squirrel has a big fluffy tail.",
+      "question": "What surprised the children in the forest?"
+    },
+    {
+      "context": "They are not naturally found anywhere else.",
+      "question": "Where else can endemic species be found?"
+    }
+  ]
+}

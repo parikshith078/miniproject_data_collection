@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The plasma membrane allows or permits the entry and exit of some materials in and out of the cell. It also prevents movement of some other materials. The cell membrane, therefore, is called a selectively permeable membrane.",
+      "question": "What does selectively permeable membrane mean?"
+    },
+    {
+      "context": "This is the outermost covering of the cell that separates the contents of the cell from its external environment. The plasma membrane allows or permits the entry and exit of some materials in and out of the cell.",
+      "question": "What is the function of the plasma membrane?"
+    },
+    {
+      "context": "The plasma membrane allows or permits the entry and exit of some materials in and out of the cell. It also prevents movement of some other materials.",
+      "question": "What materials can the plasma membrane regulate?"
+    },
+    {
+      "context": "The plasma membrane allows or permits the entry and exit of some materials in and out of the cell. The cell membrane, therefore, is called a selectively permeable membrane.",
+      "question": "Why is the plasma membrane referred to as selectively permeable?"
+    },
+    {
+      "context": "The plasma membrane allows or permits the entry and exit of some materials in and out of the cell, while preventing movement of some other materials.",
+      "question": "What does the plasma membrane prevent?"
+    }
+  ]
+}

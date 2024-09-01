@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The most conspicuous change during puberty is the sudden increase in height. At this time the long bones, that is, the bones of the arms and the legs elongate and make a person tall.",
+      "question": "What is the most noticeable change during puberty?"
+    },
+    {
+      "context": "Sometimes the arms and legs or hands and feet of adolescents look oversized and out of proportion with the body. But soon the other parts catch up and result in a proportionate body.",
+      "question": "How do the limbs appear during early puberty?"
+    },
+    {
+      "context": "All parts of the body do not grow at the same rate. This is because height depends on the genes inherited from parents.",
+      "question": "What influences the growth rate of body parts?"
+    },
+    {
+      "context": "It is, however, very important to eat the right kind of food during these growing years. This helps the bones, muscles and other parts of the body get adequate nourishment for growth.",
+      "question": "Why is nutrition important during puberty?"
+    },
+    {
+      "context": "In boys, the region below the waist and shoulders generally broaden as a result of growth. In girls, the region below the waist becomes wider.",
+      "question": "How do body shapes differ between boys and girls during puberty?"
+    },
+    {
+      "context": "In boys, the muscles of the body grow more prominently than in girls.",
+      "question": "Which gender shows more prominent muscle growth during puberty?"
+    }
+  ]
+}

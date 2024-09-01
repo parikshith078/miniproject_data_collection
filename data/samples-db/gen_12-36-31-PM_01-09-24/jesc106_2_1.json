@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The endocrine system plays a significant role in maintaining homeostasis, regulating metabolism, and coordinating growth and development through hormones released by glands.",
+      "question": "What role do hormones play in the body?"
+    },
+    {
+      "context": "Animal hormones are secreted by specific glands and travel through the bloodstream to target organs, influencing various physiological processes such as growth and stress responses.",
+      "question": "How do hormones reach their target organs?"
+    },
+    {
+      "context": "In addition to the nervous system, the endocrine system is crucial for long-term regulation of bodily functions, responding to slow changes in the environment or within the body.",
+      "question": "What does the endocrine system regulate?"
+    },
+    {
+      "context": "The endocrine system includes various glands such as the pituitary, thyroid, and adrenal glands, which produce hormones that affect many bodily functions.",
+      "question": "What are some glands in the endocrine system?"
+    },
+    {
+      "context": "One of the key characteristics of the endocrine system is its ability to communicate through hormones, which are chemical messengers that can have widespread effects on the body.",
+      "question": "What are chemical messengers in the endocrine system?"
+    }
+  ]
+}

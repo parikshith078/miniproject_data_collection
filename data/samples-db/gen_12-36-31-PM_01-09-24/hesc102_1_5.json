@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Tuberculosis is caused by bacteria and primarily transmitted through airborne particles when an infected person coughs or sneezes. To prevent tuberculosis, public health measures like vaccination and wearing masks in high-risk areas are advised.",
+      "question": "What causative microorganism causes tuberculosis?"
+    },
+    {
+      "context": "Measles is a viral infection that spreads through respiratory droplets in the air. Preventive measures for measles include vaccination, which is part of standard childhood immunizations.",
+      "question": "How is measles transmitted?"
+    },
+    {
+      "context": "Cholera is a bacterial disease often transmitted through contaminated water or food sources. Preventive measures involve ensuring access to clean water and proper sanitation practices to avoid outbreaks.",
+      "question": "What preventive measure is important for cholera?"
+    },
+    {
+      "context": "Typhoid fever is caused by bacteria and is typically transmitted through contaminated food or water. Adequate sanitation and proper cooking of food are key preventive measures against typhoid.",
+      "question": "What is a mode of transmission for typhoid?"
+    },
+    {
+      "context": "Hepatitis A is a viral infection that spreads through consumption of contaminated water or food. Preventive strategies focus on vaccination and maintaining personal hygiene, especially hand washing.",
+      "question": "What is the causative microorganism for Hepatitis A?"
+    },
+    {
+      "context": "Malaria is caused by protozoa and transmitted through mosquito bites. Preventive measures include using insect repellent, sleeping under mosquito nets, and taking antimalarial medications in high-risk areas.",
+      "question": "What mode of transmission does malaria utilize?"
+    }
+  ]
+}

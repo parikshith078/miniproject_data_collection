@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The animals which give birth to young ones are called viviparous animals. Those animals which lay eggs are called oviparous animals.",
+      "question": "What are oviparous animals?"
+    },
+    {
+      "context": "Some animals give birth to young ones while some animals lay eggs which later develop into young ones.",
+      "question": "What is the difference between viviparous and oviparous animals?"
+    },
+    {
+      "context": "Viviparous animals give birth to their young ones, while oviparous animals lay eggs.",
+      "question": "What characterizes viviparous animals?"
+    },
+    {
+      "context": "Viviparous animals are those that give birth directly to young ones, unlike oviparous animals.",
+      "question": "What do viviparous animals do?"
+    },
+    {
+      "context": "Those animals which lay eggs are called oviparous animals, and they develop into young ones later.",
+      "question": "What happens to oviparous animals' eggs?"
+    }
+  ]
+}

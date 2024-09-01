@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Continuous plantation of crops in a field can deplete the soil of essential nutrients, leading to decreased soil fertility. Additionally, it can result in soil degradation and increased vulnerability to pests.",
+      "question": "What are the effects of continuous crop plantation?"
+    },
+    {
+      "context": "Continuous plantation of crops in a field can deplete the soil of essential nutrients, leading to decreased soil fertility. Additionally, it can result in soil degradation and increased vulnerability to pests.",
+      "question": "How does continuous planting affect soil fertility?"
+    },
+    {
+      "context": "Continuous plantation of crops in a field can deplete the soil of essential nutrients, leading to decreased soil fertility. Additionally, it can result in soil degradation and increased vulnerability to pests.",
+      "question": "What are the risks associated with continuous crop planting?"
+    },
+    {
+      "context": "Continuous plantation of crops in a field can deplete the soil of essential nutrients, leading to decreased soil fertility. Additionally, it can result in soil degradation and increased vulnerability to pests.",
+      "question": "What happens to soil due to continuous crop cultivation?"
+    },
+    {
+      "context": "Continuous plantation of crops in a field can deplete the soil of essential nutrients, leading to decreased soil fertility. Additionally, it can result in soil degradation and increased vulnerability to pests.",
+      "question": "Why does continuous crop planting lead to pest vulnerability?"
+    }
+  ]
+}

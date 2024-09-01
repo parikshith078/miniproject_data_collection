@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "Removing all organisms from a trophic level can disrupt the balance of an ecosystem. For instance, eliminating primary producers like plants would lead to a collapse of the entire food web, as herbivores, which rely on them for food, would starve. Higher trophic levels would also suffer due to the lack of food sources.",
+      "question": "What happens if we kill all organisms in a trophic level?"
+    },
+    {
+      "context": "Different trophic levels impact an ecosystem differently when removed. For example, removing top predators may lead to overpopulation of herbivores, which can subsequently overgraze vegetation. In contrast, losing primary consumers may allow plant populations to flourish unchecked, but this can ultimately harm the ecosystem.",
+      "question": "Does the impact of removing organisms differ by trophic level?"
+    },
+    {
+      "context": "It is nearly impossible to remove the entire population of any trophic level without causing damage. Each level interconnects; for instance, eliminating decomposers would hinder nutrient recycling, disrupting overall ecosystem function and health.",
+      "question": "Can any trophic level be removed without causing damage?"
+    }
+  ]
+}

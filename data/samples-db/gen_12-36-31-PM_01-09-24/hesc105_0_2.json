@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A great variety of plants and animals exist on earth. They are essential for the well-being and survival of mankind. Today, a major threat to survival of these organisms is deforestation.",
+      "question": "What is a major threat to plants and animals?"
+    },
+    {
+      "context": "Deforestation means clearing of forests and using that land for other purposes. Trees in the forest are cut for some of the purposes mentioned below: procuring land for cultivation.",
+      "question": "What does deforestation mean?"
+    },
+    {
+      "context": "Trees in the forest are cut for some of the purposes mentioned below: Building houses and factories. Making furniture or using wood as fuel.",
+      "question": "What are two purposes of cutting trees?"
+    },
+    {
+      "context": "They are essential for the well-being and survival of mankind. Today, a major threat to survival of these organisms is deforestation.",
+      "question": "Why are plants and animals important to mankind?"
+    },
+    {
+      "context": "Deforestation means clearing of forests and using that land for other purposes. Trees in the forest are cut for some of the purposes mentioned below.",
+      "question": "What does 'deforestation' involve?"
+    }
+  ]
+}

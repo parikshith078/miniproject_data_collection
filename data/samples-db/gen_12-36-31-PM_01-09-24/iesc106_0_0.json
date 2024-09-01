@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In multi-cellular organisms there are millions of cells. Most of these cells are specialised to carry out specific functions. Each specialised function is taken up by a different group of cells. Since these cells carry out only a particular function, they do it very efficiently.",
+      "question": "What is a specialised function in cells?"
+    },
+    {
+      "context": "Cells specialising in one function are often grouped together in the body. This means that a particular function is carried out by a cluster of cells at a definite place in the body. This cluster of cells, called a tissue, is arranged and designed so as to give the highest possible efficiency of function.",
+      "question": "What is a group of specialised cells called?"
+    },
+    {
+      "context": "For example, in Amoeba, a single cell carries out movement, intake of food, gaseous exchange, and excretion. But in multi-cellular organisms, there are millions of cells.",
+      "question": "How do unicellular and multicellular organisms differ?"
+    },
+    {
+      "context": "In human beings, muscle cells contract and relax to cause movement, nerve cells carry messages, blood flows to transport oxygen, food, hormones and waste material and so on.",
+      "question": "What role do muscle cells play in humans?"
+    },
+    {
+      "context": "Vascular tissues conduct food and water from one part of the plant to other parts. So, multi-cellular organisms show division of labour.",
+      "question": "What do vascular tissues transport in plants?"
+    }
+  ]
+}

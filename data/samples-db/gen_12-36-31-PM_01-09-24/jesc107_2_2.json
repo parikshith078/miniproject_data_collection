@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The female germ-cells or eggs are made in the ovaries. They are also responsible for the production of some hormones. When a girl is born, the ovaries already contain thousands of immature eggs. On reaching puberty, some of these start maturing.",
+      "question": "What do ovaries produce besides eggs?"
+    },
+    {
+      "context": "One egg is produced every month by one of the ovaries. The egg is carried from the ovary to the womb through a thin oviduct or fallopian tube. The two oviducts unite into an elastic bag-like structure known as the uterus.",
+      "question": "How often is an egg produced by the ovaries?"
+    },
+    {
+      "context": "The sperms enter through the vaginal passage during sexual intercourse. They travel upwards and reach the oviduct where they may encounter the egg. The fertilised egg (zygote) starts dividing and forms a ball of cells or embryo.",
+      "question": "Where do sperms meet the egg?"
+    },
+    {
+      "context": "The embryo is implanted in the lining of the uterus where they continue to grow and develop organs to become fetus. The developing embryo will also generate waste substances which can be removed by transferring them into the mother’s blood through the placenta.",
+      "question": "What removes waste from the developing embryo?"
+    }
+  ]
+}

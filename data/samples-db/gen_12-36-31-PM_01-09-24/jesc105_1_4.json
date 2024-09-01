@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Dental caries or tooth decay causes gradual softening of enamel and dentine. It begins when bacteria acting on sugars produce acids that soften or demineralise the enamel.",
+      "question": "What causes tooth decay?"
+    },
+    {
+      "context": "Saliva cannot reach the tooth surface to neutralise the acid as plaque covers the teeth.",
+      "question": "How does plaque affect saliva?"
+    },
+    {
+      "context": "Masses of bacterial cells together with food particles stick to the teeth to form dental plaque.",
+      "question": "What forms dental plaque on teeth?"
+    },
+    {
+      "context": "If untreated, microorganisms may invade the pulp, causing inflammation and infection.",
+      "question": "What happens if caries are untreated?"
+    },
+    {
+      "context": "Brushing the teeth after eating removes the plaque before the bacteria produce acids.",
+      "question": "Why is brushing important after eating?"
+    }
+  ]
+}

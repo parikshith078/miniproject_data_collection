@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The cerebellum is critical for coordinating voluntary movements such as walking, biking, or fine motor skills like picking up a pencil. It ensures that these actions are performed with precision and also helps maintain posture and balance.",
+      "question": "What is the function of the cerebellum?"
+    },
+    {
+      "context": "Activities such as walking in a straight line or riding a bicycle depend heavily on the cerebellum, which is located in the hind-brain. It plays a vital role in making voluntary movements precise and balanced.",
+      "question": "Which activities rely on the cerebellum?"
+    },
+    {
+      "context": "The cerebellum aids in the coordination of voluntary actions by ensuring movements are executed with accuracy. It also contributes to maintaining the body’s posture and balance, which is essential for everyday activities.",
+      "question": "How does the cerebellum help in coordination?"
+    },
+    {
+      "context": "For activities such as picking up a pencil or maintaining balance while walking, the cerebellum is key to the precision of the voluntary actions involved, highlighting its importance in motor control.",
+      "question": "Why is the cerebellum important for fine motor skills?"
+    },
+    {
+      "context": "In activities like riding a bicycle, the cerebellum ensures that the body remains balanced and that movements are executed with great precision, demonstrating its crucial role in voluntary actions.",
+      "question": "What role does the cerebellum play in riding a bicycle?"
+    }
+  ]
+}

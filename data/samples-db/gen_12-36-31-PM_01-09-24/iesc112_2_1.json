@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Poultry farming is undertaken to raise domestic fowl for egg production and chicken meat. Therefore, improved poultry breeds are developed and farmed to produce layers for eggs and broilers for meat.",
+      "question": "What is the purpose of poultry farming?"
+    },
+    {
+      "context": "The cross-breeding programmes between Indian (indigenous, for example, Aseel) and foreign (exotic, for example, Leghorn) breeds for variety improvement are focused on to develop new varieties for desirable traits.",
+      "question": "What does cross-breeding aim to achieve?"
+    },
+    {
+      "context": "The ration (daily food requirement) for broilers is protein rich with adequate fat. The level of vitamins A and K is kept high in the poultry feeds.",
+      "question": "What is the primary nutrient for broilers?"
+    },
+    {
+      "context": "Poultry fowl suffer from a number of diseases caused by virus, bacteria, fungi, parasites, as well as from nutritional deficiencies.",
+      "question": "What causes diseases in poultry fowl?"
+    },
+    {
+      "context": "Appropriate vaccination can prevent the occurrence of infectious diseases and reduce loss of poultry during an outbreak of disease.",
+      "question": "How can infectious diseases in poultry be prevented?"
+    },
+    {
+      "context": "The reduction in the size of the egg-laying bird with the ability to utilize more fibrous cheaper diets formulated using agricultural by-products.",
+      "question": "What trait is desired for egg-laying birds?"
+    },
+    {
+      "context": "Therefore, improved poultry breeds are developed and farmed to produce layers for eggs and broilers for meat.",
+      "question": "What types of poultry breeds are produced?"
+    },
+    {
+      "context": "These necessitate proper cleaning, sanitation, and spraying of disinfectants at regular intervals.",
+      "question": "Why is sanitation important in poultry farming?"
+    },
+    {
+      "context": "The cross-breeding programmes aim for summer adaptation capacity, low maintenance requirements, and reduction in bird size.",
+      "question": "What are some goals of cross-breeding poultry?"
+    },
+    {
+      "context": "The level of vitamins A and K is kept high in the poultry feeds for the health of the birds.",
+      "question": "Why are vitamins A and K important in poultry feeds?"
+    }
+  ]
+}

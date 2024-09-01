@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Internal parasites like worms affect the stomach and intestines, while flukes damage the liver.",
+      "question": "What do internal parasites affect?"
+    },
+    {
+      "context": "Vaccinations are given to farm animals against many major viral and bacterial diseases.",
+      "question": "What are vaccinations given for?"
+    },
+    {
+      "context": "External parasites live on the skin and mainly cause skin diseases.",
+      "question": "What do external parasites cause?"
+    },
+    {
+      "context": "Infectious diseases are also caused by bacteria and viruses.",
+      "question": "What causes infectious diseases?"
+    },
+    {
+      "context": "Flukes damage the liver, affecting animal health significantly.",
+      "question": "What do flukes damage in animals?"
+    }
+  ]
+}

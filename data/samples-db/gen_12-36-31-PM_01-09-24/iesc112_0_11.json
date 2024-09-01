@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The compost is rich in organic matter and nutrients. Compost is also prepared by using earthworms to hasten the process of decomposition of plant and animal refuse.",
+      "question": "What is vermi-compost made from?"
+    },
+    {
+      "context": "The process in which farm waste material like livestock excreta, vegetable waste, and domestic waste is decomposed in pits is known as composting.",
+      "question": "What is the process of composting?"
+    },
+    {
+      "context": "Composting involves decomposing materials like cow dung, vegetable waste, and straw in pits.",
+      "question": "What materials are used in composting?"
+    },
+    {
+      "context": "Composting is important for recycling organic materials and enriching soil with nutrients.",
+      "question": "Why is composting important for soil?"
+    },
+    {
+      "context": "This is called vermi-compost, which uses earthworms to speed up decomposition.",
+      "question": "What role do earthworms play in vermi-compost?"
+    },
+    {
+      "context": "Composting can help in managing waste effectively and enhancing agricultural productivity.",
+      "question": "How does composting enhance agricultural productivity?"
+    }
+  ]
+}

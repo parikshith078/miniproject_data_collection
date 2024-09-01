@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "For healthy crop growth, plants require a complete set of essential elements, including sufficient sunlight and nutrients and minerals from the soil. Without these, crops may fail to thrive, leading to poor yield.",
+      "question": "What are essential elements for crop growth?"
+    },
+    {
+      "context": "There are several key factors necessary for the successful growth of crops. Sufficient sunlight is vital for photosynthesis, and nutrients and minerals from the soil play a crucial role in plant health.",
+      "question": "Why is sufficient sunlight important for crops?"
+    },
+    {
+      "context": "Crops need a variety of conditions to flourish, among which adequate sunlight and access to nutrients and minerals from the soil are key requirements. These factors significantly impact their growth and yield.",
+      "question": "How do nutrients and minerals affect crop growth?"
+    },
+    {
+      "context": "In agriculture, understanding the essential requirements for crop growth is fundamental. Sufficient sunlight along with the right mix of nutrients and minerals from the soil can help ensure robust plant development.",
+      "question": "What happens if crops lack essential nutrients?"
+    },
+    {
+      "context": "Agricultural practices must account for several essential requirements for crops. These include adequate sunlight and a rich supply of nutrients and minerals found in the soil to promote healthy growth.",
+      "question": "What is the role of soil nutrients in crop growth?"
+    }
+  ]
+}

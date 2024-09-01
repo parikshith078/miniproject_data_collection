@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The epidermis is a protective layer of cells that covers the surface of plants, serving as a barrier against injury and disease. It controls gas exchange and helps in moisture retention, preventing water loss under environmental stress.",
+      "question": "What is the primary function of the epidermis?"
+    },
+    {
+      "context": "The epidermis in plants acts as a protective shield, safeguarding internal tissues from physical damage and pathogens. It also has specialized cells, like guard cells, which regulate the opening and closing of stomata for gas exchange.",
+      "question": "How does the epidermis protect plant tissues?"
+    },
+    {
+      "context": "In addition to providing protection, the epidermis plays a significant role in photosynthesis in certain plant species through cells called epidermal hairs. These structures can enhance light absorption and reduce water loss.",
+      "question": "What additional role does the epidermis serve in some plants?"
+    },
+    {
+      "context": "The epidermis is vital for maintaining the plant's hydration levels. By having a waxy cuticle on its surface, it minimizes water evaporation from internal tissues, especially in arid environments.",
+      "question": "How does the epidermis help in water retention?"
+    },
+    {
+      "context": "The epidermis is also involved in the exchange of gases, such as carbon dioxide and oxygen, necessary for photosynthesis and respiration. It contains stomatal pores regulated by guard cells.",
+      "question": "What role does epidermis play in gas exchange?"
+    }
+  ]
+}

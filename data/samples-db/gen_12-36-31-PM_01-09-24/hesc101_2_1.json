@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Kharif crops are sown with the onset of the monsoon and harvested at the end of the rainy season. Common examples include paddy and maize, which require warm weather and plenty of water for optimal growth.",
+      "question": "What are examples of kharif crops?"
+    },
+    {
+      "context": "Rabi crops are planted at the beginning of the winter season and harvested in the spring. Typical rabi crops include wheat, gram, and pea, which thrive in cooler temperatures and require less water compared to kharif crops.",
+      "question": "Which crops are classified as rabi crops?"
+    },
+    {
+      "context": "Chemical fertilizers are artificial fertilizers that are synthesized chemically to supply essential nutrients for plants. Common chemical fertilizers include urea and super phosphate, which help enhance soil nutrient levels.",
+      "question": "What are examples of chemical fertilizers?"
+    },
+    {
+      "context": "Organic manure consists of natural substances used to enrich soil fertility. It is made from animal excreta, cow dung, urine, and plant waste, promoting a more sustainable form of agriculture.",
+      "question": "What materials are used to make organic manure?"
+    }
+  ]
+}

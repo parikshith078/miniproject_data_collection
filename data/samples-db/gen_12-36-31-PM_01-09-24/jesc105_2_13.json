@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The separation of the right side and the left side of the heart is useful to keep oxygenated and deoxygenated blood from mixing.",
+      "question": "How does heart separation aid in circulation efficiency?"
+    },
+    {
+      "context": "This allows a highly efficient supply of oxygen to the body.",
+      "question": "What is one benefit of separating the heart's sides?"
+    },
+    {
+      "context": "The separation of the right side and the left side of the heart is useful to keep oxygenated and deoxygenated blood from mixing.",
+      "question": "What does the heart's separation prevent?"
+    },
+    {
+      "context": "This allows a highly efficient supply of oxygen to the body.",
+      "question": "What does efficient heart function enhance?"
+    },
+    {
+      "context": "The separation of the right side and the left side of the heart is useful to keep oxygenated and deoxygenated blood from mixing.",
+      "question": "Why is heart structure critical for efficient oxygen delivery?"
+    }
+  ]
+}

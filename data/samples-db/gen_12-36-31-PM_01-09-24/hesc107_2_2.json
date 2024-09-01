@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Adolescents feel hungry all the time due to their bodies undergoing significant changes. The rapid growth taking place in their body requires a well-balanced diet rich in nutrients. Good nutrition during these years ensures proper development and physical health.",
+      "question": "Why do adolescents feel hungry all the time?"
+    },
+    {
+      "context": "Taste buds are well developed in teenagers, which makes them more sensitive to flavors. This heightened sense of taste can influence their eating habits, often guiding them to prefer certain types of food during adolescence.",
+      "question": "How are taste buds in teenagers different?"
+    },
+    {
+      "context": "Rapid growth during adolescence demands essential nutrients to support the changes in the body. A diet high in proteins, vitamins, and minerals is crucial at this stage to meet the energy needs of teenagers and to aid in their development.",
+      "question": "What nutrients are needed for adolescent growth?"
+    },
+    {
+      "context": "The teenage years are characterized by significant physical changes. During this time of development, adolescents must consume enough calories to fuel their growth spurts and maintain energy levels for their activities.",
+      "question": "What happens to adolescents during their growth spurts?"
+    },
+    {
+      "context": "As adolescents grow, they may experience an increase in appetite. This is a natural response to the energy demands of growing bodies, which need more food to support ongoing physical and hormonal changes.",
+      "question": "What causes increased appetite in adolescents?"
+    }
+  ]
+}

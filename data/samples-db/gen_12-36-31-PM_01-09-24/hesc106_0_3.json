@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The male reproductive organs include a pair of testes, two sperm ducts, and a penis. The testes produce the male gametes called sperms.",
+      "question": "What do the testes produce?"
+    },
+    {
+      "context": "Millions of sperms are produced by the testes. Each sperm is a single cell with all the usual cell components.",
+      "question": "How many sperms are produced by the testes?"
+    },
+    {
+      "context": "Each sperm is a single cell with all the usual cell components. The male reproductive system is crucial for reproduction.",
+      "question": "What type of cell is a sperm?"
+    },
+    {
+      "context": "The male reproductive organs include a pair of testes and two sperm ducts. The penis acts as the external reproductive organ.",
+      "question": "What is the role of the penis?"
+    },
+    {
+      "context": "The testes produce the male gametes called sperms, which are essential for reproduction.",
+      "question": "What are male gametes called?"
+    }
+  ]
+}

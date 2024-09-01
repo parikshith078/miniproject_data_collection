@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Parenchyma tissue is a fundamental tissue in plants that is primarily responsible for storage, photosynthesis, and secretion. It is found in various regions of a plant including the cortex, pith, mesophyll of leaves, and also in the flesh of fruits. This tissue is composed of living cells that can vary in shape and size, depending on their functionality.",
+      "question": "What regions contain parenchyma tissue?"
+    },
+    {
+      "context": "Parenchyma tissue serves multiple functions in plants such as storage of starch and water, and it plays a crucial role in photosynthesis due to the chloroplast-containing cells found in leaves. You can locate parenchyma in the ground tissue system, particularly in the cortex of stems and roots, and in the spongy and palisade layers of leaves.",
+      "question": "In which parts of the plant is parenchyma found?"
+    },
+    {
+      "context": "Parenchyma is important for a variety of plant processes. It exists within the cortex layer just below the epidermis of stems and roots. In leaves, parenchyma includes the mesophyll, which is essential for photosynthesis. The fleshy part of fruits like apples and pears is also largely composed of parenchyma cells.",
+      "question": "Where is parenchyma located in plants?"
+    },
+    {
+      "context": "The versatile parenchyma tissue is abundant in many regions of a plant. It can be found in the cortex, which is the layer between the epidermis and vascular tissues; in the pith, which is located at the center of stems; and in leaf mesophyll where light absorption takes place during photosynthesis.",
+      "question": "Identify the regions where parenchyma tissue occurs."
+    }
+  ]
+}

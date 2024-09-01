@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Before we discuss the mechanisms by which organisms reproduce, let us ask a more basic question – why do organisms reproduce? Reproduction is not necessary to maintain the life of an individual organism, unlike essential life processes such as nutrition, respiration, or excretion.",
+      "question": "Why do organisms reproduce?"
+    },
+    {
+      "context": "It is obvious that we notice organisms because they reproduce. If there were to be only one, non-reproducing member of a particular kind, it is doubtful that we would have noticed its existence.",
+      "question": "How does reproduction help us notice organisms?"
+    },
+    {
+      "context": "Reproducing organisms create new individuals that look very much like themselves. Organisms look similar because their body designs are similar.",
+      "question": "What creates similarities among organisms?"
+    },
+    {
+      "context": "If an individual organism is going to create more individuals, a lot of its energy will be spent in the process. So why should an individual organism waste energy on a process it does not need to stay alive?",
+      "question": "What is the energy cost of reproduction?"
+    },
+    {
+      "context": "Whatever the answer to this question, it is obvious that we notice organisms because they reproduce. It is the large numbers of organisms belonging to a single species that bring them to our notice.",
+      "question": "Why are large numbers of organisms important?"
+    }
+  ]
+}

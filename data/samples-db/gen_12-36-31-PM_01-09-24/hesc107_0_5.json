@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The testes and ovaries secrete sex hormones. The male hormone or testosterone begins to be released by the testes at the onset of puberty. This causes changes in boys about which you have just learnt, for example, the growth of facial hair.",
+      "question": "What hormone does the testes release?"
+    },
+    {
+      "context": "Once puberty is reached in girls, ovaries begin to produce the female hormone or estrogen which makes the breasts develop. Milk secreting glands or mammary glands develop inside the breasts.",
+      "question": "What hormone is produced by the ovaries?"
+    },
+    {
+      "context": "The production of these hormones is under the control of another hormone secreted from an endocrine gland called pituitary gland.",
+      "question": "Which gland controls hormone production during puberty?"
+    },
+    {
+      "context": "The male hormone or testosterone begins to be released by the testes at the onset of puberty. This causes changes in boys about which you have just learnt, for example, the growth of facial hair.",
+      "question": "What change does testosterone cause in boys?"
+    },
+    {
+      "context": "Once puberty is reached in girls, ovaries begin to produce the female hormone or estrogen which makes the breasts develop. Milk secreting glands or mammary glands develop inside the breasts.",
+      "question": "What develops due to estrogen in girls?"
+    },
+    {
+      "context": "The production of these hormones is under the control of another hormone secreted from an endocrine gland called pituitary gland.",
+      "question": "Which gland is an endocrine gland involved in puberty?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Different organisms reproduce using various modes, depending on their body design. For instance, some single-celled organisms may reproduce asexually through binary fission, while others may employ budding or spore formation.",
+      "question": "What influences modes of reproduction in organisms?"
+    },
+    {
+      "context": "The body design of organisms plays a significant role in determining their reproductive modes. For example, simple organisms tend to reproduce asexually, while more complex organisms may have the capability for sexual reproduction.",
+      "question": "How does body design affect reproduction?"
+    },
+    {
+      "context": "In examining reproductive processes, we find that single organisms utilize different reproductive strategies based on their anatomical features. This diversity in reproductive methods is crucial for survival and adaptation.",
+      "question": "Why do organisms have different reproductive strategies?"
+    },
+    {
+      "context": "The chapter on modes of reproduction states that single organisms reproduce using various methods. A simple organism might reproduce asexually, while a complex organism may require sexual reproduction to ensure diversity.",
+      "question": "What types of reproduction are mentioned for single organisms?"
+    },
+    {
+      "context": "Experts note that the design of an organism is critical for its reproductive methods. A body structure suited for a specific environment may favor one mode of reproduction over another to enhance survival chances.",
+      "question": "What is a factor determining reproductive methods?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Though these animals lay hundreds of eggs and release millions of sperms, all the eggs do not get fertilised and develop into new individuals.",
+      "question": "Why do not all eggs get fertilised?"
+    },
+    {
+      "context": "This is because the eggs and sperms get exposed to water movement, wind and rainfall.",
+      "question": "What factors affect egg fertilisation?"
+    },
+    {
+      "context": "Production of large number of eggs and sperms is necessary to ensure fertilisation of at least a few of them.",
+      "question": "Why is large egg production important?"
+    },
+    {
+      "context": "Also, there are other animals in the pond which may feed on eggs.",
+      "question": "What risks do eggs face in their environment?"
+    },
+    {
+      "context": "Though these animals lay hundreds of eggs and release millions of sperms, not all eggs develop into new individuals.",
+      "question": "What happens to the majority of released eggs?"
+    }
+  ]
+}

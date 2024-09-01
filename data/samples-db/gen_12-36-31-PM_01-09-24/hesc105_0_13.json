@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Madhavji shows sal and wild mango (Fig. 5.3 (a)) as two examples of the endemic flora of the Pachmarhi Biosphere Reserve. Bison, Indian giant squirrel (Fig. 5.3 (b)) and flying squirrel are endemic fauna of this area.",
+      "question": "What are examples of endemic flora?"
+    },
+    {
+      "context": "Professor Ahmad explains that the destruction of their habitat, increasing population and introduction of new species may affect the natural habitat of endemic species and endanger their existence.",
+      "question": "What threatens the habitat of endemic species?"
+    },
+    {
+      "context": "Species is a group of population which are capable of interbreeding. This means that the members of a species can reproduce fertile offspring only with the members of their own species and not with members of other species.",
+      "question": "How do members of a species reproduce?"
+    },
+    {
+      "context": "Members of a species have common characteristics.",
+      "question": "What do members of a species share?"
+    },
+    {
+      "context": "Professor Ahmad explains that the destruction of their habitat, increasing population and introduction of new species may affect the natural habitat of endemic species and endanger their existence.",
+      "question": "What factors endanger endemic species?"
+    }
+  ]
+}

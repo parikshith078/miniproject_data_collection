@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "An artificial kidney is a device to remove nitrogenous waste products from the blood through dialysis. This device contains a number of tubes with a semi-permeable lining suspended in a tank filled with dialysing fluid.",
+      "question": "What is the purpose of an artificial kidney?"
+    },
+    {
+      "context": "This device contains a number of tubes with a semi-permeable lining suspended in a tank filled with dialysing fluid, which removes waste products from the blood via diffusion.",
+      "question": "How does the artificial kidney purify blood?"
+    },
+    {
+      "context": "The artificial kidney removes nitrogenous waste products from the blood through dialysis, allowing for purification before the blood is pumped back into the body.",
+      "question": "What does the artificial kidney remove from the blood?"
+    },
+    {
+      "context": "The device features a semi-permeable lining that aids in the diffusion process for waste product removal.",
+      "question": "What type of lining is used in the artificial kidney?"
+    },
+    {
+      "context": "The blood is purified in the artificial kidney before it is pumped back into the body, enhancing renal function.",
+      "question": "What happens to the blood after purification in the artificial kidney?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Muscle fibers are classified into three main types: Type I, Type IIa, and Type IIb. Type I fibers, also known as slow-twitch fibers, are fatigue-resistant and primarily use aerobic metabolism. Type IIa fibers, or fast-twitch oxidative fibers, can generate quick bursts of energy and are somewhat resistant to fatigue. Type IIb fibers, known as fast-twitch glycolytic fibers, are designed for short, powerful bursts of activity but fatigue quickly.",
+      "question": "What are the three types of muscle fibers?"
+    },
+    {
+      "context": "The three main types of muscle fibers differ in their structure and function. Type I fibers have a high density of mitochondria and are ideal for endurance. Type IIa fibers are intermediate, capable of both aerobic and anaerobic metabolism, making them versatile. In contrast, Type IIb fibers have fewer mitochondria and rely mainly on anaerobic pathways, making them suited for high-intensity, short-duration activities.",
+      "question": "How do Type I and Type IIb fibers differ?"
+    },
+    {
+      "context": "Type I muscle fibers are characterized by their red color due to high myoglobin content, making them more efficient at using oxygen. Type IIa fibers are a lighter red and can generate more force rapidly, while Type IIb fibers, being pale, are suited for rapid contractions but tire quickly. This spectrum allows different muscles to adapt to various activities and training regimens.",
+      "question": "What characterizes Type I muscle fibers?"
+    },
+    {
+      "context": "Understanding muscle fiber types helps in tailoring training programs. Athletes engaged in endurance sports like long-distance running will benefit from training that enhances Type I fiber performance. Conversely, sprinters and weight lifters may focus on developing Type II fibers to optimize their power and strength outputs during high-intensity efforts.",
+      "question": "Why is understanding muscle fiber types important?"
+    },
+    {
+      "context": "Muscle fibers also differ in their biochemical properties. Type I fibers have a higher oxidative capacity, which allows for sustained energy production. Type IIa fibers bridge between Type I and Type IIb, providing a mix of endurance and strength. Type IIb fibers primarily use glycolysis to generate ATP quickly but suffer from rapid fatigue, impacting their usefulness in prolonged activities.",
+      "question": "What distinguishes oxidative capacity among muscle fibers?"
+    }
+  ]
+}

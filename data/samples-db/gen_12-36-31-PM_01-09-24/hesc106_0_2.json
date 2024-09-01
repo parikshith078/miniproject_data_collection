@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plants that reproduce sexually have male and female reproductive parts, which include stamens and pistils. In animals, males and females have different reproductive organs that also produce gametes. The fusion of these gametes forms a zygote, leading to the development of a new individual.",
+      "question": "What are male and female parts in plants?"
+    },
+    {
+      "context": "In sexual reproduction, male and female reproductive organs produce gametes. These gametes fuse to create a zygote that grows into a new individual. This process involves both plant and animal reproduction, emphasizing the similarities in reproductive mechanisms.",
+      "question": "What is formed when male and female gametes fuse?"
+    },
+    {
+      "context": "The zygote, developed from the fusion of male and female gametes, undergoes further development into a complete organism. This highlights the crucial phase of embryonic development that follows sexual reproduction in both plants and animals.",
+      "question": "What develops from the zygote in sexual reproduction?"
+    },
+    {
+      "context": "Sexual reproduction is characterized by the involvement of male and female gametes that join together to form a zygote. This zygote is essential for the new individual to take form, which applies to both animal and plant life cycles.",
+      "question": "How is sexual reproduction defined?"
+    },
+    {
+      "context": "In many organisms, including plants, reproductive parts are crucial for reproduction. Male parts, like stamens, produce pollen, while female parts like pistils contain ovules. This division of roles ensures successful fertilization and subsequent development.",
+      "question": "What do male parts in plants produce?"
+    }
+  ]
+}

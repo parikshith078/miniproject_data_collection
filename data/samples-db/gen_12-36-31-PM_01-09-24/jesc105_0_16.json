@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The opening and closing of the pore is a function of the guard cells. The guard cells swell when water flows into them, causing the stomatal pore to open.",
+      "question": "What causes stomatal pores to open?"
+    },
+    {
+      "context": "Since large amounts of water can also be lost through these stomata, the plant closes these pores when it does not need carbon dioxide for photosynthesis.",
+      "question": "Why do plants close their stomata?"
+    },
+    {
+      "context": "The guard cells swell when water flows into them, causing the stomatal pore to open. Similarly the pore closes if the guard cells shrink.",
+      "question": "What happens to guard cells when water flows out?"
+    },
+    {
+      "context": "The guard cells swell when water flows into them, causing the stomatal pore to open. The pore closes if the guard cells shrink.",
+      "question": "What is the role of guard cells in stomatal function?"
+    },
+    {
+      "context": "The guard cells swell when water flows into them, causing the stomatal pore to open. The plant closes these pores when it does not need carbon dioxide.",
+      "question": "How do guard cells affect gas exchange?"
+    }
+  ]
+}

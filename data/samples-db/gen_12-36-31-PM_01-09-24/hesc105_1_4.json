@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Professor Ahmad draws attention of the children to another cause of deforestation. He tells them that it takes 17 full grown trees to make one tonne of paper. Therefore, we should save paper. Professor Ahmad also tells that paper can be recycled five to seven times for use.",
+      "question": "How many trees are needed for one tonne of paper?"
+    },
+    {
+      "context": "By this we not only save trees but also save energy and water needed for manufacturing paper. Moreover, the amount of harmful chemicals used in paper making will also be reduced.",
+      "question": "What benefits come from recycling paper?"
+    },
+    {
+      "context": "If each student saves at least one sheet of paper in a day, we can save many trees in a year. We should save, reuse used paper and recycle it.",
+      "question": "What can students do to help save trees?"
+    },
+    {
+      "context": "Professor Ahmad also tells that paper can be recycled five to seven times for use. If each student saves at least one sheet of paper in a day, we can save many trees in a year.",
+      "question": "How many times can paper be recycled?"
+    },
+    {
+      "context": "Therefore, we should save paper. Professor Ahmad draws attention of the children to another cause of deforestation.",
+      "question": "Why is saving paper important?"
+    },
+    {
+      "context": "It takes 17 full grown trees to make one tonne of paper. Therefore, we should save paper.",
+      "question": "How many trees does one tonne of paper consume?"
+    },
+    {
+      "context": "Moreover, the amount of harmful chemicals used in paper making will also be reduced.",
+      "question": "What happens to harmful chemicals when we recycle paper?"
+    }
+  ]
+}

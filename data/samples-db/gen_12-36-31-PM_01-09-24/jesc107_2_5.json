@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "One category is the creation of a mechanical barrier so that sperm does not reach the egg. Condoms on the penis or similar coverings worn in the vagina can serve this purpose.",
+      "question": "What is a mechanical barrier in contraception?"
+    },
+    {
+      "context": "Another category of contraceptives acts by changing the hormonal balance of the body so that eggs are not released and fertilisation cannot occur.",
+      "question": "How do hormonal contraceptives prevent fertilisation?"
+    },
+    {
+      "context": "These drugs commonly need to be taken orally as pills. However, since they change hormonal balances, they can cause side effects too.",
+      "question": "What are possible side effects of hormonal contraceptives?"
+    },
+    {
+      "context": "Contraceptive methods can be classified into several categories. One category is the creation of a mechanical barrier so that sperm does not reach the egg.",
+      "question": "How are contraceptive methods classified?"
+    }
+  ]
+}

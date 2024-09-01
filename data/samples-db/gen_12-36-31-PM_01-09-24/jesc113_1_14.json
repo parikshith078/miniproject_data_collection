@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Many human-made materials like plastics will not be broken down by the action of bacteria or other saprophytes.",
+      "question": "What materials are resistant to bacterial breakdown?"
+    },
+    {
+      "context": "These materials will be acted upon by physical processes like heat and pressure but persist for a long time.",
+      "question": "What processes act on non-biodegradable materials?"
+    },
+    {
+      "context": "Under the ambient conditions found in our environment, these persist for a long time.",
+      "question": "How long do non-biodegradable materials persist?"
+    },
+    {
+      "context": "Plastics are often cited as a leading example of non-biodegradable materials.",
+      "question": "What is a primary example of non-biodegradable material?"
+    },
+    {
+      "context": "Bacteria or other saprophytes do not decompose human-made materials like plastics.",
+      "question": "Which organisms cannot decompose plastics?"
+    }
+  ]
+}

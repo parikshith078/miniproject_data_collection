@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Some important hormones include growth hormone, which is produced by the pituitary gland and stimulates growth in all organs. Insulin, which regulates blood sugar levels, is another crucial hormone.",
+      "question": "What does growth hormone stimulate?"
+    },
+    {
+      "context": "Insulin is one of the important hormones that regulate blood sugar levels. Other hormones include thyroid hormones, which regulate metabolism for body growth.",
+      "question": "What does insulin regulate?"
+    },
+    {
+      "context": "Testosterone is produced by the testes and plays a key role in the development of male characteristics. Ovaries are responsible for female sex organ development and the menstrual cycle.",
+      "question": "What hormone is produced by the testes?"
+    },
+    {
+      "context": "Adrenal hormone adrenaline, produced by the adrenal gland, prepares the body for fight or flight responses leading to increased heart rate and energy availability.",
+      "question": "What does adrenaline prepare the body for?"
+    },
+    {
+      "context": "Releasing hormones stimulate the pituitary gland to release hormones, which then regulate various body functions and processes.",
+      "question": "What do releasing hormones stimulate?"
+    },
+    {
+      "context": "Hormones like thyroid hormones are essential for regulating metabolism which is vital for body growth. Growth hormone from the pituitary also aids in metabolism.",
+      "question": "What regulates metabolism for body growth?"
+    }
+  ]
+}

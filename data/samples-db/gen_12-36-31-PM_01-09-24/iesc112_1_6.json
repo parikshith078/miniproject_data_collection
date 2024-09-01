@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Factors responsible for losses are biotic—insects, rodents, fungi, mites, and bacteria, and abiotic—inappropriate moisture and temperatures in the place of storage.",
+      "question": "What are biotic factors causing grain loss?"
+    },
+    {
+      "context": "These factors cause degradation in quality, loss in weight, poor germinability, discoloration of produce, all leading to poor marketability.",
+      "question": "How do storage factors affect grain quality?"
+    },
+    {
+      "context": "Preventive and control measures are used before grains are stored for future use.",
+      "question": "What measures are taken before storing grains?"
+    },
+    {
+      "context": "They include strict cleaning of the produce before storage, proper drying of the produce first in sunlight and then in shade, and fumigation using chemicals that can kill pests.",
+      "question": "What processes prevent grain damage during storage?"
+    },
+    {
+      "context": "These factors can be controlled by proper treatment and by systematic management of warehouses.",
+      "question": "How can losses in stored grains be controlled?"
+    }
+  ]
+}

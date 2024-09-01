@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Iodine is necessary for the thyroid gland to make thyroxin hormone. Thyroxin regulates carbohydrate, protein and fat metabolism in the body so as to provide the best balance for growth. Iodine is essential for the synthesis of thyroxin.",
+      "question": "Why is iodine important for thyroxin production?"
+    },
+    {
+      "context": "In case iodine is deficient in our diet, there is a possibility that we might suffer from goitre. One of the symptoms in this disease is a swollen neck.",
+      "question": "What condition can arise from iodine deficiency?"
+    },
+    {
+      "context": "Thyroxin regulates carbohydrate, protein and fat metabolism in the body so as to provide the best balance for growth. Iodine is essential for the synthesis of thyroxin.",
+      "question": "What role does thyroxin play in metabolism?"
+    },
+    {
+      "context": "We have all seen salt packets which say ‘iodised salt’ or ‘enriched with iodine’. Why is it important for us to have iodised salt in our diet?",
+      "question": "What is the significance of iodised salt?"
+    },
+    {
+      "context": "Can you correlate this with the position of the thyroid gland in Fig. 6.7?",
+      "question": "Where is the thyroid gland located?"
+    }
+  ]
+}

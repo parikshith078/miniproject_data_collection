@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In waste management, it's crucial to keep organic materials moist to enhance decomposition. Over a span of weeks, organisms break down the waste, resulting in compost. Observing at regular intervals helps track the progress of this process.",
+      "question": "Why is it important to keep waste moist?"
+    },
+    {
+      "context": "Proper waste management requires monitoring conditions such as moisture and temperature. It is recommended to keep the compost material damp to facilitate microbial activity, and observations should be made every 15 days to evaluate changes and adjust conditions as necessary.",
+      "question": "How often should you observe the compost?"
+    },
+    {
+      "context": "The process of composting requires a structured observation routine. Keeping the compost moist encourages the proliferation of decomposer organisms. By checking moisture levels and decomposition stages every 15 days, effective management can be ensured.",
+      "question": "What is the purpose of 15-day observations?"
+    },
+    {
+      "context": "To manage compost effectively, one should maintain adequate moisture levels. This promotes microbial activity, which accelerates the breakdown of organic waste. Regular checks every 15 days allow for timely adjustments and improvements in the composting process.",
+      "question": "What should be maintained to promote decomposition?"
+    },
+    {
+      "context": "In the realm of waste management, monitoring the state of compost is vital. Keeping the material adequately moist not only aids in decomposition but also prevents foul odors. Observations are best made every 15 days to ensure optimal conditions are maintained.",
+      "question": "What does moisture prevent in composting?"
+    }
+  ]
+}

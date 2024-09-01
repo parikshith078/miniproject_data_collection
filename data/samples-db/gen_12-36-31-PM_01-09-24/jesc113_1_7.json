@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Collect waste material from your homes. This could include all the waste generated during a day, like kitchen waste (spoilt food, vegetable peels, used tea leaves, milk packets and empty cartons), waste paper, empty medicine bottles/strips/bubble packs, old and torn clothes and broken footwear.",
+      "question": "What type of waste includes vegetable peels?"
+    },
+    {
+      "context": "Collect waste material from your homes. This could include all the waste generated during a day, like kitchen waste (spoilt food, vegetable peels, used tea leaves, milk packets and empty cartons), waste paper, empty medicine bottles/strips/bubble packs, old and torn clothes and broken footwear.",
+      "question": "What items are considered kitchen waste?"
+    },
+    {
+      "context": "Collect waste material from your homes. This could include all the waste generated during a day, like kitchen waste (spoilt food, vegetable peels, used tea leaves, milk packets and empty cartons), waste paper, empty medicine bottles/strips/bubble packs, old and torn clothes and broken footwear.",
+      "question": "List two examples of broken items mentioned."
+    },
+    {
+      "context": "Collect waste material from your homes. This could include all the waste generated during a day, like kitchen waste (spoilt food, vegetable peels, used tea leaves, milk packets and empty cartons), waste paper, empty medicine bottles/strips/bubble packs, old and torn clothes and broken footwear.",
+      "question": "Which type of bottles are included in the waste material?"
+    },
+    {
+      "context": "Collect waste material from your homes. This could include all the waste generated during a day, like kitchen waste (spoilt food, vegetable peels, used tea leaves, milk packets and empty cartons), waste paper, empty medicine bottles/strips/bubble packs, old and torn clothes and broken footwear.",
+      "question": "What should be collected from daily activities?"
+    }
+  ]
+}

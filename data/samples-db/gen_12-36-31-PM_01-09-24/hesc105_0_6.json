@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Deforestation leads to habitat loss for many species, which can cause decline in animal populations. When forests are cut down, animals lose their homes, and many may not survive. Additionally, the removal of trees can disrupt food chains and ecosystems, which are crucial for animal life.",
+      "question": "How does deforestation affect animal habitats?"
+    },
+    {
+      "context": "When trees are removed from forests, the remaining wildlife struggles with food scarcity and shelter. This can lead to increased competition among species and may push some animals towards extinction. The changes in the environment can also result in increased human-wildlife conflicts as animals venture into urban areas.",
+      "question": "What happens to wildlife when forests are cut down?"
+    },
+    {
+      "context": "Animals rely on forests for food, shelter, and breeding grounds. Deforestation can cause significant stress to wildlife populations, resulting in decreased reproduction rates and increased mortality. Furthermore, some animals may be forced to migrate, which can lead to the loss of biodiversity.",
+      "question": "What are the consequences of habitat loss on animal populations?"
+    },
+    {
+      "context": "The cutting down of trees not only affects the animals that live in forests but also alters the ecosystem. Pollinators, such as bees and butterflies, are impacted as their food sources vanish. This loss of biodiversity can lead to vulnerability in food systems, affecting both animal and human life.",
+      "question": "How does deforestation impact ecosystem biodiversity?"
+    }
+  ]
+}

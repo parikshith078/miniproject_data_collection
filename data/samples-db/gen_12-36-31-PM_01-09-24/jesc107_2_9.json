@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Puberty marks a significant period during adolescence, where external release of germ-cells occurs in some species, similar to flowering plants. Alternatively, in many animals, it involves the internal transfer of germ-cells for fusion between individuals.",
+      "question": "What happens during puberty?"
+    },
+    {
+      "context": "During puberty, changes in the body can lead to the reproductive process, which involves either external release of germ-cells like in plants or internal transfer as seen in animals.",
+      "question": "How do germ-cells relate to puberty?"
+    },
+    {
+      "context": "In flowering plants, the reproductive process includes the external release of germ-cells, while many animals undergo internal transfer between individuals during puberty.",
+      "question": "What is a key difference between plants and animals in reproduction?"
+    },
+    {
+      "context": "As individuals undergo puberty, they may either release germ-cells externally or engage in internal transfer for reproduction, similar to processes seen in plants and animals.",
+      "question": "What two methods of germ-cell transfer are mentioned?"
+    },
+    {
+      "context": "The concept of puberty includes both external and internal reproductive processes, showcasing how different species, like plants and animals, approach germ-cell transfer.",
+      "question": "What does puberty involve in terms of reproduction?"
+    }
+  ]
+}

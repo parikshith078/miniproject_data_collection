@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Adolescence is a period of much activity in the body and mind which is a normal part of growing up. So do not feel confused or insecure. If anybody suggests that you will get relief if you take some drugs, just say ‘No’ unless prescribed by the doctor.",
+      "question": "Why should adolescents say no to drugs?"
+    },
+    {
+      "context": "Drugs are addictive. If you take them once, you feel like taking them again and again. They harm the body in the long run. They ruin health and happiness.",
+      "question": "What are the long-term effects of drug use?"
+    },
+    {
+      "context": "You must have heard about AIDS which is caused by a dangerous virus, HIV. This virus can pass on to a normal person from an infected person by sharing the syringes used for injecting drugs.",
+      "question": "How can HIV be transmitted through drug use?"
+    },
+    {
+      "context": "It can also be transmitted to an infant from the infected mother through her milk. The virus can also be transmitted through sexual contact with a person infected with HIV.",
+      "question": "What are two ways HIV can spread from a mother?"
+    }
+  ]
+}

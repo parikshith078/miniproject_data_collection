@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Fewer trees would mean that less carbon dioxide will be used up resulting in its increased amount in the atmosphere. This will lead to global warming as carbon dioxide traps the heat rays reflected by the earth.",
+      "question": "What effect does deforestation have on carbon dioxide levels?"
+    },
+    {
+      "context": "The increase in temperature on the earth disturbs the water cycle and may reduce rainfall. This could cause droughts.",
+      "question": "How can global warming affect rainfall patterns?"
+    },
+    {
+      "context": "Deforestation is a major cause which leads to the change in soil properties. Physical properties of the soil get affected by plantation and vegetation.",
+      "question": "What impacts does deforestation have on soil properties?"
+    },
+    {
+      "context": "Fewer trees result in more soil erosion. Removal of the top layer of the soil exposes the lower, hard and rocky layers.",
+      "question": "What happens to soil erosion when there are fewer trees?"
+    },
+    {
+      "context": "Deforestation also leads to a decrease in the water holding capacity of the soil. The movement of water from the soil surface into the ground (infiltration rate) is reduced.",
+      "question": "How does deforestation affect soil's water retention?"
+    },
+    {
+      "context": "Gradually the fertile land gets converted into deserts. It is called desertification.",
+      "question": "What is the term for the conversion of fertile land into deserts?"
+    },
+    {
+      "context": "The movement of water from the soil surface into the ground (infiltration rate) is reduced. So, there are floods.",
+      "question": "What consequence of deforestation can lead to floods?"
+    }
+  ]
+}

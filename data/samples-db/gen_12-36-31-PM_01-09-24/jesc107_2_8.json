@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Sexual Maturation: All these changes show differences between people. Just as we have differently shaped noses or fingers, so also we have different patterns of hair growth, or size and shape of breast or penis. All of these changes are aspects of the sexual maturation of the body.",
+      "question": "What are examples of differences in sexual maturation?"
+    },
+    {
+      "context": "Why does the body show sexual maturation at this age? we have talked about the need for specialised cell types in multi-cellular bodies to carry out specialised functions.",
+      "question": "At what age does sexual maturation occur?"
+    },
+    {
+      "context": "The creation of germ-cells to participate in sexual reproduction is another specialised function, and we have seen that plants develop special cell and tissue types to create them. Human beings also develop special tissues for this purpose.",
+      "question": "What is the function of germ-cells in reproduction?"
+    },
+    {
+      "context": "Just as we have differently shaped noses or fingers, so also we have different patterns of hair growth, or size and shape of breast or penis. All of these changes are aspects of the sexual maturation of the body.",
+      "question": "How does sexual maturation vary between individuals?"
+    },
+    {
+      "context": "Human beings also develop special tissues for this purpose. Why does the body show sexual maturation at this age?",
+      "question": "Why does sexual maturation happen at this age?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Reforestation is restocking of the destroyed forests by planting new trees. The planted trees should generally be of the same species which were found in that forest. We should plant at least as many trees as we cut.",
+      "question": "What is the purpose of reforestation?"
+    },
+    {
+      "context": "If the deforested area is left undisturbed, it re-establishes itself. In natural reforestation there is no role of human beings.",
+      "question": "What happens to deforested areas if left undisturbed?"
+    },
+    {
+      "context": "We have already caused tremendous damage to our forests. If we have to retain our green wealth for future generations, plantation of more trees is the only option.",
+      "question": "Why is tree plantation important for future generations?"
+    },
+    {
+      "context": "Professor Ahmad told them that in India we have the Forest (Conservation) Act. This act is aimed at preservation and conservation of natural forests and meeting the basic needs of the people living in or near the forests.",
+      "question": "What is the goal of the Forest Conservation Act in India?"
+    },
+    {
+      "context": "The planted trees should generally be of the same species which were found in that forest. We should plant at least as many trees as we cut.",
+      "question": "Why should planted trees be of the same species?"
+    }
+  ]
+}

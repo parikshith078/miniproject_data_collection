@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The tissue that lines the interior of the mouth is known as epithelium, specifically non-keratinized stratified squamous epithelium. It provides a protective barrier against friction and pathogens.",
+      "question": "What is the inner lining of the mouth called?"
+    },
+    {
+      "context": "Tendons are connective tissues that connect muscle to bone in the human body. They are made primarily of collagen and are essential for movement.",
+      "question": "What tissue connects muscle to bone?"
+    },
+    {
+      "context": "In plants, phloem is the tissue responsible for transporting food, specifically the sugars produced during photosynthesis, throughout the plant.",
+      "question": "What transports food in plants?"
+    },
+    {
+      "context": "Adipose tissue is a type of connective tissue that stores fat in the body. It provides insulation, energy storage, and cushioning for organs.",
+      "question": "What tissue stores fat in our body?"
+    },
+    {
+      "context": "Blood is a connective tissue characterized by a fluid matrix called plasma. It is responsible for transporting nutrients, gases, and waste products throughout the body.",
+      "question": "What is the connective tissue with a fluid matrix?"
+    },
+    {
+      "context": "The nervous tissue present in the brain is primarily composed of neurons and glial cells, which support and protect the neurons.",
+      "question": "What tissue is present in the brain?"
+    }
+  ]
+}

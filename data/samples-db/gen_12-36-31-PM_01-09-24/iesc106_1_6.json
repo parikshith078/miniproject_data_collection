@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "All cells possess the ability to respond to stimuli. However, cells of the nervous tissue are highly specialised for being stimulated and then transmitting the stimulus very rapidly from one place to another within the body.",
+      "question": "What is the main function of nervous tissue?"
+    },
+    {
+      "context": "The brain, spinal cord and nerves are all composed of the nervous tissue. The cells of this tissue are called nerve cells or neurons.",
+      "question": "What are the primary components of nervous tissue?"
+    },
+    {
+      "context": "The brain, spinal cord and nerves are all composed of the nervous tissue. The cells of this tissue are called nerve cells or neurons.",
+      "question": "What are nerve cells also known as?"
+    },
+    {
+      "context": "However, cells of the nervous tissue are highly specialised for being stimulated and then transmitting the stimulus very rapidly from one place to another within the body.",
+      "question": "How do nerve cells transmit stimuli?"
+    },
+    {
+      "context": "All cells possess the ability to respond to stimuli. However, cells of the nervous tissue are highly specialised for being stimulated and then transmitting the stimulus very rapidly.",
+      "question": "What distinguishes nerve cells from other cells?"
+    }
+  ]
+}

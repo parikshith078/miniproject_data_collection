@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cardiac muscle is a specialized type of muscle found only in the heart. Its primary function is to contract and pump blood throughout the body, providing oxygen and nutrients to tissues while removing waste products. This involuntary muscle is highly resistant to fatigue, allowing the heart to beat continuously throughout a person's life.",
+      "question": "What does cardiac muscle do?"
+    },
+    {
+      "context": "The cardiac muscle fibers are interconnected by intercalated discs, which facilitate the rapid transmission of electrical impulses necessary for synchronized contractions. This unique structure ensures that the heart functions as a pump, maintaining a continuous and rhythmic heartbeat vital for circulation.",
+      "question": "How does cardiac muscle maintain a rhythmic heartbeat?"
+    },
+    {
+      "context": "Unlike skeletal muscle, cardiac muscle contracts involuntarily and is regulated by the autonomic nervous system. The heart also has its intrinsic pacemaker, the sinoatrial node, which initiates the heartbeat and controls the heart rate, ensuring efficient circulation of blood throughout the body.",
+      "question": "How is cardiac muscle contraction regulated?"
+    },
+    {
+      "context": "Cardiac muscle cells, or cardiomyocytes, are striated and have a single nucleus. Their contraction results from the sliding filament mechanism, similar to skeletal muscle, but they have unique features such as longer refractory periods which prevent tetanus and allow the heart to fill properly between beats.",
+      "question": "What prevents cardiac muscle from undergoing tetanus?"
+    },
+    {
+      "context": "The function of cardiac muscle is crucial in the circulatory system. It is responsible for rhythmic contractions that pump blood to the lungs and the rest of the body. The synchronized contraction of this muscle helps maintain blood pressure and flow during both systole and diastole phases of the cardiac cycle.",
+      "question": "Why is cardiac muscle important in the circulatory system?"
+    }
+  ]
+}

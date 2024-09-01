@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The various components of an ecosystem are interdependent. The producers make the energy from sunlight available to the rest of the ecosystem.",
+      "question": "How do producers benefit an ecosystem?"
+    },
+    {
+      "context": "The various components of an ecosystem are interdependent. The producers make the energy from sunlight available to the rest of the ecosystem.",
+      "question": "What role do producers play in ecosystems?"
+    },
+    {
+      "context": "The various components of an ecosystem are interdependent. The producers make the energy from sunlight available to the rest of the ecosystem.",
+      "question": "What connects different components of an ecosystem?"
+    },
+    {
+      "context": "The various components of an ecosystem are interdependent. The producers make the energy from sunlight available to the rest of the ecosystem.",
+      "question": "Why are producers essential for all ecosystems?"
+    }
+  ]
+}

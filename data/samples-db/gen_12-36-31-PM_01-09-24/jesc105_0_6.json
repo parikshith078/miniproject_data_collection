@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "In multi-cellular organisms, all the cells may not be in direct contact with the surrounding environment. Thus, simple diffusion will not meet the requirements of all the cells.",
+      "question": "Why is diffusion insufficient in multi-cellular organisms?"
+    },
+    {
+      "context": "But what happens when the body size of the organism increases and the body design becomes more complex? In multi-cellular organisms, all the cells may not be in direct contact with the surrounding environment.",
+      "question": "What changes occur in organisms as body size increases?"
+    },
+    {
+      "context": "We have seen previously how, in multi-cellular organisms, various body parts have specialised in the functions they perform.",
+      "question": "How do multi-cellular organisms adapt to their complexity?"
+    },
+    {
+      "context": "No specific organs for taking in food, exchange of gases or removal of wastes may be needed because the entire surface of the organism is in contact with the environment.",
+      "question": "What allows single-celled organisms to function without specialized organs?"
+    }
+  ]
+}

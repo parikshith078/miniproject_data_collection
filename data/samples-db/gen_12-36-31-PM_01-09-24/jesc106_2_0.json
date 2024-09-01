@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Chemical coordination is seen in both plants and animals. Hormones produced in one part of an organism move to another part to achieve the desired effect.",
+      "question": "What is chemical coordination in organisms?"
+    },
+    {
+      "context": "Adrenaline is secreted directly into the blood and carried to different parts of the body. The target organs or the specific tissues on which it acts include the heart.",
+      "question": "What organ does adrenaline primarily affect?"
+    },
+    {
+      "context": "As a result, the heart beats faster, resulting in supply of more oxygen to our muscles. The blood to the digestive system and skin is reduced due to contraction of muscles around small arteries in these organs.",
+      "question": "How does adrenaline affect oxygen supply to muscles?"
+    },
+    {
+      "context": "This is done in many animals, including human beings, using a hormone called adrenaline that is secreted from the adrenal glands.",
+      "question": "Which hormone is secreted by the adrenal glands?"
+    },
+    {
+      "context": "The breathing rate also increases because of the contractions of the diaphragm and the rib muscles.",
+      "question": "What physiological change occurs in breathing due to adrenaline?"
+    },
+    {
+      "context": "All these responses together enable the animal body to be ready to deal with the situation.",
+      "question": "What is the overall effect of adrenaline in emergencies?"
+    }
+  ]
+}

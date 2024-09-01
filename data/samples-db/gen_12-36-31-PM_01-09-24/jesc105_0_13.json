@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The following events occur during photosynthesis: (i) Absorption of light energy by chlorophyll. (ii) Conversion of light energy to chemical energy and splitting of water molecules into hydrogen and oxygen. (iii) Reduction of carbon dioxide to carbohydrates.",
+      "question": "What absorbs light energy in photosynthesis?"
+    },
+    {
+      "context": "During photosynthesis, chlorophyll absorbs light energy, converting it into chemical energy, and splits water into hydrogen and oxygen.",
+      "question": "What is split into hydrogen and oxygen?"
+    },
+    {
+      "context": "In photosynthesis, light energy is converted into chemical energy, which is then used for the reduction of carbon dioxide to carbohydrates.",
+      "question": "What is carbon dioxide reduced to in photosynthesis?"
+    },
+    {
+      "context": "Photosynthesis involves the absorption of light energy by chlorophyll, converting it to chemical energy and splitting water molecules.",
+      "question": "What primary pigment absorbs light energy?"
+    },
+    {
+      "context": "The steps in photosynthesis include light energy absorption, conversion to chemical energy, and reduction of carbon dioxide.",
+      "question": "What are the main steps of photosynthesis?"
+    }
+  ]
+}

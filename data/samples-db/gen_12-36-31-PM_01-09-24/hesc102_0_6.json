@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Several diseases, including cholera, tuberculosis, smallpox, and hepatitis can be prevented by vaccination.",
+      "question": "What diseases can be prevented by vaccination?"
+    },
+    {
+      "context": "A worldwide campaign against smallpox has finally led to its eradication from most parts of the world.",
+      "question": "What was the result of the smallpox campaign?"
+    },
+    {
+      "context": "These days vaccines are made on a large scale from microorganisms to protect humans and other animals from several diseases.",
+      "question": "How are modern vaccines produced?"
+    },
+    {
+      "context": "Several diseases, including cholera, tuberculosis, smallpox, and hepatitis can be prevented by vaccination.",
+      "question": "Which disease is not mentioned as preventable by vaccination?"
+    },
+    {
+      "context": "A worldwide campaign against smallpox has finally led to its eradication from most parts of the world.",
+      "question": "Which disease has been eradicated globally?"
+    }
+  ]
+}

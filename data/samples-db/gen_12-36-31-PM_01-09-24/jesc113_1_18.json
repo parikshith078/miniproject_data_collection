@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Many non-biodegradable substances like plastic can last for hundreds of years in the environment. Items such as plastic bags may take up to 10-20 years to decompose, while plastic bottles can last for up to 450 years. Styrofoam can persist for over a million years, posing a significant threat to wildlife and ecosystems.",
+      "question": "How long do plastic bottles last in the environment?"
+    },
+    {
+      "context": "Certain non-biodegradable materials such as glass can last indefinitely as they do not decompose naturally. However, while glass can last forever, it can be recycled into new products, which helps reduce its environmental impact.",
+      "question": "How long can glass last in the environment?"
+    },
+    {
+      "context": "Rubber products, like tires, can take up to 50 years to degrade, while synthetic fabrics, such as polyester, can last for over 200 years. The longevity of these materials contributes to pollution and impacts landfills and natural habitats.",
+      "question": "How long do tires last before degrading?"
+    },
+    {
+      "context": "Metals, depending on their composition, can also take many years to rust and degrade, with aluminum cans taking around 200 years. This resistance to degradation adds to the growing concerns over land and marine pollution.",
+      "question": "How long do aluminum cans persist in the environment?"
+    },
+    {
+      "context": "Non-biodegradable materials significantly affect our planet. Items such as fishing lines may persist for many years after being discarded, creating a hazard for marine life. The duration of these materials can vary widely, impacting recycling possibilities.",
+      "question": "What happens to discarded fishing lines in the environment?"
+    }
+  ]
+}

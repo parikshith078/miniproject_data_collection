@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In 1987, the United Nations Environment Programme (UNEP) succeeded in forging an agreement to freeze CFC production at 1986 levels. It is now mandatory for countries to avoid further depletion of the ozone layer through monitoring and controlling the use of ozone-depleting substances.",
+      "question": "What did UNEP achieve in 1987?"
+    },
+    {
+      "context": "In 1987, the United Nations Environment Programme (UNEP) succeeded in forging an agreement to freeze CFC production at 1986 levels. It is now mandatory for countries to avoid further depletion of the ozone layer through monitoring and controlling the use of ozone-depleting substances.",
+      "question": "What substances are monitored to protect ozone?"
+    },
+    {
+      "context": "In 1987, the United Nations Environment Programme (UNEP) succeeded in forging an agreement to freeze CFC production at 1986 levels. It is now mandatory for countries to avoid further depletion of the ozone layer through monitoring and controlling the use of ozone-depleting substances.",
+      "question": "What was the baseline year for CFC production?"
+    },
+    {
+      "context": "In 1987, the United Nations Environment Programme (UNEP) succeeded in forging an agreement to freeze CFC production at 1986 levels. It is now mandatory for countries to avoid further depletion of the ozone layer through monitoring and controlling the use of ozone-depleting substances.",
+      "question": "What is mandatory for countries regarding ozone depletion?"
+    },
+    {
+      "context": "In 1987, the United Nations Environment Programme (UNEP) succeeded in forging an agreement to freeze CFC production at 1986 levels. It is now mandatory for countries to avoid further depletion of the ozone layer through monitoring and controlling the use of ozone-depleting substances.",
+      "question": "Which global organization was involved in the ozone agreement?"
+    }
+  ]
+}

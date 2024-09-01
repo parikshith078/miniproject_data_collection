@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Honey is widely used and therefore beekeeping for making honey has become an agricultural enterprise. Since beekeeping needs low investments, farmers use it as an additional income-generating activity.",
+      "question": "Why is beekeeping a valuable enterprise?"
+    },
+    {
+      "context": "The local varieties of bees used for commercial honey production are Apis cerana indica, commonly known as the Indian bee, A. dorsata, the rock bee and A. florae, the little bee.",
+      "question": "What are the local bee varieties mentioned?"
+    },
+    {
+      "context": "An Italian bee variety, A. mellifera, has also been brought in to increase yield of honey. This is the variety commonly used for commercial honey production.",
+      "question": "What is the Italian bee variety used for?"
+    },
+    {
+      "context": "The Italian bees have high honey collection capacity. They sting somewhat less. They stay in a given beehive for long periods, and breed very well.",
+      "question": "What are the advantages of Italian bees?"
+    },
+    {
+      "context": "For commercial honey production, bee farms or apiaries are established.",
+      "question": "What is established for commercial honey production?"
+    },
+    {
+      "context": "In addition to honey, the beehives are a source of wax which is used in various medicinal preparations.",
+      "question": "What else do beehives provide besides honey?"
+    }
+  ]
+}

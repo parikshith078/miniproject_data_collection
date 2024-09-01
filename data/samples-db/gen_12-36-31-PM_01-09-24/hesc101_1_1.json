@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The organic manure is considered better than fertilizers. This is because: it enhances the water holding capacity of the soil.",
+      "question": "How does manure improve water retention?"
+    },
+    {
+      "context": "It makes the soil porous due to which exchange of gases becomes easy.",
+      "question": "Why is soil porosity important for gas exchange?"
+    },
+    {
+      "context": "It increases the number of friendly microbes and improves the texture of the soil.",
+      "question": "What benefits do microbes provide to the soil?"
+    },
+    {
+      "context": "The organic manure is advantageous as it increases the number of friendly microbes.",
+      "question": "What role do friendly microbes play in soil health?"
+    },
+    {
+      "context": "Organic manure enhances water holding capacity and makes the soil porous.",
+      "question": "What are the physical benefits of using organic manure?"
+    }
+  ]
+}

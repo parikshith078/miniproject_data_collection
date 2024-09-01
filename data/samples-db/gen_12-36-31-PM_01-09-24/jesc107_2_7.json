@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The rates of birth and death in a given population will determine its size. The size of the human population is a cause for concern for many people.",
+      "question": "What determines the size of a population?"
+    },
+    {
+      "context": "An expanding population makes it harder to improve everybody’s standard of living. However, if inequality in society is the main reason for poor standards of living for many people.",
+      "question": "How does population growth affect living standards?"
+    },
+    {
+      "context": "We have noted earlier that reproduction is the process by which organisms increase their populations. The size of the human population is a cause for concern for many people.",
+      "question": "What process increases population size?"
+    },
+    {
+      "context": "However, if inequality in society is the main reason for poor standards of living for many people, the size of the population is relatively unimportant.",
+      "question": "What factor might be more important than population size?"
+    },
+    {
+      "context": "This is because an expanding population makes it harder to improve everybody’s standard of living.",
+      "question": "Why do some people worry about population growth?"
+    }
+  ]
+}

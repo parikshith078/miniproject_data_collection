@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Each cell thus acquires its structure and ability to function because of the organisation of its membrane and organelles in specific ways. This helps the cells to perform functions like respiration, obtaining nutrition, and clearing of waste material.",
+      "question": "What is the basic functional unit of life?"
+    },
+    {
+      "context": "The cell thus has a basic structural organisation. Thus, the cell is the fundamental structural unit of living organisms.",
+      "question": "What gives cells their specific functions?"
+    },
+    {
+      "context": "The cell is the fundamental structural unit of living organisms. This helps the cells to perform functions like respiration, obtaining nutrition, and clearing of waste material.",
+      "question": "What functions do cells perform?"
+    },
+    {
+      "context": "Each cell thus acquires its structure and ability to function because of the organisation of its membrane and organelles in specific ways.",
+      "question": "How do cells acquire their functions?"
+    },
+    {
+      "context": "It is also the basic functional unit of life. The cell thus has a basic structural organisation.",
+      "question": "Why is the cell considered fundamental to life?"
+    }
+  ]
+}

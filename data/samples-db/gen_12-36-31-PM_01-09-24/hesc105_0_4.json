@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Deforestation increases the temperature and pollution level on the earth. It increases the level of carbon dioxide in the atmosphere. Ground water level also gets lowered.",
+      "question": "What does deforestation increase in the atmosphere?"
+    },
+    {
+      "context": "They were told by Professor Ahmad that if cutting of trees continues, rainfall and the fertility of the soil will decrease.",
+      "question": "What may decrease if tree cutting continues?"
+    },
+    {
+      "context": "They remembered that deforestation increases the temperature and pollution level on the earth. Ground water level also gets lowered.",
+      "question": "How does deforestation affect ground water levels?"
+    },
+    {
+      "context": "Moreover, there will be increased chances of natural calamities such as floods and droughts.",
+      "question": "What natural events may increase due to deforestation?"
+    },
+    {
+      "context": "They know that deforestation disturbs the balance in nature.",
+      "question": "How does deforestation affect the natural balance?"
+    }
+  ]
+}

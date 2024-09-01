@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Lactic acid is produced in muscles when there is insufficient oxygen to convert glucose into energy during vigorous exercise. This build-up of lactic acid in our muscles during sudden activity causes cramps and fatigue.",
+      "question": "What causes lactic acid build-up?"
+    },
+    {
+      "context": "When engaging in sudden physical activity, the body's demand for energy increases. If the demand exceeds the oxygen supply, lactic acid accumulates, leading to discomfort and cramps.",
+      "question": "Why do muscles cramp during sudden activity?"
+    },
+    {
+      "context": "During intense exercise, the body may resort to anaerobic respiration due to a lack of oxygen, resulting in lactic acid production. This accumulation can lead to muscle fatigue and cramping sensations.",
+      "question": "What happens during anaerobic respiration?"
+    },
+    {
+      "context": "As a result of intense physical exertion, lactic acid can accumulate in the muscles when oxygen levels are low. This is why athletes sometimes experience cramps after sudden increases in activity.",
+      "question": "How does lactic acid affect athletes?"
+    },
+    {
+      "context": "A sudden increase in muscle activity can lead to lactic acid build-up. Consequently, this can cause muscles to feel fatigued and may result in painful cramps during or after exercise.",
+      "question": "What symptoms arise from lactic acid build-up?"
+    }
+  ]
+}

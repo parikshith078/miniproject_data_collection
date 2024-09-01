@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Amoeba is a single-celled organism. It begins the process of reproduction by the division of its nucleus into two nuclei. This is followed by division of its body into two, each part receiving a nucleus.",
+      "question": "What begins the process of reproduction in Amoeba?"
+    },
+    {
+      "context": "Finally, two amoebae are produced from one parent amoeba. This type of reproduction in which an animal reproduces by dividing into two individuals is called binary fission.",
+      "question": "What do we call the reproduction method seen in Amoeba?"
+    },
+    {
+      "context": "This is followed by division of its body into two, each part receiving a nucleus. Finally, two amoebae are produced from one parent amoeba.",
+      "question": "What happens after the nucleus divides in Amoeba?"
+    },
+    {
+      "context": "It begins the process of reproduction by the division of its nucleus into two nuclei. This is followed by division of its body into two, each part receiving a nucleus.",
+      "question": "How does Amoeba start its reproduction process?"
+    },
+    {
+      "context": "Amoeba is a single-celled organism. It begins the process of reproduction by the division of its nucleus into two nuclei.",
+      "question": "What is the initial step of binary fission in Amoeba?"
+    }
+  ]
+}

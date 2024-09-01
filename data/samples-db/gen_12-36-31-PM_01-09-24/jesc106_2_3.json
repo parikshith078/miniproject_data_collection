@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Growth hormone is one of the hormones secreted by the pituitary. As its name indicates, growth hormone regulates growth and development of the body. If there is a deficiency of this hormone in childhood, it leads to dwarfism.",
+      "question": "What regulates growth and development?"
+    },
+    {
+      "context": "If there is a deficiency of this hormone in childhood, it leads to dwarfism. You must have noticed many dramatic changes in your appearance as well as that of your friends as you approached 10–12 years of age.",
+      "question": "What happens if growth hormone is deficient?"
+    },
+    {
+      "context": "These changes associated with puberty are because of the secretion of testosterone in males and oestrogen in females. Have you ever wondered how this happens?",
+      "question": "What hormones are secreted during puberty?"
+    },
+    {
+      "context": "Sometimes we come across people who are either very short (dwarfs) or extremely tall (giants). Have you ever wondered how this happens?",
+      "question": "What causes dwarfism and gigantism?"
+    },
+    {
+      "context": "As its name indicates, growth hormone regulates growth and development of the body. If there is a deficiency of this hormone in childhood, it leads to dwarfism.",
+      "question": "What hormone is responsible for body growth?"
+    }
+  ]
+}

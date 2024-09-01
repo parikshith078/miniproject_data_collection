@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The increase in non-biodegradable waste due to changes in packaging can lead to significant environmental pollution. For instance, plastics can take hundreds of years to decompose, resulting in accumulation in landfills and oceans. This can harm wildlife and ecosystems.",
+      "question": "What impact do non-biodegradable materials have?"
+    },
+    {
+      "context": "With the rise of non-biodegradable packaging, recycling systems face greater challenges. Materials such as polystyrene and certain plastics can complicate the recycling process, leading to more waste ending up in landfills rather than being repurposed or recycled.",
+      "question": "How do non-biodegradable products affect recycling?"
+    },
+    {
+      "context": "The production of non-biodegradable materials often requires fossil fuels, contributing to greenhouse gas emissions. This reliance on non-renewable resources further exacerbates climate change and the degradation of our environment.",
+      "question": "What do fossil fuels contribute to non-biodegradable waste?"
+    },
+    {
+      "context": "Non-biodegradable waste in natural environments can harm various species. Animals can ingest plastic debris, mistaking it for food, which can lead to injuries or death and disrupt the food chain.",
+      "question": "How does plastic waste affect animals in nature?"
+    },
+    {
+      "context": "Efforts to manage non-biodegradable waste include public awareness campaigns and improved waste management technologies. However, the effectiveness of these efforts can be hampered by a lack of proper infrastructure and public participation.",
+      "question": "What challenges exist in managing non-biodegradable waste?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Vacuoles are storage sacs for solid or liquid contents. Vacuoles are small sized in animal cells while plant cells have very large vacuoles.",
+      "question": "What are vacuoles used for?"
+    },
+    {
+      "context": "In plant cells vacuoles are full of cell sap and provide turgidity and rigidity to the cell.",
+      "question": "How do vacuoles affect plant cells?"
+    },
+    {
+      "context": "Many substances of importance in the life of the plant cell are stored in vacuoles. These include amino acids, sugars, various organic acids and some proteins.",
+      "question": "What substances are stored in plant vacuoles?"
+    },
+    {
+      "context": "In single-celled organisms like Amoeba, the food vacuole contains the food items that the Amoeba has consumed.",
+      "question": "What do food vacuoles contain in Amoeba?"
+    },
+    {
+      "context": "In some unicellular organisms, specialised vacuoles also play important roles in expelling excess water and some wastes from the cell.",
+      "question": "What role do vacuoles play in unicellular organisms?"
+    }
+  ]
+}

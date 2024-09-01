@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Adolescence is a stage of rapid growth and development. Hence the diet for an adolescent has to be carefully planned. You have already learnt what a balanced diet is. Recall that a balanced diet means that the meals include proteins, carbohydrates, fats and vitamins in requisite proportions.",
+      "question": "Why is adolescence considered a rapid growth stage?"
+    },
+    {
+      "context": "Iron builds blood and iron-rich food such as leafy vegetables, jaggery, meat, citrus, Indian gooseberry (amla) are good for adolescents.",
+      "question": "What foods are rich in iron for adolescents?"
+    },
+    {
+      "context": "Check items for lunch and dinner in your meal. Is the meal balanced and nutritious? Does it include cereals which give energy and milk, meat, nuts and pulses which provide proteins for growth?",
+      "question": "How can you check if your meal is nutritious?"
+    },
+    {
+      "context": "Chips and packed or tinned snacks, though very tasty should never replace regular meals as they do not have adequate nutritional value.",
+      "question": "Why shouldn't snacks replace regular meals?"
+    },
+    {
+      "context": "Fruits also provide nourishment. For infants, mother’s milk provides all the nourishment that they need. Iron builds blood and iron-rich food such as leafy vegetables, jaggery, meat, citrus, Indian gooseberry (amla) are good for adolescents.",
+      "question": "What is the role of fruits in an adolescent's diet?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper -T and other methods. Each of these methods has its own effectiveness and suitability for different individuals.",
+      "question": "What are some contraceptive methods?"
+    },
+    {
+      "context": "Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper -T and other methods. Understanding these methods can help individuals make informed choices about family planning.",
+      "question": "Why is it important to understand contraceptive methods?"
+    },
+    {
+      "context": "Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper -T and other methods. The effectiveness of these methods varies and can be influenced by user compliance and correct application.",
+      "question": "How can effectiveness of contraception vary?"
+    },
+    {
+      "context": "Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper -T and other methods. It is crucial to choose a method that fits individual health needs and lifestyle.",
+      "question": "Why is individual suitability important in contraception?"
+    },
+    {
+      "context": "Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper -T and other methods. Each method may offer different benefits such as ease of use or non-hormonal options.",
+      "question": "What are the benefits of using contraceptive methods?"
+    }
+  ]
+}

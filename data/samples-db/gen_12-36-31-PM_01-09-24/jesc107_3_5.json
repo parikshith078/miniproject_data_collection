@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Pollination is the transfer of pollen from the male anther of a flower to the female stigma, whereas fertilisation involves the fusion of male and female gametes to form a zygote.",
+      "question": "What is the difference between pollination and fertilisation?"
+    },
+    {
+      "context": "The seminal vesicles produce seminal fluid, which nourishes and helps transport sperm, while the prostate gland produces additional fluids that help in sperm motility and longevity.",
+      "question": "What is the function of the seminal vesicles?"
+    },
+    {
+      "context": "During puberty, girls experience physical changes such as breast development, the onset of menstruation, and the growth of body hair, marking their transition into reproductive maturity.",
+      "question": "What changes occur in girls during puberty?"
+    },
+    {
+      "context": "The embryo receives nourishment through the placenta, which forms a connection between the mother and the developing fetus, allowing the exchange of nutrients and waste products.",
+      "question": "How does the embryo obtain nourishment from the mother?"
+    },
+    {
+      "context": "A copper-T is a form of intrauterine device (IUD) that primarily prevents pregnancy but does not provide protection against sexually transmitted diseases (STDs).",
+      "question": "Can a copper-T protect against STDs?"
+    }
+  ]
+}

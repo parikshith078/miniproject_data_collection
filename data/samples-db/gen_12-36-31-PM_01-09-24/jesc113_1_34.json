@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Biodegradable waste includes materials that can decompose naturally through the action of microorganisms. While this process helps reduce landfill use, excess biodegradable waste can lead to problems such as methane emissions and nutrient pollution in waterways.",
+      "question": "What issues arise from excess biodegradable waste?"
+    },
+    {
+      "context": "Even though biodegradable materials break down over time, their decomposition can generate methane, a potent greenhouse gas. Furthermore, if these materials end up in water bodies, they can cause algal blooms that harm aquatic ecosystems.",
+      "question": "Why is methane a concern in waste management?"
+    },
+    {
+      "context": "Composting is a process that utilizes microorganisms to break down organic materials, converting them into nutrient-rich soil. This method can be beneficial, but too much compostable waste can overwhelm systems and lead to odor issues.",
+      "question": "What is the purpose of composting in waste management?"
+    },
+    {
+      "context": "While biodegradable waste can decompose, if not managed properly, it can create an environment that produces greenhouse gases such as methane and carbon dioxide, contributing to climate change.",
+      "question": "How can biodegradable waste impact climate change?"
+    },
+    {
+      "context": "The ideal scenario is to minimize waste generation, even if it's biodegradable. Implementing sustainable practices and reducing overall waste is crucial for protecting the environment and promoting a healthier ecosystem.",
+      "question": "What is the ideal scenario for waste management?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Microorganisms play an important role in our lives. Some of them are beneficial in many ways whereas some others are harmful and cause diseases.",
+      "question": "What are the two types of microorganisms?"
+    },
+    {
+      "context": "Curd contains several microorganisms. Of these, the bacterium Lactobacillus promotes the formation of curd.",
+      "question": "Which bacterium is responsible for curd formation?"
+    },
+    {
+      "context": "They are used in the preparation of curd, bread, and cake.",
+      "question": "Name three food items made using microorganisms."
+    },
+    {
+      "context": "Microorganisms are also used in cleaning up the environment.",
+      "question": "How do microorganisms help in environmental cleanup?"
+    },
+    {
+      "context": "The organic wastes are broken down into harmless and usable substances by bacteria.",
+      "question": "What do bacteria do to organic wastes?"
+    },
+    {
+      "context": "Microorganisms have been used for the production of alcohol since ages.",
+      "question": "Since when have microorganisms been used to produce alcohol?"
+    },
+    {
+      "context": "Bacteria are also involved in the making of cheese, pickles, and many other food items.",
+      "question": "What are two other food items made using bacteria?"
+    },
+    {
+      "context": "Some of them are beneficial in many ways whereas some others are harmful and cause diseases.",
+      "question": "What are the harmful effects of some microorganisms?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Some materials, such as plastics and metals, can remain unchanged over long periods of time due to their chemical stability. These materials do not easily decompose and can persist in the environment for decades or even centuries.",
+      "question": "What types of materials last long in the environment?"
+    },
+    {
+      "context": "In waste management, it's crucial to identify materials that do not break down easily over time. For instance, glass can last indefinitely without deteriorating, while certain synthetic materials can take hundreds of years to decompose.",
+      "question": "Which materials do not decompose easily?"
+    },
+    {
+      "context": "Materials like aluminum cans and plastic bottles are known to resist degradation, meaning they can remain in landfills for many years without showing significant change. This has raised concerns about their environmental impact.",
+      "question": "What materials resist degradation in landfills?"
+    },
+    {
+      "context": "Among waste materials, items such as batteries and some types of plastic can take extremely long periods to break down. This poses challenges for waste management systems that deal with recycling and disposal.",
+      "question": "Which waste items take a long time to break down?"
+    },
+    {
+      "context": "Certain materials, including some modified plastics and synthetic fibers, can survive in their original form for extended periods due to their resistant chemical compositions. This leads to accumulation in natural environments.",
+      "question": "What modified materials persist in their original form?"
+    }
+  ]
+}

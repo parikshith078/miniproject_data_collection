@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Biodegradable materials, such as food scraps and paper, can be broken down naturally by microorganisms. In contrast, non-biodegradable materials, like plastics and metals, do not decompose and can persist in the environment for many years. Understanding which materials are biodegradable helps reduce waste.",
+      "question": "What are examples of biodegradable materials?"
+    },
+    {
+      "context": "Substances that are broken down by biological processes are said to be biodegradable. This includes materials like cotton, wood, and certain types of waste. Non-biodegradable materials, however, can cause harm to the environment as they do not break down.",
+      "question": "What defines biodegradable materials?"
+    },
+    {
+      "context": "In an experiment, students buried various substances to observe whether they decompose. They noted which items returned to the soil and which remained unchanged after several months. The goal was to understand the difference between biodegradable and non-biodegradable items.",
+      "question": "What was the purpose of the burial experiment?"
+    },
+    {
+      "context": "Biodegradable materials are essential for a healthy environment as they help in reducing landfill waste. Examples include natural fibers, food waste, and paper. Non-biodegradable materials contribute to pollution and require longer times to decompose.",
+      "question": "Why are biodegradable materials important?"
+    },
+    {
+      "context": "The decomposition of biodegradable materials involves microorganisms like bacteria and fungi that break them down into simpler substances. This process not only cleans up the environment but also returns nutrients to the soil, making it fertile again.",
+      "question": "How do biodegradable materials benefit the soil?"
+    }
+  ]
+}

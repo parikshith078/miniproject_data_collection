@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The ozone layer is essential for protecting life on Earth from harmful ultraviolet (UV) radiation. In the 20th century, scientists discovered that chlorofluorocarbons (CFCs), which were commonly used as refrigerants, were depleting this protective layer. As awareness of this issue grew, international efforts led to agreements that required manufacturing companies to transition to CFC-free alternatives for their products, including refrigerators.",
+      "question": "What is the role of CFCs in ozone depletion?"
+    },
+    {
+      "context": "Due to the damage caused by CFCs, which break down ozone molecules in the stratosphere, countries around the world initiated the Montreal Protocol in 1987. This international treaty aimed to phase out the production and consumption of ozone-depleting substances, compelling manufacturers globally to switch to alternative substances that do not harm the ozone layer.",
+      "question": "What treaty was created to combat ozone depletion?"
+    },
+    {
+      "context": "Ozone layer depletion is a significant environmental concern that affects human health, ecosystems, and climate. The move to eliminate CFCs in refrigeration and air conditioning industries illustrates global collaboration on environmental protection. By shifting to CFC-free technologies, manufacturers can help preserve the ozone layer, keeping it intact for future generations.",
+      "question": "Why is it important to have CFC-free technologies?"
+    },
+    {
+      "context": "Once the public and governments recognized the dangers of ozone layer depletion caused by CFCs, a campaign for change began. The scientific community played a crucial role in diagnosing the problem and suggesting solutions, leading to global agreements that prompted manufacturers to innovate and develop CFC-free products in order to restore the ozone layer.",
+      "question": "Who played a crucial role in addressing ozone depletion?"
+    },
+    {
+      "context": "CFCs were widely used in various applications, but their impact on the ozone layer prompted a worldwide shift in manufacturing processes. Companies that produced refrigerators and aerosol sprays were specifically called on to eliminate CFCs, thereby making way for safer alternatives that would not contribute to the degradation of the ozone layer.",
+      "question": "In what applications were CFCs widely used?"
+    }
+  ]
+}

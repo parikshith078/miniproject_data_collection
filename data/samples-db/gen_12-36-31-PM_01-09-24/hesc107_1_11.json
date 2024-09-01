@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "This is because teenage mothers are not prepared mentally or physically for motherhood. Early marriage and motherhood cause health problems in the mother and the child.",
+      "question": "What are the risks associated with teenage motherhood?"
+    },
+    {
+      "context": "Early marriage and motherhood cause health problems in the mother and the child. It also curtails employment opportunities for the young woman.",
+      "question": "How does early motherhood affect a woman's employment?"
+    },
+    {
+      "context": "This is because teenage mothers are not prepared mentally or physically for motherhood. It may cause mental agony as she is not ready for responsibilities of motherhood.",
+      "question": "What mental challenges do teenage mothers face?"
+    },
+    {
+      "context": "In our country, the legal age for marriage is 18 years for girls and 21 years for boys.",
+      "question": "What is the legal marriage age for girls?"
+    },
+    {
+      "context": "Teenage mothers are not prepared mentally or physically for motherhood. Early marriage may cause health problems in the mother and the child.",
+      "question": "Why is maternal preparation important before childbirth?"
+    }
+  ]
+}

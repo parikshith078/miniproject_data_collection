@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "When pea plants showing two different characteristics are bred, the results can show dominant traits. In a cross of tall plants with round seeds, the traits can segregate. The F2 progeny demonstrate combinations of traits that were present in the parents, indicating independent assortment during inheritance.",
+      "question": "What do tall and round seeds indicate?"
+    },
+    {
+      "context": "In breeding experiments with pea plants, the F2 generation can show a variety of traits that result from the independent inheritance of characteristics. Some progeny display combinations not present in the parental generation, suggesting a mix of traits that follow Mendel’s laws of inheritance.",
+      "question": "What does F2 progeny signify in pea plants?"
+    },
+    {
+      "context": "When F2 progeny are produced from tall, round-seeded parent plants, the traits of height and seed shape can combine in various ways. This leads to some plants being tall with round seeds, while others can be short with wrinkled seeds, demonstrating how traits can independently assort.",
+      "question": "How are traits inherited in F2 progeny?"
+    },
+    {
+      "context": "The breeding of pea plants often reveals that tallness and round seeds are traits that are inherited independently. This can lead to diverse combinations of traits in the progeny, emphasizing the role of independent assortment as a key principle of genetics.",
+      "question": "What principle is shown by the independent inheritance of traits?"
+    },
+    {
+      "context": "Through breeding experiments with pea plants displaying different traits, it's noted that resulting F2 plants can exhibit either of the parental traits or new combinations. The observation of both tall plants with round seeds and short plants with wrinkled seeds highlights the variability introduced by independent inheritance.",
+      "question": "What new combinations can F2 plants show?"
+    }
+  ]
+}

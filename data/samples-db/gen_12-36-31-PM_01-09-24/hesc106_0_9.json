@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The transformation of the larva into an adult through drastic changes is called metamorphosis.",
+      "question": "What is metamorphosis in animals?"
+    },
+    {
+      "context": "The new individuals which are born or hatched from the eggs continue to grow till they become adults.",
+      "question": "How do new individuals develop into adults?"
+    },
+    {
+      "context": "In some animals, the young ones may look very different from the adults.",
+      "question": "Do young animals resemble their adult forms?"
+    },
+    {
+      "context": "The transformation of the larva into an adult through drastic changes is called metamorphosis.",
+      "question": "What is the process from larva to adult called?"
+    },
+    {
+      "context": "The new individuals which are born or hatched from the eggs continue to grow till they become adults.",
+      "question": "What process do new individuals undergo to reach adulthood?"
+    }
+  ]
+}

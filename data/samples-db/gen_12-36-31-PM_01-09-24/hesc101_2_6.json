@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Crops like wheat are best suited for specific seasons. Wheat is a rabi crop, which requires cooler temperatures to grow and is typically sown in the winter. Planting wheat in the kharif season leads to poor yields because the weather is not suitable for its growth.",
+      "question": "Why is wheat not sown in the kharif season?"
+    },
+    {
+      "context": "Wheat is classified as a rabi crop, meaning it thrives in cooler temperatures. This crop is usually sown in winter months, which align with its growth requirements, unlike kharif season crops that prefer warmer conditions.",
+      "question": "What season is ideal for planting wheat?"
+    },
+    {
+      "context": "The growing conditions for crops are crucial for their yield. Wheat, which is a rabi crop, requires cooler temperatures and is ideally sown during winter. In contrast, it fails to thrive when planted in the warmer kharif season.",
+      "question": "What does rabi crop mean?"
+    },
+    {
+      "context": "Wheat needs specific environmental conditions for optimum growth. It is a rabi crop normally sown in winter, while the kharif season brings unsuitable weather, resulting in lower yields if wheat is planted then.",
+      "question": "How does temperature affect wheat growth?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Food poisoning could be due to the consumption of food spoilt by some microorganisms. Microorganisms that grow on our food sometimes produce toxic substances.",
+      "question": "What causes food poisoning?"
+    },
+    {
+      "context": "These can make the food poisonous causing serious illness and even death.",
+      "question": "What are the potential effects of toxic substances?"
+    },
+    {
+      "context": "So, it is very important that we preserve food to prevent it from being spoilt.",
+      "question": "Why is food preservation important?"
+    },
+    {
+      "context": "Microorganisms that grow on our food sometimes produce toxic substances.",
+      "question": "What do microorganisms produce that can harm food?"
+    },
+    {
+      "context": "Food poisoning could be due to the consumption of food spoilt by some microorganisms.",
+      "question": "What leads to food poisoning?"
+    }
+  ]
+}

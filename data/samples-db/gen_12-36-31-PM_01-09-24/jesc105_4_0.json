@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "In human beings, excretory products in the form of soluble nitrogen compounds are removed by the nephrons in the kidneys. The kidneys play a crucial role in filtering blood and eliminating waste. The initial filtrate in the kidneys is about 180 L daily.",
+      "question": "How much filtrate do the kidneys produce daily?"
+    },
+    {
+      "context": "The nephron is the functional unit of the kidney, responsible for the filtration of blood and the excretion of wastes.",
+      "question": "What is the functional unit of the kidney?"
+    },
+    {
+      "context": "The amount of urine produced is regulated by several factors including hydration levels, hormonal control, and the body's overall health.",
+      "question": "What factors regulate urine production?"
+    },
+    {
+      "context": "The kidneys play a crucial role in filtering blood and eliminating waste. However, the volume actually excreted is only a litre or two a day.",
+      "question": "How much urine is excreted daily by humans?"
+    },
+    {
+      "context": "The nephron is the functional unit of the kidney, responsible for the filtration of blood and the excretion of wastes.",
+      "question": "What does the nephron do in the kidneys?"
+    },
+    {
+      "context": "This regulation ensures that the homeostasis of bodily fluids is maintained effectively.",
+      "question": "What does urine regulation maintain in the body?"
+    }
+  ]
+}

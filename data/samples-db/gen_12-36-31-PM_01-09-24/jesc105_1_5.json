@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Respiration in organisms involves different pathways for energy generation. They can break down glucose either using oxygen or other methods. The initial breakdown of glucose occurs in the cytoplasm, transforming into pyruvate, a three-carbon molecule.",
+      "question": "What is the first step of respiration?"
+    },
+    {
+      "context": "In the absence of oxygen, pyruvate is converted into ethanol and carbon dioxide during fermentation in yeast. This process, known as anaerobic respiration, occurs in the cytoplasm of the cells of organisms like yeast.",
+      "question": "What is anaerobic respiration?"
+    },
+    {
+      "context": "Aerobic respiration occurs in the mitochondria where pyruvate is broken down using oxygen. This process results in the release of three molecules of carbon dioxide and water, which are essential byproducts.",
+      "question": "What happens in aerobic respiration?"
+    },
+    {
+      "context": "The process of anaerobic respiration occurs in the absence of air. This allows organisms like yeast to produce energy without oxygen by breaking down glucose into ethanol and carbon dioxide.",
+      "question": "How do yeast perform anaerobic respiration?"
+    },
+    {
+      "context": "Glucose is a six-carbon molecule that plays a key role in respiration. It is broken down into pyruvate, a three-carbon molecule, which is a critical intermediate in both aerobic and anaerobic pathways.",
+      "question": "What molecule is broken down to form pyruvate?"
+    },
+    {
+      "context": "During aerobic respiration, glucose is fully oxidized in the mitochondria, allowing complete breakdown of pyruvate. This results in water and carbon dioxide as the end products.",
+      "question": "What are the products of aerobic respiration?"
+    }
+  ]
+}

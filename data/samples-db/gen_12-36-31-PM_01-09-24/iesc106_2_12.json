@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Striated muscles, also known as skeletal muscles, have a banded appearance due to the arrangement of actin and myosin filaments. These muscles are primarily attached to bones and facilitate voluntary movements. Unstriated muscles, or smooth muscles, lack this striation and are found in internal organs like the stomach and blood vessels, functioning involuntarily. Cardiac muscle, found exclusively in the heart, has a striated appearance but works involuntarily, with intercalated discs allowing synchronized contractions.",
+      "question": "What are the key differences in muscle types?"
+    },
+    {
+      "context": "Striated muscles show a striped pattern and are responsible for voluntary movements, connecting primarily to the skeleton. In contrast, unstriated muscles do not have this striped pattern, making them ideal for involuntary actions in organs, such as peristalsis in the intestines. Cardiac muscles, while striated, differ by being involuntary and unique to the heart, facilitating coordinated contractions necessary for pumping blood.",
+      "question": "How does cardiac muscle differ from striated muscle?"
+    },
+    {
+      "context": "The striated muscles have a clear striation that allows for voluntary control, typically found in limbs and trunk for movement. Unstriated muscles lack these striations, allowing them to perform slower contractions in hollow organs, such as the bladder. Finally, cardiac muscle combines elements of both, showing striated patterns but functioning involuntarily in the heart, supporting continuous blood flow.",
+      "question": "Where are unstriated muscles located in the body?"
+    },
+    {
+      "context": "Striated muscles possess a distinct banded structure and are associated with the voluntary movements of the skeleton. Unstriated muscles, also known as smooth muscles, are characterized by their lack of striation and exist within the walls of internal organs for involuntary actions. Cardiac muscle is unique as it is striated but categorized as involuntary, located only within the heart to manage rhythmic contraction.",
+      "question": "What type of muscle is found in the heart?"
+    },
+    {
+      "context": "Muscle types can be categorized into three groups: striated, unstriated, and cardiac. Striated muscles exhibit a banded structure and are responsible for voluntary movements, often connecting to bones. Unstriated muscles, on the other hand, are smooth and control involuntary movements in organs. Cardiac muscle shares a striated appearance but operates involuntarily, functioning distinctly within the heart environment, promoting circulation.",
+      "question": "What are the characteristics of striated muscles?"
+    }
+  ]
+}

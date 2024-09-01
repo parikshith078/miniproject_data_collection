@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Budding is a form of asexual reproduction involving organisms like Hydra, which rely on regenerative cells. A bud forms as an outgrowth from the parent due to cell division at a specific site.",
+      "question": "What organisms use budding for reproduction?"
+    },
+    {
+      "context": "Hydra reproduces through budding, where a bud forms as an outgrowth from the parent. Once mature, these buds detach and become independent.",
+      "question": "How do buds become independent individuals?"
+    },
+    {
+      "context": "In the process of budding, Hydra experiences repeated cell division leading to the formation of a bud. This bud eventually grows into a mature individual.",
+      "question": "What is the role of cell division in budding?"
+    },
+    {
+      "context": "During budding in Hydra, a bud forms due to repeated cell division at a specific location on the parent organism, leading to the creation of new individuals.",
+      "question": "What triggers the formation of a bud in Hydra?"
+    },
+    {
+      "context": "Once a bud on a Hydra matures, it detaches from the parent body, signifying the completion of the budding process and the beginning of its independent life.",
+      "question": "What happens to a mature bud in Hydra?"
+    }
+  ]
+}

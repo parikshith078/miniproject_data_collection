@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The shape and size of cells are related to the specific function they perform. Some cells like Amoeba have changing shapes. In some cases the cell shape could be more or less fixed and peculiar for a particular type of cell; for example, nerve cells have a typical shape.",
+      "question": "What affects cell shape and size?"
+    },
+    {
+      "context": "Each living cell has the capacity to perform certain basic functions that are characteristic of all living forms. How does a living cell perform these basic functions?",
+      "question": "What functions do living cells perform?"
+    },
+    {
+      "context": "The human body has a heart to pump blood, a stomach to digest food and so on. Similarly, division of labour is also seen within a single cell.",
+      "question": "What is the purpose of division of labour in cells?"
+    },
+    {
+      "context": "In fact, each such cell has got certain specific components within it known as cell organelles.",
+      "question": "What are components that cells have?"
+    },
+    {
+      "context": "Some cells like Amoeba have changing shapes. In some cases the cell shape could be more or less fixed and peculiar for a particular type of cell; for example, nerve cells have a typical shape.",
+      "question": "Which cells have a typical fixed shape?"
+    }
+  ]
+}

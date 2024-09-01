@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Within the lungs, the passage divides into smaller tubes which finally terminate in balloon-like structures which are called alveoli. These tiny air sacs are essential for the process of gas exchange, where oxygen is absorbed into the blood and carbon dioxide is expelled.",
+      "question": "What do alveoli resemble in structure?"
+    },
+    {
+      "context": "Within the lungs, the passage divides into smaller tubes which finally terminate in balloon-like structures which are called alveoli. Each alveolus is surrounded by a network of capillaries that facilitate the exchange of gases.",
+      "question": "What surrounds the alveoli in the lungs?"
+    },
+    {
+      "context": "Within the lungs, the passage divides into smaller tubes which finally terminate in balloon-like structures which are called alveoli. The alveoli increase the surface area of the lungs, making gas exchange more efficient.",
+      "question": "Why are alveoli important for the lungs?"
+    },
+    {
+      "context": "Within the lungs, the passage divides into smaller tubes which finally terminate in balloon-like structures which are called alveoli. The structure of alveoli allows for a large surface area for gas exchange.",
+      "question": "What function do alveoli serve in the lungs?"
+    },
+    {
+      "context": "Within the lungs, the passage divides into smaller tubes which finally terminate in balloon-like structures which are called alveoli. The effective functioning of alveoli is crucial for respiratory health.",
+      "question": "What is crucial for respiratory health in the lungs?"
+    }
+  ]
+}

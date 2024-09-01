@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Autotrophic nutrition involves the intake of simple inorganic materials from the environment and using an external energy source like the Sun to synthesize complex high-energy organic materials.",
+      "question": "What is autotrophic nutrition?"
+    },
+    {
+      "context": "Heterotrophic nutrition, on the other hand, involves the intake of complex materials prepared by other organisms.",
+      "question": "How does heterotrophic nutrition differ from autotrophic?"
+    },
+    {
+      "context": "In human beings, the food eaten is broken down along the alimentary canal and the digested food is absorbed in the small intestine to be sent to all body cells.",
+      "question": "What role does the small intestine play in digestion?"
+    },
+    {
+      "context": "During respiration, organic compounds such as glucose are broken down to provide energy in the form of ATP.",
+      "question": "What is the main purpose of respiration?"
+    },
+    {
+      "context": "Respiration may be aerobic or anaerobic, with aerobic respiration producing more energy for the organism.",
+      "question": "How does energy production differ between aerobic and anaerobic respiration?"
+    }
+  ]
+}

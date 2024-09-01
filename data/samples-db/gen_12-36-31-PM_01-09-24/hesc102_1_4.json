@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Microorganisms like bacteria, viruses, and fungi can cause various human diseases. Some common examples include tuberculosis, caused by Mycobacterium tuberculosis, and influenza, caused by the influenza virus.",
+      "question": "What causes tuberculosis in humans?"
+    },
+    {
+      "context": "Many diseases, including colds and flu, are caused by viruses, while bacteria can cause infections like strep throat and pneumonia. Fungi can lead to conditions such as athlete's foot.",
+      "question": "Which organism causes athlete's foot?"
+    },
+    {
+      "context": "The table lists diseases like malaria, caused by Plasmodium, and cholera, caused by Vibrio cholerae. Each microorganism has a specific impact on human health.",
+      "question": "What microorganism is responsible for causing cholera?"
+    },
+    {
+      "context": "Understanding diseases caused by microorganisms helps in developing vaccines and treatments. For instance, knowing the cause of measles aids in creating effective immunization strategies.",
+      "question": "How does knowledge of microorganisms aid in vaccination?"
+    },
+    {
+      "context": "Some microorganisms are beneficial, while others are pathogenic. Pathogenic microorganisms cause diseases, impacting millions globally and necessitating public health measures.",
+      "question": "What is the impact of pathogenic microorganisms on health?"
+    }
+  ]
+}

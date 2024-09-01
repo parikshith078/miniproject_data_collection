@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Freshwater resources include canals, ponds, reservoirs and rivers. Brackish water resources, where seawater and fresh water mix together, such as estuaries and lagoons are also important fish reservoirs.",
+      "question": "What are freshwater resources used for?"
+    },
+    {
+      "context": "Most fish production from these resources is through aquaculture. Fish culture is sometimes done in combination with a rice crop so that fish are grown in the water in the paddy field.",
+      "question": "How is fish culture sometimes combined with rice?"
+    },
+    {
+      "context": "In such a system, a combination of five or six fish species is used in a single fish pond. These species are selected so that they do not compete for food among them having different types of food habits.",
+      "question": "Why are different fish species selected in a pond?"
+    },
+    {
+      "context": "As Catlas are surface feeders, Rohus feed in the middle-zone of the pond, Mrigals and Common Carps are bottom feeders, and Grass Carps feed on the weeds; together these species can use all the food in the pond without competing with each other.",
+      "question": "What feeding zones do Catlas and Rohus occupy?"
+    },
+    {
+      "context": "This increases the fish yield from the pond. In such a system, a combination of five or six fish species is used in a single fish pond.",
+      "question": "What is the benefit of using multiple fish species?"
+    }
+  ]
+}

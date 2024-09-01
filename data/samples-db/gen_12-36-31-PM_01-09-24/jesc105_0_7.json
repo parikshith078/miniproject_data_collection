@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "This situation creates a need for a transportation system for carrying food and oxygen from one place to another in the body.",
+      "question": "What is the main role of the transportation system?"
+    },
+    {
+      "context": "When chemical reactions use the carbon source and the oxygen for energy generation, they create by-products that are not only useless for the cells of the body, but could even be harmful.",
+      "question": "What do chemical reactions produce during energy generation?"
+    },
+    {
+      "context": "These waste by-products are therefore needed to be removed from the body and discarded outside by a process called excretion.",
+      "question": "What is the process of removing waste called?"
+    },
+    {
+      "context": "However, this poses a problem, since the food and oxygen are now taken up at one place in the body of the organisms, while all parts of the body need them.",
+      "question": "Why does food and oxygen uptake create a problem?"
+    },
+    {
+      "context": "It is therefore not surprising that the uptake of food and of oxygen will also be the function of specialised tissues.",
+      "question": "What role do specialised tissues play in organisms?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "The spinal cord is made up of nerves which supply information to think about. Thinking involves more complex mechanisms and neural connections. These are concentrated in the brain, which is the main coordinating centre of the body.",
+      "question": "What is the main function of the brain?"
+    },
+    {
+      "context": "We also think about our actions. Writing, talking, moving a chair, clapping at the end of a programme are examples of voluntary actions which are based on deciding what to do next.",
+      "question": "What are examples of voluntary actions?"
+    },
+    {
+      "context": "The brain and spinal cord constitute the central nervous system. They receive information from all parts of the body and integrate it.",
+      "question": "What makes up the central nervous system?"
+    },
+    {
+      "context": "The communication between the central nervous system and the other parts of the body is facilitated by the peripheral nervous system consisting of cranial nerves arising from the brain and spinal nerves arising from the spinal cord.",
+      "question": "What role does the peripheral nervous system play?"
+    },
+    {
+      "context": "Thinking involves more complex mechanisms and neural connections. These are concentrated in the brain, which is the main coordinating centre of the body.",
+      "question": "Where are complex thinking processes concentrated?"
+    },
+    {
+      "context": "The brain thus allows us to think and take actions based on that thinking. This is the second way in which the nervous system communicates with the muscles.",
+      "question": "How does the brain communicate with muscles?"
+    },
+    {
+      "context": "The brain and spinal cord constitute the central nervous system. They receive information from all parts of the body and integrate it.",
+      "question": "What does the central nervous system integrate?"
+    },
+    {
+      "context": "The spinal cord is made up of nerves which supply information to think about. Thinking involves more complex mechanisms and neural connections.",
+      "question": "What supplies information to help with thinking?"
+    }
+  ]
+}

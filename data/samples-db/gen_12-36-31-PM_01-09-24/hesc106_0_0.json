@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Reproduction is essential for the continuation of a species. Imagine what would have happened if organisms had not reproduced. You will realise that reproduction is very important as it ensures the continuation of similar kinds of individuals, generation after generation.",
+      "question": "Why is reproduction essential for species?"
+    },
+    {
+      "context": "Imagine what would have happened if organisms had not reproduced. You will realise that reproduction is very important as it ensures the continuation of similar kinds of individuals, generation after generation.",
+      "question": "What would happen without reproduction?"
+    },
+    {
+      "context": "You have already learnt in your previous class about reproduction in plants. In this chapter, we shall learn how reproduction takes place in animals.",
+      "question": "What will be learned about animals?"
+    },
+    {
+      "context": "You will realise that reproduction is very important as it ensures the continuation of similar kinds of individuals, generation after generation. You have already learnt in your previous class about reproduction in plants.",
+      "question": "How does reproduction affect generations?"
+    },
+    {
+      "context": "Imagine what would have happened if organisms had not reproduced. Reproduction is essential for the continuation of a species.",
+      "question": "How does reproduction impact species continuation?"
+    }
+  ]
+}

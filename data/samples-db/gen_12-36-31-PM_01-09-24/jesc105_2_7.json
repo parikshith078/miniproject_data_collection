@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "In terrestrial animals, various organs are adapted for the absorption of atmospheric oxygen. For example, mammals primarily use lungs, while insects utilize a network of tracheae. These adaptations allow effective gas exchange based on the organism's environment and lifestyle.",
+      "question": "What organs do mammals use for respiration?"
+    },
+    {
+      "context": "Oxygen is crucial for the process of respiration in terrestrial animals. The method by which oxygen is absorbed can vary, with some animals relying on skin, while others have specialized organs like gills or lungs, depending on their evolutionary adaptations.",
+      "question": "How do different animals absorb oxygen?"
+    },
+    {
+      "context": "Terrestrial organisms rely on the oxygen found in the atmosphere for their metabolic processes. The notable differences in respiratory organs across species highlight their evolutionary adaptations to terrestrial life and the need for efficient gas exchange mechanisms to support their activities.",
+      "question": "Why do terrestrial organisms depend on atmospheric oxygen?"
+    },
+    {
+      "context": "The respiratory system of terrestrial animals exemplifies the diversity of life on Earth, with adaptations ranging from lungs in mammals to spiracles in insects. These organs facilitate the vital exchange of gases that sustain life in various habitats and environmental conditions.",
+      "question": "What is the role of respiratory organs in terrestrial animals?"
+    }
+  ]
+}

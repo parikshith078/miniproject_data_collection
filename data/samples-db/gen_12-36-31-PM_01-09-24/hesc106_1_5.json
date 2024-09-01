@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Cloning is the production of an exact copy of a cell, any other living part, or a complete organism. Cloning of an animal was successfully performed for the first time by Ian Wilmut and his colleagues at the Roslin Institute in Edinburgh, Scotland. They successfully cloned a sheep named Dolly.",
+      "question": "Who was the first mammal to be cloned?"
+    },
+    {
+      "context": "Dolly was born on 5th July 1996 and was the first mammal to be cloned. During the process of cloning Dolly, a cell was collected from the mammary gland of a female Finn Dorsett sheep.",
+      "question": "When was Dolly the sheep born?"
+    },
+    {
+      "context": "The nucleus was removed from the egg. Then, the nucleus of the mammary gland cell from the Finn Dorsett sheep was inserted into the egg of the Scottish blackface ewe whose nucleus had been removed.",
+      "question": "What was done to the egg before insertion of the nucleus?"
+    },
+    {
+      "context": "Though Dolly was given birth by the Scottish blackface ewe, it was found to be absolutely identical to the Finn Dorsett sheep from which the nucleus was taken.",
+      "question": "Which sheep was Dolly genetically identical to?"
+    },
+    {
+      "context": "Dolly was a healthy clone of the Finn Dorsett sheep and produced several offspring of her own through normal sexual means. Unfortunately, Dolly died on 14th February 2003 due to a certain lung disease.",
+      "question": "What caused Dolly's death?"
+    },
+    {
+      "context": "Since Dolly, several attempts have been made to produce cloned mammals. However, many die before birth or die soon after birth. The cloned animals are many-a-times found to be born with severe abnormalities.",
+      "question": "What happens often to cloned mammals before and after birth?"
+    }
+  ]
+}

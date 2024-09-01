@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Medicinal Use of Microorganisms: Whenever you fall ill the doctor may give you some antibiotic tablets, capsules, or injections such as penicillin. The source of these medicines is microorganisms. These medicines kill or stop the growth of disease-causing microorganisms. Such medicines are called antibiotics.",
+      "question": "What are antibiotics derived from?"
+    },
+    {
+      "context": "These days a number of antibiotics are being produced from bacteria and fungi. It is important to remember that antibiotics should be taken only on the advice of a qualified doctor.",
+      "question": "Which organisms are sources of antibiotics?"
+    },
+    {
+      "context": "Antibiotics, however, are not effective against cold and flu as these are caused by viruses.",
+      "question": "What illnesses are antibiotics ineffective against?"
+    },
+    {
+      "context": "These medicines kill or stop the growth of disease-causing microorganisms. Such medicines are called antibiotics. Antibiotics should be taken only on the advice of a qualified doctor.",
+      "question": "How do antibiotics affect disease-causing microorganisms?"
+    },
+    {
+      "context": "The source of these medicines is microorganisms. These medicines kill or stop the growth of disease-causing microorganisms. Such medicines are called antibiotics.",
+      "question": "What is the role of microorganisms in medicine?"
+    }
+  ]
+}

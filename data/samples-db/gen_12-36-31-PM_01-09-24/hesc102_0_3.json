@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Microorganisms play a crucial role in food production, particularly in making curd and bread. For example, yeast is used in bread making. When flour, sugar, and warm water are mixed with yeast and kneaded, fermentation occurs, and the yeast produces carbon dioxide, causing the dough to rise. This is essential for creating light and airy baked goods.",
+      "question": "What gas is produced during fermentation?"
+    },
+    {
+      "context": "The process of making bread involves mixing flour, sugar, warm water, and yeast. When these ingredients are combined, they undergo fermentation, which is a process discovered by Louis Pasteur in 1857. The yeast rapidly multiplies and produces carbon dioxide, leading to the rising of the dough.",
+      "question": "Who discovered fermentation in 1857?"
+    },
+    {
+      "context": "In the bread-making process, yeast is added to mixed ingredients like flour, sugar, and warm water. After kneading it into a soft dough and letting it sit for two hours, one can observe that the dough rises due to bubbles of carbon dioxide formed during yeast respiration. This change is fundamental to bread production.",
+      "question": "What happens to the dough after two hours?"
+    },
+    {
+      "context": "The role of microorganisms extends beyond just making curd. In bread production, the combination of flour, sugar, warm water, and yeast is kneaded to form a dough. The yeast ferments and produces carbon dioxide gas, resulting in the dough rising and creating the desired texture in the final baked product.",
+      "question": "What ingredients are used to make bread dough?"
+    }
+  ]
+}

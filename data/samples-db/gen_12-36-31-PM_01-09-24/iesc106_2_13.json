@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A neuron consists of three main parts: the cell body (or soma), dendrites, and the axon. The cell body contains the nucleus and organelles, while dendrites receive signals from other neurons. The axon transmits impulses away from the cell body to other neurons or muscles. Myelin sheath covers the axon to increase the speed of impulse transmission.",
+      "question": "What are the main parts of a neuron?"
+    },
+    {
+      "context": "Neurons are specialized cells that transmit information throughout the body. The structure of a neuron includes the dendrites, which receive signals; the cell body, which processes these signals; and the axon, which sends impulses to other cells. Axons can be covered with a myelin sheath to improve signal conduction.",
+      "question": "What is the function of the axon in a neuron?"
+    },
+    {
+      "context": "Neurons are composed of a cell body, dendrites, and an axon. The dendrites branch out from the cell body and receive electrical impulses, while the axon carries impulses away from the cell body to other neurons or muscles. The myelin sheath acts as an insulator for the axon.",
+      "question": "How do dendrites function in a neuron?"
+    },
+    {
+      "context": "The structure of a neuron is crucial for its role in the nervous system. Dendrites receive incoming signals from other neurons, while the axon transmits outgoing signals. The cell body integrates these signals and supports the neuron’s metabolic functions, ensuring that it can effectively communicate within the neural network.",
+      "question": "What role does the cell body play in a neuron?"
+    },
+    {
+      "context": "Neurons have a complex structure that allows them to perform their function effectively. The axon terminal is the part where neurotransmitters are released to communicate with other neurons, while the myelin sheath accelerates the transmission of the signals along the axon, forming a vital part of neuronal signaling.",
+      "question": "What happens at the axon terminal of a neuron?"
+    }
+  ]
+}

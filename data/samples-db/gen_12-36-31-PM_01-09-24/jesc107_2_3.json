@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The formation of germ-cells or sperms takes place in the testes. These are located outside the abdominal cavity in scrotum because sperm formation requires a lower temperature than the normal body temperature.",
+      "question": "Where are the testes located?"
+    },
+    {
+      "context": "In addition to regulating the formation of sperms, testosterone brings about changes in appearance seen in boys at the time of puberty.",
+      "question": "What hormone affects male puberty?"
+    },
+    {
+      "context": "The sperms formed are delivered through the vas deferens which unites with a tube coming from the urinary bladder.",
+      "question": "What delivers sperm to the urinary bladder?"
+    },
+    {
+      "context": "The male reproductive system consists of portions which produce the germ-cells and other portions that deliver the germ-cells to the site of fertilisation.",
+      "question": "What are the main functions of the male reproductive system?"
+    },
+    {
+      "context": "The urethra thus forms a common passage for both the sperms and urine.",
+      "question": "What does the urethra carry?"
+    }
+  ]
+}

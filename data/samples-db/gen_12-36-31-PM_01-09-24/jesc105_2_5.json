@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Plants exchange gases through stomata, and the large inter-cellular spaces ensure that all cells are in contact with air. Carbon dioxide and oxygen are exchanged by diffusion here.",
+      "question": "How do plants exchange gases?"
+    },
+    {
+      "context": "Plants exchange gases through stomata, and the large inter-cellular spaces ensure that all cells are in contact with air. Carbon dioxide and oxygen are exchanged by diffusion here.",
+      "question": "What role do inter-cellular spaces play?"
+    },
+    {
+      "context": "Plants exchange gases through stomata, and the large inter-cellular spaces ensure that all cells are in contact with air. Carbon dioxide and oxygen are exchanged by diffusion here.",
+      "question": "What gases are exchanged in plants?"
+    },
+    {
+      "context": "Plants exchange gases through stomata, and the large inter-cellular spaces ensure that all cells are in contact with air. Carbon dioxide and oxygen are exchanged by diffusion here.",
+      "question": "What process is used for gas exchange?"
+    }
+  ]
+}

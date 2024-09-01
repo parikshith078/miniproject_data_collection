@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Diffusion is the spontaneous movement of a substance from a region of high concentration to a region of low concentration. This process allows substances like carbon dioxide and oxygen to move across the cell membrane effectively.",
+      "question": "What is diffusion in cells?"
+    },
+    {
+      "context": "Certain substances can cross the cell membrane through diffusion, where they move from areas of high concentration to low concentration, facilitating the transport of necessary gases like oxygen and carbon dioxide.",
+      "question": "Which gases use diffusion to enter cells?"
+    },
+    {
+      "context": "The cell membrane allows certain substances to diffuse through it, leading to the movement of gases like oxygen and carbon dioxide in and out of the cell as needed by the organism.",
+      "question": "How do gases like oxygen move into cells?"
+    },
+    {
+      "context": "Cells utilize the process of diffusion to take in substances from their environment. This is particularly crucial for gases, which move freely across the cell membrane due to concentration differences.",
+      "question": "What role does diffusion play in cells?"
+    },
+    {
+      "context": "Osmosis refers specifically to the diffusion of water across a semipermeable membrane, while diffusion encompasses all types of substances moving from high to low concentration areas across cell membranes.",
+      "question": "What is osmosis compared to diffusion?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cereals such as wheat, rice, maize, millets and sorghum provide us carbohydrate for energy requirement.",
+      "question": "What do cereals primarily provide?"
+    },
+    {
+      "context": "Pulses like gram (chana), pea (matar), black gram (urad), green gram (moong), pigeon pea (arhar), lentil (masoor), provide us with protein.",
+      "question": "What nutrients are primarily found in pulses?"
+    },
+    {
+      "context": "And oil seeds including soyabean, ground nut, sesame, castor, mustard, linseed and sunflower provide us with necessary fats.",
+      "question": "What do oil seeds supply to our diet?"
+    },
+    {
+      "context": "Vegetables, spices and fruits provide a range of vitamins and minerals in addition to small amounts of proteins, carbohydrates and fats.",
+      "question": "What do vegetables and fruits contribute to our nutrition?"
+    },
+    {
+      "context": "In addition to these food crops, fodder crops like berseem, oats or sudan grass are raised as food for the livestock.",
+      "question": "What is the purpose of fodder crops?"
+    }
+  ]
+}

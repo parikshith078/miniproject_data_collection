@@ -1,0 +1,44 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Blood Pressure Measurement",
+      "Content": "Blood pressure is the force that blood exerts against the wall of a vessel. This pressure is much greater in arteries than in veins. The pressure of blood inside the artery during ventricular systole (contraction) is called systolic pressure and pressure in the artery during ventricular diastole (relaxation) is called diastolic pressure. The normal systolic pressure is about 120 mm of Hg and diastolic pressure is 80 mm of Hg. High blood pressure is also called hypertension and is caused by the constriction of arterioles, which results in increased resistance to blood flow. It can lead to the rupture of an artery and internal bleeding."
+    },
+    {
+      "sub-topic": "Types of Blood Vessels",
+      "Content": "The tubes – blood vessels: Arteries are the vessels which carry blood away from the heart to various organs of the body. Since the blood emerges from the heart under high pressure, the arteries have thick, elastic walls. Veins collect the blood from different organs and bring it back to the heart. They do not need thick walls because the blood is no longer under pressure; instead they have valves that ensure that the blood flows only in one direction. The smallest vessels have walls which are one-cell thick and are called capillaries. Exchange of material between the blood and surrounding cells takes place across this thin wall. The capillaries then join together to form veins that convey the blood away from the organ or tissue."
+    },
+    {
+      "sub-topic": "Role of Platelets in Blood Maintenance",
+      "Content": "To avoid leakage which would lead to a loss of pressure and reduce the efficiency of the pumping system, the blood has platelet cells which circulate around the body and plug these leaks by helping to clot the blood at these points of injury."
+    },
+    {
+      "sub-topic": "Lymphatic System",
+      "Content": "Lymph is another type of fluid involved in transportation. Through the pores present in the walls of capillaries, some amount of plasma, proteins, and blood cells escape into intercellular spaces in the tissues to form tissue fluid or lymph. It is similar to the plasma of blood but colorless and contains less protein. Lymph drains into lymphatic capillaries from the intercellular spaces, which join to form large lymph vessels that finally open into larger veins. Lymph carries digested and absorbed fat from the intestine and drains excess fluid from extracellular space back into the blood."
+    },
+    {
+      "sub-topic": "Transportation in Plants",
+      "Content": "Plants take in simple compounds such as CO2 and photosynthesize energy stored in their chlorophyll-containing organs, namely leaves. For plants, the soil is the nearest and richest source of raw materials like nitrogen, phosphorus and other minerals. The absorption of these substances occurs through the part in contact with the soil, namely roots. A proper system of transportation is essential to provide raw materials in leaves and energy in roots."
+    },
+    {
+      "sub-topic": "Water Transport in Plants",
+      "Content": "In xylem tissue, vessels and tracheids of the roots, stems, and leaves are interconnected to form a continuous system of water-conducting channels reaching all parts of the plant. At the roots, cells in contact with the soil actively take up ions. This creates a difference in the concentration of these ions between the root and the soil. Water moves into the root from the soil to eliminate this difference. This means that there is steady movement of water into root xylem, creating a column of water that is steadily pushed upwards. However, this pressure by itself is unlikely to be enough to move water over the heights commonly seen in plants. Plants use another strategy to move water upwards via transpiration."
+    },
+    {
+      "sub-topic": "Transpiration",
+      "Content": "Transpiration helps in the absorption and upward movement of water and minerals dissolved in it from roots to leaves. It also helps in temperature regulation. The loss of water in the form of vapour from the aerial parts of the plant creates a suction that pulls water from the xylem cells of roots. During the day when the stomata are open, the transpiration pull becomes the major driving force in the movement of water in the xylem."
+    },
+    {
+      "sub-topic": "Food Transport in Plants",
+      "Content": "The transport of soluble products of photosynthesis is called translocation and occurs in the part of the vascular tissue known as phloem. Phloem also transports amino acids and other substances, especially to the storage organs of roots, fruits, and seeds and to growing organs. Translocation in phloem is achieved using energy, with material like sucrose transferred into phloem tissue using energy from ATP, which increases the osmotic pressure."
+    },
+    {
+      "sub-topic": "Excretion in Human Beings",
+      "Content": "The excretory system of human beings includes a pair of kidneys, a pair of ureters, a urinary bladder, and a urethra. Kidneys are located in the abdomen, one on either side of the backbone. Urine produced in the kidneys passes through the ureters into the urinary bladder where it is stored until released through the urethra. The purpose of making urine is to filter out waste products from the blood such as nitrogenous waste. Each kidney has large numbers of filtration units called nephrons packed close together."
+    },
+    {
+      "sub-topic": "Artificial Kidney (Hemodialysis)",
+      "Content": "An artificial kidney is a device to remove nitrogenous waste products from the blood through dialysis. This device contains a number of tubes with a semi-permeable lining suspended in a tank filled with dialysing fluid, which removes waste products from the blood via diffusion, allowing for purification before the blood is pumped back into the body."
+    }
+  ]
+}

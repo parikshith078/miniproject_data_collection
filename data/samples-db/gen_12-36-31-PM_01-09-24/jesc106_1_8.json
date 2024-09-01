@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Hormonal coordination in animals involves the integration of different tissue types to respond to stimuli. For example, squirrels facing danger need energy to decide whether to fight or flee. This process relies on the efficient activation of various bodily functions through hormones.",
+      "question": "How does hormonal coordination help squirrels?"
+    },
+    {
+      "context": "In animals, hormonal information transmission connects various tissues to coordinate responses. When they face frightening situations, hormonal signaling ensures that the body can mobilize energy effectively for actions like fleeing or fighting, which are critical for survival.",
+      "question": "What roles do hormones play in animals' responses to danger?"
+    },
+    {
+      "context": "The hormonal response in animals facilitates the activation of bodily processes important for survival, especially in stressful situations. Squirrels exemplify this by needing quick energy and coordination among tissues to combat threats effectively, illustrating the power of hormonal communication.",
+      "question": "What is the significance of hormonal responses in animals?"
+    },
+    {
+      "context": "When animals, such as squirrels, encounter a scary event, their hormonal systems kick in to prepare their bodies. This involves activating multiple tissues and processes to either escape or confront danger, demonstrating the importance of hormonal coordination.",
+      "question": "What preparations do animals make in scary situations?"
+    },
+    {
+      "context": "Chemical signaling through hormones in animals helps integrate functions across different tissues. For instance, squirrels must rapidly organize their energy and bodily responses when threatened, showcasing the crucial role of hormonal signals in behavioral adaptations.",
+      "question": "How do hormones facilitate energy mobilization in animals?"
+    }
+  ]
+}

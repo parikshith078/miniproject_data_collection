@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mitochondria are known as the powerhouses of the cell. Mitochondria have two membrane coverings. The outer membrane is porous while the inner membrane is deeply folded. These folds increase surface area for ATP- generating chemical reactions.",
+      "question": "What are the two membranes of mitochondria?"
+    },
+    {
+      "context": "ATP is known as the energy currency of the cell. The body uses energy stored in ATP for making new chemical compounds and for mechanical work.",
+      "question": "What is ATP's role in the cell?"
+    },
+    {
+      "context": "Mitochondria are strange organelles in the sense that they have their own DNA and ribosomes. Therefore, mitochondria are able to make some of their own proteins.",
+      "question": "What unique feature do mitochondria possess?"
+    },
+    {
+      "context": "The energy required for various chemical activities needed for life is released by mitochondria in the form of ATP (Adenosine triphosphate) molecules.",
+      "question": "How do mitochondria release energy?"
+    },
+    {
+      "context": "The inner membrane is deeply folded. These folds increase surface area for ATP- generating chemical reactions.",
+      "question": "Why are the inner membranes of mitochondria folded?"
+    }
+  ]
+}

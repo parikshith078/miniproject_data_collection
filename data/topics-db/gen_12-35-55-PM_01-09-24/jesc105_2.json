@@ -1,0 +1,64 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Lactic Acid and Muscle Activity",
+      "Content": "This build-up of lactic acid in our muscles during sudden activity causes cramps."
+    },
+    {
+      "sub-topic": "Cellular Respiration and ATP",
+      "Content": "The energy released during cellular respiration is immediately used to synthesise a molecule called ATP which is used to fuel all other activities in the cell."
+    },
+    {
+      "sub-topic": "Energy Release from ATP",
+      "Content": "In these processes, ATP is broken down giving rise to a fixed amount of energy which can drive the endothermic reactions taking place in the cell."
+    },
+    {
+      "sub-topic": "ATP as Energy Currency",
+      "Content": "Think of how a battery can provide energy for many different kinds of uses. It can be used to obtain mechanical energy, light energy, electrical energy and so on."
+    },
+    {
+      "sub-topic": "Aerobic Respiration",
+      "Content": "Since the aerobic respiration pathway depends on oxygen, aerobic organisms need to ensure that there is sufficient intake of oxygen."
+    },
+    {
+      "sub-topic": "Gas Exchange in Plants",
+      "Content": "Plants exchange gases through stomata, and the large inter-cellular spaces ensure that all cells are in contact with air. Carbon dioxide and oxygen are exchanged by diffusion here."
+    },
+    {
+      "sub-topic": "Respiration in Aquatic Animals",
+      "Content": "Fishes take in water through their mouths and force it past the gills where the dissolved oxygen is taken up by blood."
+    },
+    {
+      "sub-topic": "Respiration in Terrestrial Animals",
+      "Content": "Terrestrial organisms use the oxygen in the atmosphere for respiration. This oxygen is absorbed by different organs in different animals."
+    },
+    {
+      "sub-topic": "Human Respiratory System",
+      "Content": "In human beings, air is taken into the body through the nostrils. The air passing through the nostrils is filtered by fine hairs that line the passage."
+    },
+    {
+      "sub-topic": "Structure of the Lungs",
+      "Content": "Within the lungs, the passage divides into smaller tubes which finally terminate in balloon-like structures which are called alveoli."
+    },
+    {
+      "sub-topic": "Gas Exchange in the Lungs",
+      "Content": "The blood brings carbon dioxide from the rest of the body for release into the alveoli, and the oxygen in the alveolar air is taken up by blood in the alveolar blood vessels to be transported to all the cells in the body."
+    },
+    {
+      "sub-topic": "Oxygen Transportation in Blood",
+      "Content": "In human beings, the respiratory pigment is haemoglobin which has a very high affinity for oxygen. This pigment is present in the red blood corpuscles."
+    },
+    {
+      "sub-topic": "Structure of the Heart",
+      "Content": "The heart is a muscular organ which is as big as our fist. Because both oxygen and carbon dioxide have to be transported by the blood, the heart has different chambers to prevent the oxygen-rich blood from mixing with the blood containing carbon dioxide."
+    },
+    {
+      "sub-topic": "Circulation Efficiency in Animals",
+      "Content": "The separation of the right side and the left side of the heart is useful to keep oxygenated and deoxygenated blood from mixing. This allows a highly efficient supply of oxygen to the body."
+    },
+    {
+      "sub-topic": "Types of Circulation in Vertebrates",
+      "Content": "This is known as double circulation. Fishes have only two chambers to their hearts, while other vertebrates, like mammals, have a more complex system where blood goes through the heart twice during each cycle."
+    }
+  ]
+}

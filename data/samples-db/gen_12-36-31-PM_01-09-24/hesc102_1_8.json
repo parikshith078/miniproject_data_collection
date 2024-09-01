@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Using oil and vinegar can prevent spoilage of pickles because bacteria cannot live in such an environment.",
+      "question": "How do oil and vinegar preserve pickles?"
+    },
+    {
+      "context": "Heat treatments like boiling milk can kill many microorganisms, and cold treatments like refrigeration inhibit microbe growth.",
+      "question": "What methods kill microorganisms in food?"
+    },
+    {
+      "context": "The pasteurisation process was discovered by Louis Pasteur, which heats milk to about 70°C for 15 to 30 seconds and then suddenly cools it.",
+      "question": "What is the purpose of pasteurisation?"
+    },
+    {
+      "context": "Heat and Cold Treatments in Food Preservation.",
+      "question": "What are the two main types of treatments in food preservation?"
+    },
+    {
+      "context": "Cold treatments like refrigeration inhibit microbe growth.",
+      "question": "What effect does refrigeration have on microbes?"
+    }
+  ]
+}

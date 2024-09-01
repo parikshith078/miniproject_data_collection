@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Parenchyma tissues have thin, flexible cell walls primarily composed of cellulose. They serve various functions such as storage, photosynthesis, and tissue repair. Collenchyma cells have unevenly thickened primary walls, providing flexible support, especially in young stems and leaf petioles. Sclerenchyma cells possess thick, lignified secondary walls, making them rigid and providing structural support to the plant.",
+      "question": "How do the cell walls differ among these tissues?"
+    },
+    {
+      "context": "Parenchyma cells feature thin cell walls, which allow for flexibility and storage capabilities in plants. Collenchyma is characterized by its unevenly thickened walls that provide support while allowing for growth. In contrast, sclerenchyma cells are known for their thick, lignified walls that give strength and rigidity to mature plant structures.",
+      "question": "What are the characteristics of parenchyma walls?"
+    },
+    {
+      "context": "The three plant tissues, parenchyma, collenchyma, and sclerenchyma, can be differentiated based on their cell wall structure. Parenchyma has thin flexible walls for storage, collenchyma has thickened but flexible walls for support, and sclerenchyma consists of thick, hard walls for rigidity and strength.",
+      "question": "What type of support does collenchyma provide?"
+    },
+    {
+      "context": "Plant tissues fall into three main categories: parenchyma, collenchyma, and sclerenchyma based on wall structure. Parenchyma has thin walls for various metabolic processes. Collenchyma has thicker, flexible walls that help support growing parts of the plant. Sclerenchyma, having very thick walls, supports mature parts but is not actively growing.",
+      "question": "Which tissue type has lignified walls?"
+    },
+    {
+      "context": "Parenchyma, collenchyma, and sclerenchyma are defined by their distinct cell wall types. Parenchyma features thin walls suitable for storage; collenchyma provides support with unevenly thickened walls; while sclerenchyma possesses thickened lignified walls that provide structural integrity.",
+      "question": "What function does sclerenchyma serve in plants?"
+    }
+  ]
+}
