@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mendel used a number of contrasting visible characters of garden peas – round/wrinkled seeds, tall/short plants, white/violet flowers and so on. He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny.",
+      "question": "What characters did Mendel study in peas?"
+    },
+    {
+      "context": "Mendel used a number of contrasting visible characters of garden peas – round/wrinkled seeds, tall/short plants, white/violet flowers and so on. He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny.",
+      "question": "How did Mendel produce progeny in his experiments?"
+    },
+    {
+      "context": "This led Mendel to propose that two copies of factor (now called genes) controlling traits are present in sexually reproducing organisms.",
+      "question": "What did Mendel propose about genes in organisms?"
+    },
+    {
+      "context": "He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny.",
+      "question": "From which types of plants did Mendel cross progeny?"
+    },
+    {
+      "context": "He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny. This led Mendel to propose that two copies of factor (now called genes) controlling traits are present in sexually reproducing organisms.",
+      "question": "What method did Mendel use to analyze plant traits?"
+    }
+  ]
+}

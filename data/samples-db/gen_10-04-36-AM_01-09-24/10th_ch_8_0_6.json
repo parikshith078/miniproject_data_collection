@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "To determine if the F2 generation had a 1:2:1 ratio of TT, Tt, and tt trait combinations, we could perform a controlled cross between individuals of the F1 generation that are known to display the dominant trait. This involves planting their seeds and observing the physical traits of the offspring plants after they grow. We would count the number of tall (TT and Tt) and short (tt) plants to analyze the ratio.",
+      "question": "What experiment tests the F2 generation traits?"
+    },
+    {
+      "context": "In this genetic scenario, if we cross two heterozygous plants from the F1 generation (both Tt), we can predict the potential combinations of alleles. Using a Punnett square to visualize the genetic crosses will help confirm whether the expected 1:2:1 ratio of TT, Tt, and tt is reflected in the offspring's observable traits, which is crucial for understanding inheritance patterns.",
+      "question": "How to confirm the 1:2:1 trait ratio?"
+    },
+    {
+      "context": "To investigate the dominance of traits, we note that only the recessive trait (tt) manifests in the phenotype as short plants. The presence of at least one dominant allele (T) results in tall plants (TT or Tt). In this case, the trait for tallness (T) is dominant, while the trait for shortness (t) is recessive. This understanding is essential in explaining the inheritance patterns observed in subsequent generations.",
+      "question": "Which trait is dominant or recessive?"
+    },
+    {
+      "context": "In this experiment, if we start with two homozygous plants (one tt and one TT), we can observe their offspring's traits in the next generation. By analyzing the offspring from this cross, we can confirm the expected ratios of dominant and recessive plants, leading us to establish the accurate genotypic and phenotypic ratios based on the crosses conducted.",
+      "question": "What crosses help analyze traits in generations?"
+    }
+  ]
+}

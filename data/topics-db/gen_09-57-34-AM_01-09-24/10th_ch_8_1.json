@@ -1,0 +1,24 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Asexual and Sexual Reproduction",
+      "Content": "Organisms reproduce either sexually or asexually, but the rules of inheritance apply to both methods. Asexually reproducing organisms follow similar inheritance patterns. This leads us to wonder how these inheritance rules function in different organisms."
+    },
+    {
+      "sub-topic": "Sex Determination",
+      "Content": "We have discussed the idea that the two sexes participating in sexual reproduction must be somewhat different. The sex of a newborn individual is determined in various ways across different species, some relying on environmental cues. In certain animals, like a few reptiles, the temperature affects whether fertilized eggs develop as male or female. Other animals, such as snails, indicate that sex is not always genetically determined, as they can change sex. In humans, however, the sex of an individual is largely genetically determined by inherited genes from the parents."
+    },
+    {
+      "sub-topic": "Human Chromosomes and Sex Determination",
+      "Content": "Human chromosomes are typically paired, with each individual inheriting a maternal and paternal copy of 22 pairs, but the sex chromosomes differ in men and women. Women possess a pair of X chromosomes (XX), whereas men have one X and one shorter Y chromosome (XY). Thus, the inheritance of the sex chromosomes from the parents dictates the sex of the children. Children inherit an X chromosome from their mother, and whether they receive an X or Y from their father will determine if they are male or female, respectively."
+    },
+    {
+      "sub-topic": "Mendelian Genetics",
+      "Content": "Mendel’s experiments demonstrate that traits can be either dominant or recessive. He showed that sexually reproducing individuals have two copies of genes for the same trait, thus leading to the expression of either a dominant or recessive trait. Mendel also showed that traits are inherited independently, which means new combinations of traits can arise in offspring. For example, variations during reproduction can lead to differences that may enhance survival. Lastly, the determination of a child’s sex in humans is linked to whether the paternal chromosome is X (for girls) or Y (for boys)."
+    },
+    {
+      "sub-topic": "Understanding Genetic Relationships",
+      "Content": "Questions are posed to evaluate understanding: 1. How do Mendel’s experiments show that traits may be dominant or recessive? 2. How do Mendel’s experiments show that traits are inherited independently? 3. A blood group A man marrying a blood group O woman leading to a blood group O daughter raises questions about which trait is dominant. 4. Inquiry about how the sex of the child is determined in humans. Additionally, exercises suggest genetic relationships and inquiries about phenotypes in offspring."
+    }
+  ]
+}

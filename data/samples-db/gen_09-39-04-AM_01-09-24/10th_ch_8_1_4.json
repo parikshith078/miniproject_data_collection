@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Mendel's experiments involved cross-breeding pea plants to study how traits are passed from one generation to the next. He observed that some traits, like purple flowers, dominated over others, like white flowers, implying that traits can be classified as dominant or recessive.",
+      "question": "What do Mendel's pea plant experiments demonstrate?"
+    },
+    {
+      "context": "In his experiments, Mendel also crossed plants with different traits, such as seed shape and color, and found that traits were inherited independently of one another, which led to his principle of independent assortment.",
+      "question": "What principle demonstrates independent inheritance of traits?"
+    },
+    {
+      "context": "In a blood type scenario, if a father with blood group A has a daughter with blood group O with his wife who has blood group O, we cannot definitively conclude which blood group is dominant without knowing the father’s genotype; he could be either AA or AO.",
+      "question": "Can we determine dominance of blood group traits from the given information?"
+    },
+    {
+      "context": "In humans, the sex of a child is determined by the combination of sex chromosomes inherited from the parents. Males carry an X and a Y chromosome; females carry two X chromosomes. The child's sex is determined by whether the sperm contributes an X or a Y chromosome.",
+      "question": "How is a child's sex determined in humans?"
+    }
+  ]
+}

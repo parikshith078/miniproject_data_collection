@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Human beings share many basic features due to genetic inheritance, but there are also variations that make individuals unique. This diversity arises from the complex interplay of genes and environmental factors. Offspring inherit traits from both parents, leading to similarities and differences in appearance and characteristics.",
+      "question": "What causes variations in human appearance?"
+    },
+    {
+      "context": "Although children inherit essential traits from their parents, they do not always resemble them identically. Human populations exhibit a wide range of physical and behavioral variations due to genetic diversity and environmental influences. These variations are crucial for the survival and adaptation of the species.",
+      "question": "How do offspring inherit traits?"
+    },
+    {
+      "context": "The concept of inherited traits encompasses the similarities and differences that arise in offspring as a result of genetic combinations from their parents. This leads not only to shared features but also to unique attributes that vary widely among individuals in a population.",
+      "question": "What are inherited traits?"
+    },
+    {
+      "context": "When discussing human populations, it is crucial to understand the significance of genetic variation. Each individual inherits a unique combination of genes, contributing to the overall diversity in physical traits, behaviors, and other characteristics within the population.",
+      "question": "Why is genetic variation important?"
+    }
+  ]
+}

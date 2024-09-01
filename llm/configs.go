@@ -13,6 +13,10 @@ type Topics struct {
 		Content  string `json:"Content"`
 	} `json:"topic"`
 }
+type Topic struct {
+	SubTopic string `json:"sub-topic"`
+	Content  string `json:"Content"`
+}
 
 type LLMConfigurate struct {
 	SchemaName   string

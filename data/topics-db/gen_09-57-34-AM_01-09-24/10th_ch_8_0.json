@@ -1,0 +1,44 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Introduction to Variation in Reproduction",
+      "Content": "Creation of diversity over succeeding generations. The original organism at the top will give rise to, say, two individuals, similar in body design, but with subtle differences. Each of them, in turn, will give rise to two individuals in the next generation. Each of the four individuals in the bottom row will be different from each other. While some of these differences will be unique, others will be inherited from their respective parents, who were different from each other."
+    },
+    {
+      "sub-topic": "Variation and Reproduction",
+      "Content": "We have seen that reproductive processes give rise to new individuals that are similar, but subtly different. We have discussed how some amount of variation is produced even during asexual reproduction. And the number of successful variations are maximised by the process of sexual reproduction. If we observe a field of sugarcane we find very little variations among the individual plants. But in a number of animals including human beings, which reproduce sexually, quite distinct variations are visible among different individuals. In this chapter, we shall be studying the mechanism by which variations are created and inherited."
+    },
+    {
+      "sub-topic": "Mechanism of Inheritance",
+      "Content": "Inheritance from the previous generation provides both a common basic body design and subtle changes in it, for the next generation. Now think about what would happen when this new generation, in its turn, reproduces. The second generation will have differences that they inherit from the first generation, as well as newly created differences (Fig. 8.1)."
+    },
+    {
+      "sub-topic": "Overview of Heredity",
+      "Content": "The most obvious outcome of the reproductive process still remains the generation of individuals of similar design. The rules of heredity determine the process by which traits and characteristics are reliably inherited. Let us take a closer look at these rules."
+    },
+    {
+      "sub-topic": "Inherited Traits",
+      "Content": "What exactly do we mean by similarities and differences? We know that a child bears all the basic features of a human being. However, it does not look exactly like its parents, and human populations show a great deal of variation. For example, if a trait A exists in 10% of a population of an asexually reproducing species and a trait B exists in 60% of the same population, which trait is likely to have arisen earlier?"
+    },
+    {
+      "sub-topic": "Mendel’s Contributions to Inherited Traits",
+      "Content": "The rules for inheritance of such traits in human beings are related to the fact that both the father and the mother contribute practically equal amounts of genetic material to the child. This means that each trait can be influenced by both paternal and maternal DNA."
+    },
+    {
+      "sub-topic": "Mendelian Experiments",
+      "Content": "Mendel used a number of contrasting visible characters of garden peas – round/wrinkled seeds, tall/short plants, white/violet flowers and so on. He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny. This led Mendel to propose that two copies of factor (now called genes) controlling traits are present in sexually reproducing organisms."
+    },
+    {
+      "sub-topic": "Dominant and Recessive Traits",
+      "Content": "This indicates that both the tallness and shortness traits were inherited in the F1 plants, but only the tallness trait was expressed. This leads to the definition of dominant and recessive traits, where tallness is dominant and shortness is recessive."
+    },
+    {
+      "sub-topic": "Independent Inheritance of Traits",
+      "Content": "What happens when pea plants showing two different characteristics, rather than just one, are bred with each other? A Mendelian experiment will find that some F2 progeny are tall plants with round seeds, and some were short plants with wrinkled seeds. However, there would also be some F2 progeny that showed new combinations. Thus, the tall/short trait and the round seed/wrinkled seed trait are independently inherited."
+    },
+    {
+      "sub-topic": "Mechanism of Heredity",
+      "Content": "How does the mechanism of heredity work? Cellular DNA is the information source for making proteins in the cell. A section of DNA that provides information for one protein is called the gene for that protein. Thus, genes control characteristics, or traits. If both parents can help determine the trait in the progeny, both parents must be contributing a copy of the same gene."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mendel’s experiments with pea plants revealed that traits can be dominant or recessive based on how they are expressed in the offspring. By observing the traits of the parent plants and their offspring, he identified that some traits masked the presence of others in the phenotype.",
+      "question": "What do Mendel's experiments reveal about traits?"
+    },
+    {
+      "context": "Through his careful cross-breeding of pea plants, Mendel concluded that traits assort independently during the formation of gametes, meaning the inheritance of one trait does not affect the inheritance of another trait. This is known as the principle of independent assortment.",
+      "question": "How do Mendel's experiments indicate independent inheritance?"
+    },
+    {
+      "context": "In the case of a man with blood group A and a woman with blood group O, since their daughter has blood group O, we cannot definitively conclude which trait is dominant. This is because blood group A could be either homozygous or heterozygous, making it impossible to determine dominance based solely on this information.",
+      "question": "Can we determine trait dominance from blood group inheritance? Why?"
+    },
+    {
+      "context": "In human beings, the sex of a child is determined by the combination of sex chromosomes inherited from the parents. Males contribute either an X or a Y chromosome, while females contribute an X chromosome. The presence of a Y chromosome results in a male, while two X chromosomes result in a female.",
+      "question": "How is a child's sex determined in humans?"
+    },
+    {
+      "context": "The equal genetic contribution of male and female parents is ensured through the process of meiosis, where gametes (sperm and egg cells) are produced. Each gamete carries half the genetic material of the parent, allowing for a balanced combination of genes from both parents in the offspring.",
+      "question": "How is genetic contribution from parents ensured in progeny?"
+    }
+  ]
+}

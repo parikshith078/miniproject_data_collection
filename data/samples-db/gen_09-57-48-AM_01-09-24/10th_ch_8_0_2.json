@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Inheritance from the previous generation provides both a common basic body design and subtle changes in it, for the next generation. Now think about what would happen when this new generation, in its turn, reproduces. The second generation will have differences that they inherit from the first generation, as well as newly created differences.",
+      "question": "What changes occur in the next generation?"
+    },
+    {
+      "context": "Now think about what would happen when this new generation, in its turn, reproduces. The second generation will have differences that they inherit from the first generation, as well as newly created differences (Fig. 8.1).",
+      "question": "How are differences created in the second generation?"
+    },
+    {
+      "context": "Inheritance from the previous generation provides both a common basic body design and subtle changes in it, for the next generation.",
+      "question": "What does inheritance provide to the next generation?"
+    },
+    {
+      "context": "The second generation will have differences that they inherit from the first generation, as well as newly created differences.",
+      "question": "What types of differences does the second generation have?"
+    },
+    {
+      "context": "Now think about what would happen when this new generation, in its turn, reproduces.",
+      "question": "What happens when the new generation reproduces?"
+    }
+  ]
+}

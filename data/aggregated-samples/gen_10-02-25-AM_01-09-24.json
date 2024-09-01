@@ -1,0 +1,254 @@
+[
+  {
+    "input": "The original organism at the top will give rise to, say, two individuals, similar in body design, but with subtle differences. Each of them, in turn, will give rise to two individuals in the next generation. Each of the four individuals in the bottom row will be different from each other.",
+    "ouput": "What results from the original organism?"
+  },
+  {
+    "input": "The number of successful variations are maximized by the process of sexual reproduction. If we observe a field of sugarcane we find very little variations among the individual plants.",
+    "ouput": "How does sexual reproduction affect variations?"
+  },
+  {
+    "input": "While some of these differences will be unique, others will be inherited from their respective parents, who were different from each other. We have seen that reproductive processes give rise to new individuals that are similar, but subtly different.",
+    "ouput": "What contributes to the differences in offspring?"
+  },
+  {
+    "input": "In a number of animals including human beings, which reproduce sexually, quite distinct variations are visible among different individuals. In this chapter, we shall be studying the mechanism by which variations are created and inherited.",
+    "ouput": "What is visible among sexually reproducing animals?"
+  },
+  {
+    "input": "We have discussed how some amount of variation is produced even during asexual reproduction. And the number of successful variations are maximized by the process of sexual reproduction.",
+    "ouput": "What type of reproduction produces variations?"
+  },
+  {
+    "input": "Inheritance from the previous generation provides both a common basic body design and subtle changes in it, for the next generation. Now think about what would happen when this new generation, in its turn, reproduces. The second generation will have differences that they inherit from the first generation, as well as newly created differences.",
+    "ouput": "What occurs in the second generation?"
+  },
+  {
+    "input": "Figure 8.1 would represent the situation if a single individual reproduces, as happens in asexual reproduction. If one bacterium divides, and then the resultant two bacteria divide again, the four individual bacteria generated would be very similar.",
+    "ouput": "How do bacteria reproduce asexually?"
+  },
+  {
+    "input": "However, if sexual reproduction is involved, even greater diversity will be generated, as we will see when we discuss the rules of inheritance. Do all these variations in a species have equal chances of surviving in the environment in which they find themselves?",
+    "ouput": "What increases diversity in offspring?"
+  },
+  {
+    "input": "Depending on the nature of variations, different individuals would have different kinds of advantages. Bacteria that can withstand heat will survive better in a heat wave, as we have discussed earlier. Selection of variants by environmental factors forms the basis for evolutionary processes, as we will discuss in later sections.",
+    "ouput": "How do environmental factors influence survival?"
+  },
+  {
+    "input": "Selection of variants by environmental factors forms the basis for evolutionary processes, as we will discuss in later sections. Depending on the nature of variations, different individuals would have different kinds of advantages.",
+    "ouput": "What is the basis for evolutionary processes?"
+  },
+  {
+    "input": "The rules of heredity determine the process by which traits and characteristics are reliably inherited. Let us take a closer look at these rules.",
+    "ouput": "What governs trait inheritance in organisms?"
+  },
+  {
+    "input": "The most obvious outcome of the reproductive process still remains the generation of individuals of similar design.",
+    "ouput": "What is produced by the reproductive process?"
+  },
+  {
+    "input": "The rules of heredity determine the process by which traits and characteristics are reliably inherited.",
+    "ouput": "How are traits inherited according to heredity?"
+  },
+  {
+    "input": "Let us take a closer look at these rules of heredity and their impact on traits.",
+    "ouput": "What should we examine regarding heredity?"
+  },
+  {
+    "input": "The most obvious outcome of the reproductive process is the generation of individuals of similar design.",
+    "ouput": "What similarity do offspring typically share?"
+  },
+  {
+    "input": "Inherited Traits relate to the genetic similarity and differences between parents and offspring, showing variation due to both maternal and paternal DNA contributions.",
+    "ouput": "What influences a child's traits?"
+  },
+  {
+    "input": "Mendel's experiments over a century ago helped establish the rules of inheritance, demonstrating how traits are passed from parents to offspring.",
+    "ouput": "Who is known for the rules of inheritance?"
+  },
+  {
+    "input": "A child shows a mix of traits from both parents, as they each contribute equal genetic material that influences various characteristics.",
+    "ouput": "How do parents contribute to a child's traits?"
+  },
+  {
+    "input": "The genetic material from both father and mother provides two versions of each trait in the child, leading to unique combinations.",
+    "ouput": "How many versions of each trait does a child have?"
+  },
+  {
+    "input": "Despite inheriting traits from parents, no child looks exactly like either parent due to the complex interactions of genes and DNA.",
+    "ouput": "Why does a child not look exactly like its parents?"
+  },
+  {
+    "input": "Mendel used a number of contrasting visible characters of garden peas – round/wrinkled seeds, tall/short plants, white/violet flowers and so on. He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny.",
+    "ouput": "What traits did Mendel observe in peas?"
+  },
+  {
+    "input": "So the next question was, were the tall plants in the F1 generation exactly the same as the tall plants of the parent generation? Mendelian experiments test this by getting both the parental plants and these F1 tall plants to reproduce by self-pollination.",
+    "ouput": "How did Mendel test if F1 plants were identical to parents?"
+  },
+  {
+    "input": "Instead, one quarter of them are short. This indicates that both the tallness and shortness traits were inherited in the F1 plants, but only the tallness trait was expressed.",
+    "ouput": "What proportion of F2 progeny were short plants?"
+  },
+  {
+    "input": "This led Mendel to propose that two copies of factor (now called genes) controlling traits are present in sexually reproducing organisms. These two may be identical, or may be different, depending on the parentage.",
+    "ouput": "What did Mendel propose about gene copies?"
+  },
+  {
+    "input": "However, the second-generation, or F2, progeny of the F1 tall plants are not all tall. Instead, one quarter of them are short.",
+    "ouput": "What is the key finding about the F2 progeny?"
+  },
+  {
+    "input": "Tallness and round seeds are thus dominant traits. But what happens when these F1 progeny are used to generate F2 progeny by self-pollination? A Mendelian experiment will find that some F2 progeny are tall plants with round seeds, and some were short plants with wrinkled seeds.",
+    "ouput": "What traits are dominant in the F1 progeny?"
+  },
+  {
+    "input": "Some of them would be tall, but have wrinkled seeds, while others would be short, but have round seeds. You can see as to how new combinations of traits are formed in F2 offspring when factors controlling for seed shape and seed colour recombine to form zygote leading to form F2 offspring.",
+    "ouput": "What new combinations appear in F2 offspring?"
+  },
+  {
+    "input": "What happens when pea plants showing two different characteristics, rather than just one, are bred with each other?",
+    "ouput": "What is studied by crossing different pea plant traits?"
+  },
+  {
+    "input": "However, there would also be some F2 progeny that showed new combinations. Some of them would be tall, but have wrinkled seeds, while others would be short, but have round seeds.",
+    "ouput": "What are the two inherited traits mentioned?"
+  },
+  {
+    "input": "They are all tall and have round seeds. Tallness and round seeds are thus dominant traits.",
+    "ouput": "What do the F1 progeny of the plants exhibit?"
+  },
+  {
+    "input": "Thus, the tall/short trait and the round seed/wrinkled seed trait are independently inherited.",
+    "ouput": "What does it mean for traits to be independently inherited?"
+  },
+  {
+    "input": "Cellular DNA is the information source for making proteins in the cell. A section of DNA that provides information for one protein is called the gene for that protein. How does the mechanism of heredity work?",
+    "ouput": "What is the role of cellular DNA?"
+  },
+  {
+    "input": "Let us take the example of tallness as a characteristic. We know that plants have hormones that can trigger growth. Plant height can thus depend on the amount of a particular plant hormone.",
+    "ouput": "How does tallness in plants relate to hormones?"
+  },
+  {
+    "input": "If this enzyme works efficiently, a lot of hormone will be made, and the plant will be tall. If the gene for that enzyme has an alteration that makes the enzyme less efficient, the amount of hormone will be less, and the plant will be short.",
+    "ouput": "What happens if the enzyme is less efficient?"
+  },
+  {
+    "input": "Thus, genes control characteristics, or traits. If the interpretations of Mendelian experiments we have been discussing are correct, then both parents must be contributing equally to the DNA of the progeny during sexual reproduction.",
+    "ouput": "How do parents contribute to offspring traits?"
+  },
+  {
+    "input": "If both parents can help determine the trait in the progeny, both parents must be contributing a copy of the same gene. This means that each pea plant must have two sets of all genes, one inherited from each parent.",
+    "ouput": "How do parents contribute to trait determination?"
+  },
+  {
+    "input": "This means that each pea plant must have two sets of all genes, one inherited from each parent. For this mechanism to work, each germ cell must have only one gene set.",
+    "ouput": "Why do germ cells have only one gene set?"
+  },
+  {
+    "input": "How do germ-cells make a single set of genes from the normal two copies that all other cells in the body have? If progeny plants inherited a single whole gene set from each parent, then the experiment explained in Fig. 8.5 cannot work.",
+    "ouput": "What is the significance of germ cells having a single gene set?"
+  },
+  {
+    "input": "This is explained by the fact that each gene set is present, not as a single long thread of DNA, but as separate independent pieces, each called a chromosome.",
+    "ouput": "What are chromosomes in relation to inheritance?"
+  },
+  {
+    "input": "When two germ cells combine, they will restore the normal number of chromosomes in the progeny, ensuring the stability of the DNA of the species.",
+    "ouput": "What happens when two germ cells combine?"
+  },
+  {
+    "input": "In asexual reproduction, organisms duplicate their genetic material and divide to form new individuals. This process produces offspring that are genetically identical to the parent, except for any mutations that may occur. Understanding the inheritance patterns involves examining how traits are passed down through generations despite the lack of genetic mixing that occurs in sexual reproduction.",
+    "ouput": "How do asexually reproducing organisms inherit traits?"
+  },
+  {
+    "input": "Asexually reproducing organisms such as bacteria and some plants reproduce by a process called binary fission or vegetative propagation, respectively. In this process, the offspring receive an exact copy of the parent's genetic material. This can lead to rapid population increases under favorable conditions, but limits genetic diversity.",
+    "ouput": "What method do bacteria use to reproduce?"
+  },
+  {
+    "input": "Even though asexually reproducing organisms do not engage in traditional sexual reproduction, they can still exhibit patterns of inheritance similar to those seen in sexually reproducing organisms. Concepts such as dominant and recessive traits can be applied, but the genetic uniformity of the offspring restricts variability.",
+    "ouput": "Can asexually reproducing organisms show inheritance patterns?"
+  },
+  {
+    "input": "Mutations can introduce variation even in asexual reproduction. When these changes occur, they can be inherited by the offspring, leading to new traits that might confer advantages. This can be crucial for the survival of populations as they adapt to changing environments.",
+    "ouput": "What role do mutations play in asexual reproduction?"
+  },
+  {
+    "input": "While asexual reproduction ensures consistency in the genetic makeup of offspring, it does not allow for the shuffling of genes that occurs during sexual reproduction. This can be a disadvantage in changing environments, where genetic diversity is crucial for adaptation and survival.",
+    "ouput": "What is a disadvantage of asexual reproduction?"
+  },
+  {
+    "input": "Some rely entirely on environmental cues. Thus, in some animals like a few reptiles, the temperature at which fertilised eggs are kept determines whether the animals developing in the eggs will be male or female. In other animals, such as snails, individuals can change sex, indicating that sex is not genetically determined.",
+    "ouput": "How do reptiles determine sex?"
+  },
+  {
+    "input": "However, in human beings, the sex of the individual is largely genetically determined. In other words, the genes inherited from our parents decide whether we will be boys or girls. But so far, we have assumed that similar gene sets are inherited from both parents.",
+    "ouput": "What determines sex in human beings?"
+  },
+  {
+    "input": "Most human chromosomes have a maternal and a paternal copy, and we have 22 such pairs. But one pair, called the sex chromosomes, is odd in not always being a perfect pair. Women have a perfect pair of sex chromosomes, both called X.",
+    "ouput": "What are the sex chromosomes in women?"
+  },
+  {
+    "input": "A child who inherits an X chromosome from her father will be a girl, and one who inherits a Y chromosome from him will be a boy. Figure 8.6 shows, half the children will be boys and half will be girls. All children will inherit an X chromosome from their mother regardless.",
+    "ouput": "How does a father determine a child's sex?"
+  },
+  {
+    "input": "Now, can we work out what the inheritance pattern of X and Y will be? Women are XX, while men are XY. Thus, the sex of the children will be determined by what they inherit from their father.",
+    "ouput": "What is the genetic composition of men?"
+  },
+  {
+    "input": "Sexually reproducing individuals have two copies of genes for the same trait. If the copies are not identical, the trait that gets expressed is called the dominant trait and the other is called the recessive trait.",
+    "ouput": "What are dominant and recessive traits?"
+  },
+  {
+    "input": "These variations may lead to increased survival of the individuals. Traits in one individual may be inherited separately, giving rise to new combinations of traits in the offspring of sexual reproduction.",
+    "ouput": "How do variations affect individual survival?"
+  },
+  {
+    "input": "If the copies are not identical, the trait that gets expressed is called the dominant trait and the other is called the recessive trait.",
+    "ouput": "What determines if a trait is dominant or recessive?"
+  },
+  {
+    "input": "Traits in one individual may be inherited separately, giving rise to new combinations of traits in the offspring of sexual reproduction.",
+    "ouput": "How are traits inherited in sexual reproduction?"
+  },
+  {
+    "input": "These variations may lead to increased survival of the individuals. Traits in one individual may be inherited separately, giving rise to new combinations of traits.",
+    "ouput": "What is the significance of trait variations?"
+  },
+  {
+    "input": "Mendel’s experiments with pea plants led him to discover that characteristics are controlled by alleles, which can be dominant or recessive. In his famous monohybrid cross, he observed that when he crossed a tall plant with a short plant, the offspring all displayed the dominant trait of tallness in the first generation. However, in the second generation, the short trait reappeared, showing that traits can be either dominant or recessive based on the allele present.",
+    "ouput": "What do Mendel's experiments reveal about traits?"
+  },
+  {
+    "input": "Through his dihybrid crosses, Mendel concluded that different traits segregate independently of one another. For example, he observed the inheritance patterns of seed shape and seed color, finding that the allele for shape did not influence the inheritance of the allele for color. This led to the principle of independent assortment.",
+    "ouput": "How did Mendel demonstrate independent inheritance of traits?"
+  },
+  {
+    "input": "In the case of a man with blood group A and a woman with blood group O, their offspring's blood group O indicates that the father must carry a recessive allele for blood type O. However, blood group A can be either AA or AO genotype. Hence, the given information alone is insufficient to conclude definitively about the dominance without knowing more about the father's genotype for the A allele.",
+    "ouput": "Can we determine dominance from blood groups A and O?"
+  },
+  {
+    "input": "The sex of a child in humans is determined by the presence of sex chromosomes contributed by the parents. A male has XY sex chromosomes and can pass on either an X or a Y chromosome, while a female has XX chromosomes and can only pass on an X chromosome. If the sperm carrying X fertilizes the egg, a female daughter will result; if the Y sperm fertilizes the egg, a male son will ensue.",
+    "ouput": "How is a child's sex determined in humans?"
+  },
+  {
+    "input": "In a Mendelian genetic experiment, tall plants were bred with short plants. The progeny displayed a mix of characteristics, indicating that the traits are inherited from both parents. The genetic make-up of the tall parent must align with this inheritance pattern.",
+    "ouput": "What does the short phenotype suggest about the tall parent?"
+  },
+  {
+    "input": "Studies on eye color have shown a correlation between children's eye color and that of their parents. This suggests a possible genetic basis for eye color inheritance but doesn't clearly indicate if the trait is dominant or recessive.",
+    "ouput": "Can we conclude eye color is dominant or recessive?"
+  },
+  {
+    "input": "To determine the dominant coat color in dogs, one could conduct a breeding experiment with various breeds. The offspring's coat colors would be observed to deduce the inheritance patterns of the coat color traits.",
+    "ouput": "What is a method to find dominant dog coat colors?"
+  },
+  {
+    "input": "Mendelian genetics explains that both male and female parents provide genetic material at conception. This process ensures that the progeny receives a balanced genetic contribution from each parent, affecting traits in predictable ways.",
+    "ouput": "How is genetic contribution from parents ensured in offspring?"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Inheritance in Asexually Reproducing Organisms",
+      "Content": "But asexually reproducing organisms also follow similar rules of inheritance. Can we work out how their inheritance might work?"
+    },
+    {
+      "sub-topic": "Sex Determination in Different Species",
+      "Content": "How is the sex of a newborn individual determined? Different species use very different strategies for this. Some rely entirely on environmental cues. Thus, in some animals like a few reptiles, the temperature at which fertilised eggs are kept determines whether the animals developing in the eggs will be male or female. In other animals, such as snails, individuals can change sex, indicating that sex is not genetically determined. However, in human beings, the sex of the individual is largely genetically determined. In other words, the genes inherited from our parents decide whether we will be boys or girls. But so far, we have assumed that similar gene sets are inherited from both parents. If that is the case, how can genetic inheritance determine sex? The explanation lies in the fact that all human chromosomes are not paired. Most human chromosomes have a maternal and a paternal copy, and we have 22 such pairs. But one pair, called the sex chromosomes, is odd in not always being a perfect pair. Women have a perfect pair of sex chromosomes, both called X. But men have a mismatched pair in which one is a normal-sized X while the other is a short one called Y. So women are XX, while men are XY. Now, can we work out what the inheritance pattern of X and Y will be? As Fig. 8.6 shows, half the children will be boys and half will be girls. All children will inherit an X chromosome from their mother regardless of whether they are boys or girls. Thus, the sex of the children will be determined by what they inherit from their father. A child who inherits an X chromosome from her father will be a girl, and one who inherits a Y chromosome from him will be a boy. Figure 8.6 Figure 8.6 Figure 8.6 Figure 8.6 Figure 8.6"
+    },
+    {
+      "sub-topic": "Traits and Variations in Sexual Reproduction",
+      "Content": "Sexually reproducing individuals have two copies of genes for the same trait. If the copies are not identical, the trait that gets expressed is called the dominant trait and the other is called the recessive trait. These variations may lead to increased survival of the individuals. Traits in one individual may be inherited separately, giving rise to new combinations of traits in the offspring of sexual reproduction."
+    },
+    {
+      "sub-topic": "Questions on Mendelian Genetics",
+      "Content": "1. How do Mendel’s experiments show that traits may be dominant or recessive? 2. How do Mendel’s experiments show that traits are inherited independently? 3. A man with blood group A marries a woman with blood group O and their daughter has blood group O. Is this information enough to tell you which of the traits – blood group A or O – is dominant? Why or why not? 4. How is the sex of the child determined in human beings?"
+    },
+    {
+      "sub-topic": "Exercises on Genetic Inheritance",
+      "Content": "1.A Mendelian experiment consisted of breeding tall pea plants bearing violet flowers with short pea plants bearing white flowers. The progeny all bore violet flowers, but almost half of them were short. This suggests that the genetic make-up of the tall parent can be depicted as (a) TTWW (b) TTww (c) TtWW (d) TtWw 2.A study found that children with light-coloured eyes are likely to have parents with light-coloured eyes. On this basis, can we say anything about whether the light eye colour trait is dominant or recessive? Why or why not? 3.Outline a project which aims to find the dominant coat colour in dogs. 4.How is the equal genetic contribution of male and female parents ensured in the progeny?"
+    }
+  ]
+}

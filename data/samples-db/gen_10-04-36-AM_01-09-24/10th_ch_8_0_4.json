@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mendel worked out the main rules of such inheritance, and it is interesting to look at some of his experiments from more than a century ago.",
+      "question": "What did Mendel work out regarding inheritance?"
+    },
+    {
+      "context": "This means that each trait can be influenced by both paternal and maternal DNA.",
+      "question": "How is each trait influenced in children?"
+    },
+    {
+      "context": "The rules for inheritance of such traits in human beings are related to the fact that both the father and the mother contribute practically equal amounts of genetic material to the child.",
+      "question": "How do parents contribute to a child's traits?"
+    },
+    {
+      "context": "Thus, for each trait there will be two versions in each child.",
+      "question": "How many versions of traits are present in each child?"
+    },
+    {
+      "context": "The rules for inheritance of such traits in human beings are related to the fact that both the father and the mother contribute practically equal amounts of genetic material to the child.",
+      "question": "What role do both parents play in genetic inheritance?"
+    }
+  ]
+}

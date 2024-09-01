@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Organisms that reproduce asexually also follow similar rules of inheritance. Variations arising during the process of reproduction can be inherited. These variations may lead to increased survival of the individuals.",
+      "question": "What rules do asexual organisms follow?"
+    },
+    {
+      "context": "Sexually reproducing individuals have two copies of genes for the same trait. If the copies are not identical, the trait that gets expressed is called the dominant trait and the other is called the recessive trait.",
+      "question": "What is a dominant trait?"
+    },
+    {
+      "context": "Traits in one individual may be inherited separately, giving rise to new combinations of traits in the offspring of sexual reproduction.",
+      "question": "How are traits inherited in sexual reproduction?"
+    },
+    {
+      "context": "Variations arising during the process of reproduction can be inherited. These variations may lead to increased survival of the individuals.",
+      "question": "What can variations during reproduction lead to?"
+    },
+    {
+      "context": "If the copies are not identical, the trait that gets expressed is called the dominant trait and the other is called the recessive trait.",
+      "question": "What happens when gene copies are different?"
+    }
+  ]
+}

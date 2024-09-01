@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Sexually reproducing individuals have two copies of genes for the same trait. If the copies are not identical, the trait that gets expressed is called the dominant trait and the other is called the recessive trait.",
+      "question": "What are dominant and recessive traits?"
+    },
+    {
+      "context": "These variations may lead to increased survival of the individuals. Traits in one individual may be inherited separately, giving rise to new combinations of traits in the offspring of sexual reproduction.",
+      "question": "How do variations affect individual survival?"
+    },
+    {
+      "context": "If the copies are not identical, the trait that gets expressed is called the dominant trait and the other is called the recessive trait.",
+      "question": "What determines if a trait is dominant or recessive?"
+    },
+    {
+      "context": "Traits in one individual may be inherited separately, giving rise to new combinations of traits in the offspring of sexual reproduction.",
+      "question": "How are traits inherited in sexual reproduction?"
+    },
+    {
+      "context": "These variations may lead to increased survival of the individuals. Traits in one individual may be inherited separately, giving rise to new combinations of traits.",
+      "question": "What is the significance of trait variations?"
+    }
+  ]
+}

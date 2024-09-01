@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The rules of heredity determine the process by which traits and characteristics are reliably inherited. Let us take a closer look at these rules.",
+      "question": "What governs trait inheritance in organisms?"
+    },
+    {
+      "context": "The most obvious outcome of the reproductive process still remains the generation of individuals of similar design.",
+      "question": "What is produced by the reproductive process?"
+    },
+    {
+      "context": "The rules of heredity determine the process by which traits and characteristics are reliably inherited.",
+      "question": "How are traits inherited according to heredity?"
+    },
+    {
+      "context": "Let us take a closer look at these rules of heredity and their impact on traits.",
+      "question": "What should we examine regarding heredity?"
+    },
+    {
+      "context": "The most obvious outcome of the reproductive process is the generation of individuals of similar design.",
+      "question": "What similarity do offspring typically share?"
+    }
+  ]
+}

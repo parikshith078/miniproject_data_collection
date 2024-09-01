@@ -1,0 +1,36 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Introduction to Heredity",
+      "Content": "We have seen that reproductive processes give rise to new individuals that are similar, but subtly different. We have discussed how some amount of variation is produced even during asexual reproduction. And the number of successful variations are maximised by the process of sexual reproduction. If we observe a field of sugarcane we find very little variations among the individual plants. But in a number of animals including human beings, which reproduce sexually, quite distinct variations are visible among different individuals. In this chapter, we shall be studying the mechanism by which variations are created and inherited."
+    },
+    {
+      "sub-topic": "Diversity in Generations",
+      "Content": "Creation of diversity over succeeding generations. The original organism at the top will give rise to, say, two individuals, similar in body design, but with subtle differences. Each of them, in turn, will give rise to two individuals in the next generation. Each of the four individuals in the bottom row will be different from each other. While some of these differences will be unique, others will be inherited from their respective parents, who were different from each other. Inheritance from the previous generation provides both a common basic body design, and subtle changes in it, for the next generation. Now think about what would happen when this new generation, in its turn, reproduces. The second generation will have differences that they inherit from the first generation, as well as newly created differences."
+    },
+    {
+      "sub-topic": "Rules of Heredity",
+      "Content": "The most obvious outcome of the reproductive process still remains the generation of individuals of similar design. The rules of heredity determine the process by which traits and characteristics are reliably inherited. Let us take a closer look at these rules."
+    },
+    {
+      "sub-topic": "Inherited Traits",
+      "Content": "What exactly do we mean by similarities and differences? We know that a child bears all the basic features of a human being. However, it does not look exactly like its parents, and human populations show a great deal of variation."
+    },
+    {
+      "sub-topic": "Mendel’s Contributions",
+      "Content": "The rules for inheritance of such traits in human beings are related to the fact that both the father and the mother contribute practically equal amounts of genetic material to the child. This means that each trait can be influenced by both paternal and maternal DNA. Thus, for each trait there will be two versions in each child. Mendel worked out the main rules of such inheritance, and it is interesting to look at some of his experiments from more than a century ago."
+    },
+    {
+      "sub-topic": "Mendel’s Experiments",
+      "Content": "Mendel used a number of contrasting visible characters of garden peas – round/wrinkled seeds, tall/short plants, white/violet flowers and so on. He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny. In the first place, there were no halfway characteristics in this first-generation, or F1 progeny – no ‘medium-height’ plants. All plants were tall. This meant that only one of the parental traits was seen, not some mixture of the two."
+    },
+    {
+      "sub-topic": "Dominant and Recessive Traits",
+      "Content": "In Fig. 8.3, what experiment would we do to confirm that the F2 generation did in fact have a 1:2:1 ratio of TT, Tt and tt trait combinations? In this explanation, both TT and Tt are tall plants, while only tt is a short plant. In other words, a single copy of ‘T’ is enough to make the plant tall, while both copies have to be ‘t’ for the plant to be short. Traits like ‘T’ are called dominant traits, while those that behave like ‘t’ are called recessive traits. Work out which trait would be considered dominant and which one recessive."
+    },
+    {
+      "sub-topic": "Mechanism of Heredity",
+      "Content": "How does the mechanism of heredity work? Cellular DNA is the information source for making proteins in the cell. A section of DNA that provides information for one protein is called the gene for that protein. If the interpretations of Mendelian experiments we have been discussing are correct, then both parents must be contributing equally to the DNA of the progeny during sexual reproduction. This is explained by the fact that each gene set is present, not as a single long thread of DNA, but as separate independent pieces, each called a chromosome. Thus, each cell will have two copies of each chromosome, one each from the male and female parents. Every germ-cell will take one chromosome from each pair and these may be of either maternal or paternal origin. When two germ cells combine, they will restore the normal number of chromosomes in the progeny, ensuring the stability of the DNA of the species. Such a mechanism of inheritance explains the results of the Mendel experiments, and is used by all sexually reproducing organisms."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A Mendelian experiment will find that some F2 progeny are tall plants with round seeds, and some were short plants with wrinkled seeds. However, there would also be some F2 progeny that showed new combinations.",
+      "question": "What do F2 progeny show in Mendelian experiments?"
+    },
+    {
+      "context": "The tall/short trait and the round seed/wrinkled seed trait are independently inherited.",
+      "question": "Which traits are independently inherited in pea plants?"
+    },
+    {
+      "context": "What happens when pea plants showing two different characteristics are bred with each other?",
+      "question": "What occurs when different characteristic pea plants breed?"
+    },
+    {
+      "context": "Thus, the tall/short trait and the round seed/wrinkled seed trait are independently inherited.",
+      "question": "How are the tall/short traits inherited?"
+    },
+    {
+      "context": "Some F2 progeny are tall plants with round seeds, and some were short plants with wrinkled seeds.",
+      "question": "What are examples of F2 progeny combinations?"
+    }
+  ]
+}

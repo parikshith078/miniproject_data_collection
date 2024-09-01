@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "We have seen that reproductive processes give rise to new individuals that are similar, but subtly different. We have discussed how some amount of variation is produced even during asexual reproduction.",
+      "question": "What variations occur in asexual reproduction?"
+    },
+    {
+      "context": "In a number of animals including human beings, which reproduce sexually, quite distinct variations are visible among different individuals.",
+      "question": "What examples show distinct variations?"
+    },
+    {
+      "context": "The number of successful variations are maximised by the process of sexual reproduction.",
+      "question": "How does sexual reproduction affect variations?"
+    },
+    {
+      "context": "If we observe a field of sugarcane we find very little variations among the individual plants.",
+      "question": "What is observed in sugarcane field variations?"
+    },
+    {
+      "context": "This chapter will study the mechanism by which variations are created and inherited.",
+      "question": "What will this chapter focus on regarding variations?"
+    }
+  ]
+}

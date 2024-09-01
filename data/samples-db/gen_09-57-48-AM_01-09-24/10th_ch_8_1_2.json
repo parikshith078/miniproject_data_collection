@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Women possess a pair of X chromosomes (XX), whereas men have one X and one shorter Y chromosome (XY).",
+      "question": "What chromosomes do women have?"
+    },
+    {
+      "context": "Children inherit an X chromosome from their mother, and whether they receive an X or Y from their father will determine if they are male or female.",
+      "question": "How do children inherit sex chromosomes?"
+    },
+    {
+      "context": "The sex chromosomes differ in men and women. Women possess a pair of X chromosomes (XX), whereas men have one X and one shorter Y chromosome (XY).",
+      "question": "How do sex chromosomes differ between genders?"
+    },
+    {
+      "context": "Human chromosomes are typically paired, with each individual inheriting a maternal and paternal copy of 22 pairs, but the sex chromosomes differ in men and women.",
+      "question": "What is typical about human chromosomes?"
+    },
+    {
+      "context": "The inheritance of the sex chromosomes from the parents dictates the sex of the children.",
+      "question": "What determines the sex of children?"
+    },
+    {
+      "context": "Thus, the inheritance of the sex chromosomes from the parents dictates the sex of the children.",
+      "question": "What role do sex chromosomes play in inheritance?"
+    }
+  ]
+}

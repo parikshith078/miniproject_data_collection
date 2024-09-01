@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "All children will inherit an X chromosome from their mother regardless of whether they are boys or girls. Thus, the sex of the children will be determined by what they inherit from their father.",
+      "question": "How do children inherit their sex chromosomes?"
+    },
+    {
+      "context": "Women have a perfect pair of sex chromosomes, both called X. But men have a mismatched pair in which one is a normal-sized X while the other is a short one called Y.",
+      "question": "What is the difference between male and female sex chromosomes?"
+    },
+    {
+      "context": "A child who inherits an X chromosome from her father will be a girl, and one who inherits a Y chromosome from him will be a boy.",
+      "question": "What determines the sex of a child?"
+    },
+    {
+      "context": "As shown in Figure 8.6, half the children will be boys and half will be girls.",
+      "question": "What is the expected ratio of boys to girls?"
+    },
+    {
+      "context": "Thus, the sex of the children will be determined by what they inherit from their father.",
+      "question": "Who determines the sex of the child?"
+    }
+  ]
+}

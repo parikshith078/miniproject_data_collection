@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The original organism at the top will give rise to, say, two individuals, similar in body design, but with subtle differences. Each of them, in turn, will give rise to two individuals in the next generation. Each of the four individuals in the bottom row will be different from each other.",
+      "question": "How does variation in reproduction occur?"
+    },
+    {
+      "context": "Creation of diversity over succeeding generations. Each of the four individuals in the bottom row will be different from each other. While some of these differences will be unique, others will be inherited from their respective parents, who were different from each other.",
+      "question": "What contributes to individual differences?"
+    },
+    {
+      "context": "Creation of diversity over succeeding generations. Each of them, in turn, will give rise to two individuals in the next generation. Each of the four individuals in the bottom row will be different from each other.",
+      "question": "What happens in each generation?"
+    },
+    {
+      "context": "Each of them, in turn, will give rise to two individuals in the next generation. Each of the four individuals in the bottom row will be different from each other.",
+      "question": "What is observed in the bottom row of individuals?"
+    },
+    {
+      "context": "While some of these differences will be unique, others will be inherited from their respective parents, who were different from each other. Creation of diversity over succeeding generations.",
+      "question": "What types of differences exist in offspring?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Organisms reproduce either sexually or asexually, but the rules of inheritance apply to both methods. Asexually reproducing organisms follow similar inheritance patterns.",
+      "question": "What are the two main types of reproduction?"
+    },
+    {
+      "context": "Asexually reproducing organisms follow similar inheritance patterns. This leads us to wonder how these inheritance rules function in different organisms.",
+      "question": "How do inheritance rules function in organisms?"
+    },
+    {
+      "context": "However, the rules of inheritance apply to both methods. Asexually reproducing organisms follow similar inheritance patterns.",
+      "question": "Do asexually reproducing organisms inherit traits differently?"
+    },
+    {
+      "context": "The rules of inheritance apply to both sexual and asexual reproduction methods.",
+      "question": "Do inheritance rules differ between reproduction methods?"
+    },
+    {
+      "context": "Organisms reproduce either sexually or asexually, leading to different ways of passing on traits.",
+      "question": "What ways do organisms use to pass on traits?"
+    }
+  ]
+}

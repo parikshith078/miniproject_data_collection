@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Some animals rely entirely on environmental cues for sex determination. In reptiles, the temperature at which fertilised eggs are kept can determine the sex of the developing animals.",
+      "question": "How do reptiles determine their sex?"
+    },
+    {
+      "context": "In some species, like snails, individuals have the ability to change sex, showing that sex can be determined by factors other than genetics.",
+      "question": "Which species can change their sex?"
+    },
+    {
+      "context": "In human beings, sex determination is largely genetically based. The genes inherited from parents play a crucial role in deciding if an individual is male or female.",
+      "question": "What determines human sex at birth?"
+    },
+    {
+      "context": "Some species use environmental factors for sex determination, while others, like humans, use genetic information inherited from parents.",
+      "question": "What strategy do humans use for sex determination?"
+    },
+    {
+      "context": "Temperature can influence sex determination in some reptiles, indicating that environmental conditions can affect biological development.",
+      "question": "What environmental factor influences reptile sex?"
+    }
+  ]
+}

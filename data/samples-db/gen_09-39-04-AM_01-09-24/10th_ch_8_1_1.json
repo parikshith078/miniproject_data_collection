@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The sex of a newborn individual can be determined by various strategies. In many species, sex is chromosomally determined, where specific sex chromosomes are inherited from the parents. For instance, in humans, XX denotes female and XY denotes male. In contrast, some reptiles may exhibit temperature-dependent sex determination, where the incubation temperature of eggs determines the sex of the offspring.",
+      "question": "What determines the sex of a newborn?"
+    },
+    {
+      "context": "Different species utilize distinct strategies for sex determination. Chromosomal sex determination is common, where genetic factors dictate the sex. Other species might rely on environmental cues, such as temperature. In some fish, sex can change in response to social conditions, showcasing the diversity in reproductive strategies across life forms.",
+      "question": "Which strategies determine sex in species?"
+    },
+    {
+      "context": "Among the various methods of sex determination, chromosomal mechanisms are present in many mammals. In some birds, the ZW system is observed, where ZW indicates female and ZZ indicates male. Temperature can also play a crucial role in determining sex during the embryonic development stage in several reptiles and fish species, highlighting the adaptability of different organisms.",
+      "question": "How do birds determine the sex of offspring?"
+    },
+    {
+      "context": "The phenomenon of sex determination varies greatly across species. Similarly, while humans rely predominantly on chromosomal inheritance, some species like certain turtles experience temperature-dependent sex determination, where warmer temperatures during egg incubation favor female offspring. This flexibility illustrates the diversity of reproductive adaptations in nature.",
+      "question": "What is temperature-dependent sex determination?"
+    },
+    {
+      "context": "In the animal kingdom, sex determination can rely on genetic, environmental, or a combination of both mechanisms. For instance, mammals like humans have a fixed chromosomal system, while some species of fish demonstrate social environment-based sex changes. This variety shows how evolutionary pressures have shaped reproductive strategies to enhance survival and reproduction.",
+      "question": "What is social environment-based sex change?"
+    }
+  ]
+}

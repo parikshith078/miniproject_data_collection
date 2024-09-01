@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Mendel's experiments with pea plants demonstrated how traits can be classified as dominant or recessive. In his studies, he found that when he crossed plants with different traits, the dominant trait would appear in the first generation, while the recessive trait would reappear in the second generation, illustrating the concept of dominance in traits.",
+      "question": "What do Mendel's experiments reveal about dominant traits?"
+    },
+    {
+      "context": "Mendel discovered that traits are inherited independently through his dihybrid crosses. By observing how different characteristics assorted during the inheritance process, he concluded that the inheritance of one trait did not affect the inheritance of another, establishing the law of independent assortment.",
+      "question": "How did Mendel demonstrate independent inheritance of traits?"
+    },
+    {
+      "context": "In a scenario where a blood group A man marries a blood group O woman and they have a blood group O daughter, this raises interesting questions about genetic dominance. The blood group A can either be AA or AO, while the blood group O is a recessive trait, suggesting that more information about the genotypes is needed to understand this situation.",
+      "question": "What does this family scenario reveal about blood group inheritance?"
+    },
+    {
+      "context": "In humans, the determination of a child's sex is based on the combination of sex chromosomes from both parents. Males typically have XY chromosomes and females have XX chromosomes. Therefore, a male contributes either an X or a Y chromosome, while a female contributes an X, leading to a child being either female (XX) or male (XY).",
+      "question": "How is the sex of a human child determined?"
+    }
+  ]
+}

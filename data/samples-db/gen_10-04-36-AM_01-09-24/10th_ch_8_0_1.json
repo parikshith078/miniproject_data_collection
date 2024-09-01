@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The original organism at the top will give rise to, say, two individuals, similar in body design, but with subtle differences. Each of them, in turn, will give rise to two individuals in the next generation. Each of the four individuals in the bottom row will be different from each other.",
+      "question": "How do new generations create diversity?"
+    },
+    {
+      "context": "Inheritance from the previous generation provides both a common basic body design, and subtle changes in it, for the next generation. Now think about what would happen when this new generation, in its turn, reproduces.",
+      "question": "What role does inheritance play in diversity?"
+    },
+    {
+      "context": "While some of these differences will be unique, others will be inherited from their respective parents, who were different from each other.",
+      "question": "What types of differences arise in new generations?"
+    },
+    {
+      "context": "Each of the four individuals in the bottom row will be different from each other. The second generation will have differences that they inherit from the first generation, as well as newly created differences.",
+      "question": "What causes individuals in a generation to differ?"
+    },
+    {
+      "context": "Creation of diversity over succeeding generations allows for variations that may influence survival. This can occur through environmental factors or random mutations during reproduction.",
+      "question": "How does diversity influence survival in organisms?"
+    }
+  ]
+}

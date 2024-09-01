@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In asexual reproduction, organisms duplicate their genetic material and divide to form new individuals. This process produces offspring that are genetically identical to the parent, except for any mutations that may occur. Understanding the inheritance patterns involves examining how traits are passed down through generations despite the lack of genetic mixing that occurs in sexual reproduction.",
+      "question": "How do asexually reproducing organisms inherit traits?"
+    },
+    {
+      "context": "Asexually reproducing organisms such as bacteria and some plants reproduce by a process called binary fission or vegetative propagation, respectively. In this process, the offspring receive an exact copy of the parent's genetic material. This can lead to rapid population increases under favorable conditions, but limits genetic diversity.",
+      "question": "What method do bacteria use to reproduce?"
+    },
+    {
+      "context": "Even though asexually reproducing organisms do not engage in traditional sexual reproduction, they can still exhibit patterns of inheritance similar to those seen in sexually reproducing organisms. Concepts such as dominant and recessive traits can be applied, but the genetic uniformity of the offspring restricts variability.",
+      "question": "Can asexually reproducing organisms show inheritance patterns?"
+    },
+    {
+      "context": "Mutations can introduce variation even in asexual reproduction. When these changes occur, they can be inherited by the offspring, leading to new traits that might confer advantages. This can be crucial for the survival of populations as they adapt to changing environments.",
+      "question": "What role do mutations play in asexual reproduction?"
+    },
+    {
+      "context": "While asexual reproduction ensures consistency in the genetic makeup of offspring, it does not allow for the shuffling of genes that occurs during sexual reproduction. This can be a disadvantage in changing environments, where genetic diversity is crucial for adaptation and survival.",
+      "question": "What is a disadvantage of asexual reproduction?"
+    }
+  ]
+}

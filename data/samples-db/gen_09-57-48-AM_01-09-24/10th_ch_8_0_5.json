@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mendel's work showed that traits are inherited from both parents, with each contributing equal genetic material. This discovery led to a deeper understanding of genetic combinations and inheritance patterns in offspring.",
+      "question": "Who discovered equal genetic contribution from parents?"
+    },
+    {
+      "context": "The concept of inheritance, as demonstrated by Mendel, indicates that both the father and mother contribute nearly equal genetic material to their children, which influences various traits.",
+      "question": "What influences traits in offspring according to Mendel?"
+    },
+    {
+      "context": "Mendel's studies revealed that each trait in offspring is influenced by contributions from both the paternal and maternal DNA, leading to key principles of inheritance.",
+      "question": "What DNA influences traits in Mendelian inheritance?"
+    },
+    {
+      "context": "Understanding that both parents contribute genetic material is central to Mendel's ideas about inheritance. This principle shows how traits can be affected by the genetics of both the father and the mother.",
+      "question": "What principle is central to Mendel's ideas on inheritance?"
+    },
+    {
+      "context": "According to Mendel, every trait can be determined by the combination of DNA from both the father and mother, which establishes a foundation for understanding genetic inheritance in humans.",
+      "question": "What establishes the foundation of genetic inheritance?"
+    }
+  ]
+}

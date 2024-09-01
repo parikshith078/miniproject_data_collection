@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Some rely entirely on environmental cues. Thus, in some animals like a few reptiles, the temperature at which fertilised eggs are kept determines whether the animals developing in the eggs will be male or female.",
+      "question": "What role does temperature play in sex determination?"
+    },
+    {
+      "context": "The genes inherited from our parents decide whether we will be boys or girls. But so far, we have assumed that similar gene sets are inherited from both parents.",
+      "question": "What determines the sex of human beings genetically?"
+    },
+    {
+      "context": "Women have a perfect pair of sex chromosomes, both called X. But men have a mismatched pair in which one is a normal-sized X while the other is a short one called Y.",
+      "question": "What chromosome pair do women have?"
+    },
+    {
+      "context": "All children will inherit an X chromosome from their mother regardless of whether they are boys or girls. Thus, the sex of the children will be determined by what they inherit from their father.",
+      "question": "How is a child's sex determined in humans?"
+    },
+    {
+      "context": "Now, can we work out what the inheritance pattern of X and Y will be? As Fig. 8.6 shows, half the children will be boys and half will be girls.",
+      "question": "What is the expected ratio of boys to girls?"
+    }
+  ]
+}

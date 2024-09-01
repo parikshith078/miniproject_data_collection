@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Creation of diversity over succeeding generations. The original organism at the top will give rise to, say, two individuals, similar in body design, but with subtle differences.",
+      "question": "What causes diversity in successive generations?"
+    },
+    {
+      "context": "And the number of successful variations are maximised by the process of sexual reproduction.",
+      "question": "How are successful variations maximised?"
+    },
+    {
+      "context": "If we observe a field of sugarcane we find very little variations among the individual plants.",
+      "question": "Why is there less variation in sugarcane?"
+    },
+    {
+      "context": "Now think about what would happen when this new generation, in its turn, reproduces.",
+      "question": "What happens in the next generation's reproduction?"
+    },
+    {
+      "context": "The most obvious outcome of the reproductive process still remains the generation of individuals of similar design.",
+      "question": "What is the main outcome of reproduction?"
+    },
+    {
+      "context": "Selection of variants by environmental factors forms the basis for evolutionary processes.",
+      "question": "What influences the selection of variants?"
+    }
+  ]
+}

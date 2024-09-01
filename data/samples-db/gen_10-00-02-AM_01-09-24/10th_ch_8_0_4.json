@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mendel used a number of contrasting visible characters of garden peas – round/wrinkled seeds, tall/short plants, white/violet flowers and so on. He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny.",
+      "question": "What traits did Mendel observe in peas?"
+    },
+    {
+      "context": "So the next question was, were the tall plants in the F1 generation exactly the same as the tall plants of the parent generation? Mendelian experiments test this by getting both the parental plants and these F1 tall plants to reproduce by self-pollination.",
+      "question": "How did Mendel test if F1 plants were identical to parents?"
+    },
+    {
+      "context": "Instead, one quarter of them are short. This indicates that both the tallness and shortness traits were inherited in the F1 plants, but only the tallness trait was expressed.",
+      "question": "What proportion of F2 progeny were short plants?"
+    },
+    {
+      "context": "This led Mendel to propose that two copies of factor (now called genes) controlling traits are present in sexually reproducing organisms. These two may be identical, or may be different, depending on the parentage.",
+      "question": "What did Mendel propose about gene copies?"
+    },
+    {
+      "context": "However, the second-generation, or F2, progeny of the F1 tall plants are not all tall. Instead, one quarter of them are short.",
+      "question": "What is the key finding about the F2 progeny?"
+    }
+  ]
+}

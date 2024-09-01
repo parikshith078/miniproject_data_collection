@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Mendel’s experiments with pea plants led him to discover that characteristics are controlled by alleles, which can be dominant or recessive. In his famous monohybrid cross, he observed that when he crossed a tall plant with a short plant, the offspring all displayed the dominant trait of tallness in the first generation. However, in the second generation, the short trait reappeared, showing that traits can be either dominant or recessive based on the allele present.",
+      "question": "What do Mendel's experiments reveal about traits?"
+    },
+    {
+      "context": "Through his dihybrid crosses, Mendel concluded that different traits segregate independently of one another. For example, he observed the inheritance patterns of seed shape and seed color, finding that the allele for shape did not influence the inheritance of the allele for color. This led to the principle of independent assortment.",
+      "question": "How did Mendel demonstrate independent inheritance of traits?"
+    },
+    {
+      "context": "In the case of a man with blood group A and a woman with blood group O, their offspring's blood group O indicates that the father must carry a recessive allele for blood type O. However, blood group A can be either AA or AO genotype. Hence, the given information alone is insufficient to conclude definitively about the dominance without knowing more about the father's genotype for the A allele.",
+      "question": "Can we determine dominance from blood groups A and O?"
+    },
+    {
+      "context": "The sex of a child in humans is determined by the presence of sex chromosomes contributed by the parents. A male has XY sex chromosomes and can pass on either an X or a Y chromosome, while a female has XX chromosomes and can only pass on an X chromosome. If the sperm carrying X fertilizes the egg, a female daughter will result; if the Y sperm fertilizes the egg, a male son will ensue.",
+      "question": "How is a child's sex determined in humans?"
+    }
+  ]
+}

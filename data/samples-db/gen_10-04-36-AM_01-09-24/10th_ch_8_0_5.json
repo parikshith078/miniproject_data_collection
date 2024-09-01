@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mendel used a number of contrasting visible characters of garden peas – round/wrinkled seeds, tall/short plants, white/violet flowers and so on. He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny.",
+      "question": "What visible traits did Mendel study?"
+    },
+    {
+      "context": "In the first place, there were no halfway characteristics in this first-generation, or F1 progeny – no ‘medium-height’ plants. All plants were tall. This meant that only one of the parental traits was seen, not some mixture of the two.",
+      "question": "What was unique about the F1 progeny?"
+    },
+    {
+      "context": "Mendel used a number of contrasting visible characters of garden peas – round/wrinkled seeds, tall/short plants, white/violet flowers and so on. He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny.",
+      "question": "How did Mendel produce progeny in his experiments?"
+    },
+    {
+      "context": "This meant that only one of the parental traits was seen, not some mixture of the two. In the first place, there were no halfway characteristics in this first-generation, or F1 progeny – no ‘medium-height’ plants. All plants were tall.",
+      "question": "What does 'no halfway characteristics' imply?"
+    },
+    {
+      "context": "He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny.",
+      "question": "What two types of plants did Mendel cross?"
+    }
+  ]
+}

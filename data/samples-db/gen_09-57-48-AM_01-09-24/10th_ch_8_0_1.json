@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In this chapter, we shall be studying the mechanism by which variations are created and inherited. We have seen that reproductive processes give rise to new individuals that are similar, but subtly different. And the number of successful variations are maximised by the process of sexual reproduction.",
+      "question": "What is maximized by sexual reproduction?"
+    },
+    {
+      "context": "If we observe a field of sugarcane we find very little variations among the individual plants. But in a number of animals including human beings, which reproduce sexually, quite distinct variations are visible among different individuals.",
+      "question": "What do animals show that sugarcane does not?"
+    },
+    {
+      "context": "We have discussed how some amount of variation is produced even during asexual reproduction. We have seen that reproductive processes give rise to new individuals that are similar, but subtly different.",
+      "question": "What type of reproduction produces some variation?"
+    },
+    {
+      "context": "We have seen that reproductive processes give rise to new individuals that are similar, but subtly different. And the number of successful variations are maximised by the process of sexual reproduction.",
+      "question": "What type of reproduction gives rise to new individuals?"
+    },
+    {
+      "context": "In this chapter, we shall be studying the mechanism by which variations are created and inherited. Some amount of variation is produced even during asexual reproduction.",
+      "question": "What will this chapter focus on regarding variations?"
+    }
+  ]
+}

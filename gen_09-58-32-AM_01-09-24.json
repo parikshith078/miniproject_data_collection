@@ -1,0 +1,294 @@
+[
+  {
+    "input": "The original organism at the top will give rise to, say, two individuals, similar in body design, but with subtle differences. Each of them, in turn, will give rise to two individuals in the next generation. Each of the four individuals in the bottom row will be different from each other.",
+    "ouput": "How does variation in reproduction occur?"
+  },
+  {
+    "input": "Creation of diversity over succeeding generations. Each of the four individuals in the bottom row will be different from each other. While some of these differences will be unique, others will be inherited from their respective parents, who were different from each other.",
+    "ouput": "What contributes to individual differences?"
+  },
+  {
+    "input": "Creation of diversity over succeeding generations. Each of them, in turn, will give rise to two individuals in the next generation. Each of the four individuals in the bottom row will be different from each other.",
+    "ouput": "What happens in each generation?"
+  },
+  {
+    "input": "Each of them, in turn, will give rise to two individuals in the next generation. Each of the four individuals in the bottom row will be different from each other.",
+    "ouput": "What is observed in the bottom row of individuals?"
+  },
+  {
+    "input": "While some of these differences will be unique, others will be inherited from their respective parents, who were different from each other. Creation of diversity over succeeding generations.",
+    "ouput": "What types of differences exist in offspring?"
+  },
+  {
+    "input": "In this chapter, we shall be studying the mechanism by which variations are created and inherited. We have seen that reproductive processes give rise to new individuals that are similar, but subtly different. And the number of successful variations are maximised by the process of sexual reproduction.",
+    "ouput": "What is maximized by sexual reproduction?"
+  },
+  {
+    "input": "If we observe a field of sugarcane we find very little variations among the individual plants. But in a number of animals including human beings, which reproduce sexually, quite distinct variations are visible among different individuals.",
+    "ouput": "What do animals show that sugarcane does not?"
+  },
+  {
+    "input": "We have discussed how some amount of variation is produced even during asexual reproduction. We have seen that reproductive processes give rise to new individuals that are similar, but subtly different.",
+    "ouput": "What type of reproduction produces some variation?"
+  },
+  {
+    "input": "We have seen that reproductive processes give rise to new individuals that are similar, but subtly different. And the number of successful variations are maximised by the process of sexual reproduction.",
+    "ouput": "What type of reproduction gives rise to new individuals?"
+  },
+  {
+    "input": "In this chapter, we shall be studying the mechanism by which variations are created and inherited. Some amount of variation is produced even during asexual reproduction.",
+    "ouput": "What will this chapter focus on regarding variations?"
+  },
+  {
+    "input": "Inheritance from the previous generation provides both a common basic body design and subtle changes in it, for the next generation. Now think about what would happen when this new generation, in its turn, reproduces. The second generation will have differences that they inherit from the first generation, as well as newly created differences.",
+    "ouput": "What changes occur in the next generation?"
+  },
+  {
+    "input": "Now think about what would happen when this new generation, in its turn, reproduces. The second generation will have differences that they inherit from the first generation, as well as newly created differences (Fig. 8.1).",
+    "ouput": "How are differences created in the second generation?"
+  },
+  {
+    "input": "Inheritance from the previous generation provides both a common basic body design and subtle changes in it, for the next generation.",
+    "ouput": "What does inheritance provide to the next generation?"
+  },
+  {
+    "input": "The second generation will have differences that they inherit from the first generation, as well as newly created differences.",
+    "ouput": "What types of differences does the second generation have?"
+  },
+  {
+    "input": "Now think about what would happen when this new generation, in its turn, reproduces.",
+    "ouput": "What happens when the new generation reproduces?"
+  },
+  {
+    "input": "The rules of heredity determine the process by which traits and characteristics are reliably inherited.",
+    "ouput": "What determines trait inheritance?"
+  },
+  {
+    "input": "The most obvious outcome of the reproductive process still remains the generation of individuals of similar design.",
+    "ouput": "What does reproduction generate in individuals?"
+  },
+  {
+    "input": "Let us take a closer look at these rules.",
+    "ouput": "What are we examining in this section?"
+  },
+  {
+    "input": "The rules of heredity determine the process by which traits and characteristics are reliably inherited.",
+    "ouput": "What do the rules of heredity influence?"
+  },
+  {
+    "input": "The most obvious outcome of the reproductive process still remains the generation of individuals of similar design.",
+    "ouput": "What is a clear result of reproduction?"
+  },
+  {
+    "input": "In human populations, traits can vary among individuals. For example, if a trait A exists in 10% of a population of an asexually reproducing species, and trait B exists in 60%, this indicates a difference in prevalence between the two traits. Variations in populations can arise due to genetic factors and environmental influences.",
+    "ouput": "Which trait is likely older, A or B?"
+  },
+  {
+    "input": "Traits in populations can exhibit varying degrees of prevalence. A trait that is seen in a larger percentage of the population suggests it may have a more established presence. In the case of trait A at 10% and trait B at 60%, this difference may indicate the likelihood of which trait emerged first in the population's history.",
+    "ouput": "What does the prevalence of traits indicate?"
+  },
+  {
+    "input": "The existence of two traits in a population can provide insights into their historical emergence. If trait A is present in only 10% of the population while trait B is significantly more common at 60%, one might look to the percentages as an indicator of the relative timing of when these traits arose in the broader context of the species' evolutionary history.",
+    "ouput": "How can prevalence indicate trait emergence?"
+  },
+  {
+    "input": "In studying inherited traits within populations, researchers often analyze the percentage of individuals exhibiting certain traits. Trait A being present in 10% suggests it might be less established than trait B which is present in 60%. This comparison can lead to hypotheses about evolutionary timelines for these traits.",
+    "ouput": "What might lower prevalence suggest about trait A?"
+  },
+  {
+    "input": "The variations in traits across a population highlight the complexities of inheritance and evolution. If a trait like A shows up in only 10% compared to trait B's 60%, it may imply that trait B has adapted more successfully in the environment or has been favored in reproductive contexts.",
+    "ouput": "What does 60% prevalence suggest about trait B?"
+  },
+  {
+    "input": "Mendel's work showed that traits are inherited from both parents, with each contributing equal genetic material. This discovery led to a deeper understanding of genetic combinations and inheritance patterns in offspring.",
+    "ouput": "Who discovered equal genetic contribution from parents?"
+  },
+  {
+    "input": "The concept of inheritance, as demonstrated by Mendel, indicates that both the father and mother contribute nearly equal genetic material to their children, which influences various traits.",
+    "ouput": "What influences traits in offspring according to Mendel?"
+  },
+  {
+    "input": "Mendel's studies revealed that each trait in offspring is influenced by contributions from both the paternal and maternal DNA, leading to key principles of inheritance.",
+    "ouput": "What DNA influences traits in Mendelian inheritance?"
+  },
+  {
+    "input": "Understanding that both parents contribute genetic material is central to Mendel's ideas about inheritance. This principle shows how traits can be affected by the genetics of both the father and the mother.",
+    "ouput": "What principle is central to Mendel's ideas on inheritance?"
+  },
+  {
+    "input": "According to Mendel, every trait can be determined by the combination of DNA from both the father and mother, which establishes a foundation for understanding genetic inheritance in humans.",
+    "ouput": "What establishes the foundation of genetic inheritance?"
+  },
+  {
+    "input": "Mendel used a number of contrasting visible characters of garden peas – round/wrinkled seeds, tall/short plants, white/violet flowers and so on. He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny.",
+    "ouput": "What characters did Mendel study in peas?"
+  },
+  {
+    "input": "Mendel used a number of contrasting visible characters of garden peas – round/wrinkled seeds, tall/short plants, white/violet flowers and so on. He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny.",
+    "ouput": "How did Mendel produce progeny in his experiments?"
+  },
+  {
+    "input": "This led Mendel to propose that two copies of factor (now called genes) controlling traits are present in sexually reproducing organisms.",
+    "ouput": "What did Mendel propose about genes in organisms?"
+  },
+  {
+    "input": "He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny.",
+    "ouput": "From which types of plants did Mendel cross progeny?"
+  },
+  {
+    "input": "He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny. This led Mendel to propose that two copies of factor (now called genes) controlling traits are present in sexually reproducing organisms.",
+    "ouput": "What method did Mendel use to analyze plant traits?"
+  },
+  {
+    "input": "In genetics, the tallness trait was expressed in the F1 plants, while the shortness trait was inherited but not expressed. This is an example of dominant and recessive traits, with tallness being dominant and shortness recessive.",
+    "ouput": "Which trait is dominant in the F1 plants?"
+  },
+  {
+    "input": "The F1 plants showed that tallness was expressed, indicating that it is a dominant trait. The shortness trait was inherited but not shown, categorizing it as a recessive trait.",
+    "ouput": "What is the definition of a recessive trait?"
+  },
+  {
+    "input": "The F1 generation demonstrated that although both traits were inherited, only the dominant trait of tallness was visible. This illustrates the principle of dominance in genetics.",
+    "ouput": "What does it mean when a trait is dominant?"
+  },
+  {
+    "input": "In the F1 generation, the tall plants exhibit the dominant trait, while the short plants represent the recessive trait, helping to illustrate the concept of trait inheritance.",
+    "ouput": "What happens to recessive traits in dominant trait cases?"
+  },
+  {
+    "input": "In this genetic observation, the tallness trait overshadowed the shortness trait, leading to a clear illustration of how dominant traits can suppress the expression of recessive traits in plant genetics.",
+    "ouput": "How does tallness relate to shortness in this experiment?"
+  },
+  {
+    "input": "A Mendelian experiment will find that some F2 progeny are tall plants with round seeds, and some were short plants with wrinkled seeds. However, there would also be some F2 progeny that showed new combinations.",
+    "ouput": "What do F2 progeny show in Mendelian experiments?"
+  },
+  {
+    "input": "The tall/short trait and the round seed/wrinkled seed trait are independently inherited.",
+    "ouput": "Which traits are independently inherited in pea plants?"
+  },
+  {
+    "input": "What happens when pea plants showing two different characteristics are bred with each other?",
+    "ouput": "What occurs when different characteristic pea plants breed?"
+  },
+  {
+    "input": "Thus, the tall/short trait and the round seed/wrinkled seed trait are independently inherited.",
+    "ouput": "How are the tall/short traits inherited?"
+  },
+  {
+    "input": "Some F2 progeny are tall plants with round seeds, and some were short plants with wrinkled seeds.",
+    "ouput": "What are examples of F2 progeny combinations?"
+  },
+  {
+    "input": "Cellular DNA is the information source for making proteins in the cell. A section of DNA that provides information for one protein is called the gene for that protein. Thus, genes control characteristics, or traits.",
+    "ouput": "What is a gene responsible for?"
+  },
+  {
+    "input": "If both parents can help determine the trait in the progeny, both parents must be contributing a copy of the same gene.",
+    "ouput": "How do parents influence traits in progeny?"
+  },
+  {
+    "input": "A section of DNA that provides information for one protein is called the gene for that protein. Thus, genes control characteristics, or traits.",
+    "ouput": "What defines a gene in cellular DNA?"
+  },
+  {
+    "input": "Cellular DNA is the information source for making proteins in the cell. A section of DNA that provides information for one protein is called the gene for that protein.",
+    "ouput": "What role does DNA play in protein synthesis?"
+  },
+  {
+    "input": "Thus, genes control characteristics, or traits. If both parents can help determine the trait in the progeny, both parents must be contributing a copy of the same gene.",
+    "ouput": "How do genes influence physical traits?"
+  },
+  {
+    "input": "Organisms reproduce either sexually or asexually, but the rules of inheritance apply to both methods. Asexually reproducing organisms follow similar inheritance patterns.",
+    "ouput": "What are the two main types of reproduction?"
+  },
+  {
+    "input": "Asexually reproducing organisms follow similar inheritance patterns. This leads us to wonder how these inheritance rules function in different organisms.",
+    "ouput": "How do inheritance rules function in organisms?"
+  },
+  {
+    "input": "However, the rules of inheritance apply to both methods. Asexually reproducing organisms follow similar inheritance patterns.",
+    "ouput": "Do asexually reproducing organisms inherit traits differently?"
+  },
+  {
+    "input": "The rules of inheritance apply to both sexual and asexual reproduction methods.",
+    "ouput": "Do inheritance rules differ between reproduction methods?"
+  },
+  {
+    "input": "Organisms reproduce either sexually or asexually, leading to different ways of passing on traits.",
+    "ouput": "What ways do organisms use to pass on traits?"
+  },
+  {
+    "input": "The sex of a newborn individual is determined in various ways across different species, some relying on environmental cues.",
+    "ouput": "How is sex determination varied in species?"
+  },
+  {
+    "input": "In certain animals, like a few reptiles, the temperature affects whether fertilized eggs develop as male or female.",
+    "ouput": "What role does temperature play in sex determination?"
+  },
+  {
+    "input": "Other animals, such as snails, indicate that sex is not always genetically determined, as they can change sex.",
+    "ouput": "How can snails change their sex?"
+  },
+  {
+    "input": "In humans, however, the sex of an individual is largely genetically determined by inherited genes from the parents.",
+    "ouput": "What determines human sex at birth?"
+  },
+  {
+    "input": "The two sexes participating in sexual reproduction must be somewhat different.",
+    "ouput": "Why must the sexes in reproduction differ?"
+  },
+  {
+    "input": "Women possess a pair of X chromosomes (XX), whereas men have one X and one shorter Y chromosome (XY).",
+    "ouput": "What chromosomes do women have?"
+  },
+  {
+    "input": "Children inherit an X chromosome from their mother, and whether they receive an X or Y from their father will determine if they are male or female.",
+    "ouput": "How do children inherit sex chromosomes?"
+  },
+  {
+    "input": "The sex chromosomes differ in men and women. Women possess a pair of X chromosomes (XX), whereas men have one X and one shorter Y chromosome (XY).",
+    "ouput": "How do sex chromosomes differ between genders?"
+  },
+  {
+    "input": "Human chromosomes are typically paired, with each individual inheriting a maternal and paternal copy of 22 pairs, but the sex chromosomes differ in men and women.",
+    "ouput": "What is typical about human chromosomes?"
+  },
+  {
+    "input": "The inheritance of the sex chromosomes from the parents dictates the sex of the children.",
+    "ouput": "What determines the sex of children?"
+  },
+  {
+    "input": "Thus, the inheritance of the sex chromosomes from the parents dictates the sex of the children.",
+    "ouput": "What role do sex chromosomes play in inheritance?"
+  },
+  {
+    "input": "Mendel’s experiments demonstrate that traits can be either dominant or recessive. He showed that sexually reproducing individuals have two copies of genes for the same trait, thus leading to the expression of either a dominant or recessive trait.",
+    "ouput": "What are dominant and recessive traits?"
+  },
+  {
+    "input": "Mendel also showed that traits are inherited independently, which means new combinations of traits can arise in offspring. For example, variations during reproduction can lead to differences that may enhance survival.",
+    "ouput": "What does independent inheritance of traits mean?"
+  },
+  {
+    "input": "Lastly, the determination of a child’s sex in humans is linked to whether the paternal chromosome is X (for girls) or Y (for boys).",
+    "ouput": "How is a child's sex determined in humans?"
+  },
+  {
+    "input": "Mendel's experiments with pea plants demonstrated how traits can be classified as dominant or recessive. In his studies, he found that when he crossed plants with different traits, the dominant trait would appear in the first generation, while the recessive trait would reappear in the second generation, illustrating the concept of dominance in traits.",
+    "ouput": "What do Mendel's experiments reveal about dominant traits?"
+  },
+  {
+    "input": "Mendel discovered that traits are inherited independently through his dihybrid crosses. By observing how different characteristics assorted during the inheritance process, he concluded that the inheritance of one trait did not affect the inheritance of another, establishing the law of independent assortment.",
+    "ouput": "How did Mendel demonstrate independent inheritance of traits?"
+  },
+  {
+    "input": "In a scenario where a blood group A man marries a blood group O woman and they have a blood group O daughter, this raises interesting questions about genetic dominance. The blood group A can either be AA or AO, while the blood group O is a recessive trait, suggesting that more information about the genotypes is needed to understand this situation.",
+    "ouput": "What does this family scenario reveal about blood group inheritance?"
+  },
+  {
+    "input": "In humans, the determination of a child's sex is based on the combination of sex chromosomes from both parents. Males typically have XY chromosomes and females have XX chromosomes. Therefore, a male contributes either an X or a Y chromosome, while a female contributes an X, leading to a child being either female (XX) or male (XY).",
+    "ouput": "How is the sex of a human child determined?"
+  }
+]

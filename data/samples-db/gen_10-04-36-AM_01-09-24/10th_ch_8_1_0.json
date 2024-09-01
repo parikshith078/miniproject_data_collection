@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In asexual reproduction, offspring are produced by a single parent without the fusion of gametes. This means that the genetic material is cloned from the parent organism. As a result, the offspring will have the same genetic traits as the parent, following similar rules of inheritance as seen in sexual reproduction.",
+      "question": "How does asexual reproduction affect genetic traits?"
+    },
+    {
+      "context": "In asexual reproduction, traits are inherited directly from one parent organism, which means that any advantageous mutations will be passed on to the offspring. Thus, the offspring of asexual organisms are essentially genetic copies of the parent, leading to lower genetic diversity in a population.",
+      "question": "What is a key result of asexual reproduction on genetic diversity?"
+    },
+    {
+      "context": "Despite the lack of sexual reproduction, asexual organisms still follow Mendelian principles of inheritance. For example, traits controlled by single genes can exhibit dominant and recessive patterns, just as in sexually reproducing species. This allows for predictability in offspring traits even without genetic mixing.",
+      "question": "Do asexual organisms follow Mendelian inheritance patterns?"
+    },
+    {
+      "context": "Asexual reproduction often leads to rapid population growth because every organism can reproduce alone, contributing to the population. However, this also makes them vulnerable to environmental changes and diseases, as lack of genetic variation can limit adaptability.",
+      "question": "What is a downside of rapid asexual reproduction?"
+    },
+    {
+      "context": "Some asexual organisms can undergo mutations that change genetic traits over generations. While mutation rates may be low, they act as a source of genetic variation, which can introduce new traits into the population, potentially allowing for adaptation to changing environments.",
+      "question": "How do mutations influence asexual organisms?"
+    }
+  ]
+}

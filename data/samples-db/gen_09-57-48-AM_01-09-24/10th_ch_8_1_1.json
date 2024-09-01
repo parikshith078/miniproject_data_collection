@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The sex of a newborn individual is determined in various ways across different species, some relying on environmental cues.",
+      "question": "How is sex determination varied in species?"
+    },
+    {
+      "context": "In certain animals, like a few reptiles, the temperature affects whether fertilized eggs develop as male or female.",
+      "question": "What role does temperature play in sex determination?"
+    },
+    {
+      "context": "Other animals, such as snails, indicate that sex is not always genetically determined, as they can change sex.",
+      "question": "How can snails change their sex?"
+    },
+    {
+      "context": "In humans, however, the sex of an individual is largely genetically determined by inherited genes from the parents.",
+      "question": "What determines human sex at birth?"
+    },
+    {
+      "context": "The two sexes participating in sexual reproduction must be somewhat different.",
+      "question": "Why must the sexes in reproduction differ?"
+    }
+  ]
+}

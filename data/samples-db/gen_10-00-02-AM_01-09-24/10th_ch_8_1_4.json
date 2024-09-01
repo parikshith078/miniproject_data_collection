@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "In a Mendelian genetic experiment, tall plants were bred with short plants. The progeny displayed a mix of characteristics, indicating that the traits are inherited from both parents. The genetic make-up of the tall parent must align with this inheritance pattern.",
+      "question": "What does the short phenotype suggest about the tall parent?"
+    },
+    {
+      "context": "Studies on eye color have shown a correlation between children's eye color and that of their parents. This suggests a possible genetic basis for eye color inheritance but doesn't clearly indicate if the trait is dominant or recessive.",
+      "question": "Can we conclude eye color is dominant or recessive?"
+    },
+    {
+      "context": "To determine the dominant coat color in dogs, one could conduct a breeding experiment with various breeds. The offspring's coat colors would be observed to deduce the inheritance patterns of the coat color traits.",
+      "question": "What is a method to find dominant dog coat colors?"
+    },
+    {
+      "context": "Mendelian genetics explains that both male and female parents provide genetic material at conception. This process ensures that the progeny receives a balanced genetic contribution from each parent, affecting traits in predictable ways.",
+      "question": "How is genetic contribution from parents ensured in offspring?"
+    }
+  ]
+}

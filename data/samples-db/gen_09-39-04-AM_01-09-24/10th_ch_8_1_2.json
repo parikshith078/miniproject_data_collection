@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In some animals like a few reptiles, the temperature at which fertilised eggs are kept determines whether the animals developing in the eggs will be male or female.",
+      "question": "How does temperature affect sex in certain reptiles?"
+    },
+    {
+      "context": "In other animals, such as snails, individuals can change sex, indicating that sex is not genetically determined.",
+      "question": "Which animal can change sex, showing non-genetic determination of sex?"
+    },
+    {
+      "context": "However, in human beings, the sex of the individual is largely genetically determined.",
+      "question": "What primarily determines sex in humans?"
+    },
+    {
+      "context": "In some animals like a few reptiles, the temperature at which fertilised eggs are kept determines whether the animals developing in the eggs will be male or female.",
+      "question": "What environmental factor influences sex determination in some reptiles?"
+    },
+    {
+      "context": "Thus, in some animals like a few reptiles, the temperature at which fertilised eggs are kept determines whether the animals developing in the eggs will be male or female.",
+      "question": "Which developmental factor is crucial for sex determination in reptiles?"
+    }
+  ]
+}

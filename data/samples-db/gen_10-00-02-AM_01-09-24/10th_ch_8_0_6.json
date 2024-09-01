@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Cellular DNA is the information source for making proteins in the cell. A section of DNA that provides information for one protein is called the gene for that protein. How does the mechanism of heredity work?",
+      "question": "What is the role of cellular DNA?"
+    },
+    {
+      "context": "Let us take the example of tallness as a characteristic. We know that plants have hormones that can trigger growth. Plant height can thus depend on the amount of a particular plant hormone.",
+      "question": "How does tallness in plants relate to hormones?"
+    },
+    {
+      "context": "If this enzyme works efficiently, a lot of hormone will be made, and the plant will be tall. If the gene for that enzyme has an alteration that makes the enzyme less efficient, the amount of hormone will be less, and the plant will be short.",
+      "question": "What happens if the enzyme is less efficient?"
+    },
+    {
+      "context": "Thus, genes control characteristics, or traits. If the interpretations of Mendelian experiments we have been discussing are correct, then both parents must be contributing equally to the DNA of the progeny during sexual reproduction.",
+      "question": "How do parents contribute to offspring traits?"
+    }
+  ]
+}

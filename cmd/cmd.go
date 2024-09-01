@@ -20,7 +20,7 @@ func RunFullCycle(txtFilesFolder string) error {
 		return err
 	}
 	fmt.Println("Aggregating samples...")
-	utils.AggregateSamples("./aggregated-samples", sampleFolderPath)
+	utils.AggregateSamples("./data/aggregated-samples", sampleFolderPath)
 	return nil
 }
 

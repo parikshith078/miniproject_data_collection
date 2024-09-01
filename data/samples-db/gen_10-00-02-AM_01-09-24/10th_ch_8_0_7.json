@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "If both parents can help determine the trait in the progeny, both parents must be contributing a copy of the same gene. This means that each pea plant must have two sets of all genes, one inherited from each parent.",
+      "question": "How do parents contribute to trait determination?"
+    },
+    {
+      "context": "This means that each pea plant must have two sets of all genes, one inherited from each parent. For this mechanism to work, each germ cell must have only one gene set.",
+      "question": "Why do germ cells have only one gene set?"
+    },
+    {
+      "context": "How do germ-cells make a single set of genes from the normal two copies that all other cells in the body have? If progeny plants inherited a single whole gene set from each parent, then the experiment explained in Fig. 8.5 cannot work.",
+      "question": "What is the significance of germ cells having a single gene set?"
+    },
+    {
+      "context": "This is explained by the fact that each gene set is present, not as a single long thread of DNA, but as separate independent pieces, each called a chromosome.",
+      "question": "What are chromosomes in relation to inheritance?"
+    },
+    {
+      "context": "When two germ cells combine, they will restore the normal number of chromosomes in the progeny, ensuring the stability of the DNA of the species.",
+      "question": "What happens when two germ cells combine?"
+    }
+  ]
+}

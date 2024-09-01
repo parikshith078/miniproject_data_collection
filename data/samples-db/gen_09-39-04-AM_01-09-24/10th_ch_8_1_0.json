@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Variations arising during the process of reproduction can be inherited. These variations may lead to increased survival of the individuals. Sexually reproducing individuals have two copies of genes for the same trait.",
+      "question": "What leads to increased survival in reproduction?"
+    },
+    {
+      "context": "If the copies are not identical, the trait that gets expressed is called the dominant trait and the other is called the recessive trait.",
+      "question": "What are dominant and recessive traits?"
+    },
+    {
+      "context": "Traits in one individual may be inherited separately, giving rise to new combinations of traits in the offspring of sexual reproduction.",
+      "question": "How do traits combine in sexual reproduction?"
+    },
+    {
+      "context": "Sexually reproducing individuals have two copies of genes for the same trait. If the copies are not identical, the trait that gets expressed is called the dominant trait.",
+      "question": "What happens when gene copies are not identical?"
+    }
+  ]
+}

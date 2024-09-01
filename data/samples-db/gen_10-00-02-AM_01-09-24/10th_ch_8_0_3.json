@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Inherited Traits relate to the genetic similarity and differences between parents and offspring, showing variation due to both maternal and paternal DNA contributions.",
+      "question": "What influences a child's traits?"
+    },
+    {
+      "context": "Mendel's experiments over a century ago helped establish the rules of inheritance, demonstrating how traits are passed from parents to offspring.",
+      "question": "Who is known for the rules of inheritance?"
+    },
+    {
+      "context": "A child shows a mix of traits from both parents, as they each contribute equal genetic material that influences various characteristics.",
+      "question": "How do parents contribute to a child's traits?"
+    },
+    {
+      "context": "The genetic material from both father and mother provides two versions of each trait in the child, leading to unique combinations.",
+      "question": "How many versions of each trait does a child have?"
+    },
+    {
+      "context": "Despite inheriting traits from parents, no child looks exactly like either parent due to the complex interactions of genes and DNA.",
+      "question": "Why does a child not look exactly like its parents?"
+    }
+  ]
+}

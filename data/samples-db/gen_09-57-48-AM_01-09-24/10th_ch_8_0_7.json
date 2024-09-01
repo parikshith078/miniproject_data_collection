@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In genetics, the tallness trait was expressed in the F1 plants, while the shortness trait was inherited but not expressed. This is an example of dominant and recessive traits, with tallness being dominant and shortness recessive.",
+      "question": "Which trait is dominant in the F1 plants?"
+    },
+    {
+      "context": "The F1 plants showed that tallness was expressed, indicating that it is a dominant trait. The shortness trait was inherited but not shown, categorizing it as a recessive trait.",
+      "question": "What is the definition of a recessive trait?"
+    },
+    {
+      "context": "The F1 generation demonstrated that although both traits were inherited, only the dominant trait of tallness was visible. This illustrates the principle of dominance in genetics.",
+      "question": "What does it mean when a trait is dominant?"
+    },
+    {
+      "context": "In the F1 generation, the tall plants exhibit the dominant trait, while the short plants represent the recessive trait, helping to illustrate the concept of trait inheritance.",
+      "question": "What happens to recessive traits in dominant trait cases?"
+    },
+    {
+      "context": "In this genetic observation, the tallness trait overshadowed the shortness trait, leading to a clear illustration of how dominant traits can suppress the expression of recessive traits in plant genetics.",
+      "question": "How does tallness relate to shortness in this experiment?"
+    }
+  ]
+}

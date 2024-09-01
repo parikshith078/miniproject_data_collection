@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cellular DNA is the information source for making proteins in the cell. A section of DNA that provides information for one protein is called the gene for that protein. Thus, genes control characteristics, or traits.",
+      "question": "What is a gene responsible for?"
+    },
+    {
+      "context": "If both parents can help determine the trait in the progeny, both parents must be contributing a copy of the same gene.",
+      "question": "How do parents influence traits in progeny?"
+    },
+    {
+      "context": "A section of DNA that provides information for one protein is called the gene for that protein. Thus, genes control characteristics, or traits.",
+      "question": "What defines a gene in cellular DNA?"
+    },
+    {
+      "context": "Cellular DNA is the information source for making proteins in the cell. A section of DNA that provides information for one protein is called the gene for that protein.",
+      "question": "What role does DNA play in protein synthesis?"
+    },
+    {
+      "context": "Thus, genes control characteristics, or traits. If both parents can help determine the trait in the progeny, both parents must be contributing a copy of the same gene.",
+      "question": "How do genes influence physical traits?"
+    }
+  ]
+}

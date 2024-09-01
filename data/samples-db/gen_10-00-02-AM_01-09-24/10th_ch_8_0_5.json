@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Tallness and round seeds are thus dominant traits. But what happens when these F1 progeny are used to generate F2 progeny by self-pollination? A Mendelian experiment will find that some F2 progeny are tall plants with round seeds, and some were short plants with wrinkled seeds.",
+      "question": "What traits are dominant in the F1 progeny?"
+    },
+    {
+      "context": "Some of them would be tall, but have wrinkled seeds, while others would be short, but have round seeds. You can see as to how new combinations of traits are formed in F2 offspring when factors controlling for seed shape and seed colour recombine to form zygote leading to form F2 offspring.",
+      "question": "What new combinations appear in F2 offspring?"
+    },
+    {
+      "context": "What happens when pea plants showing two different characteristics, rather than just one, are bred with each other?",
+      "question": "What is studied by crossing different pea plant traits?"
+    },
+    {
+      "context": "However, there would also be some F2 progeny that showed new combinations. Some of them would be tall, but have wrinkled seeds, while others would be short, but have round seeds.",
+      "question": "What are the two inherited traits mentioned?"
+    },
+    {
+      "context": "They are all tall and have round seeds. Tallness and round seeds are thus dominant traits.",
+      "question": "What do the F1 progeny of the plants exhibit?"
+    },
+    {
+      "context": "Thus, the tall/short trait and the round seed/wrinkled seed trait are independently inherited.",
+      "question": "What does it mean for traits to be independently inherited?"
+    }
+  ]
+}

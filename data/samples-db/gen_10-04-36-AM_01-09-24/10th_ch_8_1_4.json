@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Mendel conducted experiments using pea plants to observe how traits were inherited. He discovered that traits could be categorized as dominant or recessive, depending on whether one trait masked the expression of another in offspring.",
+      "question": "What did Mendel find about dominant and recessive traits?"
+    },
+    {
+      "context": "In his experiments, Mendel observed that when he cross-bred plants with different traits, some traits appeared in the offspring regardless of the parental traits. This led him to conclude that traits are inherited independently and do not affect each other’s inheritance pattern.",
+      "question": "How did Mendel demonstrate independent inheritance of traits?"
+    },
+    {
+      "context": "In a scenario where a man with blood group A marries a woman with blood group O and their daughter has blood group O, it implies that the daughter received two recessive alleles. However, to determine the dominance of blood group A or O, further genetic details would be required.",
+      "question": "Is blood group A or O dominant based on this scenario?"
+    },
+    {
+      "context": "The sex of a child in human beings is determined by the combination of sex chromosomes from both parents. Females contribute an X chromosome, while males contribute either an X or a Y chromosome, with XY resulting in a male and XX resulting in a female.",
+      "question": "How is a child's sex determined in humans?"
+    }
+  ]
+}

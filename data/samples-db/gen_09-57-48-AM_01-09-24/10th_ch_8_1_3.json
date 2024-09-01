@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "Mendel’s experiments demonstrate that traits can be either dominant or recessive. He showed that sexually reproducing individuals have two copies of genes for the same trait, thus leading to the expression of either a dominant or recessive trait.",
+      "question": "What are dominant and recessive traits?"
+    },
+    {
+      "context": "Mendel also showed that traits are inherited independently, which means new combinations of traits can arise in offspring. For example, variations during reproduction can lead to differences that may enhance survival.",
+      "question": "What does independent inheritance of traits mean?"
+    },
+    {
+      "context": "Lastly, the determination of a child’s sex in humans is linked to whether the paternal chromosome is X (for girls) or Y (for boys).",
+      "question": "How is a child's sex determined in humans?"
+    }
+  ]
+}

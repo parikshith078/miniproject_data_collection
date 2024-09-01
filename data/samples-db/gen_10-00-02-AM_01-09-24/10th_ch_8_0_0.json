@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The original organism at the top will give rise to, say, two individuals, similar in body design, but with subtle differences. Each of them, in turn, will give rise to two individuals in the next generation. Each of the four individuals in the bottom row will be different from each other.",
+      "question": "What results from the original organism?"
+    },
+    {
+      "context": "The number of successful variations are maximized by the process of sexual reproduction. If we observe a field of sugarcane we find very little variations among the individual plants.",
+      "question": "How does sexual reproduction affect variations?"
+    },
+    {
+      "context": "While some of these differences will be unique, others will be inherited from their respective parents, who were different from each other. We have seen that reproductive processes give rise to new individuals that are similar, but subtly different.",
+      "question": "What contributes to the differences in offspring?"
+    },
+    {
+      "context": "In a number of animals including human beings, which reproduce sexually, quite distinct variations are visible among different individuals. In this chapter, we shall be studying the mechanism by which variations are created and inherited.",
+      "question": "What is visible among sexually reproducing animals?"
+    },
+    {
+      "context": "We have discussed how some amount of variation is produced even during asexual reproduction. And the number of successful variations are maximized by the process of sexual reproduction.",
+      "question": "What type of reproduction produces variations?"
+    }
+  ]
+}

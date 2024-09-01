@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In human populations, traits can vary among individuals. For example, if a trait A exists in 10% of a population of an asexually reproducing species, and trait B exists in 60%, this indicates a difference in prevalence between the two traits. Variations in populations can arise due to genetic factors and environmental influences.",
+      "question": "Which trait is likely older, A or B?"
+    },
+    {
+      "context": "Traits in populations can exhibit varying degrees of prevalence. A trait that is seen in a larger percentage of the population suggests it may have a more established presence. In the case of trait A at 10% and trait B at 60%, this difference may indicate the likelihood of which trait emerged first in the population's history.",
+      "question": "What does the prevalence of traits indicate?"
+    },
+    {
+      "context": "The existence of two traits in a population can provide insights into their historical emergence. If trait A is present in only 10% of the population while trait B is significantly more common at 60%, one might look to the percentages as an indicator of the relative timing of when these traits arose in the broader context of the species' evolutionary history.",
+      "question": "How can prevalence indicate trait emergence?"
+    },
+    {
+      "context": "In studying inherited traits within populations, researchers often analyze the percentage of individuals exhibiting certain traits. Trait A being present in 10% suggests it might be less established than trait B which is present in 60%. This comparison can lead to hypotheses about evolutionary timelines for these traits.",
+      "question": "What might lower prevalence suggest about trait A?"
+    },
+    {
+      "context": "The variations in traits across a population highlight the complexities of inheritance and evolution. If a trait like A shows up in only 10% compared to trait B's 60%, it may imply that trait B has adapted more successfully in the environment or has been favored in reproductive contexts.",
+      "question": "What does 60% prevalence suggest about trait B?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Variation may lead to increased survival of the individuals. Sexually reproducing individuals have two copies of genes for the same trait. If the copies are not identical, the trait that gets expressed is called the dominant trait.",
+      "question": "What is expressed when gene copies are not identical?"
+    },
+    {
+      "context": "If the copies are not identical, the trait that gets expressed is called the dominant trait and the other is called the recessive trait. Traits in one individual may be inherited separately, giving rise to new combinations.",
+      "question": "What are dominant and recessive traits?"
+    },
+    {
+      "context": "Sexually reproducing individuals inherit traits separately, giving rise to new combinations of traits in the offspring of sexual reproduction. In human beings, the sex of the child depends on the paternal chromosome.",
+      "question": "How is sex determined in humans?"
+    },
+    {
+      "context": "In human beings, the sex of the child depends on whether the paternal chromosome is X (for girls) or Y (for boys). Sex is determined by different factors in various species.",
+      "question": "What chromosomes determine a child's sex?"
+    },
+    {
+      "context": "These variations may lead to increased survival of the individuals. Traits in one individual may be inherited separately, giving rise to new combinations of traits in the offspring of sexual reproduction.",
+      "question": "How do variations affect survival in individuals?"
+    }
+  ]
+}
