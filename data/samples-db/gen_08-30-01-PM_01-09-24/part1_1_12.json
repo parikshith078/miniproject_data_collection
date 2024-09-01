@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Chloroplasts are green coloured plastids that possess the photosynthetic pigment chlorophyll. Each chloroplast consists of a double membraned envelope and a matrix, with inner membranes arranged as lamellae.",
+      "question": "What pigment do chloroplasts contain?"
+    },
+    {
+      "context": "The inner membrane of chloroplasts is arranged along the length as lamellae, thickened at certain regions forming structures called grana, which look like piles of coins.",
+      "question": "What are the structures in chloroplasts called that resemble piles of coins?"
+    },
+    {
+      "context": "Each granum in chloroplasts consists of disc shaped membranous sacs known as thylakoids where chlorophyll is located, while the non-thylakoid portion is called the stroma.",
+      "question": "What are the disc shaped sacs in a granum called?"
+    },
+    {
+      "context": "The stroma in chloroplasts contains various enzymes that are involved in the process of photosynthesis, playing a crucial role in the overall function of the chloroplast.",
+      "question": "What does the stroma in chloroplasts contain?"
+    },
+    {
+      "context": "Chloroplasts have a double membraned envelope and diverse internal structures, which together facilitate the process of photosynthesis in plant cells.",
+      "question": "What is the primary function of chloroplasts?"
+    }
+  ]
+}

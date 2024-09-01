@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Thallophyta: Simple body design; with no differentiation into root, stem and leaves.",
+      "question": "What distinguishes Thallophyta from other divisions?"
+    },
+    {
+      "context": "Bryophyta: Body is differentiated into stem and leaf-like structures. Vascular system is absent.",
+      "question": "What structures are found in Bryophyta?"
+    },
+    {
+      "context": "Pteridophyta: Body is differentiated into root, stem and leaves. Vascular system is present. Reproductive organs are inconspicuous. Seeds are not produced.",
+      "question": "What features characterize Pteridophyta?"
+    },
+    {
+      "context": "Gymnosperms: Seeds are naked.",
+      "question": "What is a key characteristic of Gymnosperms?"
+    },
+    {
+      "context": "Angiosperms: Seeds are covered.",
+      "question": "How are seeds classified in Angiosperms?"
+    }
+  ]
+}

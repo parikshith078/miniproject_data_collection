@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cardiac muscles are involuntary muscles that control the contraction and relaxation of the heart. The cells of cardiac muscles are in the form of branched fibres, are cylindrical, and uninucleate.",
+      "question": "What type of muscles are cardiac muscles?"
+    },
+    {
+      "context": "Striations are present in these muscles, which are capable of continuous contraction and relaxation throughout life. Three features of cardiac muscles are:",
+      "question": "What are the features of cardiac muscles?"
+    },
+    {
+      "context": "Cardiac muscles are involuntary muscles that contract rapidly, but do not get fatigued. The cells of cardiac muscles are cylindrical, branched, and uninucleate.",
+      "question": "Do cardiac muscles get fatigued?"
+    },
+    {
+      "context": "Cardiac muscles are involuntary muscles that control the contraction and relaxation of the heart. They control the contraction and relaxation of the heart.",
+      "question": "What do cardiac muscles control?"
+    },
+    {
+      "context": "The cells of cardiac muscles are cylindrical, branched, and uninucleate. Striations are present in these muscles, which are capable of continuous contraction.",
+      "question": "What shape are the cells of cardiac muscles?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Lysosomes are small membrane bound vesicles which contain various types of digestive enzymes. These serve as intracellular digestive system, hence they are called digestive bags.",
+      "question": "What are lysosomes often referred to as?"
+    },
+    {
+      "context": "They are produced by the joint activity of Endoplasmic reticulum and Golgi apparatus.",
+      "question": "Which organelles produce lysosomes?"
+    },
+    {
+      "context": "If the membrane of Lysosome happens to get ruptured, the enzymes of Lysosome would digest the entire cellular structure causing death of the cell.",
+      "question": "What happens if a lysosome membrane ruptures?"
+    },
+    {
+      "context": "So Lysosomes are called ‘suicide bags’.",
+      "question": "Why are lysosomes termed 'suicide bags'?"
+    },
+    {
+      "context": "Lysosomes are small membrane bound vesicles which contain various types of digestive enzymes. They are produced by the joint activity of Endoplasmic reticulum and Golgi apparatus.",
+      "question": "What do lysosomes contain that aids in digestion?"
+    },
+    {
+      "context": "These serve as intracellular digestive system, hence they are called digestive bags.",
+      "question": "What function do lysosomes serve in cells?"
+    },
+    {
+      "context": "They are produced by the joint activity of Endoplasmic reticulum and Golgi apparatus.",
+      "question": "What two structures collaborate to produce lysosomes?"
+    },
+    {
+      "context": "If the membrane of Lysosome happens to get ruptured, the enzymes of Lysosome would digest the entire cellular structure.",
+      "question": "What would lysosomal enzymes do if the lysosome ruptured?"
+    }
+  ]
+}

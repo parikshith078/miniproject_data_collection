@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The nervous system can be divided into two parts mostly on the basis of a functional difference in responses. The somatic nervous system (SNS) is responsible for conscious perception and voluntary motor responses.",
+      "question": "What does the somatic nervous system control?"
+    },
+    {
+      "context": "Voluntary motor response means the contraction of skeletal muscle, but those contractions are not always voluntary in the sense that you have to want to perform them.",
+      "question": "Are all voluntary muscle contractions conscious?"
+    },
+    {
+      "context": "Some somatic motor responses are reflexes, and often happen without a conscious decision to perform them.",
+      "question": "What is a characteristic of somatic motor responses?"
+    },
+    {
+      "context": "If your friend jumps out from behind a corner and yells “Boo!” you will be startled and you might scream or leap back.",
+      "question": "What example illustrates a reflex action?"
+    },
+    {
+      "context": "You didn’t decide to do that, and you may not have wanted to give your friend a reason to laugh at your expense, but it is a reflex involving skeletal muscle contractions.",
+      "question": "Why might you not want to scream in response to a reflex?"
+    }
+  ]
+}

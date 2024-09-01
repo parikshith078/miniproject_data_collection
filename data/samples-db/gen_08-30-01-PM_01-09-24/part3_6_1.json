@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Neurons are the functional units of the nervous system. The three main parts of a neuron are axon, dendrite, and cell body. Functions of the three parts of a neuron: Axon: It conducts messages away from the cell body.",
+      "question": "What are the three main parts of a neuron?"
+    },
+    {
+      "context": "Dendrite: It receives information from axon of another cell and conducts the messages towards the cell body. Cell body: It contains nucleus, mitochondria, and other organelles.",
+      "question": "What is the role of dendrites in neurons?"
+    },
+    {
+      "context": "Cell body: It contains nucleus, mitochondria, and other organelles. It is mainly concerned with the maintenance and growth.",
+      "question": "What does the cell body of a neuron contain?"
+    },
+    {
+      "context": "The three main parts of a neuron are axon, dendrite, and cell body. Functions of the three parts of a neuron: Axon: It conducts messages away from the cell body.",
+      "question": "What is the function of the axon in a neuron?"
+    },
+    {
+      "context": "Dendrite: It receives information from axon of another cell and conducts the messages towards the cell body.",
+      "question": "How do dendrites contribute to neuronal communication?"
+    },
+    {
+      "context": "Neurons are the functional units of the nervous system. The three main parts of a neuron are axon, dendrite, and cell body.",
+      "question": "What are neurons considered in the nervous system?"
+    }
+  ]
+}

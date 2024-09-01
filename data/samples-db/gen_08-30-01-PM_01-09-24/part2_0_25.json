@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The cells are cube-shaped in cuboidal epithelium. Linings of kidney tubules and ducts of salivary glands are composed of cuboidal epithelium.",
+      "question": "What shape are the cells in cuboidal epithelium?"
+    },
+    {
+      "context": "Cuboidal epithelium provides mechanical support and may play the role of secretion.",
+      "question": "What role do cuboidal cells play in secretion?"
+    },
+    {
+      "context": "Cuboidal cells provide mechanical support and are found in various organs.",
+      "question": "Where is cuboidal epithelium commonly found?"
+    },
+    {
+      "context": "Cells of epithelium may play the role of secretion and then they are called glandular epithelium.",
+      "question": "What type of epithelium performs secretion?"
+    },
+    {
+      "context": "Linings of kidney tubules and ducts of salivary glands are composed of cuboidal epithelium.",
+      "question": "Which organs have cuboidal epithelium lining?"
+    }
+  ]
+}

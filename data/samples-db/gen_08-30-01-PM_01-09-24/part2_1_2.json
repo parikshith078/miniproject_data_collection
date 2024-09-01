@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Tissue is defined as a group of cells that are similar in structure and/or work together to achieve a particular function. The three main types of simple tissues in plants are: (i) Parenchyma (ii) Collenchyma (iii) Sclerenchyma.",
+      "question": "What are the main types of simple tissues?"
+    },
+    {
+      "context": "Complex tissues in plants are made up of more than one type of cells, while simple tissues consist of only one type.",
+      "question": "How do complex tissues differ from simple tissues?"
+    },
+    {
+      "context": "The three main types of simple tissues in plants include Parenchyma, Collenchyma, and Sclerenchyma.",
+      "question": "List the three types of simple plant tissues."
+    },
+    {
+      "context": "Tissue is defined as a group of cells that are similar in structure and/or work together to achieve a particular function.",
+      "question": "What is the definition of tissue?"
+    },
+    {
+      "context": "Parenchyma, Collenchyma, and Sclerenchyma are the main types of simple tissues in plants.",
+      "question": "Name one type of simple tissue in plants."
+    }
+  ]
+}

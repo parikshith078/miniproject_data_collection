@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The parenchyma cells associated with phloem are called phloem parenchyma. They store starch and fats.",
+      "question": "What do phloem parenchyma cells store?"
+    },
+    {
+      "context": "The parenchyma cells associated with phloem are called phloem parenchyma. They store starch and fats.",
+      "question": "What type of cells are phloem parenchyma?"
+    },
+    {
+      "context": "The parenchyma cells associated with phloem are called phloem parenchyma. They store starch and fats.",
+      "question": "What is the role of phloem parenchyma cells?"
+    },
+    {
+      "context": "The parenchyma cells associated with phloem are called phloem parenchyma. They store starch and fats.",
+      "question": "Which substances are stored in phloem parenchyma?"
+    },
+    {
+      "context": "The parenchyma cells associated with phloem are called phloem parenchyma. They store starch and fats.",
+      "question": "Are phloem parenchyma cells involved in storage?"
+    }
+  ]
+}

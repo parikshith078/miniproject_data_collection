@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Organisms need energy to perform various activities. The energy is supplied by the nutrients. Organisms need various raw materials for growth and repair. These raw materials are provided by nutrients.",
+      "question": "What do organisms need for growth?"
+    },
+    {
+      "context": "Energy is supplied by the nutrients. Organisms need various raw materials for growth and repair. These raw materials are provided by nutrients.",
+      "question": "What supplies energy to organisms?"
+    },
+    {
+      "context": "The energy is supplied by the nutrients. Organisms need various raw materials for growth and repair.",
+      "question": "What do nutrients provide for organisms?"
+    },
+    {
+      "context": "Organisms need energy to perform various activities. The energy is supplied by the nutrients.",
+      "question": "What do organisms perform with energy?"
+    },
+    {
+      "context": "Nutrients provide energy and raw materials for growth and repair. Organisms depend on nutrients for these needs.",
+      "question": "Why do organisms depend on nutrients?"
+    }
+  ]
+}

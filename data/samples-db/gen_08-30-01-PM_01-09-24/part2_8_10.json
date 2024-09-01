@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The whole combination of animals, plants and non-living beings which by their interaction make the planet earth a live and vibrant place is called biosphere. Living things constitute the biotic component of the biosphere.",
+      "question": "What is referred to as the biosphere?"
+    },
+    {
+      "context": "The air, the water and the soil form the non-living or abiotic component of the biosphere. The air is called the hygrosphere, the water is hydrosphere and the soil is called lithosphere.",
+      "question": "What do we call the non-living components of the biosphere?"
+    },
+    {
+      "context": "Living things constitute the biotic component of the biosphere. The air, the water and the soil form the non-living or abiotic component of the biosphere.",
+      "question": "What are the biotic components of the biosphere?"
+    },
+    {
+      "context": "The air is called the hygrosphere, the water is hydrosphere and the soil is called lithosphere.",
+      "question": "What is the term for the soil in the biosphere?"
+    },
+    {
+      "context": "The air, the water and the soil form the non-living or abiotic component of the biosphere.",
+      "question": "What are the three main abiotic components of the biosphere?"
+    }
+  ]
+}

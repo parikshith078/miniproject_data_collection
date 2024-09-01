@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Multicellular organisms such as humans possess complex body designs. They have specialised cells and tissues for performing various necessary functions of the body such as intake of food and oxygen.",
+      "question": "What do multicellular organisms have for functions?"
+    },
+    {
+      "context": "They have specialised cells and tissues for performing various necessary functions of the body such as intake of food and oxygen.",
+      "question": "What functions do specialised cells perform?"
+    },
+    {
+      "context": "Humans are an example of multicellular organisms that rely on diffusion for oxygen intake.",
+      "question": "How do multicellular organisms like humans take in oxygen?"
+    },
+    {
+      "context": "The specialised cells and tissues in multicellular organisms help with essential functions like oxygen intake.",
+      "question": "Why are specialised cells important for multicellular organisms?"
+    },
+    {
+      "context": "Multicellular organisms exhibit a complex structure to efficiently absorb food and oxygen.",
+      "question": "Why do multicellular organisms need a complex structure?"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Viral diseases are extremely widespread infections caused by viruses, a type of microorganism. There are many types of viruses that cause a wide variety of viral diseases.",
+      "question": "What are viral diseases caused by?"
+    },
+    {
+      "context": "The most common type of viral disease is the common cold, which is caused by a viral infection of the upper respiratory tract.",
+      "question": "What causes the common cold?"
+    },
+    {
+      "context": "Other common viral diseases include Chickenpox, Flu (influenza), Herpes, Human immunodeficiency virus (HIV/AIDS)...",
+      "question": "Name three common viral diseases."
+    },
+    {
+      "context": "Viral diseases are extremely widespread infections caused by viruses, a type of microorganism. There are many types of viruses that cause a wide variety of viral diseases.",
+      "question": "Are viral diseases caused by fungi or viruses?"
+    },
+    {
+      "context": "Other common viral diseases include Chickenpox, Flu (influenza), Herpes, and Human papillomavirus (HPV).",
+      "question": "Which viral disease is caused by HPV?"
+    },
+    {
+      "context": "Viral diseases are extremely widespread infections caused by viruses, a type of microorganism. The most common type of viral disease is the common cold.",
+      "question": "What is the most common viral disease?"
+    },
+    {
+      "context": "Common viral diseases include Chickenpox, Flu (influenza), Herpes, and Human immunodeficiency virus (HIV/AIDS).",
+      "question": "What type of infection does HIV cause?"
+    },
+    {
+      "context": "Viral gastroenteritis, commonly known as stomach flu, is a viral disease affecting the stomach and intestines.",
+      "question": "What is another name for viral gastroenteritis?"
+    },
+    {
+      "context": "Viral diseases can lead to severe health issues such as meningitis and pneumonia.",
+      "question": "Which two serious health issues can result from viral diseases?"
+    },
+    {
+      "context": "Viral diseases are extremely widespread and include illnesses like mumps, measles, and rubella.",
+      "question": "What do mumps, measles, and rubella have in common?"
+    }
+  ]
+}

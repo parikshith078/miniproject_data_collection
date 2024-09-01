@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "The separating out of materials such as rubber, glass, paper, and scrap metal from refuse and reprocessing them for reuse is named as reclamation of waste or recycling. Paper (54% recovery) can be repulped and reprocessed into recycled paper, cardboard, and other products.",
+      "question": "What is meant by reclamation of waste?"
+    },
+    {
+      "context": "Glass (20% recovery) can be crushed, remelted, and made into new containers or crushed used as a substitute for gravel or sand in construction materials such as concrete and asphalt.",
+      "question": "How can glass waste be reused?"
+    },
+    {
+      "context": "Food waste and yard wastes (leaves, grass, etc.) can be composted to produce humus soil conditioner.",
+      "question": "What can food and yard waste be composted into?"
+    },
+    {
+      "context": "Paper (54% recovery) can be repulped and reprocessed into recycled paper, cardboard, and other products. Glass (20% recovery) can be crushed, remelted, and made into new containers.",
+      "question": "What percentage of paper is recoverable?"
+    },
+    {
+      "context": "Recycling includes separating materials like rubber, glass, and paper from refuse for reuse, known as reclamation.",
+      "question": "What materials are commonly separated for recycling?"
+    },
+    {
+      "context": "Food waste and yard wastes (leaves, grass, etc.) can be composted to produce humus soil conditioner, improving soil quality.",
+      "question": "What is the benefit of composting food and yard waste?"
+    },
+    {
+      "context": "Recycled paper can be made from repulped paper, with cardboard being one of the products created through this process.",
+      "question": "What products can be created from recycled paper?"
+    },
+    {
+      "context": "Glass can be crushed and used as a substitute for gravel or sand in construction materials such as concrete and asphalt.",
+      "question": "In construction, how can crushed glass be utilized?"
+    }
+  ]
+}

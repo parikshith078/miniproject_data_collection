@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A cell performs a variety of functions such as i) Synthesis of complex molecules and their breakdown, ii) Production of energy, iii) Secretion of certain substances, etc. These activities of the cell are performed by different cell organelles. These organelles are enclosed by membranes.",
+      "question": "What do cell organelles perform?"
+    },
+    {
+      "context": "These activities of the cell are performed by different cell organelles. These organelles are enclosed by membranes. To understand the functioning of the cell, it is necessary to know briefly about the structure of cell organelles.",
+      "question": "Why is it important to know organelles' structure?"
+    },
+    {
+      "context": "A cell performs a variety of functions such as i) Synthesis of complex molecules and their breakdown, ii) Production of energy, iii) Secretion of certain substances, etc.",
+      "question": "What are three functions performed by cells?"
+    },
+    {
+      "context": "The activities of the cell are performed by different cell organelles. These organelles are enclosed by membranes. To understand the functioning of the cell, it is necessary to know briefly about the structure of cell organelles.",
+      "question": "What encloses the cell organelles?"
+    },
+    {
+      "context": "These organelles are enclosed by membranes. To understand the functioning of the cell, it is necessary to know briefly about the structure of cell organelles.",
+      "question": "What is necessary to understand cell functioning?"
+    }
+  ]
+}

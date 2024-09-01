@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Water harvesting is an age-old concept in India. Khadins, tanks and nadis in Rajasthan, bandharas and tals in Maharashtra... These are still in use at many places. The traditional water harvesting structures are location specific.",
+      "question": "What are some traditional structures for water harvesting?"
+    },
+    {
+      "context": "The traditional water harvesting structures usually focus on recharging the groundwater rather making an open reservoir. It has several advantages.",
+      "question": "What do traditional water harvesting structures focus on?"
+    },
+    {
+      "context": "Unlike surface water; the groundwater does not evaporate and thus loss because of evaporation is prevented. The groundwater does not provide a breeding ground for the mosquitoes...",
+      "question": "What advantage does groundwater have over surface water?"
+    },
+    {
+      "context": "These are still in use at many places. The traditional water harvesting structures are location specific and have been perfected by people over a long period of time.",
+      "question": "Why have traditional structures been perfected over time?"
+    },
+    {
+      "context": "The traditional water harvesting structures usually focus on recharging the groundwater rather making an open reservoir. It has several advantages.",
+      "question": "What is a primary characteristic of traditional water harvesting methods?"
+    },
+    {
+      "context": "Khadins, tanks and nadis in Rajasthan, bandharas and tals in Maharashtra, bundhis in Madhya Pradesh and Uttar Pradesh... and kattas in Karnataka are some of the ancient water harvesting structures.",
+      "question": "Which states have traditional water harvesting methods mentioned?"
+    }
+  ]
+}

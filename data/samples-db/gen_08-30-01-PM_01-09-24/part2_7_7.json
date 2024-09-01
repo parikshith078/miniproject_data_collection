@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Pasteurella pestis endoparasite of gut of rat flea (which is an ectoparasite of rat and mouse).",
+      "question": "What is the role of the rat flea?"
+    },
+    {
+      "context": "Head louse (Pediculus) and bedbug (Cimex) may also transmit the germs from man to man.",
+      "question": "Which insects can transmit the plague to humans?"
+    }
+  ]
+}

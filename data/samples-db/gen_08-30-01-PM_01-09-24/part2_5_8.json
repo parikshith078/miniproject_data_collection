@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Viral diseases can lead to a variety of complications. These complications include acute bronchitis and pneumonia, both of which can severely impact respiratory health. Additionally, infections like HPV can result in more serious conditions such as cervical cancer. Other consequences include dehydration and seizures, which can be particularly dangerous in vulnerable populations.",
+      "question": "What are complications from viral diseases?"
+    },
+    {
+      "context": "Some patients may experience serious complications from viral infections. For instance, acute bronchitis and pneumonia are common respiratory complications. HPV infection can lead to cervical cancer, while dehydration may occur in viral illnesses that induce vomiting or diarrhea. In severe cases, complications can escalate to shock and coma, indicating a life-threatening situation.",
+      "question": "Which serious condition can arise from HPV?"
+    },
+    {
+      "context": "Many people suffering from viral diseases can experience complications that affect their overall health. Common complications include otitis media (ear infections) and sinusitis, which can lead to further medical issues. In some cases, viral infections can worsen asthma or result in seizures, highlighting the importance of monitoring patients closely during viral illnesses.",
+      "question": "How can viral diseases affect asthma?"
+    },
+    {
+      "context": "Complications resulting from viral diseases can significantly impact health. Individuals may experience acute bronchitis and pneumonia, which can complicate recovery. Dehydration is another common issue, especially when gastrointestinal symptoms are present. Additionally, serious complications like shock and coma may develop, especially in immunocompromised individuals.",
+      "question": "What role does dehydration play in viral diseases?"
+    },
+    {
+      "context": "Viral infections can lead to serious health issues, including a range of complications. For example, individuals may be at risk for secondary bacterial infections following a viral illness. Additionally, frequent life-threatening, opportunistic infections can occur, particularly in those with weakened immune systems, necessitating vigilant medical care and monitoring.",
+      "question": "What are opportunistic infections in viral diseases?"
+    }
+  ]
+}

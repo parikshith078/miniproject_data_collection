@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Water pollution is the contamination of water bodies such as lakes, rivers, ocean and groundwater caused by human activities, which can be harmful to organisms and plants that live in these water bodies. Some of the causes of water pollution are shown in below figure: We use the term water-pollution to cover the following effects: 1. The addition of undesirable substances to water-bodies.",
+      "question": "What is water pollution?"
+    },
+    {
+      "context": "Some of the causes of water pollution are shown in below figure: We use the term water-pollution to cover the following effects: 1. The addition of undesirable substances to water-bodies. These substances could be the fertilizers and pesticides used in farming or they could be poisonous substances, like mercury salts which are used by paper-industries.",
+      "question": "What substances contribute to water pollution?"
+    },
+    {
+      "context": "The removal of desirable substances from water-bodies. Dissolved oxygen is used by the animals and plants that live in water. Any change that reduces the amount of this dissolved oxygen would adversely affect these aquatic organisms.",
+      "question": "What is dissolved oxygen's role in water bodies?"
+    },
+    {
+      "context": "Water pollution effects include: 2. The removal of desirable substances from water-bodies. Dissolved oxygen is used by the animals and plants that live in water. Any change that reduces the amount of this dissolved oxygen would adversely affect these aquatic organisms.",
+      "question": "How does water pollution affect aquatic life?"
+    },
+    {
+      "context": "Water pollution effects include: 3. A change in temperature. Aquatic organisms are used to a certain range of temperature in the water-body where they live, and a sudden marked change in this temperature would be dangerous for them or affect their breeding.",
+      "question": "How does temperature change affect aquatic organisms?"
+    }
+  ]
+}

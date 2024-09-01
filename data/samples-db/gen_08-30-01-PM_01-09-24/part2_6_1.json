@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Typhoid spreads through food and water contaminated with faeces of the patient. House flies may carry the pathogens from the faeces to the food, milk and water. Symptoms of Typhoid: This disease is characterised by the inflammation of ileum and colon.",
+      "question": "How is Typhoid primarily transmitted?"
+    },
+    {
+      "context": "Mary Mallon, called Typhoid Mary was such a case. She was a cook and typhoid carrier, who continued to spread the disease for several years through her food preparation. Mode of transmission of Typhoid: Incubation period varies from 1 -3 weeks.",
+      "question": "Who was Typhoid Mary?"
+    },
+    {
+      "context": "Contamination of food can be reduced by personal hygiene and control of flies. TAB vaccine provides immunity for about 3 years. Antibiotics like ampicillin and chloramphenicol are used to treat typhoid.",
+      "question": "What is the role of the TAB vaccine?"
+    },
+    {
+      "context": "This disease is characterised by the inflammation of ileum and colon, liver and spleen also become enlarged, abdominal pain, pea-soup diarrhoea which may become haemorrhagic, constant fever, extreme weakness, vomiting, rash of rose coloured spots called rose spots.",
+      "question": "What are the main symptoms of Typhoid?"
+    },
+    {
+      "context": "Any patient with typhoid requires the highest standards of nursing together with isolation and hygienic disposal of faeces. The two most important preventive measures are proper sewage treatment and purification of water supplies.",
+      "question": "What are key prevention strategies for Typhoid?"
+    }
+  ]
+}

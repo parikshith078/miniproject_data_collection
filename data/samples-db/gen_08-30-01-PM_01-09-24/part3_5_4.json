@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plant hormones or phytohormones are naturally-occurring organic substances. These are synthesized in one part of the plant body (in minute quantities) and are translocated to other parts when required. The five major types of phytohormones are auxins, gibberellins, cytokinins, abscisic acid, and ethylene.",
+      "question": "What are the five major types of phytohormones?"
+    },
+    {
+      "context": "Some Plant Hormones: Auxin, gibberellins and cytokinin promote growth in plant parts. Abscissic acid inhibits growth in a particular plant part.",
+      "question": "Which hormone inhibits growth in plants?"
+    },
+    {
+      "context": "Auxin, gibberellins and cytokinins promote growth in plant parts. Abscissic acid inhibits growth in a particular plant part.",
+      "question": "Which hormones promote growth in plants?"
+    },
+    {
+      "context": "Plant hormones are synthesized in one part of the plant body (in minute quantities) and are translocated to other parts when required.",
+      "question": "Where are plant hormones synthesized in plants?"
+    },
+    {
+      "context": "Plant hormones or phytohormones are naturally-occurring organic substances that affect plant behavior and growth.",
+      "question": "What are phytohormones and their function?"
+    }
+  ]
+}

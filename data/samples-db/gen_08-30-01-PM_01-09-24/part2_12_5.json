@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Fertilizers which are derived from living organisms are called Bio-fertilizers. The main source of bio-fertilizers are bacteria, cyanobacteria, and fungi.",
+      "question": "What are bio-fertilizers derived from?"
+    },
+    {
+      "context": "Bio-fertilizers are renewable and nonpolluting sources of plant nutrients. They also improve the soil condition.",
+      "question": "How do bio-fertilizers affect soil condition?"
+    },
+    {
+      "context": "Rhizobium and Cyanobacteria such as Anabaena and Nostoc are some common bio-fertilizers.",
+      "question": "Which organisms are examples of bio-fertilizers?"
+    },
+    {
+      "context": "The main source of bio-fertilizers are bacteria, cyanobacteria, and fungi. Bio-fertilizers are renewable and nonpolluting sources of plant nutrients.",
+      "question": "What makes bio-fertilizers renewable and nonpolluting?"
+    }
+  ]
+}

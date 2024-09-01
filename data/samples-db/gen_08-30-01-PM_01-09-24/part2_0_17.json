@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "Phloem conducts food materials from leaves to the other parts of the plant. It is made up of four types of cells. 1. Sieve elements 2. Companion cells 3. Phloem fibres 4. Phloem parenchyma.",
+      "question": "What is the main function of phloem?"
+    },
+    {
+      "context": "Phloem conducts food materials from leaves to the other parts of the plant. It is made up of four types of cells: Sieve elements, Companion cells, Phloem fibres, and Phloem parenchyma.",
+      "question": "What are the four types of cells in phloem?"
+    },
+    {
+      "context": "Phloem conducts food materials from leaves to the other parts of the plant. It is made up of four types of cells: Sieve elements, Companion cells, Phloem fibres, and Phloem parenchyma.",
+      "question": "Name one type of cell found in phloem."
+    }
+  ]
+}

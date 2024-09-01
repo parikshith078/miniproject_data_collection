@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The cells of all plants (except bacteria and cyanobacteria) and animals possess a well-organized nucleus and are called Eukaryotic cells.",
+      "question": "What type of cells have a well-organized nucleus?"
+    },
+    {
+      "context": "Their genetic material is enclosed by a nuclear membrane. They possess membrane-bound organelles like Endoplasmic reticulum, Golgi body, mitochondria, plastids and vacuoles.",
+      "question": "What organelles are found in eukaryotic cells?"
+    },
+    {
+      "context": "The organisms which possess eukaryotic cells are called Eukaryotic organisms or eukaryotes.",
+      "question": "What term describes organisms with eukaryotic cells?"
+    },
+    {
+      "context": "Eukaryotic cells have a well-organized nucleus and possess membrane-bound organelles.",
+      "question": "What distinguishes eukaryotic cells from prokaryotic cells?"
+    },
+    {
+      "context": "Eukaryotic cells include those found in plants, animals, and certain other organisms.",
+      "question": "Which types of organisms have eukaryotic cells?"
+    }
+  ]
+}

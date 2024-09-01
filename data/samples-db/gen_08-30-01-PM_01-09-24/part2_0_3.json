@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In multicellular organisms, the body system is based on the division of labour. It means the cells performing a specific function are grouped together to form a particular tissue.",
+      "question": "What defines the division of labour in multicellular organisms?"
+    },
+    {
+      "context": "The different tissues are organized in a way to provide highest efficiency in functioning of the body.",
+      "question": "How are tissues organized in multicellular organisms?"
+    },
+    {
+      "context": "It means the cells performing a specific function are grouped together to form a particular tissue.",
+      "question": "What is the role of cells in forming tissues?"
+    },
+    {
+      "context": "In multicellular organisms, the body system is based on the division of labour.",
+      "question": "What is the body system based on in multicellular organisms?"
+    },
+    {
+      "context": "The different tissues are organized in a way to provide highest efficiency in functioning of the body.",
+      "question": "Why is tissue organization important in the body?"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Genetic drift occurs when random events cause certain alleles to be passed on to the next generation more frequently than others. This can lead to significant changes in the gene pool of a population. Natural selection, on the other hand, is the process where individuals with advantageous traits are more likely to survive and reproduce, passing those traits on to future generations. Together, these mechanisms can contribute to the emergence of new species over time.",
+      "question": "What is genetic drift's role in speciation?"
+    },
+    {
+      "context": "Natural selection acts on existing variation within a population, favoring traits that improve survival and reproduction. When a population is divided, for example through geographical barriers, the separated gene pools can evolve independently. Over time, genetic drift combined with natural selection can result in populations that are so different that they become distinct species.",
+      "question": "How does natural selection contribute to speciation?"
+    }
+  ]
+}

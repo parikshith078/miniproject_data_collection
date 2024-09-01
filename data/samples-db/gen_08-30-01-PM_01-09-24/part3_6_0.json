@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Receptors are sensory structures (organs/tissues or cells) present all over the body. The receptors are either grouped in case of eye or ear, or scattered in case of skin. Functions of receptors: (i) They sense the external stimuli such as heat or pain.",
+      "question": "What do receptors sense in the body?"
+    },
+    {
+      "context": "They sense the external stimuli such as heat or pain. (ii) They also trigger an impulse in the sensory neuron which sends message to the spinal cord.",
+      "question": "What do receptors trigger in sensory neurons?"
+    },
+    {
+      "context": "When the receptors are damaged, the external stimuli transferring signals to the brain are not felt.",
+      "question": "What happens when receptors are damaged?"
+    },
+    {
+      "context": "For example, in the case of damaged receptors, if we accidentally touch any hot object, then our hands might get burnt as damaged receptors cannot perceive the external stimuli of heat and pain.",
+      "question": "What can happen if receptors cannot perceive heat?"
+    },
+    {
+      "context": "They also trigger an impulse in the sensory neuron which sends message to the spinal cord. When the receptors are damaged, the external stimuli transferring signals to the brain are not felt.",
+      "question": "What signals do damaged receptors fail to transfer?"
+    }
+  ]
+}

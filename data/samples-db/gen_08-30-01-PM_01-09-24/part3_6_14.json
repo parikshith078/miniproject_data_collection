@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Reproduction by fragmentation is seen in filamentous algae, e.g. spirogyra. In Spirogyra algae, the plant body breaks up into smaller fragments. Each fragment grows into a new individual.",
+      "question": "What organism reproduces by fragmentation?"
+    },
+    {
+      "context": "In multicellular organisms with simple body organization, simple reproductive methods have been noticed. Reproduction by fragmentation is seen in filamentous algae, e.g. spirogyra.",
+      "question": "What type of reproduction is common in spirogyra?"
+    },
+    {
+      "context": "The plant body breaks up into smaller fragments. Each fragment grows into a new individual. Reproduction by fragmentation is seen in filamentous algae.",
+      "question": "How do fragments contribute to spirogyra's reproduction?"
+    },
+    {
+      "context": "In multicellular organisms with simple body organization, simple reproductive methods have been noticed. Reproduction by fragmentation is seen in filamentous algae.",
+      "question": "What characterizes organisms that reproduce by fragmentation?"
+    },
+    {
+      "context": "Each fragment grows into a new individual. Reproduction by fragmentation is seen in filamentous algae, e.g. spirogyra.",
+      "question": "What happens to the fragments in spirogyra?"
+    }
+  ]
+}

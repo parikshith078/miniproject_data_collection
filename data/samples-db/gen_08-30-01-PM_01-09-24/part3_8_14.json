@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Inheritance of characters from the parents to the progeny (i.e., Heredity) ensures the passing of the parental characters to the progeny.",
+      "question": "What does heredity ensure in progeny?"
+    },
+    {
+      "context": "The difference or change in the characteristics between the individuals is called Variation.",
+      "question": "What is the term for differences in characteristics?"
+    },
+    {
+      "context": "By virtue of being the progeny of the parent, the progeny individual, need not just be the replica of what its parents are.",
+      "question": "Do progeny need to resemble their parents?"
+    },
+    {
+      "context": "Human population shows a great deal of variation.",
+      "question": "What does the human population exhibit?"
+    },
+    {
+      "context": "Inheritance from the previous generation provides both a common basic body design, and subtle changes in it, for the next generation.",
+      "question": "What does inheritance provide to the next generation?"
+    }
+  ]
+}

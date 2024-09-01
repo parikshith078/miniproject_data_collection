@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Bone is mainly composed of osteoblasts. Bone makes the skeletal system. Skeletal system is responsible for providing structural framework to the body.",
+      "question": "What main cells compose bone tissue?"
+    },
+    {
+      "context": "Bone is mainly composed of osteoblasts. Bone makes the skeletal system. Skeletal system is responsible for providing structural framework to the body.",
+      "question": "What is the main function of the skeletal system?"
+    },
+    {
+      "context": "Bone is mainly composed of osteoblasts. Bone makes the skeletal system. Skeletal system is responsible for providing structural framework to the body.",
+      "question": "What role does the skeletal system play in movement?"
+    },
+    {
+      "context": "Bone is mainly composed of osteoblasts. Bone makes the skeletal system. Skeletal system is responsible for providing structural framework to the body.",
+      "question": "How does the skeletal system protect organs?"
+    },
+    {
+      "context": "Bone is mainly composed of osteoblasts. Bone makes the skeletal system. Skeletal system is responsible for providing structural framework to the body.",
+      "question": "What framework does the skeletal system provide?"
+    }
+  ]
+}

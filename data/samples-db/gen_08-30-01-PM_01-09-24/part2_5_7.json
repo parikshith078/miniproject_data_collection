@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Treatment of viral infections varies depending on the specific virus and other factors. General treatments include acetaminophen or ibuprofen for fever and pain, drinking extra fluids, and getting extra rest and sleep.",
+      "question": "What general treatments are recommended for viral infections?"
+    },
+    {
+      "context": "In some cases, certain medications may be prescribed, such as antiretroviral medications for HIV/AIDS and antiviral drugs for the flu and shingles.",
+      "question": "What types of medications treat specific viral infections?"
+    },
+    {
+      "context": "Antibiotics are not prescribed for viral diseases but may be prescribed for secondary bacterial infections.",
+      "question": "When are antibiotics prescribed in viral infections?"
+    },
+    {
+      "context": "General treatments include drinking extra fluids, getting extra rest and sleep, and maintaining good nutrition.",
+      "question": "Why is good nutrition important during a viral infection?"
+    },
+    {
+      "context": "Treatment of viral infections varies depending on the specific virus and other factors, including the patient’s overall health.",
+      "question": "What factors influence the treatment of viral infections?"
+    }
+  ]
+}

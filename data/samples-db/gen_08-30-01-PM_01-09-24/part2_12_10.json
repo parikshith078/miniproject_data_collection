@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Field crops are infested by a large number of weeds, insect pests, and diseases. If weeds and pests are not controlled at the appropriate time, they can damage the crops significantly.",
+      "question": "What can damage crops significantly?"
+    },
+    {
+      "context": "Control methods include the use of herbicides, pesticides, and fungicides. Preventive measures such as proper seedbed preparation, timely sowing of crops, intercropping, and crop rotation also help in weed control.",
+      "question": "What are two control methods mentioned?"
+    },
+    {
+      "context": "If weeds and pests are not controlled at the appropriate time, they can damage the crops significantly. Control methods include the use of herbicides, pesticides, and fungicides.",
+      "question": "What happens if crops are not controlled?"
+    },
+    {
+      "context": "Preventive measures such as proper seedbed preparation, timely sowing of crops, intercropping, and crop rotation also help in weed control.",
+      "question": "Name one preventive measure against weeds."
+    },
+    {
+      "context": "Some other preventive measures against pests are the use of resistant varieties and summer ploughing.",
+      "question": "What is a preventive measure against pests?"
+    }
+  ]
+}

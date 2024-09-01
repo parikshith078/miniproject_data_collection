@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The prevention of infectious diseases can be done in general and specific ways. General ways include public hygiene, proper nutrition, and safe drinking water.",
+      "question": "What are the general methods of disease prevention?"
+    },
+    {
+      "context": "Specific ways involve immunization by taking vaccines that provide protection against infectious diseases.",
+      "question": "What is a specific method of preventing infections?"
+    },
+    {
+      "context": "Proper nutrition and safe drinking water are included in general methods of preventing diseases.",
+      "question": "What role does safe drinking water play in disease prevention?"
+    },
+    {
+      "context": "Immunization by taking vaccines provides protection against infectious diseases.",
+      "question": "How do vaccines contribute to disease prevention?"
+    },
+    {
+      "context": "General ways include public hygiene, proper nutrition, and safe drinking water.",
+      "question": "List the general ways to prevent infectious diseases."
+    }
+  ]
+}

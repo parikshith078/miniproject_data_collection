@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Symptoms include painful muscular spasms especially of neck and jaw. Lock jaw condition occurs when the patient cannot open the mouth.",
+      "question": "What are the symptoms of tetanus?"
+    },
+    {
+      "context": "Lock jaw condition occurs when the patient cannot open the mouth. Convulsions and paralysis of muscles, difficulty in chewing and swallowing, fever and headache are the other symptoms.",
+      "question": "What happens during the lock jaw condition?"
+    },
+    {
+      "context": "Symptoms include painful muscular spasms especially of neck and jaw. Convulsions and paralysis of muscles, difficulty in chewing and swallowing, fever and headache are the other symptoms.",
+      "question": "What additional symptoms can occur in tetanus?"
+    },
+    {
+      "context": "Convulsions and paralysis of muscles, difficulty in chewing and swallowing, fever and headache are the other symptoms.",
+      "question": "What difficulties might a tetanus patient face?"
+    },
+    {
+      "context": "Painful muscular spasms especially of neck and jaw. Lock jaw condition occurs when the patient cannot open the mouth.",
+      "question": "What causes the lock jaw condition in tetanus?"
+    }
+  ]
+}

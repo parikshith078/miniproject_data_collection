@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The nucleus is essential for regulating various cellular processes. It controls all the metabolic activities of the cell, ensuring that necessary compounds are synthesized. Additionally, it is responsible for the inheritance of genetic traits, passed from parents to their offspring. Moreover, the nucleus plays a critical role in cell division, ensuring proper replication and distribution of genetic material.",
+      "question": "What does the nucleus control in a cell?"
+    },
+    {
+      "context": "In every living cell, the nucleus serves as the control center, directing a multitude of metabolic activities. It ensures that genetic information is passed from parents to offspring, thereby determining inherited traits. Furthermore, it oversees the intricate process of cell division, maintaining the continuity of life through orderly replication.",
+      "question": "What role does the nucleus play in cell division?"
+    },
+    {
+      "context": "The nucleus is integral to cellular functionality as it governs all metabolic activities that occur within the cell. It is also instrumental in passing on genetic information from parents to their offspring. Beyond that, the nucleus is crucial during the cell division process, facilitating the proper separation of genetic materials.",
+      "question": "How does the nucleus influence inheritance?"
+    },
+    {
+      "context": "Fundamental to cellular operations, the nucleus plays a crucial role in controlling the metabolic activities necessary for cell survival. It is also the site where the genetic information is housed, permitting the transfer of characteristics from parents to their offspring. Additionally, the nucleus controls cell division, ensuring that cells can reproduce effectively.",
+      "question": "What activities does the nucleus manage in cells?"
+    }
+  ]
+}

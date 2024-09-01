@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The matrix can be a fluid, jelly-like, dense or rigid. The nature of matrix depends on the function a connective tissue serves.",
+      "question": "What determines the nature of connective tissue matrix?"
+    },
+    {
+      "context": "The cells of a connective tissue are loosely scattered in a matrix.",
+      "question": "How are cells arranged in connective tissue?"
+    },
+    {
+      "context": "Following are the various connective tissues: Areolar (Loose) Connective Tissue, Dense connective tissue, Adipose Tissue, Bone, Cartilage, Blood.",
+      "question": "Name three types of connective tissue."
+    },
+    {
+      "context": "The matrix can be a fluid, jelly-like, dense or rigid. The nature of matrix depends on the function a connective tissue serves.",
+      "question": "What types of matrix can connective tissues have?"
+    },
+    {
+      "context": "The cells of a connective tissue are loosely scattered in a matrix. The matrix can be a fluid, jelly-like, dense or rigid.",
+      "question": "What is the structure of connective tissue cells?"
+    }
+  ]
+}

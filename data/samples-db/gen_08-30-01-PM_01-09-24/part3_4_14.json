@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Medulla forms the brain stem; along with the pons. It lies at the base of the brain and continues into the spinal cord. Medulla controls various involuntary functions; like heartbeat, respiration, etc.",
+      "question": "What functions does the medulla control?"
+    },
+    {
+      "context": "Medulla forms the brain stem; along with the pons. It lies at the base of the brain and continues into the spinal cord. Medulla controls various involuntary functions; like heartbeat, respiration, etc.",
+      "question": "Where is the medulla located in the brain?"
+    },
+    {
+      "context": "Medulla forms the brain stem; along with the pons. It lies at the base of the brain and continues into the spinal cord. Medulla controls various involuntary functions; like heartbeat, respiration, etc.",
+      "question": "Which parts of the body does the medulla regulate?"
+    },
+    {
+      "context": "Medulla forms the brain stem; along with the pons. It lies at the base of the brain and continues into the spinal cord. Medulla controls various involuntary functions; like heartbeat, respiration, etc.",
+      "question": "What continues from the medulla into the spinal cord?"
+    },
+    {
+      "context": "Medulla forms the brain stem; along with the pons. It lies at the base of the brain and continues into the spinal cord. Medulla controls various involuntary functions; like heartbeat, respiration, etc.",
+      "question": "What other structure is the medulla associated with?"
+    }
+  ]
+}

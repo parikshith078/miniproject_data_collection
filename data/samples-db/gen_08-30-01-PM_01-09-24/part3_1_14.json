@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Aerobic Respiration: This type of respiration happens in the presence of oxygen. Pyruvic acid is converted into carbon dioxide. Energy is released and water molecule is also formed at the end of this process.",
+      "question": "What does aerobic respiration require?"
+    },
+    {
+      "context": "Anaerobic Respiration: This type of respiration happens in the absence of oxygen. Pyruvic acid is either converted into ethyl alcohol or lactic acid.",
+      "question": "What is a byproduct of anaerobic respiration?"
+    },
+    {
+      "context": "Lactic acid is formed in some microbes as well as in the muscle cells.",
+      "question": "Where is lactic acid produced?"
+    },
+    {
+      "context": "Ethyl alcohol is usually formed in case of anaerobic respiration in microbes; like yeast or bacteria.",
+      "question": "Which organisms primarily produce ethyl alcohol?"
+    },
+    {
+      "context": "Energy is released and water molecule is also formed at the end of this process.",
+      "question": "What is produced during aerobic respiration?"
+    }
+  ]
+}

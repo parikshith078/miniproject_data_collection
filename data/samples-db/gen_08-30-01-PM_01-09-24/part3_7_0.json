@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Artificial vegetative propagation has allowed farmers and horticulturists to cultivate plants faster, increasing their profitability. Techniques such as stem cutting and grafting enable the development of new plant varieties more efficiently.",
+      "question": "What is artificial vegetative propagation?"
+    },
+    {
+      "context": "Man has employed artificial vegetative propagation as a method to grow multiple plants, leading to shorter growth durations and enhanced financial returns for farmers and horticulturists.",
+      "question": "How has artificial propagation benefited farmers?"
+    },
+    {
+      "context": "Techniques like layering and grafting are commonly used in artificial vegetative propagation, which assists in the quick cultivation of many new plant varieties.",
+      "question": "Which methods are used in artificial vegetative propagation?"
+    },
+    {
+      "context": "By utilizing methods such as stem cutting and layering, artificial vegetative propagation has proven to be an effective means for growing new plant varieties and increasing crop yield.",
+      "question": "What methods increase the yield of crops?"
+    },
+    {
+      "context": "Artificial vegetative propagation, including techniques like grafting, supports horticulturists in rapidly developing new varieties of plants, ultimately enhancing their business opportunities.",
+      "question": "What is the role of grafting in plant propagation?"
+    }
+  ]
+}

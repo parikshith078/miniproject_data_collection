@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The movement of leaves of the sensitive plant, Mimosa pudica or “touch me not”, occurs in response to touch or contact stimuli. This movement is independent of growth. The movement of shoot towards light is known as phototropism.",
+      "question": "What is phototropism in plants?"
+    },
+    {
+      "context": "Auxin is an example of growth-promoting plant hormone. This hormone influences various growth processes in plants, such as elongation of cells and root formation.",
+      "question": "What does auxin do in plant growth?"
+    },
+    {
+      "context": "The movement of leaves of the sensitive plant, Mimosa pudica is independent of growth. A different process is phototropism, which involves growth towards light.",
+      "question": "What triggers the movement in Mimosa pudica?"
+    },
+    {
+      "context": "Phototropism is a type of movement that is directional and dependent on growth. It causes plant shoots to grow towards light, which is beneficial for photosynthesis.",
+      "question": "How does phototropism benefit plants?"
+    },
+    {
+      "context": "Mimosa pudica exhibits movements in response to touch, showcasing a unique adaptation. In contrast, phototropism illustrates how plants grow towards environmental stimuli.",
+      "question": "What is the difference between Mimosa pudica and phototropism?"
+    }
+  ]
+}

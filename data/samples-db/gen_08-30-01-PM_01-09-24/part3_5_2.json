@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Thigmotropic Movement: The growth in a plant part in response to touch is called thigmotropic movement. Such movements are seen in tendrils of climbers. The tendril grows in a way so as it can coil around a support.",
+      "question": "What is thigmotropic movement?"
+    },
+    {
+      "context": "The differential rate of cell division in different parts of the tendril happens due to action of auxin. Thigmotropic Movement: The growth in a plant part in response to touch is called thigmotropic movement.",
+      "question": "What regulates cell division in tendrils?"
+    },
+    {
+      "context": "Such movements are seen in tendrils of climbers. The tendril grows in a way so as it can coil around a support. Thigmotropic movement is a response to touch.",
+      "question": "In which plant parts is thigmotropic movement observed?"
+    },
+    {
+      "context": "The growth in a plant part in response to touch is called thigmotropic movement. The differential rate of cell division in different parts of the tendril happens due to action of auxin.",
+      "question": "What causes the differential growth in tendrils?"
+    },
+    {
+      "context": "Thigmotropic Movement: The growth in a plant part in response to touch is called thigmotropic movement. Such movements are seen in tendrils of climbers.",
+      "question": "How do tendrils respond to touch?"
+    }
+  ]
+}

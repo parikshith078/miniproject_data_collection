@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "During puberty, girls experience various physical changes. The voice becomes thin and more melodious. Shoulders and hips become rounded as the body transitions into a more mature form. One significant change is the enlargement of breasts, which typically begins during this time. Additionally, hair begins to grow under the armpit and in the pubic region, marking the onset of secondary sexual characteristics.",
+      "question": "What happens to the voice during puberty?"
+    },
+    {
+      "context": "The onset of puberty marks a time of significant growth and change in girls. One noticeable change is the voice, which becomes thinner and more refined. Along with other physical changes, shoulders and hips start to take on a rounded shape. The enlargement of breasts occurs, contributing to the development of feminine traits. Furthermore, pubic and underarm hair begins to grow, signifying the maturation into adulthood.",
+      "question": "What physical changes indicate the start of puberty?"
+    },
+    {
+      "context": "As girls enter puberty, they undergo various changes both physically and emotionally. One of the first noticeable changes is the voice, which becomes thinner as a result of hormonal changes. The hips and shoulders begin to round, creating a more adult-like figure. Breasts start to enlarge, which is another key change. Girls also notice the growth of hair in areas such as the underarms and the pubic region, indicating the body's progression through puberty.",
+      "question": "How do shoulders and hips change during puberty?"
+    },
+    {
+      "context": "Girls experience several transformations during puberty, one of which is the alteration in their voice, which tends to become thinner compared to pre-puberty. Physically, the body undergoes changes where shoulders and hips become rounded, offering a more mature silhouette. Significant changes include breast enlargement, and hair growth becomes apparent under the armpits and in the pubic region, representing the development of secondary sexual characteristics.",
+      "question": "What is a significant change in breast development during puberty?"
+    }
+  ]
+}

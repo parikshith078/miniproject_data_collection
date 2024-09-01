@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Different ways of growing crops can be used to give maximum benefit. MIXED CROPPING: It is growing of two or more crops simultaneously on the same piece of land, leading to improved fertility.",
+      "question": "What is mixed cropping?"
+    },
+    {
+      "context": "INTER CROPPING: Cultivating two or more crops in the same space at the same time in a definite pattern.",
+      "question": "What is inter cropping?"
+    },
+    {
+      "context": "CROP ROTATION: It is the practice of growing a series of dissimilar types of crops in the same area in sequential seasons for various benefits.",
+      "question": "What does crop rotation involve?"
+    },
+    {
+      "context": "Mixed cropping leads to improved fertility through simultaneous growth of multiple crops.",
+      "question": "What benefit does mixed cropping provide?"
+    },
+    {
+      "context": "Cultivating two or more crops in a definite pattern at the same time is known as inter cropping.",
+      "question": "What is the key feature of inter cropping?"
+    },
+    {
+      "context": "The practice of crop rotation involves changing the type of crop grown in a field each season.",
+      "question": "Why is crop rotation practiced?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Reflex action is a special case of involuntary movement in voluntary organs. When a voluntary organ is in the vicinity of a sudden danger, it is immediately pulled away from the danger to save itself.",
+      "question": "What triggers a reflex action?"
+    },
+    {
+      "context": "For example; when your hand touches a very hot electric iron, you move away your hand in a jerk. All of this happens in flash and your hand is saved from the imminent injury.",
+      "question": "What happens when you touch a hot surface?"
+    },
+    {
+      "context": "This is an example of reflex action. Reflex actions occur quickly to prevent injury to the body.",
+      "question": "Why are reflex actions important?"
+    },
+    {
+      "context": "When a voluntary organ is in the vicinity of a sudden danger, it is immediately pulled away from the danger to save itself.",
+      "question": "How does the body respond to a threat?"
+    },
+    {
+      "context": "Reflex action is a special case of involuntary movement in voluntary organs. This occurs without conscious thought to protect the body.",
+      "question": "Is reflex action voluntary or involuntary?"
+    }
+  ]
+}

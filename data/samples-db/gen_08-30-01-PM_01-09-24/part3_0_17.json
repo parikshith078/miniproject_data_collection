@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The human digestive system is composed of an alimentary canal and some accessory glands. The alimentary canal is divided into several parts, viz. oesophagus, stomach, small intestine, large intestine, rectum and anus.",
+      "question": "What are the main parts of the alimentary canal?"
+    },
+    {
+      "context": "The human digestive system is composed of an alimentary canal and some accessory glands. Salivary gland, liver and pancreas are the accessory glands which lie outside the alimentary canal.",
+      "question": "Name the accessory glands in the human digestive system."
+    },
+    {
+      "context": "The alimentary canal is divided into several parts, viz. oesophagus, stomach, small intestine, large intestine, rectum and anus.",
+      "question": "List the divisions of the alimentary canal."
+    },
+    {
+      "context": "The human digestive system is composed of an alimentary canal and some accessory glands. The amistad of these components works together to process food.",
+      "question": "How does the digestive system process food?"
+    },
+    {
+      "context": "The alimentary canal is divided into several parts, viz. oesophagus, stomach, small intestine, large intestine, rectum and anus. Each plays a role in digestion.",
+      "question": "What role does each part of the alimentary canal play?"
+    }
+  ]
+}

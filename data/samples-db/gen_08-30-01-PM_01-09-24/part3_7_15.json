@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Flowers pollinated by air are mostly small in size and without any attractive colour, smell and nectar. They produce a large number of pollen grains to make up for the wastage of pollen in times of transit.",
+      "question": "What type of flowers rely on wind for pollination?"
+    },
+    {
+      "context": "Pollen grains are dry and powdery and hence are easily carried by the wind. Flowers pollinated by air are mostly small in size and without any attractive colour, smell and nectar.",
+      "question": "Why are pollen grains dry and powdery?"
+    },
+    {
+      "context": "To make up for the wastage of pollen in times of transit, flowers pollinated by air produce a large number of pollen grains. Pollen grains are dry and powdery and hence are easily carried by the wind.",
+      "question": "How do air-pollinated flowers compensate for pollen loss?"
+    },
+    {
+      "context": "Flowers pollinated by air are small and lack attractive features. They produce many pollen grains that are dry and powdery for wind transportation.",
+      "question": "What characteristics do air-pollinated flowers have?"
+    },
+    {
+      "context": "Anemophily describes a type of pollination where flowers rely on wind to transfer pollen. This method results in smaller, less colorful flowers that produce abundant pollen.",
+      "question": "What is the primary characteristic of anemophily?"
+    }
+  ]
+}

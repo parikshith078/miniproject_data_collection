@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Terrestrial organisms take up oxygen from the atmosphere whereas aquatic animals need to utilize oxygen present in the water. Air contains more O2 as compared to water. Since the content of O2 in air is high, the terrestrial animals do not have to breathe faster to get more oxygen.",
+      "question": "How do terrestrial organisms obtain oxygen?"
+    },
+    {
+      "context": "Since the content of O2 in air is high, the terrestrial animals do not have to breathe faster to get more oxygen. Therefore, unlike aquatic animals, terrestrial animals do not have to show various adaptations for better gaseous exchange.",
+      "question": "Why don't terrestrial animals need adaptations for oxygen?"
+    },
+    {
+      "context": "Aquatic animals need to utilize oxygen present in the water. Air contains more O2 as compared to water. Since the content of O2 in air is high, the terrestrial animals do not have to breathe faster to get more oxygen.",
+      "question": "What challenges do aquatic animals face in oxygen intake?"
+    },
+    {
+      "context": "Therefore, unlike aquatic animals, terrestrial animals do not have to show various adaptations for better gaseous exchange. Aquatic animals need to utilize oxygen present in the water.",
+      "question": "What adaptations do aquatic animals require for oxygen?"
+    }
+  ]
+}

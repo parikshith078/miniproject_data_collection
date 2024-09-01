@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Infectious diseases are diseases which spread from an infected person to a healthy person through air, water, food, vectors, physical contact, or sexual contact. Examples include common cold, chicken pox, mumps, measles, typhoid, cholera, tuberculosis, malaria, AIDS etc.",
+      "question": "What are examples of infectious diseases?"
+    },
+    {
+      "context": "Infectious diseases are diseases which spread from an infected person to a healthy person through air, water, food, vectors, physical contact, or sexual contact. Examples include common cold, chicken pox, mumps, measles, typhoid, cholera, tuberculosis, malaria, AIDS etc.",
+      "question": "How do infectious diseases spread?"
+    },
+    {
+      "context": "Infectious diseases are diseases which spread from an infected person to a healthy person through air, water, food, vectors, physical contact, or sexual contact. Examples include common cold, chicken pox, mumps, measles, typhoid, cholera, tuberculosis, malaria, AIDS etc.",
+      "question": "What is a communicable disease?"
+    },
+    {
+      "context": "Infectious diseases are diseases which spread from an infected person to a healthy person through air, water, food, vectors, physical contact, or sexual contact. Examples include common cold, chicken pox, mumps, measles, typhoid, cholera, tuberculosis, malaria, AIDS etc.",
+      "question": "Name two methods of disease transmission."
+    },
+    {
+      "context": "Infectious diseases are diseases which spread from an infected person to a healthy person through air, water, food, vectors, physical contact, or sexual contact. Examples include common cold, chicken pox, mumps, measles, typhoid, cholera, tuberculosis, malaria, AIDS etc.",
+      "question": "What is one example of a vector in disease transmission?"
+    }
+  ]
+}

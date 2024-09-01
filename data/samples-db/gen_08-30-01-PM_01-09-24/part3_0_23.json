@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The large intestine is smaller than the small intestine. Undigested food goes into the large intestine. Some water and salt are absorbed by the walls of the large intestine.",
+      "question": "What is smaller than the small intestine?"
+    },
+    {
+      "context": "After that, the undigested food goes to the rectum; from where it is expelled out through the anus.",
+      "question": "Where does undigested food go after the large intestine?"
+    },
+    {
+      "context": "Some water and salt are absorbed by the walls of the large intestine. After that, the undigested food goes to the rectum; from where it is expelled out through the anus.",
+      "question": "What is absorbed in the large intestine?"
+    },
+    {
+      "context": "Undigested food goes into the large intestine. Some water and salt are absorbed by the walls of the large intestine.",
+      "question": "What type of food enters the large intestine?"
+    },
+    {
+      "context": "The large intestine is smaller than the small intestine. After that, the undigested food goes to the rectum.",
+      "question": "What happens to undigested food after the large intestine?"
+    }
+  ]
+}

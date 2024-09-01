@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mendel's First Law states that every individual possesses a pair of alleles for a particular trait. It also notes that during gamete formation, a gamete receives only one trait from these alleles. This is crucial for understanding inheritance patterns.",
+      "question": "What does Mendel's First Law describe?"
+    },
+    {
+      "context": "According to Mendel's First Law, during gamete formation, an individual will pass only one of the two alleles for a trait to its offspring. This is important because it explains how traits are inherited across generations.",
+      "question": "How many alleles does an individual pass during gamete formation?"
+    },
+    {
+      "context": "Mendel's First Law highlights that a trait can either be dominant or recessive, influencing which alleles are expressed in an individual's phenotype. This distinction is key in genetics.",
+      "question": "What are the two types of traits described by Mendel's First Law?"
+    },
+    {
+      "context": "During the process of gamete formation outlined in Mendel's First Law, each gamete receives one allele from the pair that an individual possesses, contributing to genetic diversity in offspring.",
+      "question": "What does each gamete receive from the alleles?"
+    },
+    {
+      "context": "Mendel's First Law establishes that every individual possesses pairs of alleles, which are segregated during gamete formation. Understanding this process helps explain genetic inheritance.",
+      "question": "What is the significance of alleles in Mendel's First Law?"
+    }
+  ]
+}

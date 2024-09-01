@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Parenchyma characteristics include that cell walls are relatively thin, and the cells in parenchyma tissues are loosely packed.",
+      "question": "What are the traits of parenchyma cells?"
+    },
+    {
+      "context": "Collenchyma has irregularly thickened walls at the corners with very little space in between cells.",
+      "question": "How are collenchyma walls structured?"
+    },
+    {
+      "context": "Sclerenchyma has uniformly thickened walls with no intercellular spaces, and additional layers of the cell wall are composed mainly of lignin.",
+      "question": "What composes the cell walls of sclerenchyma?"
+    },
+    {
+      "context": "Parenchyma characteristics include that cell walls are relatively thin, and the cells in parenchyma tissues are loosely packed.",
+      "question": "Describe the packing of cells in parenchyma."
+    },
+    {
+      "context": "Sclerenchyma has uniformly thickened walls with no intercellular spaces, and additional layers of the cell wall are composed mainly of lignin.",
+      "question": "What is the main component of sclerenchyma cell walls?"
+    }
+  ]
+}

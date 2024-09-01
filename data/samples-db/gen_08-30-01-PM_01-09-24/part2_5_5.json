@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Viral diseases can occur in any age group or population. Risk factors for catching a viral disease or developing complications include advanced age, compromised immune system due to various conditions, and history of chronic disease.",
+      "question": "What age group is at higher risk for viral diseases?"
+    },
+    {
+      "context": "Risk factors for catching a viral disease or developing complications include compromised immune system due to an immunodeficiency disorder, cancer treatments, and malnourishment.",
+      "question": "Which condition compromises the immune system significantly?"
+    },
+    {
+      "context": "Not washing hands frequently and sharing needles to inject drugs are risk factors for viral diseases that can increase exposure to infections.",
+      "question": "How does sharing needles affect viral disease risk?"
+    },
+    {
+      "context": "Compromised immune systems, advanced age, malnourishment, and not getting enough rest are factors contributing to viral disease complications.",
+      "question": "What lifestyle factor can increase the risk of developing complications?"
+    },
+    {
+      "context": "Young age, including infancy and elementary-school-age children, is one of the risk factors for catching viral diseases quickly.",
+      "question": "Why are young children at higher risk for viral infections?"
+    }
+  ]
+}

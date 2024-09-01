@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "To maintain good health and be free from diseases, it is essential to incorporate a balanced diet which consists of all necessary nutrients. Additionally, hygiene practices at both personal and public levels play a crucial role in preventing the spread of infections and ensuring overall well-being.",
+      "question": "What is the importance of maintaining hygiene?"
+    },
+    {
+      "context": "Taking good food or a balanced diet is a core requirement for sustaining health and preventing disease. Alongside, personal and public hygiene practice is vital as it leads to a cleaner environment that can significantly reduce illness transmission among individuals.",
+      "question": "Why is a balanced diet important?"
+    },
+    {
+      "context": "Being free from diseases requires individuals to focus on two main aspects: a balanced diet that provides essential nutrients and the practice of maintaining hygiene both personally and in public spaces. These factors contribute significantly to overall health.",
+      "question": "How does diet contribute to health?"
+    },
+    {
+      "context": "The essential conditions for being free from diseases include not only taking a balanced diet that supports immune functions and overall health but also the importance of personal and public hygiene to minimize the risks of infection and disease spread.",
+      "question": "What are the two conditions for health?"
+    },
+    {
+      "context": "Maintaining health and preventing diseases effectively involves a two-pronged approach of consuming nutritious, balanced meals and adhering to strict hygiene practices to ensure individual and community safety against infectious agents.",
+      "question": "What should be combined to prevent disease?"
+    }
+  ]
+}

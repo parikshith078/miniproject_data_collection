@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Viral infections occur when a virus enters the body and invades the inside of the body’s cells in order to reproduce. If the body’s immune system is unable to fight off the virus, it multiplies and spreads to other cells, repeating the process and leading to a widespread infection.",
+      "question": "What happens if the immune system cannot fight a virus?"
+    },
+    {
+      "context": "Types of viruses that cause a variety of viral infections include: Epstein-Barr virus (causes infectious mononucleosis), Human immunodeficiency virus (HIV) (causes AIDS).",
+      "question": "Which virus causes infectious mononucleosis?"
+    },
+    {
+      "context": "Influenza viruses cause influenza, while respiratory syncytial virus (RSV) causes lower respiratory tract infections in young children.",
+      "question": "What does RSV primarily cause in children?"
+    },
+    {
+      "context": "Human papillomavirus (HPV) causes HPV infection, cervical dysplasia, genital warts, and cervical cancer. Varicella zoster virus causes shingles and chickenpox.",
+      "question": "What diseases are caused by HPV?"
+    },
+    {
+      "context": "Rotavirus, enteroviruses, and noroviruses cause viral gastroenteritis, while Rhinoviruses cause the common cold.",
+      "question": "Which viruses are linked to viral gastroenteritis?"
+    },
+    {
+      "context": "West Nile virus causes West Nile fever, and various other viruses lead to different types of illnesses.",
+      "question": "What illness is caused by West Nile virus?"
+    }
+  ]
+}

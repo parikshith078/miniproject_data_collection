@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Lysosomes are membrane-bound vesicular structures that contain powerful digestive enzymes. These enzymes can break down any foreign food particle or microbes entering the cell. Sometimes, lysosomes can cause the self-destruction of a cell by releasing these digestive enzymes within the cells.",
+      "question": "What triggers lysosomes to self-destruct?"
+    },
+    {
+      "context": "Lysosomes are also known as ‘suicidal bags’. This nickname comes from their ability to release digestive enzymes that can break down cellular components, leading to cell death.",
+      "question": "What does the term 'suicidal bags' refer to?"
+    },
+    {
+      "context": "The powerful digestive enzymes in lysosomes are capable of breaking down foreign particles and can even lead to the self-destruction of a cell if released inappropriately.",
+      "question": "How do lysosomes help protect cells?"
+    },
+    {
+      "context": "Sometimes, lysosomes can cause self-destruction of a cell by releasing these digestive enzymes within the cells, contributing to various cellular processes including apoptosis.",
+      "question": "What role do lysosomes play in apoptosis?"
+    },
+    {
+      "context": "Lysosomes are known for their digestive enzymes that break down waste and unwanted materials, which is essential for maintaining cellular health.",
+      "question": "What is the primary function of lysosomes?"
+    }
+  ]
+}

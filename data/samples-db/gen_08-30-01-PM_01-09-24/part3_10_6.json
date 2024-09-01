@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Wings of birds and wings of bat are good examples of a pair of analogous organs. Wings of birds are composed of all the bones of forelimb and are covered with feathers. Wings of bats are mainly composed of the digital bones and a thin membrane covering the structure.",
+      "question": "What do we call organs that serve a common function?"
+    },
+    {
+      "context": "Organs which have different design but serve a common function in different animals are called analogous organs.",
+      "question": "What are analogous organs?"
+    },
+    {
+      "context": "Yet wings in both the organisms are used for flying. Wings of birds are composed of all the bones of forelimb and are covered with feathers.",
+      "question": "What is the common function of bird and bat wings?"
+    },
+    {
+      "context": "Wings of bats are mainly composed of the digital bones and a thin membrane covering the structure. Wings of birds are covered with feathers.",
+      "question": "How do bat wings differ from bird wings?"
+    },
+    {
+      "context": "Analogous organs serve a common function in different animals. An example is the wings of birds and bats.",
+      "question": "Give an example of analogous organs."
+    }
+  ]
+}

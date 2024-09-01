@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Non-infectious diseases, also called non-communicable diseases, are conditions that cannot be transmitted from one person to another. Examples include diabetes, cancer, and high blood pressure.",
+      "question": "What are non-infectious diseases?"
+    },
+    {
+      "context": "Diseases that cannot be spread from an infected individual to a healthy individual are known as non-infectious diseases. Common examples include diabetes and cancer.",
+      "question": "Give two examples of non-infectious diseases."
+    },
+    {
+      "context": "Examples of non-infectious diseases include conditions like beri beri, rickets, and night blindness, which are not transmitted between people.",
+      "question": "Name a non-infectious disease mentioned in the text."
+    },
+    {
+      "context": "Non-communicable diseases encompass various health issues such as scurvy, high blood pressure, and diabetes, which do not spread from person to person.",
+      "question": "What is one characteristic of non-infectious diseases?"
+    },
+    {
+      "context": "Some well-known non-infectious diseases include scurvy, cancer, and high blood pressure, which are not contagious.",
+      "question": "What distinguishes non-infectious diseases from infectious diseases?"
+    }
+  ]
+}

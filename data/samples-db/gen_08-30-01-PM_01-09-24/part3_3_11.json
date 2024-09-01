@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The nervous system of an animal is composed of specialized cells called neurons or nerve cells which can detect, receive and transmit different kinds of stimuli. Nerve cells or neurons are the structural and functional units of the nervous system.",
+      "question": "What are nerve cells responsible for?"
+    },
+    {
+      "context": "Billions of nerve cells make up our brain. A nerve cell is a microscopic structure consisting of three major parts namely cell body, dendrites and axon.",
+      "question": "What are the three main parts of a nerve cell?"
+    },
+    {
+      "context": "The nerve fibres which are certain bundles of extended processes of nerve cells. Neurons can detect, receive and transmit different kinds of stimuli.",
+      "question": "What do nerve fibres consist of?"
+    },
+    {
+      "context": "Specialized cells called neurons or nerve cells which can detect, receive and transmit different kinds of stimuli. Nerve cells are structural and functional units of the nervous system.",
+      "question": "How do neurons contribute to the nervous system?"
+    },
+    {
+      "context": "Billions of nerve cells make up our brain. Each nerve cell has a structure that includes a cell body, dendrites, and axon.",
+      "question": "What is the main function of the axon?"
+    }
+  ]
+}

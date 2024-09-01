@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Honeybees are categorized into different varieties based on their origins and characteristics. Indigenous varieties include Apis Indica, commonly known as the Indian honey bee, which is prevalent in many regions in India. Additionally, Apis dorsata, known as the rock bee, and Apis florea, or the little bee, are also indigenous species.",
+      "question": "What is Apis Indica called?"
+    },
+    {
+      "context": "The exotic varieties of honeybees include Apis mellifera, also referred to as the Italian bee, which is widely kept for honey production due to its docile nature and efficient foraging abilities. Another exotic variety is Apis adamsoni, known as the South African bee, which has unique traits suited to its native environment.",
+      "question": "What is the Italian bee scientifically known as?"
+    },
+    {
+      "context": "Indigenous honeybee varieties are native to specific regions. For instance, Apis dorsata is known as the rock bee, which frequently builds large nests in high places like cliffs. In contrast, Apis florea is characterized as the little bee, noted for its smaller size and less aggressive behavior compared to other honeybees.",
+      "question": "How is Apis dorsata commonly known?"
+    },
+    {
+      "context": "Among the varieties of honeybees, Apis mellifera is the most widely used for commercial honey production. It originated in Europe and has been introduced globally due to its beneficial traits. Meanwhile, Apis adamsoni is an exotic bee type that thrives in South Africa, exhibiting certain characteristics that adapt well to its local environment.",
+      "question": "Where is Apis adamsoni native to?"
+    }
+  ]
+}

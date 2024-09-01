@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Aerobic respiration occurs in the presence of O2. It involves the exchange of gases between the organism and the outside environment. It occurs in cytoplasm and mitochondria. It always releases CO2 and H2O and yields 36 ATPs.",
+      "question": "What is the primary characteristic of aerobic respiration?"
+    },
+    {
+      "context": "Anaerobic respiration occurs in the absence of O2. Exchange of gases is absent. It occurs only in cytoplasm and yields only 2 ATPs.",
+      "question": "How many ATPs are produced by anaerobic respiration?"
+    },
+    {
+      "context": "Anaerobic respiration occurs in the roots of some waterlogged plants, some parasitic worms, animal muscles, and some micro-organisms such as yeasts.",
+      "question": "Where does anaerobic respiration occur?"
+    },
+    {
+      "context": "It occurs in cytoplasm and mitochondria. It always releases CO2 and H2O and yields 36 ATPs.",
+      "question": "In which organelle does aerobic respiration primarily take place?"
+    },
+    {
+      "context": "It involves the exchange of gases between the organism and the outside environment. It occurs in cytoplasm and mitochondria.",
+      "question": "How does aerobic respiration differ from anaerobic respiration?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Meteorologists collect information regarding the pattern of temperature, speed of wind, air pressure and all other features which influence weather. All these information are collected by remote sensing and weather forecast satellites.",
+      "question": "What do meteorologists collect data about?"
+    },
+    {
+      "context": "This information is then compiled in meteorological departments which prepare a weather report that is displayed on the maps.",
+      "question": "Where is weather information compiled?"
+    },
+    {
+      "context": "This information is further transmitted through radio, television and newspaper.",
+      "question": "How is the weather report disseminated?"
+    },
+    {
+      "context": "Meteorologists collect information regarding the pattern of temperature, speed of wind, air pressure and all other features which influence weather.",
+      "question": "What features influence weather patterns?"
+    },
+    {
+      "context": "All these information are collected by remote sensing and weather forecast satellites.",
+      "question": "What tools do meteorologists use for data collection?"
+    }
+  ]
+}

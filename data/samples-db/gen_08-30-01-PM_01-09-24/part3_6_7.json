@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The movement that takes place in a sensitive plant such as Mimosa pudica occurs in response to touch (stimulus). Movement in our legs is an example of voluntary actions.",
+      "question": "What is an example of voluntary movement?"
+    },
+    {
+      "context": "For this movement, the information is transmitted from cell to cell by electro-chemical signals as plants do not have any specialised tissue for conduction of impulses.",
+      "question": "How do sensitive plants transmit signals?"
+    },
+    {
+      "context": "The signal or messages for these actions are passed to the brain and hence are consciously controlled.",
+      "question": "How is leg movement consciously controlled?"
+    },
+    {
+      "context": "Movement in our legs is an example of voluntary actions. The movement that takes place in a sensitive plant such as Mimosa pudica occurs in response to touch.",
+      "question": "What triggers movement in sensitive plants?"
+    },
+    {
+      "context": "The movement that takes place in a sensitive plant such as Mimosa pudica occurs in response to touch. For this movement, the information is transmitted from cell to cell by electro-chemical signals.",
+      "question": "What kind of signals do plants use for movement?"
+    }
+  ]
+}

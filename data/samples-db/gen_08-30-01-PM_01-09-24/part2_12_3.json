@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Leguminous plants like Sunn-hemp or Cluster Bean are grown and then mulched by ploughing them back into the soil. This helps in enriching the soil with Nitrogen and Phosphorous.",
+      "question": "What are examples of leguminous plants?"
+    },
+    {
+      "context": "This helps in enriching the soil with Nitrogen and Phosphorous.",
+      "question": "How do leguminous plants benefit the soil?"
+    },
+    {
+      "context": "Leguminous plants like Sunn-hemp or Cluster Bean are grown and then mulched by ploughing them back into the soil.",
+      "question": "What is done to leguminous plants after they are grown?"
+    },
+    {
+      "context": "This helps in enriching the soil with Nitrogen and Phosphorous.",
+      "question": "Which nutrients are added to the soil by green manure?"
+    },
+    {
+      "context": "Leguminous plants like Sunn-hemp or Cluster Bean are grown and then mulched by ploughing them back into the soil.",
+      "question": "What is the process of mulching in agriculture?"
+    },
+    {
+      "context": "This helps in enriching the soil with Nitrogen and Phosphorous.",
+      "question": "Why is Nitrogen important for soil health?"
+    }
+  ]
+}

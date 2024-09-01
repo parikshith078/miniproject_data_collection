@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The simple epithelium is composed of a single layer of cells. This type of epithelial tissue forms the lining of blood vessels and alveoli. Thin layer of cells facilitates exchange of substances; in such cases.",
+      "question": "What is the structure of simple epithelium?"
+    },
+    {
+      "context": "This type of epithelial tissue forms the lining of blood vessels and alveoli. Thin layer of cells facilitates exchange of substances; in such cases.",
+      "question": "Where is simple epithelium commonly found?"
+    },
+    {
+      "context": "The simple epithelium is composed of a single layer of cells. This type of epithelial tissue forms the lining of blood vessels and alveoli.",
+      "question": "How many layers compose simple epithelium?"
+    },
+    {
+      "context": "Thin layer of cells facilitates exchange of substances; in such cases. This type of epithelial tissue forms the lining of blood vessels and alveoli.",
+      "question": "Why is a thin layer of cells important?"
+    },
+    {
+      "context": "The simple epithelium is composed of a single layer of cells. Thin layer of cells facilitates exchange of substances; in such cases.",
+      "question": "What type of tissue is simple epithelium?"
+    }
+  ]
+}

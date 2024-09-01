@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Somatic cells in human beings contain 23 pairs of chromosomes. Out of them the 23rd pair is composed of different types of chromosomes which are named as X and Y chromosomes. This means that all the eggs would have X chromosome as the 23rd chromosome, while a sperm may have either X or Y chromosome as the 23rd chromosome.",
+      "question": "What chromosomes do human eggs carry?"
+    },
+    {
+      "context": "On the other hand, the 23rd pair in a female contains X chromosomes. When a sperm with X chromosome fertilizes the egg, the resulting zygote would develop into a female child.",
+      "question": "What determines the sex of a female child?"
+    },
+    {
+      "context": "When a sperm with Y chromosome fertilizes the egg, the resulting zygote would develop into a male child. The 23rd pair in a male contains one X and one Y chromosome.",
+      "question": "What is the chromosome pair for a male?"
+    },
+    {
+      "context": "The 23rd pair contains one X and one Y chromosome in a male. A sperm may have either X or Y chromosome as the 23rd chromosome.",
+      "question": "What chromosomes can a sperm carry?"
+    },
+    {
+      "context": "When a sperm with X chromosome fertilizes the egg, the resulting zygote would develop into a female child. On the other hand, the 23rd pair in a female contains X chromosomes.",
+      "question": "What happens when Y sperm fertilizes the egg?"
+    }
+  ]
+}

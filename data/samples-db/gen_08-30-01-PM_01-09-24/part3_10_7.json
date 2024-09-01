@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The preserved remains of animals or plants or other organisms from the distant past are called fossils. Fossils provide the evidence that the present animals have originated from previously existing ones through the process of continuous evolution.",
+      "question": "What do fossils provide evidence of?"
+    },
+    {
+      "context": "Fossils provide the evidence that the present animals have originated from previously existing ones through the process of continuous evolution.",
+      "question": "What do fossils indicate about animal origins?"
+    },
+    {
+      "context": "Fossils are the preserved remains of animals or plants or other organisms from the distant past.",
+      "question": "What are fossils made up of?"
+    },
+    {
+      "context": "Fossils provide the evidence that the present animals have originated from previously existing ones.",
+      "question": "How do fossils relate to evolution?"
+    },
+    {
+      "context": "The preserved remains of animals or plants or other organisms from the distant past are called fossils.",
+      "question": "What is the definition of fossils?"
+    }
+  ]
+}

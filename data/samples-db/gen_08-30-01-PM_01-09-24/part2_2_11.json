@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The body is flattened from top to bottom and hence the name platyhelminthes. These are commonly known as flatworms. The body wall is composed of three layers of cells (triploblastic).",
+      "question": "What shape is the body of platyhelminthes?"
+    },
+    {
+      "context": "These are commonly known as flatworms. The body wall is composed of three layers of cells (triploblastic). Examples: Planaria, liver fluke, tapeworm, etc.",
+      "question": "What are common examples of platyhelminthes?"
+    },
+    {
+      "context": "The body is flattened from top to bottom and hence the name platyhelminthes. These are commonly known as flatworms.",
+      "question": "What does the name 'platyhelminthes' mean?"
+    },
+    {
+      "context": "The body wall is composed of three layers of cells (triploblastic). Examples: Planaria, liver fluke, tapeworm, etc.",
+      "question": "What does triploblastic mean in terms of body structure?"
+    },
+    {
+      "context": "Examples: Planaria, liver fluke, tapeworm, etc. The body is flattened from top to bottom and hence the name platyhelminthes.",
+      "question": "What organisms are classified as platyhelminthes?"
+    }
+  ]
+}

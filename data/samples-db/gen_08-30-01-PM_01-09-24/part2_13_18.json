@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Mariculture is the culture of fish in marine water. Marine fishery involves fishing in salt water regions. Some examples of marine fish are Pomphret, Tuna and Mackerel.",
+      "question": "What is mariculture?"
+    },
+    {
+      "context": "Fish are captured by locating large schools of fish, in the open sea, with the help of satellites and echo-sounders.",
+      "question": "How are fish located in the ocean?"
+    },
+    {
+      "context": "Some examples of marine fish are Pomphret, Tuna and Mackerel. Fish are captured by locating large schools of fish.",
+      "question": "What are examples of marine fish?"
+    },
+    {
+      "context": "Marine fishery involves fishing in salt water regions. Fish are captured by locating large schools of fish, in the open sea.",
+      "question": "What does marine fishery involve?"
+    },
+    {
+      "context": "Mariculture is the culture of fish in marine water. Some examples of marine fish are Pomphret, Tuna and Mackerel.",
+      "question": "What is an example of a marine fish?"
+    },
+    {
+      "context": "Fish are captured by locating large schools of fish, in the open sea, with the help of satellites and echo-sounders.",
+      "question": "What tools help locate fish in the sea?"
+    }
+  ]
+}

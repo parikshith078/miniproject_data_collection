@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Water harvesting reduces the runoff volume and peak flow, hence mitigate floods. It recharges ground water, providing a solution to the water shortage problem in winters. The method also reduces the cost per litre of water, as it saves a considerable amount of power consumed while pumping water from subsurface aquifers.",
+      "question": "How does water harvesting help mitigate floods?"
+    },
+    {
+      "context": "Reduces the runoff volume and the peak flow, hence mitigate floods. Water harvesting recharges ground water, which is a significant solution to the water shortage problem in winter. It also reduces the cost associated with consuming power to pump water from subsurface aquifers.",
+      "question": "What is one cost benefit of water harvesting?"
+    },
+    {
+      "context": "Water harvesting not only reduces the runoff volume and peak flow to mitigate floods but also recharges ground water, thereby addressing the winter water shortage. Additionally, it reduces the cost per litre of water by saving energy used in pumping.",
+      "question": "Why is water harvesting important for ground water?"
+    },
+    {
+      "context": "By reducing runoff volume and peak flow, water harvesting helps mitigate floods. It also recharges groundwater, which is vital for combating water shortages in winter. This practice leads to lower costs for water by minimizing energy use when pumping.",
+      "question": "What does water harvesting reduce during winters?"
+    },
+    {
+      "context": "The practice of water harvesting reduces runoff volume and peak flow, effectively mitigating floods. It recharges groundwater, addressing the problem of water shortages during winter months, and also reduces operational costs for water extraction.",
+      "question": "In what season does water harvesting address water shortages?"
+    }
+  ]
+}

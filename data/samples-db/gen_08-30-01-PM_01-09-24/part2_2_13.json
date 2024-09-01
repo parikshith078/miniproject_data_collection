@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "True body cavity is present in these animals. The body is divided into segments and hence the name annelida. Each segment contains a set of organs. Examples: Earthworm, leech, Nereis, etc.",
+      "question": "What animals belong to annelida?"
+    },
+    {
+      "context": "The body is divided into segments and hence the name annelida. Each segment contains a set of organs.",
+      "question": "What is the significance of segmentation in annelids?"
+    },
+    {
+      "context": "True body cavity is present in these animals. Examples: Earthworm, leech, Nereis, etc.",
+      "question": "What is a characteristic feature of annelids?"
+    },
+    {
+      "context": "Each segment contains a set of organs. Examples: Earthworm, leech, Nereis, etc.",
+      "question": "What does each segment in annelids contain?"
+    },
+    {
+      "context": "True body cavity is present in these animals. The body is divided into segments.",
+      "question": "What type of body structure do annelids have?"
+    }
+  ]
+}

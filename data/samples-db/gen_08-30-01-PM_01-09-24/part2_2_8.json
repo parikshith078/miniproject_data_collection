@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Dicotyledonous plants are characterized by having two cotyledons in their seeds. Examples of dicotyledonous plants include mustard, gram, and mango. These plants often exhibit broad leaves and a branching pattern of veins.",
+      "question": "What plants are classified as dicotyledonous?"
+    },
+    {
+      "context": "Examples of dicotyledonous seeds include plants such as mustard, gram, and mango. Each of these seeds contains two cotyledons, which play a crucial role in seed germination.",
+      "question": "Name three examples of dicotyledonous plants."
+    },
+    {
+      "context": "In dicotyledonous plants, the presence of two cotyledons is a defining feature. This trait can be seen in many plants, including mustard, gram, and mango, which are common examples.",
+      "question": "What is a defining feature of dicotyledonous plants?"
+    },
+    {
+      "context": "Dicotyledonous seeds have two cotyledons, which serve as food storage during the germination process. Common examples include mustard, gram, and mango, which are widely recognized.",
+      "question": "How many cotyledons are found in dicotyledonous seeds?"
+    }
+  ]
+}

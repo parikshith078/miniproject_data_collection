@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Vertebrates are classified into further subgroups on following bases: 1. Pisces: The body is streamlined. Muscular tail is present which assists in locomotion. Body is covered with scales. Paired gills are present; which can breathe oxygen dissolved in water.",
+      "question": "What are the main characteristics of Pisces?"
+    },
+    {
+      "context": "Tetrapoda: Animals have four limbs for locomotion and hence the name tetrapoda. Tetrapoda is divided into four classes, viz. amphibia, reptilia, aves and mammalia.",
+      "question": "What classes are included in Tetrapoda?"
+    },
+    {
+      "context": "They are cold-blooded animals. The heart has only two chambers. They lay eggs. 2. Tetrapoda: Animals have four limbs for locomotion and hence the name tetrapoda.",
+      "question": "What is notable about the heart structure in Pisces?"
+    },
+    {
+      "context": "The body is streamlined. Muscular tail is present which assists in locomotion. Body is covered with scales. Paired gills are present; which can breathe oxygen dissolved in water.",
+      "question": "How do Pisces breathe underwater?"
+    },
+    {
+      "context": "Tetrapoda is divided into four classes, viz. amphibia, reptilia, aves and mammalia. Animals have four limbs for locomotion and hence the name tetrapoda.",
+      "question": "What does the term Tetrapoda mean?"
+    }
+  ]
+}

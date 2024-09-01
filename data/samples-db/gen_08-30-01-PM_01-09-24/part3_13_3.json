@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The Ganga runs its course of over 2500 km from Gangotri in the Himalayas to Ganga Sagar in the Bay of Bengal. It is being turned into a drain by more than a hundred towns and cities in Uttar Pradesh, Bihar and West Bengal that pour their garbage and excreta into it.",
+      "question": "What towns contribute to Ganga pollution?"
+    },
+    {
+      "context": "Largely untreated sewage is dumped into the Ganges every day. In addition, think of the pollution caused by other human activities like bathing, washing of clothes and immersion of ashes or unburnt corpses.",
+      "question": "What human activities pollute the Ganga?"
+    },
+    {
+      "context": "Industries contribute chemical effluents to the Ganga’s pollution load and the toxicity kills fish in large sections of the river.",
+      "question": "How do industries affect the Ganga?"
+    },
+    {
+      "context": "The Ganga runs its course of over 2500 km from Gangotri in the Himalayas to Ganga Sagar in the Bay of Bengal.",
+      "question": "How long is the Ganga river?"
+    },
+    {
+      "context": "In addition, think of the pollution caused by other human activities like bathing, washing of clothes and immersion of ashes or unburnt corpses.",
+      "question": "What are examples of pollution sources in Ganga?"
+    }
+  ]
+}

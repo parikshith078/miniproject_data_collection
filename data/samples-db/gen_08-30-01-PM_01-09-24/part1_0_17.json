@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cells are classified based on their complexity and nuclear organization. The two main types are prokaryotic and eukaryotic cells. Prokaryotic cells lack a true nucleus and membrane-bound organelles, while eukaryotic cells have distinct nuclei and organelles that perform specific functions.",
+      "question": "What are the two types of cells?"
+    },
+    {
+      "context": "Classification of cells depends on their nuclear organization. Prokaryotic cells are simpler and do not have a true nucleus. In contrast, eukaryotic cells are more complex, featuring a well-defined nucleus and various membrane-bound organelles.",
+      "question": "What characterizes prokaryotic cells?"
+    },
+    {
+      "context": "In the study of biology, cells are divided into two categories based on their structural organization. Prokaryotic cells are characterized by their lack of a defined nucleus, whereas eukaryotic cells have a true nucleus and are more complex in structure and function.",
+      "question": "What distinguishes eukaryotic cells from prokaryotic cells?"
+    },
+    {
+      "context": "Cells can in essence be divided into two main types: prokaryotic and eukaryotic. Prokaryotic cells, such as bacteria, do not contain membrane-bound organelles, while eukaryotic cells include plants and animals, which have a defined nucleus.",
+      "question": "Give an example of a prokaryotic cell."
+    },
+    {
+      "context": "Based on the complexity of their organization, especially their nuclear organization, cells fall into two main categories: prokaryotic, which are simple and lack a nucleus, and eukaryotic, which are more complex and have a nucleus.",
+      "question": "Which cells are considered more complex?"
+    }
+  ]
+}

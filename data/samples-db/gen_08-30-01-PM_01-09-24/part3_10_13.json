@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The modern humans are called Homo sapiens. Many scientific investigations have shown that the modern humans evolved in Africa. They migrated towards north; in due course of time and settled near what is known as the Mediterranean Sea.",
+      "question": "What is the scientific name for modern humans?"
+    },
+    {
+      "context": "When the ice age ended, melting of ice resulted in the rise in water level. The humans migrated in different directions from that area.",
+      "question": "What event caused humans to migrate in different directions?"
+    },
+    {
+      "context": "They migrated towards north; in due course of time and settled near what is known as the Mediterranean Sea.",
+      "question": "Where did early Homo sapiens settle after migrating north?"
+    },
+    {
+      "context": "Many scientific investigations have shown that the modern humans evolved in Africa. They migrated towards north; in due course of time and settled near what is known as the Mediterranean Sea.",
+      "question": "Where did modern humans originally evolve according to investigations?"
+    },
+    {
+      "context": "The modern humans are called Homo sapiens. Many scientific investigations have shown that the modern humans evolved in Africa.",
+      "question": "What evidence supports the evolution of Homo sapiens?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The plant body is simple thallus type. The plant body is not differentiated into root, stem, and leaves. They are commonly known as algae.",
+      "question": "What type of body does Thallophyta have?"
+    },
+    {
+      "context": "They are commonly known as algae. Examples: Spirogyra, chara, volvox, ulothrix, etc.",
+      "question": "Give an example of a Thallophyta."
+    },
+    {
+      "context": "The plant body is simple thallus type. The plant body is not differentiated into root, stem, and leaves.",
+      "question": "What is the structure of Thallophyta?"
+    },
+    {
+      "context": "The plant body is not differentiated into root, stem, and leaves. They are commonly known as algae.",
+      "question": "Why are Thallophyta referred to as algae?"
+    },
+    {
+      "context": "Examples include Spirogyra, chara, volvox, ulothrix, etc.",
+      "question": "Name two examples of Thallophyta."
+    }
+  ]
+}

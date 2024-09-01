@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Elements which are needed in large quantities for the growth of the plants are called Macro Nutrients. They are Carbon, Hydrogen, Oxygen, Nitrogen, Phosphorous, Sulphur, Potassium, Calcium, Magnesium and Iron.",
+      "question": "What are macro nutrients for plants?"
+    },
+    {
+      "context": "Elements which are needed by the plants in very small quantities are called Micro Nutrients. They are Manganese, Copper, Molybdenum, Zinc, Boron and Chlorine.",
+      "question": "What are some examples of micro nutrients?"
+    },
+    {
+      "context": "Deficiency of these nutrients affects physiological processes in plants including reproduction, growth and susceptibility to diseases.",
+      "question": "How do nutrient deficiencies impact plants?"
+    },
+    {
+      "context": "To increase the yield, the soil can be enriched by supplying these nutrients in the form of manure and fertilizers.",
+      "question": "What can be done to enrich soil nutrients?"
+    },
+    {
+      "context": "Macro Nutrients include elements like Nitrogen, Phosphorous, and Potassium essential for plant growth.",
+      "question": "Which macro nutrients are vital for plant growth?"
+    },
+    {
+      "context": "Micro Nutrients such as Zinc and Boron are crucial even in small amounts for plant health.",
+      "question": "Why are micro nutrients important for plants?"
+    },
+    {
+      "context": "Growth, reproduction, and disease resistance in plants depend on sufficient nutrient levels.",
+      "question": "What processes in plants depend on nutrients?"
+    },
+    {
+      "context": "The soil can be improved using organic matter from manure alongside chemical fertilizers.",
+      "question": "How can soil nutrients be improved?"
+    }
+  ]
+}

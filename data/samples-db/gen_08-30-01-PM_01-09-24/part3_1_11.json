@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The small intestine has millions of tiny finger -like projections called villi. These villi increase the surface area for more efficient food absorption. Within these villi, many blood vessels are present that absorb the digested food and carry it to the blood stream.",
+      "question": "What are the tiny projections in the small intestine called?"
+    },
+    {
+      "context": "These villi increase the surface area for more efficient food absorption. Within these villi, many blood vessels are present that absorb the digested food and carry it to the blood stream.",
+      "question": "How do villi enhance food absorption efficiency?"
+    },
+    {
+      "context": "From the blood stream, the absorbed food is delivered to each and every cell of the body. The small intestine has millions of tiny finger -like projections called villi.",
+      "question": "What happens to food after absorption in the small intestine?"
+    },
+    {
+      "context": "These villi increase the surface area for more efficient food absorption. The small intestine has millions of tiny finger-like projections called villi.",
+      "question": "Why is surface area important in the small intestine?"
+    }
+  ]
+}

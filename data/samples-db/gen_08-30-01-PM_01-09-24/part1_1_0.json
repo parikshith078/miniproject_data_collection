@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Golgi Complex consists of saucer-like compartments called cisternae, a network of interconnecting tubules, vesicles, and vacuoles.",
+      "question": "What are the components of the Golgi Complex?"
+    },
+    {
+      "context": "In plant cells, the Golgi apparatus is referred to as dictyosomes.",
+      "question": "What is the name of the Golgi apparatus in plant cells?"
+    },
+    {
+      "context": "Golgi apparatus was first described by Camillo Golgi, consisting of various structures and functions in cells.",
+      "question": "Who first described the Golgi apparatus?"
+    },
+    {
+      "context": "The Golgi complex is made up of cisternae, tubules, vesicles, and vacuoles.",
+      "question": "What type of structures make up the Golgi complex?"
+    }
+  ]
+}

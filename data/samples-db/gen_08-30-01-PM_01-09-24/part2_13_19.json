@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Apiculture is the scientific method of rearing honeybees for honey and wax. Beehives are enclosed structures in which honey bees live and raise their young.",
+      "question": "What is apiculture a method of?"
+    },
+    {
+      "context": "The practice of maintaining honey bee colonies in beehives is called bee-keeping or apiculture.",
+      "question": "What is another term for bee-keeping?"
+    }
+  ]
+}

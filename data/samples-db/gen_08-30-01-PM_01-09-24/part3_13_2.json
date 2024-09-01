@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Coliform bacteria originate as organisms in soil or vegetation and in the intestinal tract of warm-blooded animals. This group of bacteria has long been an indicator of water contamination and possible presence of intestinal parasites. Sources of bacterial pollution include runoff from woodlands, pastures, and feedlots.",
+      "question": "What do coliform bacteria indicate?"
+    },
+    {
+      "context": "Coliform bacteria are relatively simple to identify and are present in much larger numbers than more dangerous pathogens. They react to the natural environment and treatment processes similarly to pathogens, allowing estimation of pathogenic bacteria levels.",
+      "question": "Why are coliform bacteria significant in water testing?"
+    },
+    {
+      "context": "This group of bacteria has long been an indicator of water contamination and possible presence of intestinal parasites and pathogens. By observing coliform bacteria, the increase or decrease of many pathogenic bacteria can be estimated.",
+      "question": "How can coliform bacteria help assess water quality?"
+    },
+    {
+      "context": "Domestic animals contribute heavily to the bacterial population. Many coliform bacteria may be directly deposited into natural streams from waste in water and runoff from areas with high concentrations of animals or humans.",
+      "question": "What is a major source of coliform bacteria?"
+    },
+    {
+      "context": "Coliform bacteria originate as organisms in soil or vegetation and in the intestinal tract of warm-blooded animals. They are present in much larger numbers than more dangerous pathogens, making them easier to study.",
+      "question": "Where do coliform bacteria primarily come from?"
+    }
+  ]
+}

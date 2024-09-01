@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Honey bees are vital not only for honey production but also play a significant role in the production of bee wax which has various applications.",
+      "question": "What products are made from honey bees?"
+    },
+    {
+      "context": "The economic importance of honey bees spans beyond just honey; they also produce bee wax that is utilized across different industries.",
+      "question": "What is one product produced by honey bees?"
+    },
+    {
+      "context": "In addition to honey, honey bees contribute to the economy through the production of bee wax, which is used in numerous products.",
+      "question": "How do honey bees benefit the economy?"
+    },
+    {
+      "context": "Honey bees are integral to both the honey and bee wax industries, showcasing their economic importance.",
+      "question": "What two products are highlighted as important from honey bees?"
+    },
+    {
+      "context": "The production of honey and bee wax by honey bees shows their crucial role in both agriculture and commerce.",
+      "question": "Why are honey bees economically important?"
+    }
+  ]
+}

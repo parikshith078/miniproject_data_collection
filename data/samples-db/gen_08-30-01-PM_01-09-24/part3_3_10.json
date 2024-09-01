@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "As the complexity of the individuals, plants or animals increases the different cells and organs become separated from each other by greater distance.",
+      "question": "What increases the separation of cells in organisms?"
+    },
+    {
+      "context": "Thus it becomes necessary to have a system by which the different parts of the organisms can function as a single unit.",
+      "question": "Why do organisms need a coordination system?"
+    },
+    {
+      "context": "To carry out a simple function such as picking up an object from the ground there has to be coordination of the eyes, hands, legs and the vertebral column.",
+      "question": "What functions must coordinate for picking an object up?"
+    },
+    {
+      "context": "The eyes have to focus on the object, the hands have to pick it up and grasp it, the legs have to bend and so does the back bone.",
+      "question": "Which body parts are involved in picking up an object?"
+    },
+    {
+      "context": "A similar mechanism is also needed for internal functions of the body.",
+      "question": "What is needed for internal functions of the body?"
+    },
+    {
+      "context": "This is called homeostasis. Homeostasis is derived from 'homeo' meaning same and 'stasis' meaning standing still.",
+      "question": "What does homeostasis mean in biology?"
+    },
+    {
+      "context": "The internal conditions of the body are maintained at a constant by controlling the physiology of the organism.",
+      "question": "How are internal body conditions maintained constant?"
+    },
+    {
+      "context": "Just as in animals, plants also have to control and coordinate their various functions.",
+      "question": "Do plants also require coordination for their functions?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Natural Selection explains how different individuals of a species have varying traits. Those individuals with advantageous traits are favored by nature, while others struggle to survive. This process leads to the passing of beneficial traits to future generations.",
+      "question": "What does Natural Selection explain?"
+    },
+    {
+      "context": "The concept of Survival of the Fittest indicates that only the strongest organisms survive while the less fit may not. This competition for survival results in some species becoming extinct while others continue to evolve.",
+      "question": "What does Survival of the Fittest indicate?"
+    },
+    {
+      "context": "In Darwin's Theory of Evolution, suitable traits are essential for finding food and mates. Organisms that possess these traits are more likely to survive and reproduce, thereby passing their advantageous traits on to their offspring.",
+      "question": "Why are suitable traits important for organisms?"
+    },
+    {
+      "context": "Darwin proposed that those individuals of a species with traits better suited to their environment have a greater chance of survival. Over time, this leads to changes within species, contributing to the process of evolution.",
+      "question": "What happens to traits better suited to the environment?"
+    },
+    {
+      "context": "Through the process of Natural Selection, certain traits become more common in a population over generations. This phenomenon occurs because individuals with advantageous traits are more likely to reproduce and pass these traits to their offspring.",
+      "question": "How do traits become more common in a population?"
+    }
+  ]
+}

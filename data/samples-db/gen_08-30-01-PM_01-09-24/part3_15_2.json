@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Conservation of natural resources is essential to ensure sustainable development. This includes the limited use of water to preserve this vital resource. Utilizing water efficiently helps prevent depletion of freshwater sources, which are critical for both human consumption and ecological balance.",
+      "question": "Why is limited use of water important?"
+    },
+    {
+      "context": "Plantation in free areas plays a significant role in conservation efforts. By planting trees, we can enhance biodiversity, prevent soil erosion, and improve air quality. Forests also act as carbon sinks, helping to mitigate climate change effects.",
+      "question": "How does plantation help in conservation?"
+    },
+    {
+      "context": "Irrigation of plants is a crucial method in agriculture that ensures effective water usage. By using techniques such as drip irrigation, farmers can conserve water while ensuring that crops receive enough hydration for optimal growth, which is vital for food security.",
+      "question": "What is the role of irrigation in conservation?"
+    },
+    {
+      "context": "Reducing the use of petrol and diesel is another vital aspect of conserving natural resources. Fossil fuels contribute significantly to environmental pollution and climate change. Transitioning to alternative energy sources helps preserve these resources for future generations.",
+      "question": "Why limit petrol and diesel usage?"
+    },
+    {
+      "context": "Utilizing smokeless fuel is essential for improving air quality and reducing health risks associated with air pollution. Smokeless fuels emit fewer harmful substances, making them a more sustainable choice for household energy needs while contributing to environmental conservation.",
+      "question": "What is the benefit of using smokeless fuel?"
+    }
+  ]
+}

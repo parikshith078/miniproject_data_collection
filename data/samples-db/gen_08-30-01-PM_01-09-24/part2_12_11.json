@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Factors responsible for storage losses are biotic (insects, rodents, fungi) and abiotic (moisture and temperature). Preventive methods and biological control should be preferred for protecting crops because excessive use of chemicals causes environmental problems and can harm the crops themselves.",
+      "question": "What are the biotic factors causing storage losses?"
+    },
+    {
+      "context": "Factors responsible for storage losses are biotic (insects, rodents, fungi) and abiotic (moisture and temperature). Preventive methods and biological control should be preferred for protecting crops because excessive use of chemicals causes environmental problems and can harm the crops themselves.",
+      "question": "Why should chemical use be minimized in crop protection?"
+    },
+    {
+      "context": "Factors responsible for storage losses are biotic (insects, rodents, fungi) and abiotic (moisture and temperature). Preventive methods and biological control should be preferred for protecting crops because excessive use of chemicals causes environmental problems and can harm the crops themselves.",
+      "question": "What is one abiotic factor mentioned for storage losses?"
+    },
+    {
+      "context": "Factors responsible for storage losses are biotic (insects, rodents, fungi) and abiotic (moisture and temperature). Preventive methods and biological control should be preferred for protecting crops because excessive use of chemicals causes environmental problems and can harm the crops themselves.",
+      "question": "Name two types of biotic factors affecting grain storage."
+    },
+    {
+      "context": "Factors responsible for storage losses are biotic (insects, rodents, fungi) and abiotic (moisture and temperature). Preventive methods and biological control should be preferred for protecting crops because excessive use of chemicals causes environmental problems and can harm the crops themselves.",
+      "question": "What role do fungi play in grain storage?"
+    }
+  ]
+}

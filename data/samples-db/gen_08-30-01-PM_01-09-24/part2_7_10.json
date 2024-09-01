@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The incubation period is very long and averages up to 2-5 years. Infection occurs by prolonged contact with leprosy patients.",
+      "question": "What is the average incubation period for leprosy?"
+    },
+    {
+      "context": "Infection occurs by prolonged contact with leprosy patients. The bacilli leave the body in nasal discharge, from the throat during coughing, sneezing and even speaking.",
+      "question": "How does leprosy spread from one person to another?"
+    },
+    {
+      "context": "The bacilli leave the body in nasal discharge, from the throat during coughing, sneezing and even speaking.",
+      "question": "What bodily fluids can transmit leprosy?"
+    },
+    {
+      "context": "The incubation period is very long and averages up to 2-5 years. Infection occurs by prolonged contact with leprosy patients.",
+      "question": "What factors influence the transmission of leprosy?"
+    },
+    {
+      "context": "The bacilli leave the body in nasal discharge, from the throat during coughing, sneezing and even speaking and through broken skin lesions.",
+      "question": "What methods can leprosy bacteria exit the infected body?"
+    }
+  ]
+}

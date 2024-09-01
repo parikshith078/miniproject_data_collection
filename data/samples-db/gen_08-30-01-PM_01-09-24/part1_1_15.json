@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Centrioles play an important role in the formation of spindle fibres during cell division. These structures help in organizing the microtubules that separate chromosomes, ensuring that each daughter cell receives the correct number of chromosomes.",
+      "question": "What role do centrioles play in cell division?"
+    },
+    {
+      "context": "During cell division, the centrioles are crucial for the formation of spindle fibres. These spindle fibres are essential for organizing chromosomes and facilitating their movement to opposite ends of the cell.",
+      "question": "How do centrioles aid in chromosome movement?"
+    },
+    {
+      "context": "The centrioles are cylindrical structures that help in cell division. They are responsible for forming spindle fibres that are necessary for separating chromosomes during the process of mitosis and meiosis.",
+      "question": "What structures do centrioles form during cell division?"
+    },
+    {
+      "context": "In the process of cell division, centrioles help in the arrangement and attachment of spindle fibres. This is vital for ensuring accurate distribution of genetic material to the new cells.",
+      "question": "Why are centrioles vital for accurate distribution of genetic material?"
+    }
+  ]
+}

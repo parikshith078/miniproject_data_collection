@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Cholera commonly called haiza is a water-borne disease caused by the bacterium, Vibrio cholerae. Robert Koch discovered this disease. Mode of transmission of Cholera: Incubation period varies from a few hours to 2 -3 days.",
+      "question": "Who discovered cholera?"
+    },
+    {
+      "context": "The causative bacterium secretes cholera toxin, enterotoxin which induces excessive secretion of an isotonic electrolyte solution by the intestinal mucosa.",
+      "question": "What does the bacterium Vibrio cholerae secrete?"
+    },
+    {
+      "context": "Symptoms of Cholera: Cholera is mainly characterized by sudden onset of profuse, effortless, rice-water like stools, vomiting and rapid dehydration, loss of minerals and muscular cramps.",
+      "question": "What are the main symptoms of cholera?"
+    },
+    {
+      "context": "Proper sanitation and hygienic conditions are the best methods of prevention. Cholera vaccine is effective for six months only.",
+      "question": "How long is the cholera vaccine effective?"
+    },
+    {
+      "context": "Fluid and salt lost is restored by Oral Rehydration Solution (ORS). It is water with a small amount of sugar and salt.",
+      "question": "What does ORS stand for?"
+    },
+    {
+      "context": "Antibiotics like tetracycline and chloramphenicol are used to treat cholera.",
+      "question": "Which antibiotics are used for cholera treatment?"
+    },
+    {
+      "context": "This solution is lost in stool. Symptoms of Cholera: Cholera is mainly characterized by sudden onset of profuse, effortless, rice-water like stools, vomiting and rapid dehydration.",
+      "question": "What type of stools are associated with cholera?"
+    }
+  ]
+}

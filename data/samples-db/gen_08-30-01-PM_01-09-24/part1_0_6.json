@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plasma membrane is a semi-permeable membrane. It is composed of a bilayer of lipid and protein. This is the outermost covering of the cell that separates the contents of the cell from its external environment.",
+      "question": "What is the main composition of the plasma membrane?"
+    },
+    {
+      "context": "The plasma membrane allows or permits the entry and exit of some materials in and out of the cell. It also prevents movement of some other materials.",
+      "question": "What is the function of the plasma membrane?"
+    },
+    {
+      "context": "The plasma membrane allows or permits the entry and exit of some materials in and out of the cell. It also prevents movement of some other materials. The cell membrane, therefore, is called a selectively permeable membrane.",
+      "question": "Why is the plasma membrane called selectively permeable?"
+    },
+    {
+      "context": "Plasma membrane is a semi-permeable membrane. It is composed of a bilayer of lipid and protein. This is the outermost covering of the cell.",
+      "question": "What does the plasma membrane separate?"
+    },
+    {
+      "context": "The plasma membrane allows or permits the entry and exit of some materials. It prevents movement of some other materials, making it selectively permeable.",
+      "question": "What does it mean that the plasma membrane is semi-permeable?"
+    }
+  ]
+}

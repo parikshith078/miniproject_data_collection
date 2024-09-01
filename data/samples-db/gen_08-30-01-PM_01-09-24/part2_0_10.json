@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The cells of collenchyma are polygonal in cross section and have unevenly thickened walls. These thickenings are due to the deposition of more cellulose, hemicellulose and pectin. The thickening is confined to the corners of the cells.",
+      "question": "What are the key components in collenchyma thickening?"
+    },
+    {
+      "context": "Collenchyma is generally found in the dicot stem in two or more layers below the epidermis. It is absent in the roots.",
+      "question": "Where is collenchyma commonly located in plants?"
+    },
+    {
+      "context": "The main function of Collenchyma is to provide strength and flexibility to the growing organs like young stem.",
+      "question": "What is the primary role of collenchyma in plants?"
+    },
+    {
+      "context": "Collenchyma also occurs in petiole and pedicel. Like Parenchyma, Collenchyma is also a living tissue.",
+      "question": "In addition to stems, where else can collenchyma be found?"
+    },
+    {
+      "context": "These thickenings are due to the deposition of more cellulose, hemicellulose and pectin. They generally occur in the dicot stem.",
+      "question": "What causes the thickening in collenchyma cells?"
+    }
+  ]
+}

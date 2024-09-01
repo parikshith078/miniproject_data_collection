@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The cell membrane is selectively permeable and regulates the movement of substances in and out of the cell. Movement of CO2: CO2 is produced during cellular respiration. Therefore, it is present in high concentrations inside the cell. This CO2 must be excreted out of the cell. In the cell’s external environment, the concentration of CO2 is low as compared to that inside the cell.",
+      "question": "What does CO2 concentration indicate inside the cell?"
+    },
+    {
+      "context": "Therefore, according to the principle of diffusion, CO2 moves from a region of higher concentration (inside the cell) towards a region of lower concentration (outside the cell). Similarly, O2 enters the cell by the process of diffusion when the concentration of O2 inside the cell is low as compared to its surroundings.",
+      "question": "How does O2 enter the cell?"
+    },
+    {
+      "context": "Water moves from a region of high concentration to a region of low concentration through the plasma membrane. The plasma membrane acts as a semi-permeable membrane, and this movement of water is known as osmosis.",
+      "question": "What is the term for movement of water across a membrane?"
+    },
+    {
+      "context": "However, the movement of water across the plasma membrane of the cell is affected by the amount of substance dissolved in water.",
+      "question": "What affects water movement across the plasma membrane?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Columnar epithelium facilitates secretion and absorption. For example; the lining of intestine is composed of columnar epithelium.",
+      "question": "What does columnar epithelium facilitate?"
+    },
+    {
+      "context": "In some organs, columnar epithelium has cilia present on the outer surface.",
+      "question": "Where is ciliated columnar epithelium found?"
+    },
+    {
+      "context": "Cilia facilitate movements of certain substances. The ciliated epithelium in the respiratory tract pushes the mucus forward.",
+      "question": "What do cilia in columnar epithelium do?"
+    },
+    {
+      "context": "Cells are column-shaped in columnar epithelium. Columnar epithelium facilitates secretion and absorption.",
+      "question": "Describe the shape of cells in columnar epithelium."
+    },
+    {
+      "context": "The lining of intestine is composed of columnar epithelium. In some organs, columnar epithelium has cilia present.",
+      "question": "Which organ uses columnar epithelium for lining?"
+    }
+  ]
+}

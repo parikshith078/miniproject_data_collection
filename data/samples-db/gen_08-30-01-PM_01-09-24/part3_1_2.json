@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Autotrophic nutrition is a mode of nutrition in which organisms synthesize their own food from inorganic substances. Presence of green pigment (chlorophyll) is necessary for photosynthesis, which is the primary mechanism of autotrophic nutrition. Chlorophyll allows the absorption of light energy, which is essential for converting carbon dioxide and water into glucose and oxygen.",
+      "question": "What pigment is essential for autotrophic nutrition?"
+    },
+    {
+      "context": "In autotrophic nutrition, the basic requirement is the presence of chlorophyll in the organisms. Presence of green pigment (chlorophyll) is necessary as it plays a crucial role in capturing light energy during photosynthesis. This process enables the organism to produce glucose from carbon dioxide and water, contributing to its own nourishment.",
+      "question": "Why is chlorophyll important for autotrophic nutrition?"
+    },
+    {
+      "context": "Autotrophic nutrition is characterized by the ability of organisms to produce their own food. The presence of green pigment (chlorophyll) is necessary, as it facilitates the process of photosynthesis. During photosynthesis, light energy is captured and used to convert carbon dioxide and water into carbohydrates, which serve as food for the organism.",
+      "question": "How does chlorophyll contribute to autotrophic organisms?"
+    },
+    {
+      "context": "Organisms that utilize autotrophic nutrition depend on the process of photosynthesis to sustain themselves. Presence of green pigment (chlorophyll) is necessary for this process, as it enables the absorption of sunlight to convert inorganic substances into organic matter, primarily sugars, for energy and growth.",
+      "question": "What role does chlorophyll play in autotrophic nutrition?"
+    },
+    {
+      "context": "The process of autotrophic nutrition involves organisms creating their own food through photosynthesis, which requires specific components. The presence of green pigment (chlorophyll) is necessary, as it captures light energy essential for the chemical reactions that transform carbon dioxide and water into glucose.",
+      "question": "What is the role of chlorophyll in autotrophic nutrition?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plant tissues are classified into two main types, which are meristematic tissue and permanent tissue. Meristematic tissue is responsible for growth, while permanent tissue provides support and allows for various functions in plants.",
+      "question": "What are the two main types of plant tissues?"
+    },
+    {
+      "context": "There are two primary classifications for plant tissues which are meristematic tissue and permanent tissue. The former is involved in the growth of the plant, while the latter serves various functions once the cells differentiate.",
+      "question": "What is the function of meristematic tissue?"
+    },
+    {
+      "context": "The two main types of plant tissues include meristematic tissue, which actively divides and facilitates growth, and permanent tissue, which develops from meristematic tissue and performs specific functions within the plant.",
+      "question": "What distinguishes permanent tissue from meristematic tissue?"
+    },
+    {
+      "context": "Plants consist of two broad categories of tissues: meristematic tissue that keeps the plant growing, and permanent tissue that fills various roles after cells mature from the meristematic state.",
+      "question": "What happens to cells in permanent tissue?"
+    },
+    {
+      "context": "In the study of plant biology, you will learn that plant tissues can be divided into two main types: meristematic tissue responsible for growth, and permanent tissue that takes on specialized roles.",
+      "question": "What is the primary role of meristematic tissue?"
+    }
+  ]
+}

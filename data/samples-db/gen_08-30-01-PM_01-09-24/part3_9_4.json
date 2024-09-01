@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Mendel's experiments illustrated the principles of inheritance through his study of pea plants. Blood groups in humans are determined by alleles, where 'A' and 'B' are codominant over 'O'. A person with blood type A could have the genotype AA or AO, while a person with blood type O must have the genotype OO.",
+      "question": "What does a child with blood type O indicate?"
+    },
+    {
+      "context": "In Mendelian genetics, traits can be dominant or recessive, and dominant traits are expressed in the phenotype even when only one copy of the allele is present. In the case of blood groups, the presence of allele O shows that it can mask the effect of allele A when inherited from one parent.",
+      "question": "What can we conclude about allele O's dominance?"
+    },
+    {
+      "context": "Mendel's laws of inheritance highlight how traits are passed from parents to offspring, with different combinations of dominant and recessive alleles contributing to the traits expressed in progeny. The ABO blood group system serves as an example of these genetic principles.",
+      "question": "How do Mendel's laws apply to the ABO blood groups?"
+    },
+    {
+      "context": "When a child exhibits a phenotype different from that of both parents, it can often be explained by the dominance of one allele over another. For instance, in blood types, the O type is recessive to A and B, meaning both parents could potentially carry the O allele without expressing it themselves.",
+      "question": "What does it mean for blood type O to be recessive?"
+    }
+  ]
+}

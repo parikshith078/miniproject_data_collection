@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The atmosphere prevents the sudden increase in temperature during the daylight hours.",
+      "question": "How does the atmosphere affect daytime temperature?"
+    },
+    {
+      "context": "The atmosphere keeps the average temperature of the Earth fairly steady during the day and even during the course of the whole year.",
+      "question": "What role does the atmosphere play in temperature stability?"
+    },
+    {
+      "context": "The moon, which is about the same distance from the Sun that the Earth is, with no atmosphere, the temperature ranges from –190º C to 110º C.",
+      "question": "How does the moon's temperature compare to Earth's?"
+    },
+    {
+      "context": "The atmosphere slows down the escape of heat into outer space during the night.",
+      "question": "What happens to heat during nighttime due to the atmosphere?"
+    },
+    {
+      "context": "Air is a bad conductor of heat, which helps regulate Earth's temperature.",
+      "question": "Why is air's conductivity important for climate control?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Traits acquired during the lifetime of an individual are adaptations that help the individual survive in their environment. However, these adaptations do not affect the organism's genetic material. Genetic changes only occur in the germ cells, which are responsible for passing traits to the next generation. Therefore, only those variations that arise in these cells can be inherited by offspring.",
+      "question": "Why aren't acquired traits inherited?"
+    },
+    {
+      "context": "When we consider how traits are passed from one generation to the next, it's important to understand that acquired traits, such as muscle growth from exercise, do not alter an organism's DNA. Only changes in the germ cells, which are involved in reproduction, are inherited. This means that while an individual may develop certain traits during its life, these do not get passed on to their children.",
+      "question": "What impacts the inheritability of traits?"
+    },
+    {
+      "context": "The concept of inheritance focuses on genetic information passed through germ cells. Traits that an individual develops as adaptations during its lifetime, for instance, can help it thrive in a specific environment. Still, these adaptations do not lead to changes in the genetic code, which is why they cannot be inherited by future generations.",
+      "question": "How do germ cells relate to inherited traits?"
+    },
+    {
+      "context": "In population genetics, understanding how traits are inherited is crucial. Traits that individuals acquire during their lifetime, such as scars or enhanced skills from practice, modify their behavior or physical appearance, but do not affect their genetic structure. Thus, these traits are not passed on genetically to the next generation, as inheritance only occurs through germ cells.",
+      "question": "Why can only genetic variations be inherited?"
+    },
+    {
+      "context": "When discussing population dynamics, it is essential to distinguish between genetic inheritance and acquired traits. An individual can gain new traits through experience or environmental factors throughout its life, such as learning to swim better. However, these changes are not recorded in the organism's DNA and thus are not available for inheritance, meaning their offspring will not inherit these characteristics.",
+      "question": "What is the role of genetic makeup in inheritance?"
+    }
+  ]
+}

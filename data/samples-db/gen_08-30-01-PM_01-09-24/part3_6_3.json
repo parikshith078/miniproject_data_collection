@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In animals, control and coordination occur with the help of nervous system. However, plants do not have a nervous system. Plants respond to stimuli by showing movements. The growth, development, and responses to the environment in plants is controlled and coordinated by a special class of chemical substances known as hormones.",
+      "question": "How do plants coordinate their responses?"
+    },
+    {
+      "context": "These hormones are produced in one part of the plant body and are translocated to other needy parts. For example, a hormone produced in roots is translocated to other parts when required.",
+      "question": "Where are plant hormones produced?"
+    },
+    {
+      "context": "The five major types of phytohormone are auxins, gibberellins, cytokinins, abscisic acid, and ethylene. These phytohormones are either growth promoters (such as auxins, gibberellins, cytokinins, and ethylene) or growth inhibitors such as abscisic acid.",
+      "question": "What are the main types of plant hormones?"
+    },
+    {
+      "context": "Plants respond to stimuli by showing movements. The growth, development, and responses to the environment in plants is controlled and coordinated by a special class of chemical substances known as hormones.",
+      "question": "What role do hormones play in plants?"
+    },
+    {
+      "context": "These phytohormones are either growth promoters (such as auxins, gibberellins, cytokinins, and ethylene) or growth inhibitors such as abscisic acid.",
+      "question": "Which hormone acts as a growth inhibitor?"
+    }
+  ]
+}

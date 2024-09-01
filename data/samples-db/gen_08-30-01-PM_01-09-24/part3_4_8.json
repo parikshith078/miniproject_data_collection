@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Muscle tissues have special filaments; called actin and myosin. When a muscle receives a nerve signal; a series of events is triggered in the muscle.",
+      "question": "What are actin and myosin responsible for?"
+    },
+    {
+      "context": "Calcium ions enter the muscle cells. It results in actin and myosin filaments sliding towards each other and that is how a muscle contracts.",
+      "question": "What role do calcium ions play in muscle contraction?"
+    },
+    {
+      "context": "Contraction in a muscle brings movement in the related organ.",
+      "question": "What effect does muscle contraction have on organs?"
+    },
+    {
+      "context": "When a muscle receives a nerve signal; a series of events is triggered in the muscle.",
+      "question": "What initiates the contraction process in muscles?"
+    },
+    {
+      "context": "Muscle tissues have special filaments; called actin and myosin.",
+      "question": "What are the two special filaments in muscle tissues?"
+    }
+  ]
+}

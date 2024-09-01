@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Acute diseases are characterized by a short duration, allowing patients to recover completely after treatment. There is no subsequent loss of weight or fatigue, but there might be a brief period of lost productivity.",
+      "question": "What characterizes an acute disease?"
+    },
+    {
+      "context": "Chronic diseases, on the other hand, last for an extended period of time. Patients often experience incomplete recovery and may suffer from weight loss and tiredness, resulting in a significant, prolonged loss of work.",
+      "question": "What defines a chronic disease?"
+    },
+    {
+      "context": "Acute diseases lead to brief interruptions in work and overall efficiency without any lasting aftereffects, making recovery straightforward and full.",
+      "question": "How do acute diseases affect work efficiency?"
+    },
+    {
+      "context": "In contrast, chronic diseases involve ongoing health challenges that can result in a sustained decrease in work performance and daily energy levels.",
+      "question": "What is the impact of chronic diseases on energy levels?"
+    },
+    {
+      "context": "Patients with acute diseases typically return to their normal health and activity levels relatively quickly, while chronic disease patients face ongoing health issues.",
+      "question": "How does recovery differ between acute and chronic diseases?"
+    }
+  ]
+}

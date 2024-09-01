@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Risk factors for parasites include children who play outdoors in the dirt, close contact with pets, farming, gardening, outdoor activities that include walking near wooded areas, digging in the dirt, walking outside barefoot, being in close or sexual contact with someone who has specific parasites, or sometimes simply the act of walking from the car to the house.",
+      "question": "What is a risk factor for parasites?"
+    },
+    {
+      "context": "Parasites exist in the world and cannot be avoided simply by avoiding being outdoors.",
+      "question": "Can avoiding outdoors completely prevent parasites?"
+    },
+    {
+      "context": "Farming, gardening, outdoor activities that include walking near wooded areas are risk factors for parasitic diseases.",
+      "question": "What outdoor activities increase parasitic disease risk?"
+    },
+    {
+      "context": "Children who play outdoors in the dirt are at risk for parasitic infections.",
+      "question": "Which age group is primarily at risk for parasites?"
+    },
+    {
+      "context": "Close contact with pets can lead to an increased risk of parasites.",
+      "question": "How do pets contribute to parasite risk?"
+    },
+    {
+      "context": "Being in close or sexual contact with someone who has specific parasites poses a risk.",
+      "question": "What type of contact increases the risk of parasites?"
+    },
+    {
+      "context": "Digging in the dirt and walking outside barefoot are risk factors for parasites.",
+      "question": "Name two activities that raise the risk of parasitic infections."
+    },
+    {
+      "context": "Simply walking from the car to the house can expose individuals to parasites.",
+      "question": "How can everyday actions expose us to parasites?"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Cancer describes a range of diseases in which abnormal cells proliferate and spread out of control. Other terms used are tumors and neoplasms.",
+      "question": "What are tumors and neoplasms?"
+    },
+    {
+      "context": "There are many types of cancer, and all organs of the body can become cancerous.",
+      "question": "Which organs can become cancerous?"
+    }
+  ]
+}

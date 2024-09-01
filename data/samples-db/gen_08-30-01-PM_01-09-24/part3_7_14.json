@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cross-pollination involves transferring pollen between different plants, facilitated by wind, water, and animals. Birds play a role through ornithophily, while insects and various animals contribute to zoophily.",
+      "question": "What are the agents of cross-pollination?"
+    },
+    {
+      "context": "Agents of cross-pollination include animals, insects, wind, and water, which carry pollen from one flower of a plant to another of a different plant.",
+      "question": "How does cross-pollination occur?"
+    },
+    {
+      "context": "Cross-pollination occurs when pollen is transferred from one flower to another of a different plant, involving birds, insects, and even water for this process.",
+      "question": "Which organisms facilitate cross-pollination?"
+    },
+    {
+      "context": "In the process of cross-pollination, the pollen must be carried by agents such as animals, insects, and the wind to achieve fertilization between different plants.",
+      "question": "What is required for successful cross-pollination?"
+    },
+    {
+      "context": "Pollination can occur through the actions of various agents like birds, which engage in ornithophily, and insects that are involved in zoophily.",
+      "question": "What types of pollination are mentioned?"
+    }
+  ]
+}

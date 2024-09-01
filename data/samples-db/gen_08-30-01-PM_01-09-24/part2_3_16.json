@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Acute diseases are diseases which last only for a short period of time and do not have long term effect on health. Examples include cold, cough, typhoid, and cholera.",
+      "question": "What are examples of acute diseases?"
+    },
+    {
+      "context": "Chronic diseases are diseases which last for a long time and have long term drastic effects on health. Examples include diabetes, tuberculosis, and cancer.",
+      "question": "What defines a chronic disease?"
+    },
+    {
+      "context": "Typhoid and cholera are examples of acute diseases which do not have long term effects on health.",
+      "question": "What is an example of an acute disease?"
+    },
+    {
+      "context": "Diseases can be classified into acute diseases, which are temporary, and chronic diseases, which are long-lasting and severe.",
+      "question": "How are diseases classified?"
+    },
+    {
+      "context": "Chronic diseases like arthritis and diabetes significantly affect health over an extended period of time.",
+      "question": "What are chronic diseases known for?"
+    }
+  ]
+}

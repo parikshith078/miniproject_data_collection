@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Human activities such as excessive water use and burning of waste contribute significantly to the depletion of natural resources. Day and night lighting consumes vast amounts of energy, while unnecessary car traffic increases carbon emissions. Additionally, the destruction of plants impacts biodiversity and the ecosystem.",
+      "question": "How does excessive water use impact natural resources?"
+    },
+    {
+      "context": "Day and night lighting not only uses electricity inefficiently but also affects wildlife and ecosystems. Unnecessary car trafficking leads to increased fuel consumption, which in turn heightens pressure on fossil fuel resources. This pattern reinforces the importance of sustainable energy use.",
+      "question": "What effects does unnecessary car trafficking have?"
+    },
+    {
+      "context": "The burning of polythene and other wastes leads to pollution and harmful emissions that degrade air quality. This action, along with the destruction of plants, signals a disregard for the balance of ecosystems. Moreover, excessive water use exacerbates these issues.",
+      "question": "Why is burning of waste harmful to the environment?"
+    },
+    {
+      "context": "The loss of plant life due to destruction directly affects the oxygen-carbon dioxide balance in nature. This destructive behavior, along with practices like day and night lighting, contributes to resource depletion. Deforestation also aggravates soil erosion and water cycle disruption.",
+      "question": "How does plant destruction affect ecosystems?"
+    },
+    {
+      "context": "Actions such as extra water use and unnecessary burning of waste not only drain vital natural resources but also endanger wildlife habitats. These activities create an unsustainable cycle that threatens both the environment and the quality of life for future generations.",
+      "question": "What is a consequence of extra water usage?"
+    }
+  ]
+}

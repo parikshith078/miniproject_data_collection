@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "We should reduce the consumption of various resources wherever possible. For example; we can reduce the consumption of electricity by switching off lights and other appliances when they are not required.",
+      "question": "How can we reduce electricity consumption?"
+    },
+    {
+      "context": "This can not only help in saving electricity but also in saving the fuels which are utilised in electricity production.",
+      "question": "What fuels are saved by reducing electricity?"
+    },
+    {
+      "context": "Recycling is another way of reducing the demand for natural resources. For example; by recycling paper, we reduce the demand for wood and thus help in saving the forest.",
+      "question": "What is one benefit of recycling paper?"
+    },
+    {
+      "context": "We should immediately repair a leaking tap so that precious water can be saved.",
+      "question": "Why is it important to fix a leaking tap?"
+    },
+    {
+      "context": "By switching off lights and other appliances when they are not required, we can conserve energy and resources.",
+      "question": "What happens when we turn off unnecessary appliances?"
+    },
+    {
+      "context": "Recycling paper helps in reducing the demand for wood and thus contributes to forest conservation.",
+      "question": "How does recycling paper benefit forests?"
+    }
+  ]
+}

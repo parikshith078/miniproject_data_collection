@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Chronic diseases and poverty are interconnected in a vicious circle. At the same time, poverty and the worsening of already existing poverty are caused by chronic diseases. The poor are more vulnerable for several reasons, including greater exposure to risks and decreased access to health services.",
+      "question": "How do chronic diseases affect poverty levels?"
+    },
+    {
+      "context": "Poverty and the worsening of already existing poverty are caused by chronic diseases. The poor are more vulnerable for several reasons, including greater exposure to risks and decreased access to health services.",
+      "question": "What makes the poor more vulnerable to chronic diseases?"
+    },
+    {
+      "context": "The poor are more vulnerable to chronic diseases because of greater exposure to risks and decreased access to health services. This creates a vicious cycle between health and economic stability.",
+      "question": "What factors contribute to the vulnerability of the poor?"
+    },
+    {
+      "context": "Chronic diseases and poverty are interconnected in a vicious circle, creating ongoing challenges for those affected. This cycle makes it difficult for individuals to escape poverty.",
+      "question": "What is the relationship between chronic diseases and poverty?"
+    },
+    {
+      "context": "The cycle of chronic diseases worsening poverty indicates that individuals in poorer communities face increased health risks, leading to greater economic difficulties over time.",
+      "question": "How do chronic diseases contribute to economic difficulties?"
+    }
+  ]
+}

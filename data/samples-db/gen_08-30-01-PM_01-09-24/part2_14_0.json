@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In a bee colony, there are different roles for each bee type. The queen is the only fertile female whose primary job is to lay eggs. Drones are the males whose role is to mate with the queen, while worker bees perform various tasks such as collecting nectar and caring for the young.",
+      "question": "What is the role of worker bees?"
+    },
+    {
+      "context": "Bees in a colony consist of a queen, drones, and workers. The queen is responsible for laying eggs, while drones mate with the queen. Workers, being sterile females, handle most of the hive's activities including protection and honey production.",
+      "question": "Who is responsible for laying eggs in a bee colony?"
+    },
+    {
+      "context": "Within a bee colony, the queen is the sole fertile female, focusing exclusively on egg-laying. Drones are the males meant for mating with the queen to fertilize the eggs. The workers, the sterile females, maintain the hive and its inhabitants' well-being.",
+      "question": "What do drones do in the bee colony?"
+    },
+    {
+      "context": "The bee colony has a structured society. The queen, as the only fertile female, lays eggs which play a critical role in colony sustainability. Drones contribute by mating with the queen, while workers have various duties, including nectar collection and hive maintenance.",
+      "question": "How do drones contribute to the bee colony?"
+    },
+    {
+      "context": "In summary, a bee colony is structured with distinct roles: the queen lays eggs, drones mate with her, and worker bees undertake the labor of caring for the hive and its inhabitants, including constructing the honey combs and protecting the hive.",
+      "question": "What is the function of the queen bee?"
+    }
+  ]
+}

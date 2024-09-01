@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Cell theory states that all living organisms are composed of one or more cells, which are the basic unit of structure, function, and organization in organisms.",
+      "question": "What does cell theory state about living organisms?"
+    },
+    {
+      "context": "According to the cell theory, the cell is considered the basic unit of structure, function, and organization in all living organisms, indicating its fundamental role.",
+      "question": "What is the role of cells in living organisms?"
+    },
+    {
+      "context": "One of the main principles of cell theory is that all cells arise from preexisting, living cells, emphasizing the continuity of life.",
+      "question": "What does cell theory say about the origin of cells?"
+    },
+    {
+      "context": "The cell theory, established by Schleiden, Schwann, and Virchow, outlines three main ideas about the composition and origin of cells.",
+      "question": "Who established the cell theory?"
+    }
+  ]
+}

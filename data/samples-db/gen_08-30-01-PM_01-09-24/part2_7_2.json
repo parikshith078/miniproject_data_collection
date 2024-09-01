@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Tetanus spores are abundant in soil, especially in manured soil. They can survive for over 60 years in contaminated environments and are acquired through contaminated wounds.",
+      "question": "How can tetanus be transmitted to humans?"
+    },
+    {
+      "context": "The soil, particularly when it has been manured with animal dung, is a common site for tetanus spores. These spores can enter the body through wounds.",
+      "question": "What is the source of tetanus spores?"
+    },
+    {
+      "context": "Tetanus causes infection when spores contaminate wounds, particularly in areas where the soil is rich in animal dung. The spores are extremely resilient and can persist for decades.",
+      "question": "In what type of environment do tetanus spores thrive?"
+    },
+    {
+      "context": "Tetanus spores, found in soil contaminated with animal dung, can remain dormant for many years. When wounds are exposed, these spores can infect a person.",
+      "question": "What type of contamination leads to tetanus infection?"
+    },
+    {
+      "context": "Entering the body through contaminated wounds is how tetanus spores infect individuals. The spores can lie dormant in soil for many years, waiting for an opportunity.",
+      "question": "What role do wounds play in tetanus infection?"
+    }
+  ]
+}

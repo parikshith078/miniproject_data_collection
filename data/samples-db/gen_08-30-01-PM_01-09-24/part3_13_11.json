@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The Chipko Movement began in the early 1980s from a small village; Reni in Garhwal district. The women of the village began hugging a tree to prevent the cutting of trees by the contractors.",
+      "question": "What was the main action taken by women in Reni?"
+    },
+    {
+      "context": "The Chipko Movement later spread to other parts of India. It had been instrumental in stopping deforestation to a large extent.",
+      "question": "What was one major impact of the Chipko Movement?"
+    },
+    {
+      "context": "The Chipko Movement began in the early 1980s from a small village; Reni in Garhwal district. The women of the village began hugging a tree to prevent the cutting of trees by the contractors.",
+      "question": "Where did the Chipko Movement originate?"
+    },
+    {
+      "context": "The Chipko Movement later spread to other parts of India. It had been instrumental in stopping deforestation to a large extent.",
+      "question": "How did the Chipko Movement affect deforestation?"
+    },
+    {
+      "context": "The Chipko Movement began in the early 1980s from a small village; Reni in Garhwal district. The women of the village began hugging a tree to prevent the cutting of trees by the contractors.",
+      "question": "In what year did the Chipko Movement start?"
+    },
+    {
+      "context": "The Chipko Movement later spread to other parts of India. It had been instrumental in stopping deforestation to a large extent.",
+      "question": "What was the broader goal of the Chipko Movement?"
+    }
+  ]
+}

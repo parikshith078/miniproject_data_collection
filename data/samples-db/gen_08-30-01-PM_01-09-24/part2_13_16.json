@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fish production involves fin fishery and shell fishery. Two main species of finned true fish are Catla and Rohu, and that of shellfish such as prawns and molluscs.",
+      "question": "What are the two main types of fishery?"
+    },
+    {
+      "context": "Fish production involves fin fishery and shell fishery. Two main species of finned true fish are Catla and Rohu, and that of shellfish such as prawns and molluscs.",
+      "question": "Name one species of shellfish mentioned."
+    },
+    {
+      "context": "Fish production involves fin fishery and shell fishery. Two main species of finned true fish are Catla and Rohu, and that of shellfish such as prawns and molluscs.",
+      "question": "What is a species of finned true fish?"
+    },
+    {
+      "context": "Fish production involves fin fishery and shell fishery. Two main species of finned true fish are Catla and Rohu, and that of shellfish such as prawns and molluscs.",
+      "question": "Which fish species is known as Catla?"
+    },
+    {
+      "context": "Fish production involves fin fishery and shell fishery. Two main species of finned true fish are Catla and Rohu, and that of shellfish such as prawns and molluscs.",
+      "question": "What type of fishery includes prawns?"
+    }
+  ]
+}

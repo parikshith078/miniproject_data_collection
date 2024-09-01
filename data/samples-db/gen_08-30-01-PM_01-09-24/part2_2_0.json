@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "These are heterotrophic and have a cell wall. The cell wall is made of chitin. Most of the fungi are unicellular.",
+      "question": "What is a distinctive feature of fungi?"
+    },
+    {
+      "context": "They feed on decaying organic materials. Such a mode of nutrition is called saprophytic.",
+      "question": "What type of nutrition do fungi use?"
+    },
+    {
+      "context": "Many of them have the capacity to become multicellular at a certain stage in life.",
+      "question": "Can fungi be unicellular or multicellular?"
+    },
+    {
+      "context": "Some fungi live in symbiotic relationships with other organisms, while some are parasites as well.",
+      "question": "Do fungi only have saprophytic relationships?"
+    },
+    {
+      "context": "Examples: yeast, penicillium, aspergillus, mucor, etc.",
+      "question": "Can you name two examples of fungi?"
+    }
+  ]
+}

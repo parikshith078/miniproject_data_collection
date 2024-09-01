@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Immunisation is a process of administration (injecting) of vaccine into a healthy person in order to develop immunity against a disease. Immunity means the ability of a body to recognise, destroy and eliminate external disease causing agents.",
+      "question": "What is the purpose of immunisation?"
+    },
+    {
+      "context": "This immunisation through administering vaccine is called vaccination. Vaccine contains disease-causing organisms in a diluted or weakened form or in living or dead form.",
+      "question": "What is vaccination defined as?"
+    },
+    {
+      "context": "Vaccine contains disease -causing organisms in a diluted or weakened form or in living or dead form. It prevents further infection by microbes from causing the disease.",
+      "question": "What do vaccines contain to stimulate immunity?"
+    },
+    {
+      "context": "Diseases like small pox, rabies, diphtheria chicken pox, polio, hepatitis are controlled by vaccination. Small pox is eliminated from the world through a worldwide vaccination programme.",
+      "question": "Which diseases are controlled by vaccination?"
+    },
+    {
+      "context": "Immunisation is a process of administration (injecting) of vaccine into a healthy person in order to develop immunity against a disease. Immunity means the ability of a body to recognise, destroy and eliminate external disease causing agents.",
+      "question": "How does immunisation work in the body?"
+    }
+  ]
+}

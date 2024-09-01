@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Kharif crops sown between April and May while Rabi crops are sown between September and October. Kharif crops are harvested after monsoon rains while Rabi crops are produced after winter.",
+      "question": "When are Rabi crops typically sown?"
+    },
+    {
+      "context": "Kharif crops are completely relying over the rain like if less or more in quantity while Rabi can deal with whatever water is present for irrigation.",
+      "question": "How do Kharif crops depend on rainfall?"
+    },
+    {
+      "context": "The major examples that can be counted as Kharif crops are sunflower, rice, sugar cane, soya bean and tea while Rabi crops can be wheat, barley, pea, gram and mustard.",
+      "question": "What are examples of Rabi crops?"
+    },
+    {
+      "context": "Kharif crops are popularly known as monsoon crops while Rabi crops are called winter or spring crops.",
+      "question": "What is another name for Kharif crops?"
+    },
+    {
+      "context": "Kharif crops are harvested after monsoon rains while Rabi crops are produced after winter.",
+      "question": "Which crops are harvested after winter?"
+    }
+  ]
+}

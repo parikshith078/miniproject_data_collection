@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The study of classification of various organisms gives us idea about the evolutionary history of an organism. Organisms that share certain similar characteristics are grouped together, indicating they may have evolved from common ancestors with a shared evolutionary history.",
+      "question": "How does classification relate to evolution?"
+    },
+    {
+      "context": "Fossils, the preserved remains of ancient organisms, provide evidence that present-day animals have evolved from previously existing ones through continuous evolution. They help reconstruct the evolutionary history of organisms and indicate the timeline for when different species emerged or became extinct.",
+      "question": "What role do fossils play in evolution?"
+    },
+    {
+      "context": "Homologous organs have the same basic structure and origin but perform different functions, such as the forelimbs of frogs, birds, and humans. Analogous organs have different structures and origins but perform similar functions, such as the wings of insects versus those of birds.",
+      "question": "What is the difference between homologous and analogous organs?"
+    },
+    {
+      "context": "Life is believed to have developed from simple inorganic molecules present on early Earth, through processes such as chemical synthesis facilitated by lightning in a primordial atmosphere. This led to the formation of organic molecules, including amino acids necessary for protein synthesis.",
+      "question": "What is the origin of life on Earth?"
+    },
+    {
+      "context": "Sexual reproduction, involving the fusion of gametes, results in greater variability among offsprings due to recombination of parental genes, promoting faster evolution. In contrast, asexual reproduction produces exact copies of the parent, resulting in fewer variations.",
+      "question": "What is the advantage of sexual reproduction?"
+    }
+  ]
+}

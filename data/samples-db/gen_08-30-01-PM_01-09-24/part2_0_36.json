@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The cells of striated muscles are in the form of long, unbranched fibres. Cells are multinucleate. Light and dark bands (striations) are present on muscle fibres; which gives the name striated muscles. Striated muscles are found in those organs where voluntary movement is possible, e.g. hands, legs, back, neck, etc.",
+      "question": "What are striated muscles used for?"
+    },
+    {
+      "context": "Striated muscles are found in those organs where voluntary movement is possible, e.g. hands, legs, back, neck, etc. The cells of striated muscles are in the form of long, unbranched fibres.",
+      "question": "Where are striated muscles located?"
+    },
+    {
+      "context": "Cells of striated muscles are multinucleate and contain light and dark bands, also known as striations. This feature is important for their identification.",
+      "question": "What characterizes striated muscle cells?"
+    },
+    {
+      "context": "Striated muscles are characterized by long, unbranched fibers and multinucleate cells. They enable voluntary movements in various body parts.",
+      "question": "What distinguishes striated muscles from others?"
+    },
+    {
+      "context": "Striated muscles are called so due to the presence of light and dark bands which appear as striations. These muscles facilitate voluntary movements.",
+      "question": "Why are they called striated muscles?"
+    }
+  ]
+}

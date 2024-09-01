@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The seminal vesicles and prostate gland secrete fluids that contain various nutrients, which are vital for sperm viability. These secretions form a significant part of the semen, helping to nourish and transport sperm during ejaculation.",
+      "question": "What do seminal vesicles secrete for sperm?"
+    },
+    {
+      "context": "The fluids produced by seminal vesicles and the prostate gland not only nourish sperm but also create a fluid environment that enhances the mobility of sperm cells as they navigate through the reproductive tract.",
+      "question": "How do these glands aid sperm mobility?"
+    },
+    {
+      "context": "Both seminal vesicles and the prostate gland play crucial roles in male reproductive health by ensuring that sperm are adequately nourished and can effectively reach the egg for fertilization.",
+      "question": "Why are these glands important in reproduction?"
+    },
+    {
+      "context": "In addition to providing nutrients, the secretions from the seminal vesicles and prostate gland help to neutralize the acidity of the female reproductive tract, allowing sperm to survive longer and improve chances of fertilization.",
+      "question": "What role do secretions play in pH balance?"
+    },
+    {
+      "context": "The combined output from the seminal vesicles and prostate gland forms the bulk of the semen, which is essential for the delivery of sperm to the female reproductive system during sexual intercourse.",
+      "question": "What is formed by secretions from both glands?"
+    }
+  ]
+}

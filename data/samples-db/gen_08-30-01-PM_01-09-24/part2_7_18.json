@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Nail fungus is most common in adolescents and adults, especially among people who have frequent manicures. These infections can manifest themselves in a variety of patterns. Sometimes a portion of the nail becomes thick and brittle. Other times, the fungi attack the cuticle and the growth spreads out from there.",
+      "question": "Who is most affected by nail fungus?"
+    },
+    {
+      "context": "These infections can manifest themselves in a variety of patterns. Sometimes a portion of the nail becomes thick and brittle. Other times, the fungi attack the cuticle and the growth spreads out from there.",
+      "question": "What are the symptoms of nail fungus?"
+    },
+    {
+      "context": "This cuticle-based infection is common in AIDS patients. Nail fungus is most common in adolescents and adults, especially among people who have frequent manicures.",
+      "question": "Which patients are prone to cuticle infections?"
+    },
+    {
+      "context": "Nail fungus can become a progressive problem. Sometimes a portion of the nail becomes thick and brittle. Other times, the fungi attack the cuticle and the growth spreads out from there.",
+      "question": "What happens as nail fungus progresses?"
+    },
+    {
+      "context": "These infections can manifest themselves in a variety of patterns. Nail fungus is most common in adolescents and adults, especially among people who have frequent manicures.",
+      "question": "What patterns can nail fungus infections show?"
+    }
+  ]
+}

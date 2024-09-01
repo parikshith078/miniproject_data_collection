@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Reptiles are characterized by their crawling movement and have a skin that is hardened to form scales. They are ectothermic and can often be found in a variety of habitats. Examples of reptiles include snakes, lizards, crocodiles, and turtles.",
+      "question": "What is a key characteristic of reptiles?"
+    },
+    {
+      "context": "Reptilia, commonly known as reptiles, exhibit crawling movement as their primary mode of locomotion. Their skin is uniquely adapted, hardened into scales to protect them from environmental factors.",
+      "question": "How do reptiles primarily move?"
+    },
+    {
+      "context": "Reptiles, classified as members of the class Reptilia, display a distinctive form of movement. They have scales that are the result of a hardened skin, which aids in their survival in various environments.",
+      "question": "What type of skin do reptiles have?"
+    },
+    {
+      "context": "Among the examples of reptiles, we find snakes, lizards, crocodiles, and turtles. These animals are known for their crawling movement and distinctive scales that cover their bodies.",
+      "question": "Can you name two examples of reptiles?"
+    },
+    {
+      "context": "The important class Reptilia showcases animals that crawl and possess a hardened skin texture formed into scales. This adaptation is crucial for their survival in different habitats.",
+      "question": "What adaptation helps reptiles survive in their environment?"
+    }
+  ]
+}

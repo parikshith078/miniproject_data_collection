@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The hydrochloric acid present in our stomach dissolves bits of food and creates an acidic medium. In this acidic medium, enzyme pepsinogen is converted to pepsin, which is a protein-digesting enzyme.",
+      "question": "What enzyme is activated by stomach acid?"
+    },
+    {
+      "context": "The hydrochloric acid kills the harmful microbes that enter with food and thus prevents infection of digestive tract.",
+      "question": "How does stomach acid protect against infections?"
+    },
+    {
+      "context": "The hydrochloric acid present in our stomach dissolves bits of food and creates an acidic medium.",
+      "question": "What role does hydrochloric acid play in digestion?"
+    },
+    {
+      "context": "In this acidic medium, enzyme pepsinogen is converted to pepsin, which is a protein-digesting enzyme.",
+      "question": "What is the function of pepsin in the stomach?"
+    },
+    {
+      "context": "The hydrochloric acid kills the harmful microbes that enter with food and thus prevents infection of digestive tract.",
+      "question": "What is a key function of hydrochloric acid in food safety?"
+    }
+  ]
+}

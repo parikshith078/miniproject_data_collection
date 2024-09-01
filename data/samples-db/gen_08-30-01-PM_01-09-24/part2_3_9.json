@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "For good health, several conditions must be fulfilled. Important among them are nutrition, proper habits, and exercise along with relaxation to maintain a balanced lifestyle.",
+      "question": "What are three conditions for good health?"
+    },
+    {
+      "context": "Good health requires several fulfilled conditions, such as proper nutrition, the establishment of healthy habits, and regular exercise paired with adequate relaxation.",
+      "question": "Name a condition that contributes to good health."
+    },
+    {
+      "context": "Essential for good health are conditions such as nutrition, effective habits, and a combination of exercise and relaxation for overall wellbeing.",
+      "question": "Why is exercise important for health?"
+    },
+    {
+      "context": "Certain conditions are vital for maintaining good health, including balanced nutrition, adherence to proper habits, and integrating exercise with relaxation techniques.",
+      "question": "How does nutrition influence good health?"
+    },
+    {
+      "context": "To achieve good health, it is necessary to fulfill several conditions like maintaining proper nutrition, establishing good habits, and incorporating exercise and relaxation.",
+      "question": "What role do proper habits play in health?"
+    }
+  ]
+}

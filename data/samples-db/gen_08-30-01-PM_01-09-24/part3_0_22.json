@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The major part of digestion takes place in the duodenum. No digestion takes place in jejunum.",
+      "question": "Where does most digestion occur?"
+    },
+    {
+      "context": "The inner wall in the ileum is projected into numerous finger-like structures; called villi.",
+      "question": "What structures are found in the ileum?"
+    },
+    {
+      "context": "Villi increase the surface area inside the ileum so that optimum absorption can take place.",
+      "question": "Why are villi important for absorption?"
+    },
+    {
+      "context": "The major part of digestion takes place in the duodenum. No digestion takes place in jejunum.",
+      "question": "What happens in the jejunum regarding digestion?"
+    },
+    {
+      "context": "Villi increase the surface area inside the ileum so that optimum absorption can take place.",
+      "question": "How do villi aid in digestive efficiency?"
+    }
+  ]
+}

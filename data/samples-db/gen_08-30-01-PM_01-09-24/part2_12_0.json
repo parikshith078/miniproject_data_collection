@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Plants require sixteen essential nutrients from nature for their growth and development. All these nutrients are obtained from air, water, and soil. Soil is the major source of nutrients. Thirteen of these nutrients are available from soil. The remaining three nutrients (carbon, oxygen, and hydrogen) are obtained from air and water.",
+      "question": "What nutrients do plants get from air?"
+    },
+    {
+      "context": "Plants require sixteen essential nutrients from nature for their growth and development. All these nutrients are obtained from air, water, and soil. Soil is the major source of nutrients. Thirteen of these nutrients are available from soil. The remaining three nutrients (carbon, oxygen, and hydrogen) are obtained from air and water.",
+      "question": "How many nutrients do plants need from nature?"
+    },
+    {
+      "context": "Plants require sixteen essential nutrients from nature for their growth and development. All these nutrients are obtained from air, water, and soil. Soil is the major source of nutrients. Thirteen of these nutrients are available from soil. The remaining three nutrients (carbon, oxygen, and hydrogen) are obtained from air and water.",
+      "question": "What is the major source of nutrients for plants?"
+    },
+    {
+      "context": "Plants require sixteen essential nutrients from nature for their growth and development. All these nutrients are obtained from air, water, and soil. Soil is the major source of nutrients. Thirteen of these nutrients are available from soil. The remaining three nutrients (carbon, oxygen, and hydrogen) are obtained from air and water.",
+      "question": "Name the nutrients obtained from water."
+    }
+  ]
+}

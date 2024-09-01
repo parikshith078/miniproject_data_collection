@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Living organisms depend on soil in the following ways: (i) It provides natural habitat for various living organisms, e.g., bacteria, fungi, algae, earthworms, etc. These help to maintain the fertility of soil. (ii) Earthworm performs all its activities in the soil. It maintains the fertility of soil by releasing nitrogen rich excreta.",
+      "question": "What role do earthworms play in soil?"
+    },
+    {
+      "context": "Soil helps to bind the roots of plants to provide them anchorage. The nutrients in soil are absorbed by the plants for their growth and development. All organisms that live in water are totally dependent on soil because the mineral nutrients are present in water in dissolved form.",
+      "question": "Why do plants need soil for growth?"
+    },
+    {
+      "context": "Many animals like rats, rabbits, etc., make their home in the soil. (iv) Soil helps to bind the roots of plants to provide them anchorage.",
+      "question": "Which animals depend on soil for habitat?"
+    },
+    {
+      "context": "But, their recycling depends on the decomposers which are present in soil beds. For this, all water bodies have soil beds which contain decomposers for the recycling of nutrients.",
+      "question": "What is the role of decomposers in soil?"
+    },
+    {
+      "context": "These help to maintain the fertility of soil. (ii) Earthworm performs all its activities in the soil. It maintains the fertility of soil by releasing nitrogen rich excreta.",
+      "question": "How do bacteria and fungi help the soil?"
+    }
+  ]
+}

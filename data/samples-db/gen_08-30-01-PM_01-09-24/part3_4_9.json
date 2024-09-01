@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The human brain is covered by a three layered system of membranes; called meninges. Cerebrospinal fluid is filled between the meninges. The CSF provides cushion to the brain against mechanical shocks.",
+      "question": "What protects the brain from mechanical shocks?"
+    },
+    {
+      "context": "The brain is housed inside the skull for optimum protection. The tissues are highly folded to accommodate a larger surface area in less space.",
+      "question": "How does the brain maximize its surface area?"
+    },
+    {
+      "context": "Human brain is a highly complex organ; which is mainly composed of the nervous tissue. The brain is covered by a three layered system of membranes; called meninges.",
+      "question": "What type of tissue predominantly composes the human brain?"
+    },
+    {
+      "context": "The brain is covered by a three layered system of membranes; called meninges. Cerebrospinal fluid is filled between the meninges. The CSF provides cushion to the brain against mechanical shocks.",
+      "question": "What is the function of cerebrospinal fluid?"
+    },
+    {
+      "context": "Cerebrospinal fluid is filled between the meninges. The CSF provides cushion to the brain against mechanical shocks. Furthermore, the brain is housed inside the skull for optimum protection.",
+      "question": "What is the role of the meninges?"
+    }
+  ]
+}

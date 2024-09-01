@@ -1,0 +1,68 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Types of Neurons",
+      "Content": "TYPES OF NEURON\n- Sensory neuron: These neurons receive signals from a sense organ.\n- Motor neuron: These neurons send signals to a muscle or a gland.\n- Association neuron: These neurons relay the signals between sensory neuron and motor neuron."
+    },
+    {
+      "sub-topic": "Nerve Pathways",
+      "Content": "Pathways: From stimulus to response\nIn the holding stick activity you observed that there is coordination between eye and finger. Different pathways are taken by nerves to bring about this coordinated activity. On the basis of pathways followed, nerves are classified mainly into three different types.\n- AFFERENT NEURONS: Afferent (or ferrying towards) which carry messages towards the central nervous system (spinal cord or brain) from nerve endings on the muscles of different sense organs that sense the change in surroundings are called stimulus detectors. These are also called ‘sensory’ nerves.\n- EFFERENT NEURON: Efferent (or ferrying away) which carry messages from the central nervous system to parts that shall carry out the response or the effectors (nerve endings). They are also called ‘motor’ nerves.\n- ASSOCIATION NERVES: Association nerves, which link together the afferent and efferent nerves."
+    },
+    {
+      "sub-topic": "Divisions of the Nervous System",
+      "Content": "The nervous system can be divided into two major regions: the central and peripheral nervous systems. The central nervous system (CNS) is the brain and spinal cord, and the peripheral nervous system (PNS) is everything else. The brain is contained within the cranial cavity of the skull, and the spinal cord is contained within the vertebral cavity of the vertebral column. It is a bit of an oversimplification to say that the CNS is what is inside these two cavities and the peripheral nervous system is outside of them, but that is one way to start to think about it. In actuality, there are some elements of the peripheral nervous system that are within the cranial or vertebral cavities. The peripheral nervous system is so named because it is on the periphery —meaning beyond the brain and spinal cord. Depending on different aspects of the nervous system, the dividing line between central and peripheral is not necessarily universal."
+    },
+    {
+      "sub-topic": "Functional Divisions - Somatic",
+      "Content": "The nervous system can be divided into two parts mostly on the basis of a functional difference in responses. The somatic nervous system (SNS) is responsible for conscious perception and voluntary motor responses. Voluntary motor response means the contraction of skeletal muscle, but those contractions are not always voluntary in the sense that you have to want to perform them. Some somatic motor responses are reflexes, and often happen without a conscious decision to perform them. If your friend jumps out from behind a corner and yells “Boo!” you will be startled and you might scream or leap back. You didn’t decide to do that, and you may not have wanted to give your friend a reason to laugh at your expense, but it is a reflex involving skeletal muscle contractions."
+    },
+    {
+      "sub-topic": "Functional Divisions - Autonomic",
+      "Content": "The autonomic nervous system (ANS) is responsible for involuntary control of the body, usually for the sake of homeostasis (regulation of the internal environment). Sensory input for autonomic functions can be from sensory structures tuned to external or internal environmental stimuli. The motor output extends to smooth and cardiac muscle as well as glandular tissue. The role of the autonomic system is to regulate the organ systems of the body, which usually means to control homeostasis. Sweat glands, for example, are controlled by the autonomic system. When you are hot, sweating helps cool your body down. That is a homeostatic mechanism. But when you are nervous, you might start sweating also. That is not homeostatic, it is the physiological response to an emotional state."
+    },
+    {
+      "sub-topic": "Functional Divisions - Enteric",
+      "Content": "There is another division of the nervous system that describes functional responses. The enteric nervous system (ENS) is responsible for controlling the smooth muscle and glandular tissue in your digestive system. It is a large part of the PNS, and is not dependent on the CNS. It is sometimes valid, however, to consider the enteric system to be a part of the autonomic system because the neural structures that make up the enteric system are a component of the autonomic output that regulates digestion. There are some differences between the two, but for our purposes here there will be a good bit of overlap."
+    },
+    {
+      "sub-topic": "Reflex Action",
+      "Content": "Reflex action is a special case of involuntary movement in voluntary organs. When a voluntary organ is in the vicinity of a sudden danger, it is immediately pulled away from the danger to save itself. For example; when your hand touches a very hot electric iron, you move away your hand in a jerk. All of this happens in flash and your hand is saved from the imminent injury. This is an example of reflex action."
+    },
+    {
+      "sub-topic": "Reflex Arc",
+      "Content": "The path through which nerves signals; involved in a reflex action; travel is called the reflex arc. The following flow chart shows the flow of signal in a reflex arc. The receptor is the organ which comes in the danger zone. The sensory neurons pick signals from the receptor and send them to the relay neuron. The relay neuron is present in the spinal cord. The spinal cord sends signals to the effector via the motor neuron. The effector comes in action moves the receptor away from the danger. The reflex arc passes at the level of the spinal cord and the signals involved in reflex action do not travel up to the brain. This is important because sending signals to the brain would involve more time. Although every action is ultimately controlled by the brain, the reflex action is mainly controlled at the level of spinal cord."
+    },
+    {
+      "sub-topic": "Muscle Movements and Nervous Control",
+      "Content": "Muscle tissues have special filaments; called actin and myosin. When a muscle receives a nerve signal; a series of events is triggered in the muscle. Calcium ions enter the muscle cells. It results in actin and myosin filaments sliding towards each other and that is how a muscle contracts. Contraction in a muscle brings movement in the related organ."
+    },
+    {
+      "sub-topic": "Human Brain Structure",
+      "Content": "Human brain is a highly complex organ; which is mainly composed of the nervous tissue. The tissues are highly folded to accommodate a larger surface area in less space. The brain is covered by a three layered system of membranes; called meninges. Cerebrospinal fluid is filled between the meninges. The CSF provides cushion to the brain against mechanical shocks. Furthermore, the brain is housed inside the skull for optimum protection."
+    },
+    {
+      "sub-topic": "Regions of the Human Brain",
+      "Content": "The human brain can be divided into three regions, viz. forebrain, midbrain and hindbrain. \n- Forebrain: It is composed of the cerebrum.\n- Midbrain: It is composed of the hypothalamus.\n- Hindbrain: It is composed of the cerebellum, pons and medulla oblongata."
+    },
+    {
+      "sub-topic": "Cerebrum",
+      "Content": "Cerebrum: The cerebrum is the largest part in the human brain. It is divided into two hemispheres; called cerebral hemispheres.\nFUNCTIONS OF CEREBRUM:\n- The cerebrum controls the voluntary motor actions.\n- It is the site of sensory perceptions; like tactile and auditory perceptions.\n- It is the seat of learning and memory."
+    },
+    {
+      "sub-topic": "Hypothalamus",
+      "Content": "The hypothalamus lies at the base of the cerebrum. It controls sleep and wake cycle (circadian rhythm) of the body. It also controls the urges for eating and drinking."
+    },
+    {
+      "sub-topic": "Cerebellum",
+      "Content": "Cerebellum: Cerebellum lies below the cerebrum and at the back of the whole structure. It coordinates the motor functions. When you are riding your bicycle; the perfect coordination between your pedaling and steering control is achieved by the cerebellum."
+    },
+    {
+      "sub-topic": "Medulla",
+      "Content": "Medulla: Medulla forms the brain stem; along with the pons. It lies at the base of the brain and continues into the spinal cord. Medulla controls various involuntary functions; like heartbeat, respiration, etc."
+    },
+    {
+      "sub-topic": "Reflex Arc in Brain",
+      "Content": "REFLEX ARC: Reflex arcs are formed in the spinal cord and the information (input) reaches the brain. The brain is only aware of the signal and the response that has taken place. However, the brain has no role to play in the creation of the response."
+    }
+  ]
+}

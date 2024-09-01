@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Childhood risk is significant. There is now extensive evidence from many countries that conditions before birth and in early childhood influence health in adult life.",
+      "question": "What influence does childhood risk have?"
+    },
+    {
+      "context": "For example, low birth weight is now known to be associated with increased rates of high blood pressure, heart disease, stroke, and diabetes.",
+      "question": "What are the effects of low birth weight?"
+    },
+    {
+      "context": "There is now extensive evidence from many countries that conditions before birth and in early childhood influence health in adult life.",
+      "question": "What does extensive evidence suggest about early conditions?"
+    },
+    {
+      "context": "Low birth weight is now known to be associated with increased rates of high blood pressure, heart disease, stroke, and diabetes.",
+      "question": "What conditions are linked to low birth weight?"
+    },
+    {
+      "context": "Childhood risk is significant. For example, low birth weight is now known to be associated with increased rates of high blood pressure.",
+      "question": "How does low birth weight affect health?"
+    }
+  ]
+}

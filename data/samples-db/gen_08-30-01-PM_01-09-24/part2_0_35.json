@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Muscular tissue is composed of muscle cells. Muscle cells are specialized cells which have the capability to contract and expand. Due to contraction and expansion, muscles facilitate various kinds of movements in the body.",
+      "question": "What is the main function of muscle cells?"
+    },
+    {
+      "context": "Muscular tissues are of three types: Striated Muscles, Smooth Muscles. Striated muscles are under voluntary control, while smooth muscles are not.",
+      "question": "How many types of muscular tissues are there?"
+    },
+    {
+      "context": "Due to contraction and expansion, muscles facilitate various kinds of movements in the body. Muscular tissue is essential for movement and support in an organism.",
+      "question": "What allows muscles to facilitate movement?"
+    },
+    {
+      "context": "Muscle cells are specialized cells which have the capability to contract and expand. This unique feature distinguishes them from other types of cells.",
+      "question": "What distinguishes muscle cells from other cell types?"
+    },
+    {
+      "context": "Muscular tissue is composed of muscle cells which are specialized cells. These cells play a critical role in enabling movement within the body.",
+      "question": "What is muscular tissue composed of?"
+    }
+  ]
+}

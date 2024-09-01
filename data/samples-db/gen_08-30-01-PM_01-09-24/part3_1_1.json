@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Heterotrophic nutrition involves obtaining food directly or indirectly from autotrophs. The food consumed is then broken down by the body with the assistance of various enzymes that aid in the digestion process.",
+      "question": "What is heterotrophic nutrition?"
+    },
+    {
+      "context": "In heterotrophic nutrition, organisms obtain food either directly or indirectly from autotrophs, meaning they depend on other organisms for their nutritional needs. This food is subsequently broken down by enzymes for absorption and utilization.",
+      "question": "How do heterotrophs obtain their food?"
+    },
+    {
+      "context": "Heterotrophic nutrition requires that organisms acquire food that is obtained directly or indirectly from autotrophs. Enzymes play a crucial role in breaking down this food into usable forms for the organism.",
+      "question": "What role do enzymes play in heterotrophic nutrition?"
+    },
+    {
+      "context": "The process of heterotrophic nutrition involves the acquisition of food from autotrophs. After obtaining the food, enzymes are utilized to break it down into simpler substances that can be digested and used by the organism.",
+      "question": "How is food processed in heterotrophic nutrition?"
+    },
+    {
+      "context": "In heterotrophic nutrition, organisms must rely on autotrophs for their food supply. Enzymes are integral in the digestion process, facilitating the breakdown of the consumed food into nutrients.",
+      "question": "What is the relationship between heterotrophs and autotrophs?"
+    }
+  ]
+}

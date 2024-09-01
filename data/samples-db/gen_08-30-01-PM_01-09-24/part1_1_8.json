@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mitochondria are globular or cylindrical organelles. Each mitochondrion is bound by two membranes – an outer continuous membrane and an inner membrane thrown into folds called cristae. These cristae divide the inner chamber incompletely.",
+      "question": "What are the two membranes of mitochondria?"
+    },
+    {
+      "context": "The cristae have pin headed bodies called F1 particles or Oxysomes which play an important role in respiration.",
+      "question": "What is the role of F1 particles in mitochondria?"
+    },
+    {
+      "context": "The inner chamber is filled with homogenous dense material called the matrix.",
+      "question": "What fills the inner chamber of mitochondria?"
+    },
+    {
+      "context": "Each mitochondrion is bound by two membranes – an outer continuous membrane and an inner membrane thrown into folds called cristae.",
+      "question": "What are cristae in mitochondria?"
+    },
+    {
+      "context": "Mitochondria are globular or cylindrical organelles. These cristae divide the inner chamber incompletely.",
+      "question": "What shape can mitochondria be?"
+    }
+  ]
+}

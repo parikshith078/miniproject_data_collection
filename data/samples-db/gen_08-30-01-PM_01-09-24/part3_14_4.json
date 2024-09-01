@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Once a dam is constructed, electricity can be produced at a constant rate.",
+      "question": "How does a dam produce electricity?"
+    },
+    {
+      "context": "The water can be saved for use another time when electricity demand is high.",
+      "question": "What happens to water when electricity is not needed?"
+    },
+    {
+      "context": "Dams are designed to last many decades and so can contribute to the generation of electricity for many years / decades.",
+      "question": "How long can dams contribute to electricity generation?"
+    },
+    {
+      "context": "The lake that forms behind the dam can be used for water sports and leisure / pleasure activities.",
+      "question": "What recreational activities can a lake behind a dam provide?"
+    },
+    {
+      "context": "The build up of water in the lake means that energy can be stored until needed, when the water is released to produce electricity.",
+      "question": "How does water storage relate to energy generation in dams?"
+    },
+    {
+      "context": "When in use, electricity produced by dam systems do not produce greenhouse gases.",
+      "question": "What is the environmental advantage of electricity from dams?"
+    },
+    {
+      "context": "Often large dams become tourist attractions in their own right.",
+      "question": "Why are large dams considered tourist attractions?"
+    },
+    {
+      "context": "The lake's water can be used for irrigation purposes.",
+      "question": "What agricultural use does the water in a dam lake serve?"
+    },
+    {
+      "context": "Dams can help avoid pollution in the atmosphere.",
+      "question": "How do dams impact atmospheric pollution levels?"
+    },
+    {
+      "context": "The sluice gates can be shut, stopping electricity generation.",
+      "question": "What mechanism allows for stopping electricity production in a dam?"
+    }
+  ]
+}

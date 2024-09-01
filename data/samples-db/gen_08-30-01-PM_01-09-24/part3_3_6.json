@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Haemoglobin is the respiratory pigment that transports oxygen to the body cells for cellular respiration. Therefore, deficiency of haemoglobin in blood can affect the oxygen supplying capacity of blood.",
+      "question": "What does haemoglobin transport in the body?"
+    },
+    {
+      "context": "This can lead to deficiency of oxygen in the body cells. It can also lead to a disease called anaemia.",
+      "question": "What disease can result from low haemoglobin?"
+    },
+    {
+      "context": "Deficiency of haemoglobin in blood can affect the oxygen supplying capacity of blood. This can lead to deficiency of oxygen in the body cells.",
+      "question": "What is the effect of low haemoglobin on oxygen supply?"
+    },
+    {
+      "context": "Therefore, deficiency of haemoglobin in blood can affect the oxygen supplying capacity of blood. This can lead to deficiency of oxygen in the body cells.",
+      "question": "How does low haemoglobin impact cellular respiration?"
+    },
+    {
+      "context": "This can lead to deficiency of oxygen in the body cells. It can also lead to a disease called anaemia.",
+      "question": "What are the consequences of low oxygen levels in cells?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Holozoic nutrition involves five essential steps in processing food. The first step is ingestion, where food is taken into the body. Following ingestion, digestion occurs internally, breaking down the food into simpler forms for the organism to utilize.",
+      "question": "What is the first step in holozoic nutrition?"
+    },
+    {
+      "context": "After the ingestion of food, holozoic nutrition proceeds with digestion, where food is broken down inside the body. This is crucial for the organism to derive nutrients from the ingested food before it can be absorbed by the cells.",
+      "question": "What occurs after ingestion in holozoic nutrition?"
+    },
+    {
+      "context": "The five steps of holozoic nutrition include ingestion, digestion, absorption, assimilation, and egestion. Each step plays a vital role in ensuring that organisms can effectively utilize the nutrients in their diet.",
+      "question": "What are the five steps of holozoic nutrition?"
+    },
+    {
+      "context": "In holozoic nutrition, absorption follows digestion, allowing nutrients from the digested food to enter the organism's bloodstream. This step is crucial for the nourishment and energy of the organism.",
+      "question": "What happens during the absorption step?"
+    },
+    {
+      "context": "Egestion is the final step of holozoic nutrition, where undigested waste materials are eliminated from the organism's body. This process is essential to maintain health and to remove harmful substances.",
+      "question": "What is the purpose of egestion in holozoic nutrition?"
+    }
+  ]
+}

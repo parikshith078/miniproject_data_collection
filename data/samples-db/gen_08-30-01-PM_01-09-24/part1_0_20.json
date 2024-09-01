@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Prokaryotic cells are generally small, ranging from 1 to 10 micrometers in size. Their nuclear region is not clearly defined and is referred to as the nucleoid since they lack a nuclear membrane.",
+      "question": "What defines the nuclear region in prokaryotic cells?"
+    },
+    {
+      "context": "Eukaryotic cells are typically larger than prokaryotic ones, ranging from 5 to 100 micrometers. They have a well-defined nuclear region that is surrounded by a nuclear membrane.",
+      "question": "How is the nuclear region in eukaryotic cells described?"
+    },
+    {
+      "context": "Prokaryotic cells have a single chromosome, while eukaryotic cells possess more than one chromosome. This difference is crucial for genetic diversity.",
+      "question": "How many chromosomes do prokaryotic cells have?"
+    },
+    {
+      "context": "Unlike prokaryotic cells, eukaryotic cells contain membrane-bound organelles such as mitochondria and plastids, which are vital for various cellular functions.",
+      "question": "What types of organelles are present in eukaryotic cells?"
+    },
+    {
+      "context": "Prokaryotic cells lack membrane-bound cell organelles, contrasting with eukaryotic cells, which have structures like mitochondria and nucleus to compartmentalize functions.",
+      "question": "What is absent in prokaryotic cells compared to eukaryotic cells?"
+    }
+  ]
+}

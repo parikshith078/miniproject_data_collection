@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The cell membrane of amoeba keeps on protruding into pseudopodia. Amoeba surrounds a food particle with pseudopodia and makes a food vacuole.",
+      "question": "What structure does amoeba use to surround food?"
+    },
+    {
+      "context": "Digestive enzymes are secreted in the food vacuole and digestion takes place.",
+      "question": "What is secreted in the food vacuole for digestion?"
+    },
+    {
+      "context": "After that, digested food is absorbed from the food vacuole. Finally, the food vacuole moves near the cell membrane and undigested food is expelled out.",
+      "question": "What happens to undigested food in amoeba?"
+    },
+    {
+      "context": "Amoeba surrounds a food particle with pseudopodia and makes a food vacuole. The food vacuole contains the food particle and water.",
+      "question": "What does a food vacuole contain in amoeba?"
+    },
+    {
+      "context": "Digestive enzymes are secreted in the food vacuole and digestion takes place. After that, digested food is absorbed from the food vacuole.",
+      "question": "Where does digestion occur in an amoeba?"
+    }
+  ]
+}

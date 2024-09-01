@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cross pollination leads to the production of new varieties, which are often better adapted to their environment and can thrive under various conditions.",
+      "question": "What is one advantage of cross pollination?"
+    },
+    {
+      "context": "More viable seeds are produced through cross pollination, enhancing plant survival and growth rates, leading to a healthier ecosystem.",
+      "question": "How does cross pollination affect seed viability?"
+    },
+    {
+      "context": "The seeds produced as a result of cross-pollination develop, germinate properly, and grow into better plants compared to self-pollination.",
+      "question": "What happens to seeds from cross-pollination?"
+    },
+    {
+      "context": "Cross-pollination not only enhances genetic diversity in plant species but also improves resilience against diseases.",
+      "question": "What is a benefit of genetic diversity from cross-pollination?"
+    },
+    {
+      "context": "Cross-pollination facilitates the mix of genetic material, which significantly contributes to the formation of new plant varieties.",
+      "question": "Why is genetic mixing important in plants?"
+    }
+  ]
+}

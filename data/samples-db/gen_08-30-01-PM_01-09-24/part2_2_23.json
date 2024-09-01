@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Birds have feathers that cover their bodies, which help to insulate them and provide warmth. They are classified as warm-blooded animals, allowing them to maintain a consistent internal body temperature regardless of the environment. Examples of avian species include sparrows, eagles, and penguins.",
+      "question": "What covers the body of birds?"
+    },
+    {
+      "context": "All birds belong to the class Aves, which is characterized by the presence of feathers. These warm-blooded animals can regulate their body temperature, a trait that is crucial for their survival in various climates. Notable examples include parrots and robins.",
+      "question": "What is a characteristic of birds?"
+    },
+    {
+      "context": "As members of the class Aves, all birds share the distinctive feature of having feathers. Their warm-blooded nature enables them to thrive in diverse habitats, from jungles to deserts. Birds such as owls and ducks exemplify this class.",
+      "question": "What type of blood temperature do birds have?"
+    },
+    {
+      "context": "Feathers are a defining characteristic of birds within the class Aves. These warm-blooded creatures possess a unique adaptation system that allows them to fly and navigate various environments. Noteworthy examples include flamingos and hawks.",
+      "question": "Can you name a type of animal in Aves?"
+    }
+  ]
+}

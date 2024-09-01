@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Animals in the phylum Protochordata exhibit bilateral symmetry and possess a notochord at certain life stages. They are also triploblastic and coelomate animals. Common examples include Herdmania, Balanoglossus, and amphioxus, which showcase these characteristics.",
+      "question": "What are the key features of Protochordata?"
+    },
+    {
+      "context": "Protochordata consist of animals that display bilateral symmetry, are triploblastic, and coelomate. These organisms have a notochord at least during some stages of their life cycle. Notable examples include amphioxus and Herdmania.",
+      "question": "Can you list examples of Protochordata?"
+    },
+    {
+      "context": "The Protochordata group includes bilaterally symmetrical animals with a notochord present not just in adulthood but at various life stages. Additionally, they are triploblastic and possess a true coelom. Balanoglossus is one of the key organisms studied in this group.",
+      "question": "What organisms are classified under Protochordata?"
+    },
+    {
+      "context": "Within the phylum Protochordata, animals are characterized as bilaterally symmetrical, coelomate, and triploblastic, and they have a notochord that is a significant feature during different life stages. Some examples are amphioxus and Herdmania.",
+      "question": "Are Protochordata coelomates or acoelomates?"
+    },
+    {
+      "context": "Protochordata encompasses a group of animals that are triploblastic and demonstrate bilateral symmetry. They possess a notochord in various life stages and include examples like Balanoglossus, a unique organism studied in marine biology.",
+      "question": "What type of symmetry do Protochordata exhibit?"
+    }
+  ]
+}

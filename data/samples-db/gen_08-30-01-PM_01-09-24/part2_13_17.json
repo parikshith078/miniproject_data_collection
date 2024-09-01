@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fish are obtained by capture fishing as an economic source for their meat. Capture fishing involves capturing of fish from sea water or fresh water.",
+      "question": "What is capture fishing?"
+    },
+    {
+      "context": "Culture fishing involves culturing the fish in small enclosures.",
+      "question": "What is culture fishing?"
+    },
+    {
+      "context": "Capture fishing involves capturing of fish from sea water or fresh water. Culture fishing involves culturing the fish in small enclosures.",
+      "question": "How do capture and culture fishing differ?"
+    },
+    {
+      "context": "Fish are obtained by capture fishing as an economic source for their meat. Culture fishing involves culturing the fish in small enclosures.",
+      "question": "What is the main purpose of culture fishing?"
+    },
+    {
+      "context": "Capture fishing involves capturing of fish from sea water or fresh water. Culture fishing involves culturing the fish in small enclosures.",
+      "question": "Which type of fishing is done in enclosures?"
+    }
+  ]
+}

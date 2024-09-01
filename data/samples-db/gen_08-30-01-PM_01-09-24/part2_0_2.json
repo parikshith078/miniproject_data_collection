@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Tissues are groups of cells that share a similar structure and carry out a specific function in the body. They can be classified into four primary types: epithelial, connective, muscle, and nervous tissue, each with distinct roles and characteristics.",
+      "question": "What are the four primary types of tissue?"
+    },
+    {
+      "context": "Epithelial tissue serves as a protective layer covering the body, including the skin and lining of organs. Connective tissue supports and binds other tissues, including bones and blood. Muscle tissue is responsible for movement, while nervous tissue transmits signals throughout the body.",
+      "question": "What is the function of epithelial tissue?"
+    },
+    {
+      "context": "When discussing tissue types, it's important to note that tissues can vary in structure and function depending on their location in the body. For instance, muscle tissue is formed of elongated cells that facilitate contraction, whereas connective tissue consists of various cell types embedded in a matrix.",
+      "question": "How do muscle and connective tissues differ?"
+    },
+    {
+      "context": "In the human body, tissues work collaboratively to form organs. For example, the heart is made up of muscle tissue, connective tissue, and nervous tissue, all working in concert to pump blood effectively.",
+      "question": "How do tissues contribute to organ systems?"
+    }
+  ]
+}

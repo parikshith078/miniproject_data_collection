@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Diphtheria is an acute infectious disease in children mostly characterized by the development of a grey adherent false membrane over the upper respiratory tract or throat.",
+      "question": "What characterizes diphtheria in children?"
+    },
+    {
+      "context": "The germs are present in the discharges from the nose and throat of patients and also of healthy people who act as the “carriers”.",
+      "question": "Who are the carriers of diphtheria?"
+    },
+    {
+      "context": "Symptoms are fever, sore throat, sometimes vomiting, headache, epithelial necrosis by endotoxin and oozing of semisolid material in the throat which develops into a grey false but tough membrane.",
+      "question": "What are the common symptoms of diphtheria?"
+    },
+    {
+      "context": "Sometimes, bacterium infects the heart, nerve cells and adrenal glands. In severe cases, respiratory tract is blocked causing difficulty in breathing and even death due to choking.",
+      "question": "What severe complications can arise from diphtheria?"
+    },
+    {
+      "context": "One should avoid close contact with the patient. DPT (diphtheria, pertussis and tetanus) vaccine is available.",
+      "question": "How can diphtheria be prevented?"
+    },
+    {
+      "context": "Erythromycin is used to treat diphtheria.",
+      "question": "What antibiotic is used to treat diphtheria?"
+    },
+    {
+      "context": "The incubation period is of 2 - 5 days. Endotoxin produced by pathogen causes nasal diphtheria, pharyngeal diphtheria and laryngotracheal diphtheria.",
+      "question": "What is the incubation period for diphtheria?"
+    },
+    {
+      "context": "The patients and the carriers spread the disease through acts like kissing, talking, coughing and sneezing.",
+      "question": "How is diphtheria transmitted between individuals?"
+    }
+  ]
+}

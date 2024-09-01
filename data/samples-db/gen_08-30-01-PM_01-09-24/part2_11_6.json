@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Rabi crops are sown in winter or cold season and harvested in the spring. Rabi is grown around the month of November to April in our subcontinent. It requires greater amount of irrigation, and heavy rain can ruin Kharif crops.",
+      "question": "What are Rabi crops sown and harvested?"
+    },
+    {
+      "context": "Rabi crops, which include wheat, grams, peas, mustard, linseed, and barley, are beneficial for farmers. These crops capitalize on the rain collected during the winter season until harvesting in early spring.",
+      "question": "Which crops are considered major Rabi crops?"
+    },
+    {
+      "context": "Rabi harvests rely on water collected from rain in the winter season and are usually planted from November to April. They benefit from heavy rainfall that adversely affects Kharif crops.",
+      "question": "What is the main source of water for Rabi crops?"
+    },
+    {
+      "context": "Rabi crops are defined by their growth cycle, being sown in winter and harvested in spring, primarily influenced by seasonal weather patterns. These crops thrive in the cold months between November and April.",
+      "question": "What characterizes the growing season of Rabi crops?"
+    },
+    {
+      "context": "The Arabic word 'Rabi' means 'spring', indicating its harvest time which typically begins in April or May. It is prevalent in the agricultural practices of the subcontinent.",
+      "question": "What does the term 'Rabi' signify in agriculture?"
+    }
+  ]
+}

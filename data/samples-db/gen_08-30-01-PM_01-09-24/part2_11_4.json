@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "There is a need to introduce production efficiency of crops and livestock because 1. rapid increase in population 2. No major scope of increasing area of land under cultivation. Increase in food production without degrading our environment and disturbing the ecological balance.",
+      "question": "Why is production efficiency important for crops?"
+    },
+    {
+      "context": "Sustainable Practices are required in agriculture and animal husbandry to increase food production without degrading our environment and disturbing the ecological balance.",
+      "question": "What are sustainable practices in agriculture?"
+    },
+    {
+      "context": "The rapid increase in population demands improved production efficiency in agriculture and livestock to meet food needs effectively.",
+      "question": "What drives the need for improved food production?"
+    },
+    {
+      "context": "There is no major scope of increasing the area of land under cultivation, requiring innovative approaches in food production.",
+      "question": "Why can’t we increase land for agriculture?"
+    },
+    {
+      "context": "To meet the challenges of food production while maintaining ecological balance, sustainable practices are essential in farming and livestock.",
+      "question": "How can ecological balance be maintained in agriculture?"
+    }
+  ]
+}

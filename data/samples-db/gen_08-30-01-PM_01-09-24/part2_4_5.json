@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Chronic obstructive respiratory disease and asthma are the most common forms of lung disease. Chronic obstructive respiratory disease is caused by irreversible obstruction of the larger airways in the lung; asthma is caused by reversible obstruction of the smaller airways.",
+      "question": "What causes asthma?"
+    },
+    {
+      "context": "Chronic respiratory diseases can take various forms, with chronic obstructive respiratory disease being one of them. It results from irreversible obstruction of the larger airways in the lung, impacting airflow.",
+      "question": "What characterizes chronic obstructive respiratory disease?"
+    },
+    {
+      "context": "The lung diseases may appear in different forms, with asthma representing a reversible type of obstruction affecting the smaller airways, unlike chronic obstructive respiratory disease, which is irreversible.",
+      "question": "How does asthma differ from chronic obstructive respiratory disease?"
+    },
+    {
+      "context": "Chronic obstructive respiratory disease is related to irreversible airway obstruction, while asthma involves airway obstruction that can be reversed. Both are significant chronic respiratory conditions.",
+      "question": "Are the obstructive conditions of asthma reversible?"
+    },
+    {
+      "context": "Chronic respiratory diseases include conditions that affect lung function. Asthma causes reversible airway obstruction, contrasting with chronic obstructive respiratory disease's irreversible nature.",
+      "question": "What type of airway obstruction does asthma cause?"
+    }
+  ]
+}

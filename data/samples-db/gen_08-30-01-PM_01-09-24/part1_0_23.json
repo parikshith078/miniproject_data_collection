@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Endoplasmic Reticulum (E.R) provides large surface area for the metabolic activities of the cell. Rough endoplasmic reticulum plays an important role in protein synthesis.",
+      "question": "What is the function of rough E.R in the cell?"
+    },
+    {
+      "context": "Smooth endoplasmic reticulum is involved in the synthesis of steroid hormones and lipids.",
+      "question": "What does the smooth E.R synthesize?"
+    },
+    {
+      "context": "Endoplasmic Reticulum (E.R) provides large surface area for the metabolic activities of the cell. Smooth endoplasmic reticulum is involved in the synthesis of steroid hormones and lipids.",
+      "question": "Why is the surface area of E.R important?"
+    },
+    {
+      "context": "Rough endoplasmic reticulum plays an important role in protein synthesis. Smooth endoplasmic reticulum is involved in the synthesis of steroid hormones and lipids.",
+      "question": "How do rough and smooth E.R differ functionally?"
+    },
+    {
+      "context": "Endoplasmic Reticulum (E.R) provides large surface area for the metabolic activities of the cell. Rough endoplasmic reticulum plays an important role in protein synthesis.",
+      "question": "What is the purpose of the large surface area of E.R?"
+    }
+  ]
+}

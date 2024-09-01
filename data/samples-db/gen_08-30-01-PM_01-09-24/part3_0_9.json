@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The mode of nutrition in which an organism prepares its own food is called autotrophic nutrition. Green plants and blue-green algae follow the autotrophic mode of nutrition.",
+      "question": "What is autotrophic nutrition?"
+    },
+    {
+      "context": "Green plants and blue-green algae follow the autotrophic mode of nutrition.",
+      "question": "Which organisms exhibit autotrophic nutrition?"
+    },
+    {
+      "context": "The mode of nutrition in which an organism prepares its own food is called autotrophic nutrition.",
+      "question": "Define autotrophic nutrition."
+    },
+    {
+      "context": "Autotrophic nutrition is a method where organisms prepare their own food.",
+      "question": "How do autotrophic organisms obtain their food?"
+    },
+    {
+      "context": "Green plants, through photosynthesis, can produce their own food.",
+      "question": "How do green plants obtain nutrition?"
+    }
+  ]
+}

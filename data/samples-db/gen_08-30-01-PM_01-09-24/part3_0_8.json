@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Materials which provide nutrition to organisms are called nutrients. Carbohydrates, proteins and fats are the main nutrients and are called macronutrients. Minerals and vitamins are required in small amounts and hence are called micronutrients.",
+      "question": "What are the three main macronutrients?"
+    },
+    {
+      "context": "Carbohydrates, proteins and fats are the main nutrients and are called macronutrients. Minerals and vitamins are required in small amounts and hence are called micronutrients.",
+      "question": "What distinguishes macronutrients from micronutrients?"
+    },
+    {
+      "context": "Nutrients are categorized into macronutrients and micronutrients. Carbohydrates, proteins and fats form the bulk of diet as macronutrients.",
+      "question": "Which nutrients are categorized as macronutrients?"
+    },
+    {
+      "context": "Minerals and vitamins are required in small amounts and hence are called micronutrients. They play a crucial role in various bodily functions.",
+      "question": "What are examples of micronutrients?"
+    },
+    {
+      "context": "Nutrients are important for the growth and development of organisms. Macro and micronutrients work together for health.",
+      "question": "Why are nutrients essential for organisms?"
+    }
+  ]
+}

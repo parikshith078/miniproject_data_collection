@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Health is a state of physical, mental and social well being. The conditions necessary for good health are: - i) Good physical and social environment. ii) Good economic conditions. iii) Social equality and harmony.",
+      "question": "What defines the state of health?"
+    },
+    {
+      "context": "Good physical and social environment includes clean surroundings, good sanitation, proper garbage disposal and clean drinking water.",
+      "question": "What elements are part of a good physical environment?"
+    },
+    {
+      "context": "Good economic conditions includes job opportunities for all for earning to have nutritious food and to lead a healthy life.",
+      "question": "What contributes to good economic conditions?"
+    },
+    {
+      "context": "Social equality and harmony are necessary for a healthy and peaceful life.",
+      "question": "Why is social equality important for health?"
+    },
+    {
+      "context": "The conditions necessary for good health are: - i) Good physical and social environment. ii) Good economic conditions. iii) Social equality and harmony.",
+      "question": "What are the necessary conditions for good health?"
+    }
+  ]
+}

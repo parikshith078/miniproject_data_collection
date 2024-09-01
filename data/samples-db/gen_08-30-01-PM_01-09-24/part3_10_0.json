@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Genetic changes can lead to the evolution of new species. These changes often occur due to processes such as genetic drift, which is particularly significant when populations are geographically segregated.",
+      "question": "What is genetic drift?"
+    },
+    {
+      "context": "Geographical segregation can lead to genetic changes over time in isolated populations. This mechanism of evolution is known as genetic drift, which can result in the formation of new species.",
+      "question": "How does geographical segregation affect genetic drift?"
+    },
+    {
+      "context": "The concept of genetic drift explains how isolated populations can evolve independently. This can result in genetic changes leading to the creation of new species, particularly when they are geographically separated.",
+      "question": "What results from geographical segregation?"
+    },
+    {
+      "context": "Genetic drift plays a crucial role in the evolution of species. It is the process that occurs when populations become geographically isolated, allowing genetic changes to accumulate over time.",
+      "question": "What role does genetic drift play in evolution?"
+    },
+    {
+      "context": "When populations are geographically isolated, they may experience genetic drift, which can result in significant genetic changes and potentially lead to the evolution of new species.",
+      "question": "What can geographic isolation lead to?"
+    }
+  ]
+}

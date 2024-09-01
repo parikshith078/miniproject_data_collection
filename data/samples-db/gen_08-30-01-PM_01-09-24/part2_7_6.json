@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The first authenticated plague epidemics in India in modern times occurred in 1895-96 and from 1898 onwards the disease was appreciably manifest, reaching a peak in the year 1907.",
+      "question": "When did the first plague epidemic occur in India?"
+    },
+    {
+      "context": "The first authenticated plague epidemics in India in modern times occurred in 1895-96 and from 1898 onwards the disease was appreciably manifest, reaching a peak in the year 1907.",
+      "question": "What years marked the peak of plague in India?"
+    },
+    {
+      "context": "The first authenticated plague epidemics in India in modern times occurred in 1895-96 and from 1898 onwards the disease was appreciably manifest, reaching a peak in the year 1907.",
+      "question": "How significant was the plague in India by 1907?"
+    },
+    {
+      "context": "The first authenticated plague epidemics in India in modern times occurred in 1895-96 and from 1898 onwards the disease was appreciably manifest, reaching a peak in the year 1907.",
+      "question": "What was the trend of plague cases after 1898?"
+    }
+  ]
+}

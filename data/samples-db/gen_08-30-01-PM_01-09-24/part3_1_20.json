@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Glucose is first broken down in the cell cytoplasm into a three carbon molecule called pyruvate. Pyruvate is further broken down by different ways to provide energy.",
+      "question": "What molecule does glucose break down into?"
+    },
+    {
+      "context": "Glucose is first broken down in the cell cytoplasm into a three carbon molecule called pyruvate. Pyruvate is further broken down by different ways to provide energy.",
+      "question": "Where does glucose breakdown occur?"
+    },
+    {
+      "context": "Glucose is first broken down in the cell cytoplasm into a three carbon molecule called pyruvate. Pyruvate is further broken down by different ways to provide energy.",
+      "question": "What is pyruvate used for in cells?"
+    },
+    {
+      "context": "Glucose is first broken down in the cell cytoplasm into a three carbon molecule called pyruvate. Pyruvate is further broken down by different ways to provide energy.",
+      "question": "What is the fate of pyruvate after formation?"
+    },
+    {
+      "context": "Glucose is first broken down in the cell cytoplasm into a three carbon molecule called pyruvate. Pyruvate is further broken down by different ways to provide energy.",
+      "question": "What happens to glucose during oxidation?"
+    }
+  ]
+}

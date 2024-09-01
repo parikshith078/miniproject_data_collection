@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Chronic diseases are the major cause of death and disability worldwide. The total number of people dying from chronic diseases is double that of all infectious diseases combined.",
+      "question": "What causes more deaths, chronic diseases or infections?"
+    },
+    {
+      "context": "80% of chronic disease deaths occur in low and middle income countries and half are in women. Without action to address the causes, deaths from chronic disease will increase by 17% between 2005 and 2015.",
+      "question": "Where do most chronic disease deaths occur?"
+    },
+    {
+      "context": "Chronic disease is a disease that persists for a long time, and they are a major concern globally. Without action, chronic disease deaths will rise sharply.",
+      "question": "What is a defining characteristic of chronic disease?"
+    },
+    {
+      "context": "The total number of people dying from chronic diseases is double that of all infectious diseases (including HIV/AIDS, tuberculosis and malaria) and other conditions combined.",
+      "question": "How do chronic disease deaths compare to infectious diseases?"
+    },
+    {
+      "context": "Chronic diseases lead to high rates of disability and mortality, significantly impacting healthcare systems and economies, particularly in developing countries.",
+      "question": "How do chronic diseases affect healthcare systems?"
+    }
+  ]
+}

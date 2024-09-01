@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Tracheids are elongated, tapering cells with blunt ends. They have lignified secondary wall. They are the chief water conducting elements in Pteridophytes and Gymnosperms.",
+      "question": "What are tracheids primarily used for?"
+    },
+    {
+      "context": "They are the chief water conducting elements in Pteridophytes and Gymnosperms. Tracheids have lignified secondary wall.",
+      "question": "What type of wall do tracheids have?"
+    },
+    {
+      "context": "Tracheids are elongated, tapering cells with blunt ends. They have lignified secondary wall.",
+      "question": "What shape do tracheids have?"
+    },
+    {
+      "context": "They are the chief water conducting elements in Pteridophytes and Gymnosperms. Tracheids are elongated, tapering cells.",
+      "question": "In which groups are tracheids mainly found?"
+    },
+    {
+      "context": "Tracheids are elongated, tapering cells with blunt ends. They are the chief water conducting elements.",
+      "question": "What are the ends of tracheids like?"
+    }
+  ]
+}

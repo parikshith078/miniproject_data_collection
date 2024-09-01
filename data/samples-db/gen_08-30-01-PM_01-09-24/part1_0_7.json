@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The plasma membrane selectively regulates the entry and exit of substances into and out of the cell, and therefore is called a selectively permeable membrane. It provides an outer boundary to the cell and protects it from injury.",
+      "question": "What does the plasma membrane do?"
+    },
+    {
+      "context": "The plasma membrane allows the flow of materials and information between different organelles of the same cell, and also between adjacent cells. It provides some organic connections between the adjacent cells.",
+      "question": "How does the plasma membrane facilitate communication?"
+    },
+    {
+      "context": "The plasma membrane is also known as a semi-permeable membrane because of its ability to selectively regulate the entry and exit of substances. This is crucial for cell function and integrity.",
+      "question": "Why is the plasma membrane considered semi-permeable?"
+    },
+    {
+      "context": "In addition to protecting the cell from injury, the plasma membrane maintains homeostasis by controlling what enters and leaves the cell.",
+      "question": "What role does the plasma membrane play in homeostasis?"
+    },
+    {
+      "context": "The plasma membrane serves as the outer boundary of the cell, protecting it from injury while regulating the substances that enter and exit the cell.",
+      "question": "What serves as the outer boundary of the cell?"
+    }
+  ]
+}

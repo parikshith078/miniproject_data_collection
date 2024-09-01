@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Athlete's foot can grow on the feet in different forms, including the following: Interdigital, Moccasin, Vesicular, and Ulcerative.",
+      "question": "What are the types of athlete's foot?"
+    },
+    {
+      "context": "It infects approximately 10 percent of the United States population, and it is most common among adolescents and adults.",
+      "question": "What percentage of the U.S. population has athlete's foot?"
+    },
+    {
+      "context": "The best-known fungal skin infection is athlete's foot, which may affect people of any age.",
+      "question": "Can athlete's foot affect any age group?"
+    },
+    {
+      "context": "Athlete's foot is the best-known fungal skin infection and is common among adolescents and adults.",
+      "question": "Who is most commonly affected by athlete's foot?"
+    },
+    {
+      "context": "Athlete's foot is a fungal skin infection that can manifest in various forms, including Interdigital and Vesicular.",
+      "question": "What are the different forms of athlete's foot?"
+    }
+  ]
+}

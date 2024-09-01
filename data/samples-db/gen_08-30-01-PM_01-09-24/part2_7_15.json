@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fungi that commonly cause skin diseases are called dermatophytes. 'Dermatophytes' doesn't refer to a particular group of fungi, but rather to the fact that they attack the dermis, or skin.",
+      "question": "What are dermatophytes known to cause?"
+    },
+    {
+      "context": "Fungal infections of the skin can be treated with topical creams as well as prescription drugs.",
+      "question": "How can fungal skin infections be treated?"
+    },
+    {
+      "context": "'Dermatophytes' doesn't refer to a particular group of fungi, but rather to the fact that they attack the dermis, or skin.",
+      "question": "What does the term 'dermatophytes' signify?"
+    },
+    {
+      "context": "Fungi that commonly cause skin diseases are called dermatophytes. Fungal infections of the skin can be treated with topical creams.",
+      "question": "What types of treatments are available for dermatophyte infections?"
+    },
+    {
+      "context": "Fungal infections of the skin can be treated with topical creams as well as prescription drugs. Dermatophytes attack the dermis, or skin.",
+      "question": "What part of the body do dermatophytes attack?"
+    }
+  ]
+}

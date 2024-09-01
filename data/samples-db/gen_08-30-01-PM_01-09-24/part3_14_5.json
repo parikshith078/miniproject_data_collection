@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Dams are extremely expensive to build and must be built to a very high standard. The high cost of dam construction means that they must operate for many decades to become profitable. The flooding of large areas of land means that the natural environment is destroyed.",
+      "question": "What is a major financial concern for dams?"
+    },
+    {
+      "context": "People living in villages and towns that are in the valley to be flooded must move out. This means that they lose their farms and businesses. In some countries, people are forcibly removed so that hydro-power schemes can go ahead.",
+      "question": "What must people do when valleys are flooded?"
+    },
+    {
+      "context": "The building of large dams can cause serious geological damage. For example, the building of the Hoover Dam in the USA triggered a number of earthquakes and has depressed the earth’s surface at its location.",
+      "question": "What geological issue did the Hoover Dam cause?"
+    },
+    {
+      "context": "Although modern planning and design of dams is good, in the past old dams have been known to be breached (the dam gives under the weight of water in the lake). This has led to deaths and flooding.",
+      "question": "Why might older dams be considered dangerous?"
+    },
+    {
+      "context": "Dams built blocking the progress of a river in one country usually means that the water supply from the same river in the following country is out of their control. This can lead to serious problems between neighbouring countries.",
+      "question": "How do dams affect neighboring countries' water supply?"
+    },
+    {
+      "context": "Building a large dam alters the natural water table level. For example, the building of the Aswan Dam in Egypt has altered the level of the water table. This is slowly leading to damage of many of its ancient monuments as salts and destructive minerals are deposited in the stone work.",
+      "question": "What effect does the Aswan Dam have on ancient monuments?"
+    }
+  ]
+}

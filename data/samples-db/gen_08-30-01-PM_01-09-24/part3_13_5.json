@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Sustainable development means following certain practices which help in saving our environment from damage. This is necessary for maintaining the earth in a good shape.",
+      "question": "What is the goal of sustainable development?"
+    },
+    {
+      "context": "Development often comes with a price in the form of environmental damage. Sustainable development addresses this issue.",
+      "question": "What issue does sustainable development address?"
+    },
+    {
+      "context": "But development often comes with a price in the form of environmental damage. Sustainable development helps mitigate this issue.",
+      "question": "How does sustainable development help the environment?"
+    },
+    {
+      "context": "This is necessary for maintaining the earth in a good shape so that future generations can also enjoy the bounty of nature.",
+      "question": "Why is sustainable development important for future generations?"
+    },
+    {
+      "context": "Development is necessary for making all around economic development. Sustainable development seeks a balance between economic growth and environmental health.",
+      "question": "How does sustainable development relate to economic development?"
+    }
+  ]
+}

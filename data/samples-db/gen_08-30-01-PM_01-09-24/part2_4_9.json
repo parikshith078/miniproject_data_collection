@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Many more risk factors for chronic diseases have been identified, but they account for a smaller proportion of disease. Harmful alcohol use is an important contributor to the global burden of disease but its relationship to chronic disease is more complex.",
+      "question": "What is a complex risk factor for chronic diseases?"
+    },
+    {
+      "context": "Other risk factors for chronic disease include infectious agents that are responsible for cervical and liver cancers, and some environmental factors, such as air pollution, which contribute to a range of chronic diseases including asthma and other chronic respiratory diseases.",
+      "question": "Which diseases are linked to infectious agents?"
+    },
+    {
+      "context": "Harmful alcohol use is an important contributor to the global burden of disease but its relationship to chronic disease is more complex.",
+      "question": "How does harmful alcohol use relate to chronic diseases?"
+    },
+    {
+      "context": "Other risk factors for chronic disease include infectious agents that are responsible for cervical and liver cancers, and some environmental factors, such as air pollution.",
+      "question": "What environmental factor contributes to chronic diseases?"
+    },
+    {
+      "context": "Many more risk factors for chronic diseases have been identified, but they account for a smaller proportion of disease.",
+      "question": "Do most identified risk factors significantly contribute to chronic disease?"
+    },
+    {
+      "context": "Other risk factors for chronic disease include infectious agents that are responsible for cervical and liver cancers, and some environmental factors, such as air pollution.",
+      "question": "What role does air pollution play in chronic diseases?"
+    },
+    {
+      "context": "Harmful alcohol use is an important contributor to the global burden of disease but its relationship to chronic disease is more complex.",
+      "question": "Is the relationship of alcohol use to disease straightforward?"
+    }
+  ]
+}

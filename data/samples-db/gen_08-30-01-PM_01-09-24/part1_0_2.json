@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "There is much variation in size, shape and number of cells in different organisms, and also in various parts of the body. Most of the cells are only a few micrometres in diameter and are visible only with the help of a microscope.",
+      "question": "What determines the shape of a cell?"
+    },
+    {
+      "context": "The shape of the cells is determined by the specific function they perform. The number of cells is related to the size of the organ or body.",
+      "question": "How does cell number relate to organ size?"
+    },
+    {
+      "context": "Small organisms have a limited number of cells, while the larger ones such as elephant, whale or banyan tree have a countless number of cells.",
+      "question": "What examples illustrate large cell numbers?"
+    },
+    {
+      "context": "Cells may be spherical, spindle shaped, elongated, polyhedral or irregular in shape. The shape of the cells is determined by the specific function they perform.",
+      "question": "List different shapes of cells mentioned."
+    },
+    {
+      "context": "Some organisms can also have cells of different kinds. Thus, small organisms have a limited number of cells, while the larger ones such as elephant, whale or banyan tree have a countless number of cells.",
+      "question": "Can organisms have different kinds of cells?"
+    }
+  ]
+}

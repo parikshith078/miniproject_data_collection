@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Gymnosperms bear seeds that are naked and not covered. The term 'gymnos' translates to naked and 'sperma' means seed. Examples include Pine, cycas, and deodar.",
+      "question": "What does the term gymnos mean?"
+    },
+    {
+      "context": "They bear seeds. Seeds are naked, i.e., not covered. The word ‘gymnos’ means naked and ‘sperma’ means seed.",
+      "question": "What are the seeds of gymnosperms like?"
+    },
+    {
+      "context": "Examples of gymnosperms include Pine, cycas, deodar, etc. These species are well-known for their seed characteristics.",
+      "question": "Name an example of a gymnosperm."
+    },
+    {
+      "context": "The word ‘gymnos’ means naked and ‘sperma’ means seed. Together they describe a specific type of seed-bearing plants.",
+      "question": "What does 'sperma' refer to in gymnosperms?"
+    },
+    {
+      "context": "Gymnosperms, such as Pine and cycas, have unique seed traits where the seeds are not covered.",
+      "question": "What is a characteristic of gymnosperm seeds?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Stroke occurs when the blood supply to the brain is interrupted, leading to potential brain damage. It is considered a major health issue, alongside heart disease, categorized under cardiovascular diseases.",
+      "question": "What causes a stroke?"
+    },
+    {
+      "context": "Stroke can result from various factors that disrupt the normal flow of blood to the brain, which can be due to a blood clot or a burst blood vessel.",
+      "question": "What are the types of stroke?"
+    },
+    {
+      "context": "Both stroke and heart disease are significant contributors to cardiovascular mortality worldwide, highlighting the need for preventive health measures.",
+      "question": "How are stroke and heart disease related?"
+    },
+    {
+      "context": "Understanding stroke requires recognizing that it affects the brain's ability to function normally due to the lack of blood supply, resulting in critical medical conditions for the affected individuals.",
+      "question": "How does stroke affect brain function?"
+    },
+    {
+      "context": "A stroke occurs when there is a significant interference with the brain's blood supply, making it one of the leading concerns in cardiovascular health.",
+      "question": "What is the primary health concern associated with strokes?"
+    }
+  ]
+}

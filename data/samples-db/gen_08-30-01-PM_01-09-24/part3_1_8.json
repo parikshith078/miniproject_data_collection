@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The raw material CO2 enters from the atmosphere through stomata.",
+      "question": "How does CO2 enter the plant?"
+    },
+    {
+      "context": "Water is absorbed from the soil by the plant roots.",
+      "question": "What raw material do plant roots absorb?"
+    },
+    {
+      "context": "Sunlight, an important component to manufacture food, is absorbed by the chlorophyll and other green parts of the plants.",
+      "question": "Which part of the plant absorbs sunlight?"
+    },
+    {
+      "context": "The following raw materials are required for photosynthesis: CO2, water, and sunlight.",
+      "question": "What are the raw materials needed for photosynthesis?"
+    },
+    {
+      "context": "Water is absorbed from the soil by the plant roots.",
+      "question": "Where do plants obtain water for photosynthesis?"
+    }
+  ]
+}

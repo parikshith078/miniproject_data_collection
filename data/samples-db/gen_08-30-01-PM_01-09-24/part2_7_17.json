@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Scalp itch is a fungal infection of the scalp and hair. It usually occurs in young children, but may appear in all age groups.",
+      "question": "What age group is primarily affected by scalp itch?"
+    },
+    {
+      "context": "It is contagious and may be spread from child to child in a school or day care setting.",
+      "question": "How is scalp itch commonly spread?"
+    },
+    {
+      "context": "An antifungal drug called griseofulvin cures scalp itch in one to three months.",
+      "question": "What medication is used to treat scalp itch?"
+    },
+    {
+      "context": "Scalp itch is a fungal infection of the scalp and hair. It is contagious and may be spread from child to child.",
+      "question": "What type of infection is scalp itch?"
+    },
+    {
+      "context": "It usually occurs in young children, but may appear in all age groups. An antifungal drug called griseofulvin cures scalp itch.",
+      "question": "Can adults get scalp itch?"
+    }
+  ]
+}

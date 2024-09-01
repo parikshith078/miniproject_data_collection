@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A constant interaction between the biotic and abiotic components of the biosphere makes it a dynamic, but stable system. These interactions consist of a transfer of matter and energy between the different components of the biosphere.",
+      "question": "What does biogeochemical cycles involve?"
+    },
+    {
+      "context": "These interactions consist of a transfer of matter and energy between the different components of the biosphere. A constant interaction between the biotic and abiotic components of the biosphere makes it a dynamic, but stable system.",
+      "question": "How do biotic and abiotic components interact?"
+    },
+    {
+      "context": "These interactions consist of a transfer of matter and energy between the different components of the biosphere. A constant interaction between the biotic and abiotic components of the biosphere makes it a dynamic, but stable system.",
+      "question": "What is the role of matter and energy transfer?"
+    },
+    {
+      "context": "Biogeochemical cycles involve a constant interaction between the biotic and abiotic components of the biosphere, which affects stability. These interactions consist of a transfer of matter and energy.",
+      "question": "What maintains stability in the biosphere?"
+    },
+    {
+      "context": "A constant interaction between the biotic and abiotic components of the biosphere makes it a dynamic, but stable system. These interactions consist of a transfer of matter and energy between different components.",
+      "question": "Why is the biosphere considered dynamic?"
+    }
+  ]
+}

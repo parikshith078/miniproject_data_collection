@@ -1,0 +1,112 @@
+{
+  "topic": [
+    {
+      "sub-topic": "FUNGI",
+      "Content": "These are heterotrophic and have a cell wall. The cell wall is made of chitin. Most of the fungi are unicellular. Many of them have the capacity to become multicellular at a certain stage in life. They feed on decaying organic materials. Such a mode of nutrition is called saprophytic. Some fungi live in symbiotic relationships with other organisms, while some are parasites as well. Examples: yeast, penicillium, aspergillus, mucor, etc."
+    },
+    {
+      "sub-topic": "PLANTAE",
+      "Content": "These are multicellular and autotrophs. Presence of chlorophyll is a distinct characteristic of plants, because of which they are capable of doing photosynthesis. Cell wall is present."
+    },
+    {
+      "sub-topic": "THALLOPHYTA",
+      "Content": "The plant body is simple thallus type. The plant body is not differentiated into root, stem, and leaves. They are commonly known as algae. Examples: Spirogyra, chara, volvox, ulothrix, etc."
+    },
+    {
+      "sub-topic": "BRYOPHYTA",
+      "Content": "Plant body is differentiated into stem and leaf-like structure. Vascular system is absent, which means there is no specialized tissue for transportation of water, minerals, and food. Bryophytes are also known as the amphibians of the plant kingdom because they need water to complete a part of their life cycle. Examples: Moss, marchantia."
+    },
+    {
+      "sub-topic": "PTERIDOPHYTA",
+      "Content": "Plant body is differentiated into root, stem, and leaf. Vascular system is present. They do not bear seeds and hence are called cryptogams. Plants of rest of the divisions bear seeds and hence are called phanerogams. Examples: Marsilea, ferns, horsetails, etc."
+    },
+    {
+      "sub-topic": "GYMNOSPERMS",
+      "Content": "They bear seeds. Seeds are naked, i.e., not covered. The word ‘gymnos’ means naked and ‘sperma’ means seed. Examples: Pine, cycas, deodar, etc."
+    },
+    {
+      "sub-topic": "ANGIOSPERMS",
+      "Content": "The seeds are covered. The word ‘angios’ means covered. There is great diversity in species of angiosperm. Angiosperms are also known as flowering plants because the flower is a specialized organ meant for reproduction."
+    },
+    {
+      "sub-topic": "Monocotyledonous",
+      "Content": "There is a single seed leaf in a seed. A seed leaf is a baby plant. Examples: wheat, rice, maize, etc."
+    },
+    {
+      "sub-topic": "Dicotyledonous",
+      "Content": "There are two cotyledons in a seed. Examples: Mustard, gram, mango, etc."
+    },
+    {
+      "sub-topic": "PORIFERA",
+      "Content": "These animals have pores all over their body. The pores lead into the canal system. Water flows through the canal system and facilitates entry of food and exchange of other materials. The animal is not differentiated into tissues. The body is covered with a hard outer skeleton. These are commonly known as sponges. They are marine animals. Examples: Sycon, spongilla, euplectelea, etc."
+    },
+    {
+      "sub-topic": "COELENTERATA",
+      "Content": "The body is made up of a coelom (cavity) with a single opening. The body wall is made up of two layers of cells (diploblastic). Some of the species live a solitary life while others live in colonies. Examples: Hydra, Jellyfish, Sea anemone, etc."
+    },
+    {
+      "sub-topic": "PLATYHELMINTHES",
+      "Content": "The body is flattened from top to bottom and hence the name platyhelminthes. These are commonly known as flatworms. The body wall is composed of three layers of cells (triploblastic). Examples: Planaria, liver fluke, tapeworm, etc."
+    },
+    {
+      "sub-topic": "NEMATOHELMINTHES",
+      "Content": "The body is bilaterally symmetric and there are three layers in the body wall. Animals are cylindrical in shape. A pseudocoelom is present, hence organs are absent. Examples: Roundworms, pinworms, filarial parasite (Wuchereria), etc."
+    },
+    {
+      "sub-topic": "ANNELIDA",
+      "Content": "True body cavity is present in these animals. The body is divided into segments and hence the name annelida. Each segment contains a set of organs. Examples: Earthworm, leech, Nereis, etc."
+    },
+    {
+      "sub-topic": "ARTHROPODA",
+      "Content": "Animals have jointed appendages which gives the name arthropoda. Exoskeleton is present which is made of chitin. This is the largest group of animals; in terms of number of species. Examples: cockroach, housefly, spider, prawn, scorpion, etc."
+    },
+    {
+      "sub-topic": "MOLLUSCA",
+      "Content": "The animal has a soft body; which is enclosed in a hard shell. The shell is made of calcium carbonate. Examples: Snail, mussels, octopus, etc."
+    },
+    {
+      "sub-topic": "ECHINODERMATA",
+      "Content": "The body is covered with spines, which gives the name echinodermata. Body is radially symmetrical. Examples: Starfish, sea urchins, etc."
+    },
+    {
+      "sub-topic": "PROTOCHORDATA",
+      "Content": "Animals are bilaterally symmetrical, triploblastic, and coelomate. Notochord is present at least at some stages of life. Examples: Balanoglossus, herdmania, amphioxus, etc."
+    },
+    {
+      "sub-topic": "VERTEBRATA",
+      "Content": "The notochord is replaced by a spinal column during embryonic stage. Vertebrates are divided into two superclasses, viz. pisces and tetrapoda."
+    },
+    {
+      "sub-topic": "PISCES",
+      "Content": "They are commonly known as fish. The body is streamlined. They are cold-blooded animals. Examples: Rohu and katla are examples of bony fish."
+    },
+    {
+      "sub-topic": "TETRAPODA",
+      "Content": "Animals have four limbs for locomotion and hence the name tetrapoda. Tetrapoda is divided into four classes, viz. amphibia, reptilia, aves, and mammalia."
+    },
+    {
+      "sub-topic": "AMPHIBIA",
+      "Content": "These animals are adapted to live both in water and land. These are cold-blooded animals. Examples: Frog, toad, salamander, etc."
+    },
+    {
+      "sub-topic": "REPTILIA",
+      "Content": "These animals show crawling movement for locomotion. Skin is hardened to form scales. Examples: snakes, lizards, crocodile, turtle, etc."
+    },
+    {
+      "sub-topic": "AVES",
+      "Content": "The body is covered with feathers. These are warm-blooded animals. Examples: All the birds."
+    },
+    {
+      "sub-topic": "MAMMALIA",
+      "Content": "The body is covered with hairs. These are warm-blooded animals. Most of the mammalians give birth to young ones and are called viviparous. Examples: human, chimpanzee, lion, etc."
+    },
+    {
+      "sub-topic": "BINOMIAL NOMENCLATURE",
+      "Content": "The system of binomial nomenclature was proposed by Carolus Linnaeus. The biological name is composed of two terms. The first term is called genetic name and the second term is called species name."
+    },
+    {
+      "sub-topic": "CONVENTIONS OF WRITING BIOLOGICAL NAME",
+      "Content": "The biological name is composed of two terms. The first term is called genetic name and the second term is called species name. The genus name starts with a capital letter, while the species name starts with a small letter. In print, the scientific name is written in italics. When handwritten, the genus name and species name need to be underlined separately."
+    }
+  ]
+}

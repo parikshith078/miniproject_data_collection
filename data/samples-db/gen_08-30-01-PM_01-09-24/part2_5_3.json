@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In some cases, viral diseases can result in serious complications. Seek immediate medical care if you, or someone you are with, have any of the following symptoms: high fever (higher than 101 degrees Fahrenheit), lethargy or unresponsiveness, seizure, or stiff neck.",
+      "question": "What symptoms indicate serious complications?"
+    },
+    {
+      "context": "Seek immediate medical care if you notice any of the following symptoms: change in alertness or level of consciousness, chest pain, or shortness of breath.",
+      "question": "When should you seek medical care?"
+    },
+    {
+      "context": "Symptoms such as a deep, wet chest cough that produces yellow, green or brownish phlegm can be concerning and may indicate a complication from a viral disease.",
+      "question": "What does a deep cough with colored phlegm suggest?"
+    },
+    {
+      "context": "Lethargy, chest pain, and high fever can signal serious health issues that arise from viral infections and should not be ignored.",
+      "question": "What are signs of serious health issues from viruses?"
+    },
+    {
+      "context": "If experiencing jaundice, which is the yellowing of the skin and whites of the eyes, it is important to seek immediate medical care.",
+      "question": "What does jaundice indicate in viral diseases?"
+    }
+  ]
+}

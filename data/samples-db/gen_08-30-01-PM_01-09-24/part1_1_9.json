@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mitochondria synthesize energy rich compounds such as ATP. They also provide important intermediates for the synthesis of several biochemicals like chlorophyll, cytochromes, steroids, amino acids etc.",
+      "question": "What do mitochondria synthesize?"
+    },
+    {
+      "context": "Mitochondria are essential for producing ATP, which cells use as energy. They also supply intermediates necessary for making various biochemicals like steroids and amino acids.",
+      "question": "What is ATP used for in cells?"
+    },
+    {
+      "context": "Not only do mitochondria synthesize ATP, but they also contribute to the synthesis of vital biochemicals like cytochromes and amino acids, making them crucial for cellular functions.",
+      "question": "What biochemicals do mitochondria help synthesize?"
+    },
+    {
+      "context": "Mitochondria play a critical role in both energy production by synthesizing ATP and serving as a source of intermediates needed for biochemical synthesis in organisms.",
+      "question": "What roles do mitochondria play in cells?"
+    },
+    {
+      "context": "As key cellular organelles, mitochondria are involved in the synthesis of energy-rich compounds and provide necessary precursors for various biochemical processes.",
+      "question": "What type of compounds do mitochondria synthesize?"
+    }
+  ]
+}

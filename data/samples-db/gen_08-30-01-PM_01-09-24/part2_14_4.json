@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Bee wax is utilized in the manufacture of cosmetics, lubricants, cold creams, shaving creams, polishes, candles, ointments, and in medical preparations.",
+      "question": "What are the uses of bee wax?"
+    },
+    {
+      "context": "Bee wax is utilized in the manufacture of cosmetics, lubricants, cold creams, shaving creams, polishes, candles, ointments, and in medical preparations.",
+      "question": "Which medical preparations use bee wax?"
+    },
+    {
+      "context": "It is utilized in the manufacture of cosmetics, lubricants, cold creams, shaving creams, polishes, candles, ointments, and in medical preparations.",
+      "question": "Name three products made from bee wax."
+    },
+    {
+      "context": "Bee wax is utilized in the manufacture of cosmetics, lubricants, cold creams, shaving creams, polishes, candles, ointments, and in medical preparations.",
+      "question": "How is bee wax helpful in cosmetics?"
+    },
+    {
+      "context": "Bee wax is utilized in the manufacture of cosmetics, lubricants, cold creams, shaving creams, polishes, candles, ointments, and in medical preparations.",
+      "question": "In what products is bee wax used as a lubricant?"
+    }
+  ]
+}

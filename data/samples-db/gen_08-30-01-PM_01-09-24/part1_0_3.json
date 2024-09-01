@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cells were discovered in 1665 by an English Botanist, Robert Hooke. He used a primitive microscope to observe cells in a cork slice.",
+      "question": "Who discovered cells in 1665?"
+    },
+    {
+      "context": "Cells were discovered in 1665 by an English Botanist, Robert Hooke. He used a primitive microscope to observe cells in a cork slice.",
+      "question": "What did Robert Hooke observe with his microscope?"
+    },
+    {
+      "context": "Cells were discovered in 1665 by an English Botanist, Robert Hooke. He used a primitive microscope to observe cells in a cork slice.",
+      "question": "In what year were cells discovered?"
+    },
+    {
+      "context": "Cells were discovered in 1665 by an English Botanist, Robert Hooke. He used a primitive microscope to observe cells in a cork slice.",
+      "question": "What type of microscope did Hooke use?"
+    },
+    {
+      "context": "Cells were discovered in 1665 by an English Botanist, Robert Hooke. He used a primitive microscope to observe cells in a cork slice.",
+      "question": "What material did Hooke examine to discover cells?"
+    }
+  ]
+}

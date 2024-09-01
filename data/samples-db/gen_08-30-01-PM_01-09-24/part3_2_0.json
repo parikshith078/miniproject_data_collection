@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "The human excretory system is composed of a pair of kidneys. A tube; called ureter; comes out of each kidney and goes to the urinary bladder. Urine is collected in the urinary bladder, from where it is expelled out through urethra as and when required.",
+      "question": "What are the main components of the excretory system?"
+    },
+    {
+      "context": "Nephron is called the functional unit of kidney. Nephron: It is composed of a tangled mess of tubes and a filtering part; called glomerulus. Glomerulus is a network of blood capillaries to which renal artery is attached.",
+      "question": "What is the functional unit of the kidney?"
+    },
+    {
+      "context": "Due to this, the blood entering the glomerulus experiences very high pressure and due to this, the waste products are filtered out through the thin membrane of capillaries in the glomerulus. The filtered blood is sent to the systemic circulation through efferent arteriole.",
+      "question": "What causes filtration in the glomerulus?"
+    },
+    {
+      "context": "The main components of the nephron are glomerulus, Bowman’s capsule, and a long renal tubule. Functioning of a nephron: The blood enters the kidney through the renal artery, which branches into many capillaries associated with glomerulus.",
+      "question": "What are the main parts of a nephron?"
+    },
+    {
+      "context": "The urine formed in each kidney enters a long tube called ureter. From ureter, it gets transported to the urinary bladder and then into the urethra.",
+      "question": "What path does urine take after leaving the kidney?"
+    },
+    {
+      "context": "Reabsorption of water and some other filtrates takes place in the tubular part of the nephron. This increases the concentration of urine. The human urine is mainly composed of water and urea.",
+      "question": "What substances are mainly found in human urine?"
+    },
+    {
+      "context": "The filtered blood is sent to the systemic circulation through efferent arteriole and the filtrate goes to the Bowman’s capsule. That is how urine is formed inside the kidneys.",
+      "question": "Where does the filtered blood go after the glomerulus?"
+    },
+    {
+      "context": "In the proximal tubule, some substances such as amino acids, glucose, and salts are selectively reabsorbed and unwanted molecules are added in the urine.",
+      "question": "What occurs in the proximal tubule of the nephron?"
+    }
+  ]
+}

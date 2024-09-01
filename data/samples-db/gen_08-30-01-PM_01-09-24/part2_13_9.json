@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Infectious diseases are caused by pathogens like bacteria, viruses and fungi. Sheds should be cleaned and disinfected regularly. Vaccination against various diseases should be provided to farm animals.",
+      "question": "What causes infectious diseases in animals?"
+    },
+    {
+      "context": "Vaccination against various diseases should be provided to farm animals. Vaccination should be given against various diseases.",
+      "question": "Why is vaccination important for farm animals?"
+    },
+    {
+      "context": "Milk production centres should be maintained for the animals which give birth to young ones. Milk production depends on duration of lactation period.",
+      "question": "What factors influence milk production in cows?"
+    },
+    {
+      "context": "Infectious diseases are caused by pathogens like bacteria, viruses and fungi. Sheds should be cleaned and disinfected regularly.",
+      "question": "What should be done to prevent infectious diseases?"
+    },
+    {
+      "context": "Vaccination against various diseases should be provided to farm animals. Milk production centres should be maintained for the animals which give birth to young ones.",
+      "question": "What should be maintained for animals that give birth?"
+    },
+    {
+      "context": "Milk production centres should be maintained for the animals which give birth to young ones. Milk production depends on duration of lactation period.",
+      "question": "How does lactation period relate to milk production?"
+    }
+  ]
+}

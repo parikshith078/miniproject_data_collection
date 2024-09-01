@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The greenhouse effect refers to the change in the steady state temperature of a planet or moon by the presence of an atmosphere containing gas that absorbs and emits infrared radiation.",
+      "question": "What does the greenhouse effect change?"
+    },
+    {
+      "context": "Greenhouse gases, which include water vapor, carbon dioxide and methane, warm the atmosphere by efficiently absorbing thermal infrared radiation emitted by the earth’s surface, by the atmosphere itself, and by clouds.",
+      "question": "Which gases contribute to the greenhouse effect?"
+    },
+    {
+      "context": "As a result of its warmth, the atmosphere also radiates thermal infrared in all directions, including downward to the Earth’s surface.",
+      "question": "How does the atmosphere radiate thermal infrared?"
+    },
+    {
+      "context": "Thus, greenhouse gases trap heat within the surface-troposphere system.",
+      "question": "What do greenhouse gases do to heat?"
+    },
+    {
+      "context": "The greenhouse effect is one of several factors that affect the temperature of the Earth.",
+      "question": "What is the greenhouse effect's role in temperature?"
+    }
+  ]
+}

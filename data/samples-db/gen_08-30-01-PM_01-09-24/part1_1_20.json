@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Ribosomes are very small structures found either in a free state, suspended in the cytoplasm, or attached to the surface of the endoplasmic reticulum. They are composed of ribonucleic acids and proteins.",
+      "question": "What structures synthesize proteins in cells?"
+    },
+    {
+      "context": "Proteins are synthesized in ribosomes, which can be free in the cytoplasm or bound to the endoplasmic reticulum. They play a critical role in translating genetic information into functional proteins.",
+      "question": "What role do ribosomes play in the cell?"
+    },
+    {
+      "context": "Located either freely in the cytoplasm or attached to the endoplasmic reticulum, ribosomes are essential for converting genetic codes into proteins. They consist of RNA and proteins.",
+      "question": "How do ribosomes contribute to protein production?"
+    },
+    {
+      "context": "Ribosomes are composed mainly of ribonucleic acids and proteins, acting as the site for protein synthesis within cells, either in a free state or on the endoplasmic reticulum.",
+      "question": "What is the composition of ribosomes?"
+    },
+    {
+      "context": "Protein synthesis occurs in ribosomes, which can be found suspended in the cytoplasm or on the endoplasmic reticulum, showcasing their dual nature in cellular functions.",
+      "question": "Where can ribosomes be found in a cell?"
+    }
+  ]
+}

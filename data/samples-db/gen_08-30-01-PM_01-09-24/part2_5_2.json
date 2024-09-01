@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Viral diseases can affect almost any area of the body or body system. Symptoms of viral diseases can include flu-like symptoms such as fatigue, fever, and a sore throat.",
+      "question": "What are common symptoms of viral diseases?"
+    },
+    {
+      "context": "Symptoms of viral diseases can include gastrointestinal disturbances, such as diarrhea, nausea, or vomiting, alongside flu-like symptoms from the body.",
+      "question": "What gastrointestinal symptoms can viral diseases cause?"
+    },
+    {
+      "context": "Patients suffering from viral diseases may experience irritability and malaise, which is a general ill feeling often associated with these illnesses.",
+      "question": "What emotional symptoms are linked to viral diseases?"
+    },
+    {
+      "context": "Common symptoms of viral diseases include sneezing, stuffy nose, nasal congestion, runny nose, and postnasal drip.",
+      "question": "What respiratory symptoms may viral diseases cause?"
+    },
+    {
+      "context": "Viral diseases can lead to the swelling of lymph nodes and tonsils, indicating an immune response to the infection.",
+      "question": "Which lymphatic symptoms are associated with viral infections?"
+    },
+    {
+      "context": "Some viral diseases can cause unexplained weight loss, which is a concerning symptom that may indicate a severe illness.",
+      "question": "How can viral diseases affect weight?"
+    },
+    {
+      "context": "In addition to typical flu-like symptoms, viral diseases can also trigger rashes that may vary in appearance and severity.",
+      "question": "What skin-related symptoms can occur with viral diseases?"
+    },
+    {
+      "context": "Symptoms of viral diseases often include aches and pains, which contribute to the overall feeling of malaise and discomfort for the patient.",
+      "question": "What bodily discomforts are seen in viral diseases?"
+    }
+  ]
+}

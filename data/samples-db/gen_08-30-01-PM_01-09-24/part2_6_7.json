@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Tuberculosis (TB), also called Koch’s disease is caused by rod-shaped, Gram +ve bacteria, Mycobacterium tuberculosis. The bacterium releases a toxin, tuberculin which destroys the organs it infects.",
+      "question": "What bacterium causes Tuberculosis?"
+    },
+    {
+      "context": "Symptoms of Tuberculosis: Constant cough and in severe cases sputum with blood, pain in chest while coughing, loss of body weight, failure of appetite, slight rise of temperature in the evening are the symptoms of lung T. B.",
+      "question": "What are the symptoms of lung TB?"
+    },
+    {
+      "context": "The test is to puncture the skin with a special instrument which has a ring of six short needles (the Heaf test). This introduces tuberculin, purified from dead tubercle bacilli.",
+      "question": "What is the purpose of the Heaf test?"
+    },
+    {
+      "context": "Prevention and treatment of Tuberculosis: BCG (Bacillus Calmette Guerin) vaccine for TB was obtained from bovine bacillus by Calmette and Guerin in 1921.",
+      "question": "When was the BCG vaccine for TB developed?"
+    },
+    {
+      "context": "The incubation period is 3 to 6 weeks or may be years. It spreads through sneezing, coughing, contaminated food and water.",
+      "question": "How does Tuberculosis commonly spread?"
+    },
+    {
+      "context": "Sputum, tuberculin, X-ray and gastric analysis are carried out to diagnose tuberculosis. Tuberculin test is also called Mantoux test.",
+      "question": "What tests are performed to diagnose tuberculosis?"
+    },
+    {
+      "context": "Some of the anti-tuberculosis drugs are streptomycin, rifampicin, isoniazid, thiatazone, PAS (Para amino salicydic acid) etc.",
+      "question": "What are examples of anti-tuberculosis drugs?"
+    },
+    {
+      "context": "Direct observation treatment (DOT) is a programme under WHO for treatment of TB across the world.",
+      "question": "What is the DOT program in TB treatment?"
+    }
+  ]
+}

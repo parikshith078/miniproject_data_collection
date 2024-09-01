@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cartilage is mainly composed of chondrioblasts. Cartilage is present at the ends of articulatory bones. Cartilage is also present in the external ear, bronchii, etc.",
+      "question": "What type of cells compose cartilage?"
+    },
+    {
+      "context": "Cartilage is mainly composed of chondrioblasts. Cartilage is present at the ends of articulatory bones. Cartilage is also present in the external ear, bronchii, etc.",
+      "question": "Where is cartilage found in the body?"
+    },
+    {
+      "context": "Cartilage is mainly composed of chondrioblasts. Cartilage is present at the ends of articulatory bones. Cartilage is also present in the external ear, bronchii, etc.",
+      "question": "What are the primary components of cartilage?"
+    },
+    {
+      "context": "Cartilage is mainly composed of chondrioblasts. Cartilage is present at the ends of articulatory bones. Cartilage is also present in the external ear, bronchii, etc.",
+      "question": "What role does cartilage serve in joints?"
+    },
+    {
+      "context": "Cartilage is mainly composed of chondrioblasts. Cartilage is present at the ends of articulatory bones. Cartilage is also present in the external ear, bronchii, etc.",
+      "question": "In which part of the body is cartilage found besides bones?"
+    }
+  ]
+}

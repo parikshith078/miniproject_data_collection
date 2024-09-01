@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Leprosy is treated with drugs like rifampicin, dapsone, and clofazimine. These medications are effective in managing the disease and preventing complications.",
+      "question": "What drugs are used to treat leprosy?"
+    },
+    {
+      "context": "No vaccine is available for leprosy, which makes prevention more challenging. Public health measures are important to control its spread.",
+      "question": "Is there a vaccine for leprosy?"
+    },
+    {
+      "context": "The treatment for leprosy includes combinations of antibiotics, specifically rifampicin, dapsone, and clofazimine, to ensure effectiveness.",
+      "question": "Which antibiotics are used to treat leprosy?"
+    },
+    {
+      "context": "Because there is no vaccine for leprosy, awareness and treatment options like rifampicin and dapsone are crucial in managing the disease.",
+      "question": "What is important for managing leprosy?"
+    },
+    {
+      "context": "Leprosy requires the use of specific drugs, including dapsone and clofazimine, for effective treatment over time.",
+      "question": "What treatment options are available for leprosy?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Saliva is secreted by the salivary glands, located under the tongue. It moistens the food for easy swallowing. It contains a digestive enzyme called salivary amylase, which breaks down starch into sugar.",
+      "question": "What enzyme is found in saliva?"
+    },
+    {
+      "context": "Saliva is secreted by the salivary glands, located under the tongue. It moistens the food for easy swallowing. It contains a digestive enzyme called salivary amylase, which breaks down starch into sugar.",
+      "question": "What is the role of saliva in digestion?"
+    },
+    {
+      "context": "Saliva is secreted by the salivary glands, located under the tongue. It moistens the food for easy swallowing. It contains a digestive enzyme called salivary amylase, which breaks down starch into sugar.",
+      "question": "How does saliva help in swallowing food?"
+    },
+    {
+      "context": "Saliva is secreted by the salivary glands, located under the tongue. It moistens the food for easy swallowing. It contains a digestive enzyme called salivary amylase, which breaks down starch into sugar.",
+      "question": "Where is saliva secreted from?"
+    },
+    {
+      "context": "Saliva is secreted by the salivary glands, located under the tongue. It moistens the food for easy swallowing. It contains a digestive enzyme called salivary amylase, which breaks down starch into sugar.",
+      "question": "What does salivary amylase do?"
+    }
+  ]
+}

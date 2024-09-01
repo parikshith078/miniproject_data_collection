@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Animals have jointed appendages which gives the name arthropoda. Exoskeleton is present which is made of chitin.",
+      "question": "What are arthropods known for?"
+    },
+    {
+      "context": "This is the largest group of animals; in terms of number of species. Examples: cockroach, housefly, spider, prawn, scorpion, etc.",
+      "question": "Which group of animals is the largest?"
+    },
+    {
+      "context": "Exoskeleton is present which is made of chitin. This is the largest group of animals; in terms of number of species.",
+      "question": "What is the exoskeleton of arthropods made of?"
+    },
+    {
+      "context": "Examples: cockroach, housefly, spider, prawn, scorpion, etc.",
+      "question": "What are examples of arthropods?"
+    },
+    {
+      "context": "Animals have jointed appendages which gives the name arthropoda.",
+      "question": "What feature gives arthropods their name?"
+    }
+  ]
+}

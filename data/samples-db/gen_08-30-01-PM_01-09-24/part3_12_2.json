@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Ecosystem energy processes conform to the thermodynamic laws. Energy cannot be made or destroyed. Energy transformations are not perfect and energy is lost in each transformation in the form of heat. The flow of energy in the ecosystem is unidirectional.",
+      "question": "How does energy transform in ecosystems?"
+    },
+    {
+      "context": "The energy enters the plants (from the sun) through photosynthesis during the making of food. This energy is then passed on from one organism to another in a food chain.",
+      "question": "What initiates the flow of energy in ecosystems?"
+    },
+    {
+      "context": "Energy given out by the organisms as heat is lost to the environment; it does not return to be used by the plants again. This makes the flow of energy in ecosystem 'unidirectional'.",
+      "question": "Why is energy flow considered unidirectional?"
+    },
+    {
+      "context": "The energy available at each successive trophic level is 10 percent of the previous level. Thus, there is a progressive decline (gradual reduction) in the amount of energy available as we go from producer level to the higher trophic levels of organisms.",
+      "question": "What percentage of energy is available at higher trophic levels?"
+    },
+    {
+      "context": "Thus, the flow of energy in the ecosystem is said to be unidirectional because the energy lost as heat from the living organisms of a food chain cannot be reused by plants in photosynthesis.",
+      "question": "Why can't the energy lost by organisms be reused?"
+    }
+  ]
+}

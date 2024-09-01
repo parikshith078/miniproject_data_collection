@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Infectious diseases are caused by microorganisms such as viruses, bacteria, fungi or parasites and can spread between individuals. Microorganisms that cause disease are collectively called pathogens.",
+      "question": "What are pathogens responsible for?"
+    },
+    {
+      "context": "Infectious diseases are caused by microorganisms such as viruses, bacteria, fungi or parasites and can spread between individuals. Microorganisms that cause disease are collectively called pathogens.",
+      "question": "What causes infectious diseases?"
+    },
+    {
+      "context": "Infectious diseases are caused by microorganisms such as viruses, bacteria, fungi or parasites and can spread between individuals. Microorganisms that cause disease are collectively called pathogens.",
+      "question": "List the types of microorganisms causing diseases."
+    },
+    {
+      "context": "Infectious diseases are caused by microorganisms such as viruses, bacteria, fungi or parasites and can spread between individuals. Microorganisms that cause disease are collectively called pathogens.",
+      "question": "How can infectious diseases spread?"
+    },
+    {
+      "context": "Infectious diseases are caused by microorganisms such as viruses, bacteria, fungi or parasites and can spread between individuals. Microorganisms that cause disease are collectively called pathogens.",
+      "question": "What are the four types of infectious agents?"
+    }
+  ]
+}

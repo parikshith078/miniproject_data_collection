@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Afforestation is one of the most important approach to forest conservation. Besides this, deforestation should be banned, and people should be made more aware about importance of forests.",
+      "question": "What is a key approach to forest conservation?"
+    },
+    {
+      "context": "National parks and sanctuaries should be formed to conserve the biodiversity. Proper laws for exploitation of forest resources are also necessary.",
+      "question": "What should be established to conserve biodiversity?"
+    },
+    {
+      "context": "People should be made more aware about importance of forests. Also, hunting should be banned and laws should be formulated against hunting.",
+      "question": "What should be done to raise awareness about forests?"
+    },
+    {
+      "context": "Deforestation should be banned and protected areas should be managed by local people which would be quite efficient.",
+      "question": "Who should manage protected areas for better efficiency?"
+    },
+    {
+      "context": "Proper laws for exploitation of forest resources are essential for sustainable forest conservation. Deforestation should be banned.",
+      "question": "Why are laws necessary for forest resource exploitation?"
+    }
+  ]
+}

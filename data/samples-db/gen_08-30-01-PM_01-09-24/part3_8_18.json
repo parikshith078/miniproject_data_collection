@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The passing of traits from the parents to offspring is called heredity. The complete set of genes in an organism’s genome is called genotype. The observable characters in an organism make the phenotype.",
+      "question": "What is the term for traits passed to offspring?"
+    },
+    {
+      "context": "Acquired Traits: Traits; which are acquired due to interaction with the environment; are called acquired traits. Acquired traits are not inheritable.",
+      "question": "What are traits gained from the environment called?"
+    },
+    {
+      "context": "Due to this reason, many phenotypes are not inheritable. Acquired Traits: Traits; which are acquired due to interaction with the environment; are called acquired traits.",
+      "question": "Why are many phenotypes not inheritable?"
+    },
+    {
+      "context": "Inheritable Traits: Traits; which can be expressed in subsequent generations; are called inheritable traits. Such traits bring a change in the genotype of the organism and hence become inheritable.",
+      "question": "What are traits that can be passed to future generations?"
+    },
+    {
+      "context": "The complete set of genes in an organism’s genome is called genotype. The observable characters in an organism make the phenotype.",
+      "question": "What is the difference between genotype and phenotype?"
+    },
+    {
+      "context": "Phenotype is a result of genotype’s interaction with the environment. Due to this reason, many phenotypes are not inheritable.",
+      "question": "What causes a phenotype to be non-inheritable?"
+    }
+  ]
+}

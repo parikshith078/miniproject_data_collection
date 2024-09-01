@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The stakeholders who are directly or indirectly affected by forest are as follows: People living in or around forests; as they depend on various forest produce for their livelihood. The forest department which is the owner of the forest land.",
+      "question": "Who are the main stakeholders in forest conservation?"
+    },
+    {
+      "context": "The forest department which is the owner of the forest land. Various industrialists who depend on forest for many raw materials.",
+      "question": "What role does the forest department play?"
+    },
+    {
+      "context": "Various industrialists who depend on forest for many raw materials. For example; the beedi industry needs kendu leaves as raw material.",
+      "question": "Which industry requires kendu leaves?"
+    },
+    {
+      "context": "Wood is used as raw material in many industries. The wildlife and nature enthusiasts.",
+      "question": "How is wood relevant to industries?"
+    },
+    {
+      "context": "Before the beginning of the colonial rule in India, forest dwellers were free to utilize the resources from forests as they wished.",
+      "question": "How were forest dwellers treated before colonial rule?"
+    },
+    {
+      "context": "The stakeholders who are directly or indirectly affected by forest are as follows: People living in or around forests; as they depend on various forest produce for their livelihood.",
+      "question": "Who depends on forest produce for livelihood?"
+    }
+  ]
+}

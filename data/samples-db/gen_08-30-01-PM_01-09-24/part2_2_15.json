@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mollusca are animals characterized by having a soft body that is often enclosed in a hard shell made of calcium carbonate. Common examples include snails, mussels, and octopuses.",
+      "question": "What is the primary material of the mollusks' shells?"
+    },
+    {
+      "context": "The animal has a soft body; which is enclosed in a hard shell. The shell is made of calcium carbonate. Examples include snails, mussels, and octopuses.",
+      "question": "Name two examples of mollusks mentioned."
+    },
+    {
+      "context": "Mollusca are characterized by their soft bodies and hard shells, which are formed from calcium carbonate. They include well-known examples such as snails and octopuses.",
+      "question": "What do mollusks typically have for protection?"
+    },
+    {
+      "context": "The soft body of mollusks is a distinguishing feature, often covered by a hard shell composed of calcium carbonate, seen in species like mussels and snails.",
+      "question": "Which mollusks are known for not having a hard shell?"
+    },
+    {
+      "context": "Mollusca includes a diverse group of animals that possess a soft body and typically a hard shell made from calcium carbonate, including snails and octopuses.",
+      "question": "What type of body structure do mollusks possess?"
+    }
+  ]
+}

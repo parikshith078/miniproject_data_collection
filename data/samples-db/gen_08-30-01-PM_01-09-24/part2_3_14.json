@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Healthy refers to a broader state that includes physical, mental, and social well-being, while disease-free only indicates the absence of disease. The distinction is important as health encompasses more than just the absence of illness.",
+      "question": "What does being healthy include?"
+    },
+    {
+      "context": "Healthy individuals are characterized by good physical, mental, and social well-being; in contrast, being disease-free simply means not having any diseases without ensuring overall wellness.",
+      "question": "What does disease-free mean?"
+    },
+    {
+      "context": "While a disease-free person lacks illness, they may not be considered healthy if their overall well-being (mental and social) is compromised, highlighting the complexity of health versus absence of disease.",
+      "question": "Can a disease-free person be unhealthy?"
+    },
+    {
+      "context": "The concept of health extends beyond just physical aspects to include mental and social dimensions, illustrating why merely being disease-free is insufficient to define a healthy state.",
+      "question": "Why is disease-free insufficient for health?"
+    },
+    {
+      "context": "Maintaining good health requires addressing physical, mental, and social factors, while disease-free status focuses strictly on the individual's lack of disease, potentially overlooking one’s overall condition.",
+      "question": "What does health maintenance involve?"
+    }
+  ]
+}

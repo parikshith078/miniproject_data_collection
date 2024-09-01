@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Natural selection is a process where organisms better adapted to their environment tend to survive and produce more offspring. This process directs evolution in the beetle population.",
+      "question": "What is the role of natural selection?"
+    },
+    {
+      "context": "Adaptation occurs as a response to the changes in environment, leading to traits that enhance survival. This results in a greater fit of the beetle population to their surroundings.",
+      "question": "How does adaptation affect beetle survival?"
+    },
+    {
+      "context": "Evolution in the beetle population is guided by natural selection, promoting traits that increase fitness in their specific environments.",
+      "question": "What directs evolution in beetle populations?"
+    },
+    {
+      "context": "As the beetle population evolves, natural selection leads to changes that enhance their adaptation to specific environmental conditions, improving their overall fitness.",
+      "question": "What does natural selection enhance in beetles?"
+    },
+    {
+      "context": "In the context of evolutionary biology, adaptation involves changes in species over time, influenced by natural selection to optimize survival in their environments.",
+      "question": "What is meant by adaptation in biology?"
+    }
+  ]
+}

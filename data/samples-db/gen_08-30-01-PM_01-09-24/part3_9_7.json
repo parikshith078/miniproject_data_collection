@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In this situation a colour variation arises during reproduction. So that there appears one beetle that is green in colour instead of red. Moreover this green coloured beetle passes its colour to its offspring.",
+      "question": "What color variation occurs during reproduction?"
+    },
+    {
+      "context": "Crows cannot see the green coloured beetles on green leaves of the bushes and therefore crows cannot eat them. But crows can see the red beetles and eat them.",
+      "question": "Which beetles are visible to crows?"
+    },
+    {
+      "context": "As a result there are more and more green beetles than red ones which decrease in their number.",
+      "question": "What happens to the population of red beetles?"
+    },
+    {
+      "context": "The variation of colour in beetle ‘green’ gave a survival advantage to ‘green beetles’ than red beetles. In other words it was naturally selected.",
+      "question": "Which beetle color was naturally selected for survival?"
+    },
+    {
+      "context": "Their population will grow by sexual reproduction. So they were able to generate variations in population.",
+      "question": "How does the beetle population grow?"
+    }
+  ]
+}

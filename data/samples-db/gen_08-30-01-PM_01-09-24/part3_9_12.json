@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The germ cells of sexually reproducing population are formed in specialised reproductive tissue. If the weight of the beetles is reduced because of starvation, that will not change the DNA of the germ cells.",
+      "question": "Why can't starvation effects be inherited?"
+    },
+    {
+      "context": "Change in non reproductive tissues cannot be passed on to the DNA of the germ cells. Therefore the experiences of an individual during its lifetime cannot be passed on to its progeny.",
+      "question": "What type of tissue can't affect inheritance?"
+    },
+    {
+      "context": "Therefore even if some generations of beetles lose their weight because of starvation, that is not an example of evolution, since the change is not inherited over generations.",
+      "question": "Why is weight loss not evolution?"
+    },
+    {
+      "context": "Therefore the experiences of an individual during its lifetime cannot be passed on to its progeny, and cannot direct evolution.",
+      "question": "What cannot direct evolution according to the content?"
+    },
+    {
+      "context": "Therefore low weight is not a trait that can be inherited by progeny of a starving beetle.",
+      "question": "Is low weight an inherited trait?"
+    }
+  ]
+}

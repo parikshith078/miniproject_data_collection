@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "An air pollutant is known as a substance in the air that can cause harm to humans and the environment. Pollutants can be in the form of solid particles, liquid droplets, or gases.",
+      "question": "What forms can air pollutants take?"
+    },
+    {
+      "context": "Air pollutants can be in the form of solid particles, liquid droplets, or gases. In addition, they may be natural or man-made.",
+      "question": "What are the two sources of air pollutants?"
+    },
+    {
+      "context": "Pollutants can be in the form of solid particles, liquid droplets, or gases. In addition, they may be natural or man-made.",
+      "question": "Can pollutants be natural or artificial?"
+    },
+    {
+      "context": "An air pollutant is known as a substance in the air that can cause harm to humans and the environment.",
+      "question": "What is the main effect of air pollutants?"
+    },
+    {
+      "context": "Pollutants can be in the form of solid particles, liquid droplets, or gases. In addition, they may be natural or man-made.",
+      "question": "How can air pollutants be categorized?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The classification of living organisms is essential for easier study. Ancient classifications based on habitat were too simple. Modern classification takes into account various factors including organization of nucleus, number of cells, mode of nutrition, and level of organization.",
+      "question": "What is modern classification based on?"
+    },
+    {
+      "context": "This current understanding acknowledges that all life forms have evolved from a common ancestor. Ancient classifications based on habitat were too simple.",
+      "question": "What do modern classifications recognize about life forms?"
+    },
+    {
+      "context": "Modern classification takes into account various factors including organization of nucleus: Prokaryotes (no membrane-bound nucleus) and Eukaryotes (membrane-bound nucleus).",
+      "question": "What distinguishes Prokaryotes from Eukaryotes?"
+    },
+    {
+      "context": "Modern classification also considers the mode of nutrition, where organisms can be Autotrophs that make their own food vs. Heterotrophs that depend on others for food.",
+      "question": "How do Autotrophs differ from Heterotrophs?"
+    },
+    {
+      "context": "The classification of living organisms includes factors like the number of cells, distinguishing between unicellular and multicellular organisms.",
+      "question": "What are the two types of cellular organization?"
+    }
+  ]
+}

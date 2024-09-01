@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A parasite is an organism that lives off another organism, typically attaching itself to feed from the victim’s blood, bowels, or other various bodily fluids. Parasitic diseases are more common than most people realize, and can strike anyone regardless of race, age, or social status.",
+      "question": "What does a parasite feed on?"
+    },
+    {
+      "context": "A parasite is an organism that lives off another organism, typically attaching itself to feed from the victim’s blood, bowels, or other various bodily fluids. Parasitic diseases are more common than most people realize, and can strike anyone regardless of race, age, or social status.",
+      "question": "Who can be affected by parasitic diseases?"
+    },
+    {
+      "context": "A parasite is an organism that lives off another organism, typically attaching itself to feed from the victim’s blood, bowels, or other various bodily fluids. Parasitic diseases are more common than most people realize, and can strike anyone regardless of race, age, or social status.",
+      "question": "How do parasites obtain their nutrients?"
+    },
+    {
+      "context": "A parasite is an organism that lives off another organism, typically attaching itself to feed from the victim’s blood, bowels, or other various bodily fluids. Parasitic diseases are more common than most people realize, and can strike anyone regardless of race, age, or social status.",
+      "question": "Are parasitic diseases limited to certain groups of people?"
+    },
+    {
+      "context": "A parasite is an organism that lives off another organism, typically attaching itself to feed from the victim’s blood, bowels, or other various bodily fluids. Parasitic diseases are more common than most people realize, and can strike anyone regardless of race, age, or social status.",
+      "question": "What are the common characteristics of parasites?"
+    }
+  ]
+}

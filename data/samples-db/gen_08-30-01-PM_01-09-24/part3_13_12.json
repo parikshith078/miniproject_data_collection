@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In 1972, the forest department realized its mistake while reviving the degraded sal forests of Arabari forest range. Arabari forest lies in Midnapore district of West Bengal. The earlier methods of policing and surveillance were a total failure as they often led to frequent clashes with the local communities.",
+      "question": "What mistake did the forest department realize?"
+    },
+    {
+      "context": "Arabari forest lies in Midnapore district of West Bengal. The earlier methods of policing and surveillance were a total failure as they often led to frequent clashes with the local communities.",
+      "question": "Where is Arabari forest located?"
+    },
+    {
+      "context": "The earlier methods of policing and surveillance were a total failure as they often led to frequent clashes with the local communities.",
+      "question": "What was the result of earlier forest management methods?"
+    },
+    {
+      "context": "In 1972, the forest department realized its mistake while reviving the degraded sal forests of Arabari forest range.",
+      "question": "What year did the forest department acknowledge their mistake?"
+    },
+    {
+      "context": "The forest department realized its mistake while reviving the degraded sal forests of Arabari forest range.",
+      "question": "What action was taken to help the sal forests?"
+    }
+  ]
+}

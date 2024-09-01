@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mendel crossed a pure tall pea plant (TT) with pure dwarf pea plant (tt) and observed that all the progeny were hybrid tall (Tt), i.e., only one of the trait was able to express itself in the F1 generation, which is the dominant trait. The other trait called the recessive trait remain suppressed.",
+      "question": "What is the dominant trait in Mendel's experiment?"
+    },
+    {
+      "context": "However, when he self crossed plants of F1 generation, he observed that one fourth of the plants were dwarf and three fourth were tall.",
+      "question": "What ratios did Mendel observe in the F2 generation?"
+    },
+    {
+      "context": "Mendel crossed a pure tall pea plant (TT) with pure dwarf pea plant (tt) and observed that all the progeny were hybrid tall (Tt).",
+      "question": "What were the genotypes of the parent plants Mendel used?"
+    },
+    {
+      "context": "The other trait called the recessive trait remain suppressed. However, when he self crossed plants of F1 generation, he observed that one fourth of the plants were dwarf and three fourth were tall.",
+      "question": "What happened to the recessive trait in F1 generation?"
+    },
+    {
+      "context": "Mendel crossed a pure tall pea plant (TT) with pure dwarf pea plant (tt) and observed that all the progeny were hybrid tall (Tt), indicating dominant traits.",
+      "question": "What does F1 generation reveal about dominant traits?"
+    }
+  ]
+}

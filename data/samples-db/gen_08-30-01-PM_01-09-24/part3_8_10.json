@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Changes seen in girls at the time of puberty are as follows: (i) Growth of hair in armpits and public region. (ii) Mammary glands (breast) develop and hips broaden.",
+      "question": "What hair grows during puberty in girls?"
+    },
+    {
+      "context": "Mammary glands (breast) develop and hips broaden. (iii) Uterus, vagina, Fallopian tube enlarge and pelvis widens. Menstruation and ovulation also starts.",
+      "question": "What develops in girls' bodies during puberty?"
+    },
+    {
+      "context": "(ii) Mammary glands (breast) develop and hips broaden. (iii) Uterus, vagina, Fallopian tube enlarge and pelvis widens.",
+      "question": "What organ structures enlarge in girls during puberty?"
+    },
+    {
+      "context": "Uterus, vagina, Fallopian tube enlarge and pelvis widens. Menstruation and ovulation also starts.",
+      "question": "What processes begin in girls during puberty?"
+    },
+    {
+      "context": "Changes seen in girls at the time of puberty are as follows: (i) Growth of hair in armpits and public region.",
+      "question": "Where does hair grow during puberty in girls?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Diabetes is characterized by raised blood glucose (sugar) levels. This results from a lack of the hormone insulin, which controls blood glucose levels, and/or an inability of the body’s tissues to respond properly to insulin.",
+      "question": "What hormone controls blood glucose levels?"
+    },
+    {
+      "context": "The most common type of diabetes is type 2, which accounts for about 90% of all diabetes and is largely the result of excessive weight and physical inactivity.",
+      "question": "What is the most common type of diabetes?"
+    },
+    {
+      "context": "The usual childhood form of diabetes (type 1 diabetes) is caused by an absolute lack of insulin. Without insulin, type 1 diabetes is rapidly fatal.",
+      "question": "What causes type 1 diabetes?"
+    },
+    {
+      "context": "Diabetes is characterized by raised blood glucose levels. This results from a lack of the hormone insulin, which controls blood glucose levels, and/or an inability of the body’s tissues to respond properly to insulin.",
+      "question": "What happens when insulin is lacking?"
+    },
+    {
+      "context": "The most common type of diabetes is type 2 and is largely the result of excessive weight and physical inactivity.",
+      "question": "What factors contribute to type 2 diabetes?"
+    },
+    {
+      "context": "The usual childhood form of diabetes (type 1 diabetes) is caused by an absolute lack of insulin.",
+      "question": "What distinguishes type 1 diabetes from type 2?"
+    }
+  ]
+}

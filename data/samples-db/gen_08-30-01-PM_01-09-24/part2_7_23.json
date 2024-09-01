@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Treatment of parasitic disease is typically nothing. Most often there are no symptoms, or symptoms are so mild that there is no concern, and thus physicians are not told to consider the symptoms as a possible parasitic disease.",
+      "question": "Why is treatment often unnecessary for parasitic diseases?"
+    },
+    {
+      "context": "Unless there are serious symptoms or the infestation is large enough to cause health problems, most parasitic diseases will clear up on their own.",
+      "question": "What conditions necessitate treatment for parasitic diseases?"
+    },
+    {
+      "context": "Most often there are no symptoms, or symptoms are so mild that there is no concern, and thus physicians are not told to consider the symptoms as a possible parasitic disease.",
+      "question": "How do mild symptoms affect the diagnosis of parasitic disease?"
+    },
+    {
+      "context": "Most parasitic diseases will clear up on their own unless there are serious symptoms or the infestation is large enough to cause health problems.",
+      "question": "What can cause parasitic diseases to require medical treatment?"
+    }
+  ]
+}

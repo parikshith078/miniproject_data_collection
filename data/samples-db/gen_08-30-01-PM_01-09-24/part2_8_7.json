@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Common Diseases and Prevention Steps Typhoid Headache and fever which remains high in the second week and then declines Proper hygiene in surrounding areas of living.",
+      "question": "What hygiene steps can prevent typhoid?"
+    },
+    {
+      "context": "Common Diseases and Prevention Steps Good sanitary condition in community. Provision of clean, purified drinking water.",
+      "question": "How can cholera be prevented locally?"
+    },
+    {
+      "context": "Common Diseases and Prevention Steps Maintenance of hygienic conditions in community. Preventing the mosquito breeding sites.",
+      "question": "What measures can reduce dengue incidences?"
+    },
+    {
+      "context": "Common Diseases and Prevention Steps Providing TAB and typhoid oral vaccine. Cholera Painless watery diarrhoea, effortless vomiting.",
+      "question": "What vaccines are available for typhoid and cholera?"
+    },
+    {
+      "context": "Common Diseases and Prevention Steps Public awareness programme against mosquito borne diseases.",
+      "question": "Why is public awareness important for dengue prevention?"
+    }
+  ]
+}

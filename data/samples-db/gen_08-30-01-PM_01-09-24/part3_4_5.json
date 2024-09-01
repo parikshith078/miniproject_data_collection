@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The enteric nervous system (ENS) is responsible for controlling the smooth muscle and glandular tissue in your digestive system.",
+      "question": "What does the enteric nervous system control?"
+    },
+    {
+      "context": "The enteric nervous system (ENS) is a large part of the PNS, and is not dependent on the CNS.",
+      "question": "Is the ENS dependent on the CNS?"
+    },
+    {
+      "context": "It is sometimes valid to consider the enteric system to be a part of the autonomic system because the neural structures that make up the enteric system are a component of the autonomic output that regulates digestion.",
+      "question": "Why is the enteric system considered part of the autonomic system?"
+    },
+    {
+      "context": "The neural structures that make up the enteric system are a component of the autonomic output that regulates digestion.",
+      "question": "What regulates digestion in the enteric system?"
+    },
+    {
+      "context": "There are some differences between the enteric nervous system and the autonomic system, but for our purposes here there will be a good bit of overlap.",
+      "question": "Are there differences between ENS and autonomic system?"
+    }
+  ]
+}

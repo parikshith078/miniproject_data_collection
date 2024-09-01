@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Mendel's dihybrid cross experiments involved tracking two traits simultaneously to see how they were inherited together. He observed that when he crossed plants differing in two characteristics, the traits appeared in combinations that were not present in the parental generation. This led to the conclusion that traits are inherited independently of one another, a principle known as the law of independent assortment.",
+      "question": "What principle did Mendel's dihybrid cross demonstrate?"
+    },
+    {
+      "context": "In his dihybrid crosses, Mendel initially crossed pea plants with two traits, like seed shape and color. He then looked at the offspring and recorded the combinations of traits observed in the new generation, leading to the unexpected emergence of new trait combinations. This reinforced his theory that the inheritance of one trait does not affect the inheritance of another.",
+      "question": "What traits did Mendel track in his dihybrid cross?"
+    },
+    {
+      "context": "Mendel's studies showed that when he bred plants that had two different traits, the offspring displayed a variety of trait combinations in equal proportions. This led to his formulation of the law of independent assortment, indicating that each pair of alleles segregates independently when gametes are formed.",
+      "question": "What did Mendel conclude from the variety of traits?"
+    },
+    {
+      "context": "The results of Mendel’s dihybrid cross revealed that certain traits assort independently, as he found specific ratios of phenotype in the offspring plants. This challenged previous beliefs about genetic inheritance and laid the groundwork for modern genetics, highlighting that different genes independently separate from one another in the formation of gametes.",
+      "question": "How did Mendel's results challenge previous beliefs?"
+    }
+  ]
+}

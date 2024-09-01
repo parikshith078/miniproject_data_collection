@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Removal of harmful waste from the body is called excretion. Many wastes are produced during various metabolic activities.",
+      "question": "What is the process of removing waste?"
+    },
+    {
+      "context": "These need to be removed in time because their accumulation in the body can be harmful and even lethal for an organism.",
+      "question": "Why is timely waste removal important?"
+    },
+    {
+      "context": "Many wastes are produced during various metabolic activities. These need to be removed in time because their accumulation in the body can be harmful.",
+      "question": "What produces waste that requires excretion?"
+    },
+    {
+      "context": "Excretion is vital as it removes harmful waste and prevents accumulation that can be lethal.",
+      "question": "How does excretion affect organism health?"
+    },
+    {
+      "context": "Accumulation of various metabolic wastes can be harmful and even lethal for an organism.",
+      "question": "What happens if metabolic wastes accumulate?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Management practices for poultry farming include maintaining optimum temperature, providing hygienic housing conditions, providing a protein-rich diet with high levels of vitamin A and K, and preventing and controlling pests and diseases.",
+      "question": "What diet is essential for poultry?"
+    },
+    {
+      "context": "Management practices for poultry farming include maintaining optimum temperature, providing hygienic housing conditions, providing a protein-rich diet with high levels of vitamin A and K, and preventing and controlling pests and diseases.",
+      "question": "Why is temperature important in poultry management?"
+    },
+    {
+      "context": "Management practices for poultry farming include maintaining optimum temperature, providing hygienic housing conditions, providing a protein-rich diet with high levels of vitamin A and K, and preventing and controlling pests and diseases.",
+      "question": "What are the key vitamins for poultry health?"
+    },
+    {
+      "context": "Management practices for poultry farming include maintaining optimum temperature, providing hygienic housing conditions, providing a protein-rich diet with high levels of vitamin A and K, and preventing and controlling pests and diseases.",
+      "question": "How can diseases be controlled in poultry?"
+    },
+    {
+      "context": "Management practices for poultry farming include maintaining optimum temperature, providing hygienic housing conditions, providing a protein-rich diet with high levels of vitamin A and K, and preventing and controlling pests and diseases.",
+      "question": "Why is hygienic housing essential for poultry?"
+    }
+  ]
+}

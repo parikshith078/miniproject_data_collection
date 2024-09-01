@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Dense connective tissue, also known as fibrous connective tissue, consists of thicker and denser fibers with relatively fewer cells. The predominant component of its matrix is collagen fibers, with fibroblasts being organized in rows.",
+      "question": "What is the primary fiber type in dense connective tissue?"
+    },
+    {
+      "context": "This type of connective tissue is characterized by its thick, dense fibers and sparse cellular composition. The arrangement of fibroblasts in rows is a notable feature of this type of tissue, contributing to its tensile strength.",
+      "question": "How are fibroblasts arranged in dense connective tissue?"
+    },
+    {
+      "context": "Dense connective tissue forms tendons and ligaments that serve crucial roles in the body. Tendons attach muscles to bones while ligaments connect bones to each other, demonstrating the functional importance of this tissue type.",
+      "question": "What roles do tendons and ligaments play in the body?"
+    },
+    {
+      "context": "The matrix of dense connective tissue is primarily composed of collagen fibers, which provide strength and durability. This structure is essential for the tissue's ability to withstand tension and provide support in various locations in the body.",
+      "question": "What is the function of collagen fibers in dense connective tissue?"
+    },
+    {
+      "context": "Fibrous connective tissue is known for its high tensile strength and is categorized by having a lower number of cells than other connective tissues. The density of the fibers is what gives this tissue its robust nature essential for various bodily functions.",
+      "question": "Why does dense connective tissue have high tensile strength?"
+    }
+  ]
+}

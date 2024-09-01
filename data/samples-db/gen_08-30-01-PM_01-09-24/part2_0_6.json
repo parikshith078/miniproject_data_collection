@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Characteristic features of Meristematic tissues include: The meristematic cells may be round, oval, polygonal or rectangular in shape. Their cell walls are thin, elastic and made up of cellulose. They are closely arranged without intercellular spaces. They have dense cytoplasm with large nucleus.",
+      "question": "What shapes can meristematic cells have?"
+    },
+    {
+      "context": "The meristematic cells may be round, oval, polygonal or rectangular in shape. Their cell walls are thin, elastic and made up of cellulose. They are closely arranged without intercellular spaces. They have dense cytoplasm with large nucleus.",
+      "question": "What is a key feature of meristematic cell walls?"
+    },
+    {
+      "context": "Their cell walls are thin, elastic and made up of cellulose. They are closely arranged without intercellular spaces. They have dense cytoplasm with large nucleus. The meristematic cells may be round, oval, polygonal or rectangular in shape.",
+      "question": "Do meristematic tissues have intercellular spaces?"
+    },
+    {
+      "context": "They are closely arranged without intercellular spaces. They have dense cytoplasm with large nucleus. The meristematic cells may be round, oval, polygonal or rectangular in shape. Their cell walls are thin, elastic and made up of cellulose.",
+      "question": "What type of cytoplasm do meristematic cells possess?"
+    }
+  ]
+}

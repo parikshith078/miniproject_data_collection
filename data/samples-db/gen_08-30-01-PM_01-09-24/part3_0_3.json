@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Transportation is the process by which the food and oxygen is carried from one organ to other organs in the body. This process is essential for maintaining the body's functions and providing energy to cells. The circulatory system plays a crucial role in facilitating this transportation.",
+      "question": "What is the role of transportation in the body?"
+    },
+    {
+      "context": "Transportation is the process by which the food and oxygen is carried from one organ to other organs in the body. This is vital because, without proper transportation, cells would not receive the nutrients and oxygen necessary for survival. The blood is responsible for this crucial function.",
+      "question": "What substances are transported through the body?"
+    },
+    {
+      "context": "Transportation is the process by which the food and oxygen is carried from one organ to other organs in the body. This transportation occurs through a complex network involving the heart, blood vessels, and other components of the circulatory system, which work together to sustain life.",
+      "question": "Which system is involved in the transportation process?"
+    },
+    {
+      "context": "Transportation is the process by which the food and oxygen is carried from one organ to other organs in the body. It is important because it ensures that each cell receives what it needs to function properly and survive in various conditions, highlighting the intricate connection between organs.",
+      "question": "Why is transportation important for cells?"
+    },
+    {
+      "context": "Transportation is the process by which the food and oxygen is carried from one organ to other organs in the body. This distribution system is crucial for metabolic processes and helps in the removal of waste products from cells, maintaining overall homeostasis.",
+      "question": "How does transportation relate to metabolic processes?"
+    }
+  ]
+}

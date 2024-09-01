@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Irrigation is necessary for crops to get water during their growing season. Source of irrigation includes wells, canals, river lift systems, tanks, rainwater harvesting, and watershed management.",
+      "question": "What is the purpose of irrigation for crops?"
+    },
+    {
+      "context": "Wells are a source of irrigation and include two types: dug wells and tube wells. Canals are usually an elaborate and extensive irrigation system used for water supply.",
+      "question": "What are the two types of wells?"
+    },
+    {
+      "context": "River Lift Systems are used in areas where canal flow is insufficient or irregular. Tanks are small storage reservoirs that intercept and store run-off.",
+      "question": "What is a River Lift System used for?"
+    },
+    {
+      "context": "Watershed management involves building small check dams to increase groundwater level and reduce soil erosion, contributing to effective irrigation practices.",
+      "question": "How does watershed management help in irrigation?"
+    },
+    {
+      "context": "Irrigation methods such as rainwater harvesting and the use of tanks can greatly assist in providing necessary water to crops during dry periods.",
+      "question": "What is rainwater harvesting?"
+    }
+  ]
+}

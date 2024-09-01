@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A nerve cell is a microscopic structure consisting of three major parts namely cell body, dendrites and axon. Cell Body: It is the cell structure irregular in shape or polyhedral structure, it is also called as cyton. Cell body contains cytoplasm with typical cell organelles and certain granular bodies called Nissl granules.",
+      "question": "What is another name for the cell body?"
+    },
+    {
+      "context": "Dendrites or Dendrons are shorter fibres which branch repeatedly and project out of the cell body. Dendrites transmit electrical impulses towards the cyton.",
+      "question": "What do dendrites transmit towards the cyton?"
+    },
+    {
+      "context": "One of the fibres arising from the cell body is very long with a branched distal end and it is called as Axon. The distal branches terminate as bulb-like structures called synaptic knob filled with chemicals called neurotransmitters.",
+      "question": "What are the bulb-like structures at the end of axons called?"
+    },
+    {
+      "context": "Axon contains axoplasm inside and is covered by a membrane called neurilemma. Neurilemma encloses the axon except at the branched distal ends. In some neurons called myelinated neurons an additional white fatty fibre called myelin sheath covers the neurilemma.",
+      "question": "What covers the axon in myelinated neurons?"
+    },
+    {
+      "context": "The gaps left by the myelin sheath on the axon are called Nodes of Ranvier. Over the myelin sheath are found certain cells called Schwann cells.",
+      "question": "What are the gaps in the myelin sheath called?"
+    }
+  ]
+}

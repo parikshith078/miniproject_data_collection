@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "There are many consequences of exploitation of natural resources. Some examples are given below: Burning of fossil fuels creates air pollution.",
+      "question": "What does burning fossil fuels cause?"
+    },
+    {
+      "context": "Excess amount of carbon dioxide in the atmosphere leads to global warming.",
+      "question": "What does excess carbon dioxide lead to?"
+    },
+    {
+      "context": "Some polluting gases; like oxides of nitrogen and sulphur lead to acid rain, which is harmful for living beings.",
+      "question": "What leads to acid rain?"
+    },
+    {
+      "context": "Excess exploitation of groundwater leads to a drastic fall in water table.",
+      "question": "What does over-exploitation of groundwater affect?"
+    },
+    {
+      "context": "This is the reason many places are experiencing acute shortage of drinking water.",
+      "question": "What is the consequence of depleted groundwater?"
+    },
+    {
+      "context": "Overuse of fertilisers and insecticides leads to soil pollution and soil erosion.",
+      "question": "How do fertilisers and insecticides affect soil?"
+    },
+    {
+      "context": "Many pollutants are directly flown into water bodies. This has resulted in water pollution in many rivers, lakes and even in oceans.",
+      "question": "What has caused water pollution in aquatic environments?"
+    }
+  ]
+}

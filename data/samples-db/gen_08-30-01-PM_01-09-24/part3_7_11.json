@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Pollination is of two types. They are 1. Self pollination 2. Cross pollination. Self pollination is also known as autogamy.",
+      "question": "What is another name for self pollination?"
+    },
+    {
+      "context": "The transfer of pollen grains from the anther of a flower to the stigma of the same flower or another flower of the same plant is known as self pollination.",
+      "question": "What defines self pollination in plants?"
+    },
+    {
+      "context": "Cross pollination or allogamy is the transfer of pollen grains of a flower to the stigma of another flower of a different plant of the same species.",
+      "question": "What is cross pollination also called?"
+    },
+    {
+      "context": "Self pollination is also known as autogamy. Cross pollination is the transfer of pollen grains to another flower of a different plant.",
+      "question": "How does self pollination differ from cross pollination?"
+    },
+    {
+      "context": "They are 1. Self pollination 2. Cross pollination.",
+      "question": "What are the two types of pollination?"
+    }
+  ]
+}

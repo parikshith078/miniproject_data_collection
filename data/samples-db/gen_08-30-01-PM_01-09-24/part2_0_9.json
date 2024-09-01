@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The cells of parenchyma have thin cell wall. They are loosely packed; with lot of intercellular spaces between them. They are living cells. They are generally present in all organs of a plant.",
+      "question": "What are the characteristics of parenchyma cells?"
+    },
+    {
+      "context": "Parenchyma makes the largest portion of a plant body. Parenchyma mainly works as packing material in plant parts.",
+      "question": "What is the primary function of parenchyma?"
+    },
+    {
+      "context": "In some plant parts, parenchyma has chlorophyll as well. In that case, parenchyma carries out photosynthesis and is then termed as chlorenchyma.",
+      "question": "What is chlorenchyma and its function?"
+    },
+    {
+      "context": "In aquatic plants, large air cavities are present in parenchyma. This provides buoyancy to the plant, and then the parenchyma is known as aerenchyma.",
+      "question": "What role does aerenchyma play in aquatic plants?"
+    },
+    {
+      "context": "The cell wall is made of cellulose and pectic materials. Parenchyma makes the largest portion of a plant body.",
+      "question": "What materials are parenchyma cell walls composed of?"
+    }
+  ]
+}

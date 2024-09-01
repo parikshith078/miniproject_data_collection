@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The progeny produced through the reproductive process is similar to its parents, in body design, function etc. The rules of heredity determine the process by which the traits and the characteristics are relatively inherited. ",
+      "question": "What does heredity determine in offspring?"
+    },
+    {
+      "context": "The inheritance of characteristics through generations is called heredity. The inheritable characteristics may be morphological/anatomical/physiological/reproductive and are also known as traits.",
+      "question": "What are inheritable characteristics also known as?"
+    },
+    {
+      "context": "The rules of heredity determine the process by which the traits and the characteristics are relatively inherited. The inheritance of characteristics through generations is called heredity.",
+      "question": "What is the term for inheritance through generations?"
+    },
+    {
+      "context": "The progeny produced through the reproductive process is similar to its parents, in body design, function etc. The rules of heredity determine the process by which the traits and the characteristics are relatively inherited.",
+      "question": "What describes the similarity between progeny and parents?"
+    },
+    {
+      "context": "The inheritable characteristics may be morphological/anatomical/physiological/reproductive and are also known as traits. The inheritance of characteristics through generations is called heredity.",
+      "question": "What types of characteristics can be inherited?"
+    }
+  ]
+}

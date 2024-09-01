@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Life processes such as nutrition, respiration, transportation, excretion, etc. are essential for maintaining life. Each of these processes plays a crucial role in helping organisms survive and function properly in their environments.",
+      "question": "What are essential life processes?"
+    },
+    {
+      "context": "These processes are vital because they ensure that organisms obtain energy, remove waste, and circulate necessary materials throughout their bodies to support growth and maintenance.",
+      "question": "Why are life processes vital for organisms?"
+    },
+    {
+      "context": "Nutrition involves the intake of food, while respiration is the process of converting that food into energy. Transportation helps distribute nutrients and oxygen, while excretion removes harmful waste.",
+      "question": "What happens during nutrition and respiration?"
+    },
+    {
+      "context": "Excretion is crucial as it helps eliminate toxic substances from the body, thereby preventing damage to internal systems and promoting overall health.",
+      "question": "Why is excretion important for organisms?"
+    },
+    {
+      "context": "In summary, without the essential life processes, organisms would not be able to survive due to lack of energy, nutrients, or the inability to remove waste products effectively.",
+      "question": "What happens without essential life processes?"
+    }
+  ]
+}

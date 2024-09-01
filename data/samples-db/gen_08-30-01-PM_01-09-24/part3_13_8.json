@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Conservation of forests and wildlife is necessary to protect biodiversity. This is important because loss of biodiversity leads to ecological imbalance.",
+      "question": "Why is biodiversity important for ecosystems?"
+    },
+    {
+      "context": "But any conservation effort for forest and wildlife must keep the interests of all stakeholders in mind.",
+      "question": "What should conservation efforts consider?"
+    },
+    {
+      "context": "This is important because loss of biodiversity leads to ecological imbalance.",
+      "question": "What occurs due to loss of biodiversity?"
+    },
+    {
+      "context": "Conservation of forests and wildlife is necessary to protect biodiversity.",
+      "question": "What does conserving forests aim to protect?"
+    },
+    {
+      "context": "But any conservation effort for forest and wildlife must keep the interests of all stakeholders in mind.",
+      "question": "Who should be considered in conservation efforts?"
+    }
+  ]
+}

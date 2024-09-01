@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Involuntary actions cannot be consciously controlled. For example, we cannot consciously control the movement of food in the alimentary canal.",
+      "question": "What are involuntary actions?"
+    },
+    {
+      "context": "On the other hand, the reflex actions such as closing of eyes immediately when bright light is focused show sudden response and do not involve any thinking.",
+      "question": "What are reflex actions?"
+    },
+    {
+      "context": "These actions are however directly under the control of the brain.",
+      "question": "Which actions are controlled by the brain?"
+    },
+    {
+      "context": "This means that unlike involuntary actions, the reflex actions are not under the control of brain.",
+      "question": "How do reflex actions differ from involuntary actions?"
+    },
+    {
+      "context": "Involuntary actions cannot be consciously controlled, for example, the movement of food in the alimentary canal.",
+      "question": "Can involuntary actions be controlled consciously?"
+    }
+  ]
+}

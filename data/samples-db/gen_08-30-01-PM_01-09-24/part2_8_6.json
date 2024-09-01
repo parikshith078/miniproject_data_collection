@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The following immunisation programme is available at the nearest health centre in our locality (i) Immunisation for infants —DPT, BCG, polio, measles and MMR. (ii) For children —Typhoid, TT, DT, small pox and TAB.",
+      "question": "What vaccines are given to infants?"
+    },
+    {
+      "context": "The following immunisation programme is available at the nearest health centre in our locality (i) Immunisation for infants —DPT, BCG, polio, measles and MMR. (ii) For children —Typhoid, TT, DT, small pox and TAB.",
+      "question": "What immunisations do children receive?"
+    },
+    {
+      "context": "For pregnant women, the immunisation program includes TT and hepatitis-B to protect both the mother and the unborn child.",
+      "question": "Which vaccines are offered to pregnant women?"
+    },
+    {
+      "context": "The immunisation programme covers infants, children, and pregnant women with a variety of vaccines available at the health centre.",
+      "question": "Who is eligible for the immunisation programme?"
+    },
+    {
+      "context": "The immunisation for infants includes DPT, BCG, polio, measles, and MMR to protect against common diseases.",
+      "question": "Name one vaccine for infants in the program."
+    }
+  ]
+}

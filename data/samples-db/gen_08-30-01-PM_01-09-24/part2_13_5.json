@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cattle farming involves the rearing of animals for various purposes. Cows and buffaloes are the primary livestock raised in this practice.",
+      "question": "What animals are primarily raised in cattle farming?"
+    },
+    {
+      "context": "In cattle farming, livestock includes several domesticated animals essential for agriculture. Cows and buffaloes are significant contributors to this sector.",
+      "question": "Which species are considered significant in cattle farming?"
+    },
+    {
+      "context": "The major species of Indian cattle include Bosindicus and Bosbubalis. These species are essential for cattle farming in India.",
+      "question": "What are the two major species of Indian cattle?"
+    },
+    {
+      "context": "Cattle farming primarily refers to rearing cattle, which includes cows and buffaloes. This practice has economic importance in agriculture.",
+      "question": "What economic importance does cattle farming have?"
+    },
+    {
+      "context": "Cattle farming facilitates the domestication of livestock such as cows and buffaloes. These animals are crucial for various agricultural needs.",
+      "question": "What is the purpose of cattle farming?"
+    }
+  ]
+}

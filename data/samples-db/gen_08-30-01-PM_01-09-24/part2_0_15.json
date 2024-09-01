@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Xylem fibres are the sclerenchyma fibres associated with the xylem, providing mechanical strength to plants. They are also referred to as wood fibres.",
+      "question": "What are xylem fibres also called?"
+    },
+    {
+      "context": "Known as wood fibres, xylem fibres are part of the sclerenchyma and offer mechanical support to plants.",
+      "question": "What function do xylem fibres serve in plants?"
+    },
+    {
+      "context": "Xylem fibres, or wood fibres, contribute additional strength to the plant's structure by being part of the sclerenchyma.",
+      "question": "What type of plant tissue are xylem fibres?"
+    },
+    {
+      "context": "The fibres associated with the xylem, called xylem fibres, provide crucial mechanical support for the plant.",
+      "question": "What is the role of xylem fibres in plants?"
+    },
+    {
+      "context": "Xylem fibres are classified as sclerenchyma and help in giving mechanical strength, also known as wood fibres.",
+      "question": "What are the characteristics of xylem fibres?"
+    }
+  ]
+}

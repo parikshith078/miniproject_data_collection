@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "This pollination takes place in water plants or plants that are adapted to water habitat. The flowers are small and inconspicuous.",
+      "question": "What is hydrophily?"
+    },
+    {
+      "context": "The flowers are small and inconspicuous, which is common in water plants. This pollination takes place in water plants or plants that are adapted to water habitat.",
+      "question": "What type of flowers are involved in hydrophily?"
+    },
+    {
+      "context": "Plants that undergo hydrophily are specifically adapted to water habitats. The flowers are small and inconspicuous to facilitate this process.",
+      "question": "Where does hydrophily typically occur?"
+    },
+    {
+      "context": "Hydrophily refers to the type of pollination that occurs in plants adapted to aquatic environments. The flowers involved are often not visually striking.",
+      "question": "What does hydrophily refer to?"
+    },
+    {
+      "context": "The process of pollination in water plants is known as hydrophily, characterized by small and inconspicuous flowers.",
+      "question": "What is a key feature of flowers in hydrophily?"
+    }
+  ]
+}

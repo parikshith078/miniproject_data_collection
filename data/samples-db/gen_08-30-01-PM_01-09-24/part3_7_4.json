@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Spores are tiny, spherical, asexual reproductive bodies which under favourable conditions, like damp and warm conditions, germinate to produce new plants. They are covered by the hard protective wall, which enables the plant to survive unfavourable conditions.",
+      "question": "What are spores covered by that aids survival?"
+    },
+    {
+      "context": "Spores are tiny, spherical, asexual reproductive bodies which under favourable conditions, like damp and warm conditions, germinate to produce new plants. They are covered by the hard protective wall, which enables the plant to survive unfavourable conditions.",
+      "question": "What conditions favor spore germination?"
+    },
+    {
+      "context": "Spores are tiny, spherical, asexual reproductive bodies which under favourable conditions, like damp and warm conditions, germinate to produce new plants. They are covered by the hard protective wall, which enables the plant to survive unfavourable conditions.",
+      "question": "What is a benefit of spores for plants?"
+    },
+    {
+      "context": "Spores are tiny, spherical, asexual reproductive bodies which under favourable conditions, like damp and warm conditions, germinate to produce new plants. They are covered by the hard protective wall, which enables the plant to survive unfavourable conditions.",
+      "question": "How do spores ensure plant survival during harsh times?"
+    },
+    {
+      "context": "Spores are tiny, spherical, asexual reproductive bodies which under favourable conditions, like damp and warm conditions, germinate to produce new plants. They are covered by the hard protective wall, which enables the plant to survive unfavourable conditions.",
+      "question": "What role do spores play in plant reproduction?"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Plague is caused by a rod-shaped non-motile bacterium called Pasteurella/Yersinia pestis and is transmitted by the bite of infected rat flea, Xenopsylla cheopis.",
+      "question": "What bacteria causes the plague?"
+    },
+    {
+      "context": "Plague is caused by a rod-shaped non-motile bacterium called Pasteurella/Yersinia pestis and is transmitted by the bite of infected rat flea, Xenopsylla cheopis.",
+      "question": "How is plague transmitted to humans?"
+    },
+    {
+      "context": "Plague is caused by a rod-shaped non-motile bacterium called Pasteurella/Yersinia pestis and is transmitted by the bite of infected rat flea, Xenopsylla cheopis.",
+      "question": "What is the shape of the plague bacterium?"
+    },
+    {
+      "context": "Plague is caused by a rod-shaped non-motile bacterium called Pasteurella/Yersinia pestis and is transmitted by the bite of infected rat flea, Xenopsylla cheopis.",
+      "question": "Name the flea that transmits the plague."
+    }
+  ]
+}

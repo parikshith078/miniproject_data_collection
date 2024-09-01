@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "MENDEL’S SECOND LAW: Law of Independent Assortment states that alleles of different characters separate independent from each other during gamete formation. This means the alleles for texture and seed colour are assorted independently.",
+      "question": "What does Mendel's Second Law describe?"
+    },
+    {
+      "context": "In Mendel's Second Law, known as the Law of Independent Assortment, alleles for different traits separate independently during the formation of gametes, ensuring varied combinations in offspring.",
+      "question": "What happens during gamete formation according to Mendel's Second Law?"
+    },
+    {
+      "context": "According to Mendel's Second Law of Independent Assortment, alleles of different traits, such as texture and seed colour, are assorted independently when gametes are formed.",
+      "question": "Which characters are assorted independently according to Mendel?"
+    },
+    {
+      "context": "Mendel's Second Law, the Law of Independent Assortment, illustrates that the combination of alleles for one trait does not affect the combination of alleles for another trait during reproduction.",
+      "question": "What type of assortment does Mendel's Second Law refer to?"
+    },
+    {
+      "context": "The Law of Independent Assortment, part of Mendel's experiments, indicates that during the formation of gametes, the segregation of alleles for one character occurs independently of another character's alleles.",
+      "question": "What does the term 'independent assortment' refer to?"
+    }
+  ]
+}

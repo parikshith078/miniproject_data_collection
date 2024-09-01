@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The copper-T is a form of intrauterine device (IUD) that primarily prevents pregnancy. However, it does not provide any barrier or protection against sexually transmitted diseases (STDs), making it essential for users to consider additional methods for STD prevention during sexual activity.",
+      "question": "Does a copper-T protect against STDs?"
+    },
+    {
+      "context": "While the copper-T is effective in preventing pregnancy, it is important for women to understand that it does not offer any protection against sexually transmitted diseases. Additional precautions, such as condoms, should be considered to minimize STD risk.",
+      "question": "What is the limitation of using a copper-T?"
+    },
+    {
+      "context": "Although the copper-T is a reliable contraceptive method, individuals relying on this device must recognize that it does not prevent sexually transmitted diseases. Education on other protective measures is vital for sexual health.",
+      "question": "What should users of copper-T know about STDs?"
+    },
+    {
+      "context": "Using a copper-T provides a highly effective means of contraception, but it is crucial to note that this method does not guard against sexually transmitted diseases. People engaging in sexual activities should use condoms alongside it to ensure protection.",
+      "question": "What additional protection is recommended with copper-T?"
+    },
+    {
+      "context": "The copper-T, while effective at preventing conception, does not shield users from sexually transmitted infections. This highlights the need for combining contraceptive methods with STD preventive measures for better overall sexual health.",
+      "question": "Why should one combine methods with copper-T?"
+    },
+    {
+      "context": "Women who opt for the copper-T must be aware that while it is a highly effective form of birth control, it lacks the capability to protect against STDs, necessitating complementary protection during intercourse.",
+      "question": "Is the copper-T a barrier against STDs?"
+    }
+  ]
+}

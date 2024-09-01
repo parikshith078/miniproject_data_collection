@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The five kingdom classification proposed by Robert Whittaker includes Monera, Protista, Fungi, Plantae, and Animalia. This classification is based on cell structure, mode and source of nutrition, and body organization.",
+      "question": "What are the five kingdoms in Whittaker's classification?"
+    },
+    {
+      "context": "This classification is based on cell structure, mode and source of nutrition, and body organization.",
+      "question": "What factors are considered in the five kingdom classification?"
+    },
+    {
+      "context": "The five kingdom classification proposed by Robert Whittaker includes Monera, Protista, Fungi, Plantae, and Animalia.",
+      "question": "Who proposed the five kingdom classification?"
+    },
+    {
+      "context": "This classification includes Monera, Protista, Fungi, Plantae, and Animalia.",
+      "question": "What kingdoms are included in this classification?"
+    },
+    {
+      "context": "The five kingdom classification is based on cell structure, mode and source of nutrition, and body organization.",
+      "question": "What criteria underlie Whittaker's five kingdom system?"
+    }
+  ]
+}

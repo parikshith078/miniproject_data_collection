@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Asexual reproduction has several advantages, such as requiring only one parent and producing offspring quickly. This process results in clones, which can simplify the incorporation of desirable traits through artificial means.",
+      "question": "What is a key advantage of asexual reproduction?"
+    },
+    {
+      "context": "Despite its efficiency, asexual reproduction has significant disadvantages, including low variation among offspring and the potential extinction of the parent generation in some organisms after reproduction.",
+      "question": "What is a disadvantage of asexual reproduction?"
+    },
+    {
+      "context": "Asexual reproduction allows organisms to produce more offspring in a shorter time frame and ensures that these offspring are genetic copies of the parent, which can be beneficial for species in stable environments.",
+      "question": "Why might asexual reproduction be advantageous in stable environments?"
+    },
+    {
+      "context": "A significant downside to asexual reproduction is that because it relies on a single parent, there is little to no genetic variation among the offspring, which can affect the population's adaptability.",
+      "question": "How does asexual reproduction affect genetic variation?"
+    },
+    {
+      "context": "While artificial vegetative propagation allows desirable traits to be passed down through asexual reproduction, the lack of genetic diversity can lead to issues in adapting to environmental changes.",
+      "question": "What risk does low genetic diversity pose in asexual reproduction?"
+    }
+  ]
+}

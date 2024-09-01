@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Green plants convert carbon dioxide into glucose in the presence of Sunlight and many marine animals use carbonates dissolved in sea-water to make their shells.",
+      "question": "How do plants use carbon dioxide?"
+    },
+    {
+      "context": "Green plants convert carbon dioxide into glucose in the presence of Sunlight and many marine animals use carbonates dissolved in sea-water to make their shells.",
+      "question": "What do marine animals use to make shells?"
+    },
+    {
+      "context": "Green plants convert carbon dioxide into glucose in the presence of Sunlight and many marine animals use carbonates dissolved in sea-water to make their shells.",
+      "question": "What is produced by plants from carbon dioxide?"
+    },
+    {
+      "context": "Green plants convert carbon dioxide into glucose in the presence of Sunlight and many marine animals use carbonates dissolved in sea-water to make their shells.",
+      "question": "What role does sunlight play in carbon fixation?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plant body is differentiated into stem and leaf-like structure. Vascular system is absent, which means there is no specialized tissue for transportation of water, minerals, and food. Bryophytes are also known as the amphibians of the plant kingdom because they need water to complete a part of their life cycle.",
+      "question": "What are the two main parts of bryophytes?"
+    },
+    {
+      "context": "Vascular system is absent, which means there is no specialized tissue for transportation of water, minerals, and food. Bryophytes are also known as the amphibians of the plant kingdom because they need water to complete a part of their life cycle.",
+      "question": "Why are bryophytes called amphibians of plants?"
+    },
+    {
+      "context": "Bryophytes are also known as the amphibians of the plant kingdom because they need water to complete a part of their life cycle. Examples: Moss, marchantia.",
+      "question": "Can you name an example of a bryophyte?"
+    },
+    {
+      "context": "Vascular system is absent, which means there is no specialized tissue for transportation of water, minerals, and food. Bryophytes are also known as the amphibians of the plant kingdom because they need water to complete a part of their life cycle.",
+      "question": "What is absent in bryophytes that affects transportation?"
+    },
+    {
+      "context": "Plant body is differentiated into stem and leaf-like structure. Vascular system is absent, which means there is no specialized tissue for transportation of water, minerals, and food.",
+      "question": "What structure differentiates bryophytes' plant body?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Reproduction is important for each species, because this is the only way for a living being to continue its lineage. Apart from being important for a particular individual, reproduction is also important for the whole ecosystem.",
+      "question": "Why is reproduction vital for species?"
+    },
+    {
+      "context": "Reproduction helps in maintaining a proper balance among various biotic constituents of the ecosystem. Moreover, reproduction also facilitates evolution because variations come through reproduction; over several generations.",
+      "question": "How does reproduction affect ecosystem balance?"
+    },
+    {
+      "context": "The process by which a living being produces its own like is called reproduction. Importance of Reproduction: Reproduction is important for each species, because this is the only way for a living being to continue its lineage.",
+      "question": "What defines the process of reproduction?"
+    },
+    {
+      "context": "Moreover, reproduction also facilitates evolution because variations come through reproduction; over several generations. Reproduction is an integral feature of all living beings.",
+      "question": "How does reproduction contribute to evolution?"
+    },
+    {
+      "context": "Reproduction is an integral feature of all living beings. The process by which a living being produces its own like is called reproduction.",
+      "question": "What is the definition of reproduction?"
+    }
+  ]
+}

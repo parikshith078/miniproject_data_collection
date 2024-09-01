@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "If the individual is somehow cut or broken up into many pieces, many of these pieces grow into separate individuals. For example, simple animals like Hydra and Planaria can be cut into any number of pieces and each piece grows into a complete organism.",
+      "question": "What is the process called when a cut organism regrows?"
+    },
+    {
+      "context": "Regeneration is carried out by specialised cells. These cells proliferate and make large numbers of cells.",
+      "question": "What do specialised cells do during regeneration?"
+    },
+    {
+      "context": "Many of these pieces grow into separate individuals. For example, simple animals like Hydra and Planaria can be cut into any number of pieces.",
+      "question": "Which two examples are given for organisms that regenerate?"
+    },
+    {
+      "context": "Regeneration can occur in simple animals like Hydra and Planaria that can be cut into pieces.",
+      "question": "What type of animals are known for regeneration?"
+    },
+    {
+      "context": "This is known as regeneration. Regeneration is carried out by specialised cells.",
+      "question": "How is regeneration defined in this context?"
+    }
+  ]
+}

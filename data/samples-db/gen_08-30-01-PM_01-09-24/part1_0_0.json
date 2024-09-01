@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cell is called the fundamental unit of life. A cell is capable of independent existence and can carry out all the functions which are necessary for a living being.",
+      "question": "Why is a cell called a fundamental unit of life?"
+    },
+    {
+      "context": "A cell carries out nutrition, respiration, excretion, transportation and reproduction; the way an individual organism does.",
+      "question": "What functions do cells perform for life?"
+    },
+    {
+      "context": "Unicellular organisms are capable of independent existence which shows a cell’s capability to exist independently.",
+      "question": "What do unicellular organisms demonstrate about cells?"
+    },
+    {
+      "context": "Due to this, a cell is called the fundamental and structural unit of life. All living beings are composed of the basic unit of life, i.e. cell.",
+      "question": "What are all living beings composed of?"
+    },
+    {
+      "context": "A cell is capable of independent existence and can carry out all the functions which are necessary for a living being.",
+      "question": "What is a cell's role in the life of organisms?"
+    }
+  ]
+}

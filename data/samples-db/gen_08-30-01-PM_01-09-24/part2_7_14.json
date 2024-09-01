@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fungal infections often affect the lungs, skin or nails. Some infections may also penetrate the body to affect organs and cause whole-body infections.",
+      "question": "What body parts do fungal infections commonly affect?"
+    },
+    {
+      "context": "Examples of fungal infections include: Athlete’s foot: itching, scaling or cracking of the skin; Ringworm: reddish, itchy, scaly rash usually on the skin and scalp; Thrush: caused by the fungus Candida albicans which can infect the mouth, vagina, stomach and urinary tract.",
+      "question": "What is an example of a fungal infection?"
+    },
+    {
+      "context": "Athlete’s foot: itching, scaling or cracking of the skin; Ringworm: reddish, itchy, scaly rash usually on the skin and scalp; Thrush: caused by the fungus Candida albicans which can infect the mouth, vagina, stomach and urinary tract.",
+      "question": "What symptoms are associated with Athlete's foot?"
+    },
+    {
+      "context": "Some infections may also penetrate the body to affect organs and cause whole-body infections. Examples of fungal infections include: Athlete’s foot: itching, scaling or cracking of the skin; Ringworm: reddish, itchy, scaly rash usually on the skin and scalp.",
+      "question": "Can fungal infections affect internal organs?"
+    },
+    {
+      "context": "Ringworm: reddish, itchy, scaly rash usually on the skin and scalp; Thrush: caused by the fungus Candida albicans which can infect the mouth, vagina, stomach and urinary tract.",
+      "question": "What type of rash does Ringworm cause?"
+    }
+  ]
+}

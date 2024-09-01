@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Principles of treatment for infectious diseases consist of two steps: (1) To reduce the effects of the disease, this can be done by taking medicines to bring down the effects of the disease like fever, pain or loose motions etc.",
+      "question": "What is the first step in treating infectious diseases?"
+    },
+    {
+      "context": "The second step is to kill the microbes, this can be done by taking suitable antibiotics and drugs which kills the microbes, and the disease is cured.",
+      "question": "How can microbes causing infectious diseases be eliminated?"
+    },
+    {
+      "context": "By taking suitable antibiotics and drugs which kills the microbes, the disease is cured.",
+      "question": "What role do antibiotics play in treating infections?"
+    },
+    {
+      "context": "To conserve our energy, bed rest is recommended as a part of disease management.",
+      "question": "Why is bed rest important during an infection?"
+    },
+    {
+      "context": "The principles of treatment aim to reduce disease effects and eliminate microbes.",
+      "question": "What are the main goals of treating infectious diseases?"
+    },
+    {
+      "context": "Taking medicines can help alleviate symptoms like fever and pain associated with diseases.",
+      "question": "What symptoms can be alleviated by taking medicines?"
+    }
+  ]
+}

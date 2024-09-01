@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Sunlight activates chlorophyll; which leads to splitting of water molecule. The hydrogen; released by splitting of water molecule is utilized for reduction of carbon dioxide to produce carbohydrates.",
+      "question": "What activates chlorophyll during photosynthesis?"
+    },
+    {
+      "context": "Oxygen is the byproduct of photosynthesis. Carbohydrate is subsequently converted into starch and is stored in leaves and other storage parts.",
+      "question": "What is produced as a byproduct of photosynthesis?"
+    },
+    {
+      "context": "The hydrogen; released by splitting of water molecule is utilized for reduction of carbon dioxide to produce carbohydrates. Oxygen is the byproduct of photosynthesis.",
+      "question": "What is hydrogen used for in photosynthesis?"
+    },
+    {
+      "context": "Carbohydrate is subsequently converted into starch and is stored in leaves and other storage parts.",
+      "question": "Where is starch stored after carbohydrate conversion?"
+    },
+    {
+      "context": "Sunlight activates chlorophyll; which leads to splitting of water molecule. Oxygen is the byproduct of photosynthesis.",
+      "question": "What happens when sunlight activates chlorophyll?"
+    }
+  ]
+}

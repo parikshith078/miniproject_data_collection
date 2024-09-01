@@ -1,0 +1,52 @@
+{
+  "topic": [
+    {
+      "sub-topic": "How do plants get nutrients?",
+      "Content": "Plants require sixteen essential nutrients from nature for their growth and development. All these nutrients are obtained from air, water, and soil. Soil is the major source of nutrients. Thirteen of these nutrients are available from soil. The remaining three nutrients (carbon, oxygen, and hydrogen) are obtained from air and water."
+    },
+    {
+      "sub-topic": "Manure",
+      "Content": "Manure is an organic substance and is prepared by the decomposition of plant and animal wastes.\nAdvantages of Manure:\n- Manures helps in enriching the soil with organic matter and nutrients.\n- It helps in increasing the soil fertility.\n- Water holding capacity of soil is increased.\n- Helps in improving soil texture.\n- Save our environment from excessive use of fertilizers."
+    },
+    {
+      "sub-topic": "Types of Manure",
+      "Content": "Manure is classified into two types according to the biological material used: COMPOST AND VERMI-COMPOST.\nComposting: It is the process in which farm waste material (cow dung, domestic waste, sewage waste etc) is decomposed in pits. Compost is the aerobically decomposed remnants of organic matter which is rich in nutrients. \nVermicomposting: It is the process which involves use of earthworms to hasten the process of decomposition of plant and animal refuse."
+    },
+    {
+      "sub-topic": "Green Manure",
+      "Content": "Leguminous plants like Sunn-hemp or Cluster Bean are grown and then mulched by ploughing them back into the soil. This helps in enriching the soil with Nitrogen and Phosphorous."
+    },
+    {
+      "sub-topic": "Fertilizers",
+      "Content": "Fertilizers are chemicals commercially produced in factories and used as plant nutrients. They supply Nitrogen, Phosphorous, Potassium, etc., and are used to ensure good vegetative growth giving rise to healthy plants. \nAdvantages: They help in good vegetative growth and produce healthy plants.\nDisadvantages:\n- Excessive use of fertilizer leads to pollution of water.\n- Continuous use of fertilizer leads to a decrease in soil fertility because the organic matter of the soil cannot be replenished as microorganisms present in soil get harmed due to fertilizer.\n- Application of fertilizers results in higher yield of crops but increases the cost of farming. \n- As the fertilizers are water soluble chemicals, a large part of the fertilizers applied is washed away due to excessive irrigation, resulting in the growth of unwanted plants like Water Hyacinth, algae, etc."
+    },
+    {
+      "sub-topic": "Bio-fertilizers",
+      "Content": "Fertilizers which are derived from living organisms are called Bio-fertilizers. The main source of bio-fertilizers are bacteria, cyanobacteria, and fungi. Bio-fertilizers are renewable and nonpolluting sources of plant nutrients. They also improve the soil condition. Rhizobium and Cyanobacteria such as Anabaena and Nostoc are some common bio-fertilizers."
+    },
+    {
+      "sub-topic": "Comparison between Manure and Fertilizers",
+      "Content": "Manures increase soil fertility by enriching the soil with organic matter and nutrients as it is prepared by the decomposition of animal excreta and plant wastes. On the other hand, fertilizers are mostly inorganic compounds whose excessive use is harmful to the symbiotic micro-organisms living in soil. Their excessive use also reduces soil fertility. Hence, fertilizers are considered good for only short-term use."
+    },
+    {
+      "sub-topic": "Organic Farming",
+      "Content": "Organic farming is a farming system in which the use of chemicals such as fertilizers, herbicides, pesticides etc are reduced. It involves the use of:\n- Organic manure\n- Recycled farm waste\n- Bio-agents such as culture of blue green algae in preparation of bio fertilizers \n- Bio pesticides such as leaves of neem or turmeric for grain storage\n- Healthy cropping patterns such as mixed cropping, intercropping, and crop rotation which help in controlling growth of weed, pest, and insects."
+    },
+    {
+      "sub-topic": "Irrigation",
+      "Content": "Irrigation is necessary for crops to get water during their growing season. \nSource of irrigation:\n- Wells: There are two types of wells, namely dug wells and tube wells.\n- Canals: This is usually an elaborate and extensive irrigation system.\n- River Lift Systems: In areas where canal flow is insufficient or irregular.\n- Tanks: These are small storage reservoirs, which intercept and store the run-off of smaller catchment areas.\n- Rainwater harvesting.\n- Watershed management: building of small check dams which helps in increasing groundwater level and helps in reducing soil erosion."
+    },
+    {
+      "sub-topic": "Cropping Patterns",
+      "Content": "Different ways of growing crops can be used to give maximum benefit. \nMIXED CROPPING: It is growing of two or more crops simultaneously on the same piece of land, leading to improved fertility.\nINTER CROPPING: Cultivating two or more crops in the same space at the same time in a definite pattern.\nCROP ROTATION: It is the practice of growing a series of dissimilar types of crops in the same area in sequential seasons for various benefits."
+    },
+    {
+      "sub-topic": "Crop Protection Management",
+      "Content": "Field crops are infested by a large number of weeds, insect pests, and diseases. If weeds and pests are not controlled at the appropriate time, they can damage the crops significantly. Control methods include the use of herbicides, pesticides, and fungicides. Preventive measures such as proper seedbed preparation, timely sowing of crops, intercropping, and crop rotation also help in weed control. \nSome other preventive measures against pests are the use of resistant varieties and summer ploughing."
+    },
+    {
+      "sub-topic": "Storage of Grains",
+      "Content": "Factors responsible for storage losses are biotic (insects, rodents, fungi) and abiotic (moisture and temperature). Preventive methods and biological control should be preferred for protecting crops because excessive use of chemicals causes environmental problems and can harm the crops themselves."
+    }
+  ]
+}

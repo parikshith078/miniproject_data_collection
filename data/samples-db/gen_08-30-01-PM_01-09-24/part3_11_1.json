@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The environment encompasses all surroundings where living organisms exist, which may include various habitats like cities, towns, and rural areas. It includes both biotic (living) and abiotic (non-living) factors like air, water, and soil that interact with organisms.",
+      "question": "What does the environment encompass?"
+    },
+    {
+      "context": "Pollution is defined as any undesirable change in the physical, chemical, or biological characteristics of the environment that adversely affects human life. Pollutants can originate from both natural occurrences and human activities, with common examples like sulfur dioxide and mercury.",
+      "question": "What is pollution defined as?"
+    },
+    {
+      "context": "Waste can be divided into biodegradable and non-biodegradable categories. Biodegradable wastes can be broken down by biological processes (e.g., vegetable waste), while non-biodegradable wastes (e.g., plastics) cannot be decomposed and pose a threat to the environment.",
+      "question": "What are the two classifications of waste?"
+    },
+    {
+      "context": "Biodegradable substances can help return nutrients to the environment but may release gases that contribute to pollution. On the other hand, non-biodegradable substances can create toxic environments and hinder the flow of energy and minerals in ecosystems.",
+      "question": "What impact do non-biodegradable wastes have?"
+    },
+    {
+      "context": "An ecosystem consists of biotic components (producers, consumers, decomposers) and abiotic components (air, water, soil). Each component plays a vital role in maintaining the balance necessary for the ecosystem's health.",
+      "question": "What components make up an ecosystem?"
+    },
+    {
+      "context": "The interaction among these components, along with energy flow through food chains and webs, illustrates how ecosystems function as complex units.",
+      "question": "How do ecosystems function as complex units?"
+    }
+  ]
+}

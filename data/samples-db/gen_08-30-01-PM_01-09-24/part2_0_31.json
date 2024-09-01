@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Adipose tissue is composed of fat globules. This tissue is found below the skin and beneath the organs. Adipose tissue provides insulation and works as a cushion.",
+      "question": "What is the function of adipose tissue?"
+    },
+    {
+      "context": "Adipose tissue is composed of fat globules. This tissue is found below the skin and beneath the organs. Adipose tissue provides insulation and works as a cushion.",
+      "question": "Where is adipose tissue located in the body?"
+    },
+    {
+      "context": "Adipose tissue is composed of fat globules. This tissue is found below the skin and beneath the organs. Adipose tissue provides insulation and works as a cushion.",
+      "question": "What are the primary components of adipose tissue?"
+    },
+    {
+      "context": "Adipose tissue is composed of fat globules. This tissue is found below the skin and beneath the organs. Adipose tissue provides insulation and works as a cushion.",
+      "question": "How does adipose tissue protect the body?"
+    },
+    {
+      "context": "Adipose tissue is composed of fat globules. This tissue is found below the skin and beneath the organs. Adipose tissue provides insulation and works as a cushion.",
+      "question": "What role does adipose tissue play in body temperature regulation?"
+    }
+  ]
+}

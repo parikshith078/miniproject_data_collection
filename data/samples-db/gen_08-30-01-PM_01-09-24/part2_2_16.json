@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Echinodermata are known for their unique feature of being covered with spines. This characteristic contributes to their name, which comes from a Greek word meaning spiny. They exhibit radial symmetry in their body structure, which is quite distinct from bilateral organisms.",
+      "question": "What does the name echinodermata mean?"
+    },
+    {
+      "context": "The body of echinoderms is radially symmetrical, allowing them to interact with their environment in a three-dimensional way. This symmetry is important for their movement and feeding habits. Examples include starfish and sea urchins, which are common members of this group.",
+      "question": "What type of symmetry do echinoderms have?"
+    },
+    {
+      "context": "Starfish, sea urchins, and other organisms make up the class Echinodermata. These creatures are easily identifiable by their spiny exterior, which also serves protective functions. Their radial symmetry is a significant aspect of their anatomy.",
+      "question": "Name two examples of echinodermata."
+    },
+    {
+      "context": "Echinodermata refers to a group of marine animals characterized by a spiny surface and a body plan that exhibits radial symmetry. This creates a unique body architecture that suits their aquatic lifestyle, with adaptations that help in locomotion and feeding.",
+      "question": "What is a key characteristic of echinoderms?"
+    }
+  ]
+}

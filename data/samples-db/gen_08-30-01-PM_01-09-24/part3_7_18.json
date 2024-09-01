@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The ovule develops into seed. The integuments of the ovule develop into seed coats.",
+      "question": "What does the ovule develop into?"
+    },
+    {
+      "context": "The ovary enlarges and develops into fruit.",
+      "question": "What does the ovary develop into after fertilization?"
+    },
+    {
+      "context": "The integuments of the ovule develop into seed coats.",
+      "question": "What do integuments become in a seed?"
+    },
+    {
+      "context": "The ovule develops into seed. The ovary enlarges and develops into fruit.",
+      "question": "What happens to the ovule and ovary after fertilization?"
+    }
+  ]
+}

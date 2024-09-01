@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The plasma membrane is crucial for maintaining the internal environment of the cell, as it regulates what enters and exits. If this membrane ruptures, the cell cannot maintain its homeostasis, leading to a loss of essential cellular components and ultimately resulting in cell death.",
+      "question": "What is the role of the plasma membrane?"
+    },
+    {
+      "context": "When the plasma membrane breaks down, it can lead to uncontrolled movement of substances. This means that necessary ions and molecules can escape, while harmful substances might enter the cell, compromising its integrity and function.",
+      "question": "What happens when the plasma membrane breaks?"
+    },
+    {
+      "context": "The plasma membrane serves as a barrier that controls the flow of materials into and out of the cell. If it is compromised, the cell may not be able to sustain itself, causing its contents to spill out and leading to cell death.",
+      "question": "What could cell death indicate?"
+    },
+    {
+      "context": "The plasma membrane is essential for cellular function as it controls diffusion and osmosis. A ruptured plasma membrane disrupts these processes, potentially causing the cell to leak, lose its structure, and eventually die.",
+      "question": "How does a ruptured membrane affect diffusion?"
+    },
+    {
+      "context": "Cell membranes are selectively permeable, meaning they only allow certain substances to enter or exit. If the plasma membrane is damaged, this selectivity is lost, which can lead to critical imbalances in the cell.",
+      "question": "Why is the plasma membrane selectively permeable?"
+    }
+  ]
+}

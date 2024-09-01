@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Multicellular organisms cannot reproduce by cell division because they are not simple random collections of cells. In them, specialized cells are organized as tissues and tissues are organized into organs, which must be kept at different positions within the body.",
+      "question": "Why can't multicellular organisms reproduce like unicellular organisms?"
+    },
+    {
+      "context": "Cell-by-cell division would be impractical for multicellular organisms, which require more complex methods of reproduction due to their organization and structure.",
+      "question": "What makes cell-by-cell division impractical for multicellular organisms?"
+    },
+    {
+      "context": "Simple multicellular organisms possess special types of tissues capable of growing into new organisms, while complex multicellular organisms lack such specialized cells.",
+      "question": "What types of tissues do simple multicellular organisms have?"
+    },
+    {
+      "context": "The organization of specialized cells into tissues and organs in complex organisms restricts their regeneration abilities compared to simpler organisms with more flexibility.",
+      "question": "How does cellular organization affect regeneration in complex organisms?"
+    },
+    {
+      "context": "To create a new individual, complex multicellular organisms require advanced reproductive mechanisms rather than relying on simple regeneration methods like those found in simpler organisms.",
+      "question": "What are the implications of complexity on reproduction for multicellular organisms?"
+    }
+  ]
+}

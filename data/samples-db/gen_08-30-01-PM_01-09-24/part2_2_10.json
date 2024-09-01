@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The body wall is made up of two layers of cells (diploblastic). Some of the species live a solitary life while others live in colonies.",
+      "question": "What type of cell organization do coelenterates have?"
+    },
+    {
+      "context": "Examples: Hydra, Jellyfish, Sea anemone, etc. The body is made up of a coelom (cavity) with a single opening.",
+      "question": "Name two examples of coelenterates."
+    },
+    {
+      "context": "Some of the species live a solitary life while others live in colonies. The body is made up of a coelom (cavity) with a single opening.",
+      "question": "Do coelenterates live solitary or in colonies?"
+    },
+    {
+      "context": "The body wall is made up of two layers of cells (diploblastic). Examples: Hydra, Jellyfish, Sea anemone, etc.",
+      "question": "What is a characteristic feature of coelenterate body structure?"
+    },
+    {
+      "context": "The body is made up of a coelom (cavity) with a single opening. Some of the species live a solitary life while others live in colonies.",
+      "question": "What is unique about the body opening in coelenterates?"
+    }
+  ]
+}

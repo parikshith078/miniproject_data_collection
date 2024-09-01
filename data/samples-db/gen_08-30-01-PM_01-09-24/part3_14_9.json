@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In order to be environment-friendly, certain changes can be incorporated in our daily work at home. This includes (i) We should plant different kinds of shady plants, fruit and vegetable-bearing plants. (ii) There should be less use of insecticides and pesticides.",
+      "question": "What types of plants should we plant?"
+    },
+    {
+      "context": "Food should be properly stored to avoid spoilage, thereby preventing wastage. (iv) There should be proper drainage systems for the water to pass in the drains.",
+      "question": "Why is proper food storage important?"
+    },
+    {
+      "context": "There should be proper disposal of water. (vi) Dustbins and other waste products should be properly covered and the garbage should not be dumped around the houses.",
+      "question": "What should be done with dustbins?"
+    },
+    {
+      "context": "Proper sanitary and hygiene methods must be adopted. This includes (ii) There should be less use of insecticides and pesticides.",
+      "question": "What hygiene methods should be adopted?"
+    },
+    {
+      "context": "There should be less use of insecticides and pesticides. (iii) Food should be properly stored to avoid spoilage, thereby preventing wastage.",
+      "question": "What should be reduced in home gardening?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Small populations, such as the remaining tiger population, tend to have reduced genetic diversity. This can lead to inbreeding, which may cause harmful genetic traits to be expressed and result in problems like reduced fertility and increased vulnerability to diseases.",
+      "question": "Why are small tiger populations dangerous?"
+    },
+    {
+      "context": "The loss of genetic diversity in small populations means that there are fewer variations of genes available to adapt to changing environments, which could ultimately lead to the extinction of the species if they cannot adapt.",
+      "question": "What happens to adaptation in small gene pools?"
+    },
+    {
+      "context": "Conservation efforts aim to increase the genetic diversity of endangered species like tigers by connecting fragmented habitats or through breeding programs that involve individuals from different subpopulations to enhance gene flow.",
+      "question": "How can conservation improve tiger genetics?"
+    },
+    {
+      "context": "Genetic variations are essential for the long-term survival of a species. When a small population remains, the risk of losing unique genetic traits increases, significantly affecting the population's ability to evolve over time.",
+      "question": "What is the importance of genetic variation?"
+    },
+    {
+      "context": "Tigers with low genetic variability may show some negative health effects such as lower reproductive success and increased susceptibility to diseases. This vulnerability can threaten their survival in the wild.",
+      "question": "What health problems may arise in tigers with low genetics?"
+    }
+  ]
+}

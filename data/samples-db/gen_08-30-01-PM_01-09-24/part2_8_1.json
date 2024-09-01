@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "If you get jaundice, there will be severe long lasting effects. For example: High temperature, headache and joint pains. The patient will suffer from poor health and will recover by taking complete bed rest for sometime.",
+      "question": "What are the symptoms of jaundice?"
+    },
+    {
+      "context": "Lice and acne will not cause long lasting effects on our body. However, jaundice can lead to serious complications and prolonged health issues.",
+      "question": "Do lice cause long term health issues?"
+    },
+    {
+      "context": "Jaundice can cause high temperature, headache, nausea, and initiating rashes. It results in poor health that requires recovery through bed rest.",
+      "question": "What recovery method is suggested for jaundice?"
+    },
+    {
+      "context": "While acne and lice are common, they typically do not result in severe health issues, unlike jaundice that affects overall health significantly.",
+      "question": "Which condition has more severe health implications?"
+    },
+    {
+      "context": "The patient with jaundice experiences severe symptoms such as headache, joint pains, and vomiting. Complete bed rest is necessary for recovery.",
+      "question": "What is a necessary recovery method for jaundice?"
+    }
+  ]
+}

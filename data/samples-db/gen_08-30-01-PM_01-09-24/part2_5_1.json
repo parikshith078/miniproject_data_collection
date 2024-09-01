@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Viral diseases are contagious and spread from person to person when a virus enters the body and begins to multiply. Common ways that viruses spread from person to person include breathing in air-borne droplets contaminated with a virus.",
+      "question": "How are viruses commonly spread through the air?"
+    },
+    {
+      "context": "Common ways that viruses spread from person to person include eating food or drinking water contaminated with a virus.",
+      "question": "How can food and water transmit viral diseases?"
+    },
+    {
+      "context": "Common ways that viruses spread from person to person include having sexual contact with a person who is infected with a sexually transmitted virus.",
+      "question": "What role does sexual contact play in virus transmission?"
+    },
+    {
+      "context": "Common ways that viruses spread from person to person include indirect transmission from person to person by a virus host, such as a mosquito, tick, or field mouse.",
+      "question": "What is indirect transmission of viruses?"
+    },
+    {
+      "context": "Viral diseases are contagious and spread from person to person when a virus enters the body and begins to multiply. This can occur from touching surfaces contaminated with a virus.",
+      "question": "How can touching surfaces lead to virus transmission?"
+    }
+  ]
+}

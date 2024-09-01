@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fossils can be used to reconstruct evolutionary history of an organism. The distribution pattern of fossils shows that the ancient fossils present in the bottom rocks are simple, while the most recent fossils found in the upper strata are more highly evolved.",
+      "question": "How do fossils indicate evolutionary history?"
+    },
+    {
+      "context": "It means fossils form and become more and more complex as we proceed from earliest to recent rocks. It gives us an idea of time in history when different species were formed or became extinct.",
+      "question": "What does the complexity of fossils indicate?"
+    },
+    {
+      "context": "The distribution pattern of fossils shows that the ancient fossils present in the bottom rocks are simple, while the most recent fossils found in the upper strata are more highly evolved.",
+      "question": "Where are ancient fossils typically found?"
+    },
+    {
+      "context": "Fossils can be used to reconstruct evolutionary history of an organism. The distribution pattern of fossils shows that the ancient fossils present in the bottom rocks are simple, while the most recent fossils found in the upper strata are more highly evolved.",
+      "question": "What relationship do fossils exhibit over time?"
+    },
+    {
+      "context": "It gives us an idea of time in history when different species were formed or became extinct. Fossils can be used to reconstruct evolutionary history of an organism.",
+      "question": "What can fossils help scientists understand about species?"
+    }
+  ]
+}

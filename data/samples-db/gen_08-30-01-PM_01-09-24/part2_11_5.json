@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cereals such as wheat, rice, and maize provide carbohydrates for energy requirements.",
+      "question": "What do cereals provide for energy?"
+    },
+    {
+      "context": "Pulses like pea, gram, and lentil are important as they provide proteins.",
+      "question": "What nutrient do pulses provide?"
+    },
+    {
+      "context": "Oilseeds, including soya bean and ground nut, are rich in necessary fats.",
+      "question": "What do oilseeds provide?"
+    },
+    {
+      "context": "Vegetables, spices, and fruits are essential as they provide vitamins and minerals.",
+      "question": "What type of nutrients do vegetables provide?"
+    },
+    {
+      "context": "Millets and sorghum are examples of cereals that supply energy.",
+      "question": "What crops supply energy?"
+    }
+  ]
+}

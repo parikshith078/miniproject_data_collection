@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The process by which a living being utilizes the food to get energy is called respiration. Respiration is an oxidation reaction in which carbohydrate is oxidized to produce energy.",
+      "question": "What is respiration and its purpose?"
+    },
+    {
+      "context": "Mitochondrion is the site of respiration and the energy released is stored in the form of ATP (Adenosine triphosphate).",
+      "question": "Where does respiration occur in a cell?"
+    },
+    {
+      "context": "ATP is stored in mitochondria and is released as per need. Respiratory involves oxidizing carbohydrates.",
+      "question": "How is energy released during respiration?"
+    },
+    {
+      "context": "Respiration is an oxidation reaction in which carbohydrate is oxidized to produce energy.",
+      "question": "What type of reaction is respiration classified as?"
+    },
+    {
+      "context": "The energy released is stored in the form of ATP (Adenosine triphosphate).",
+      "question": "What form is the energy stored after respiration?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Symptoms of disease and signs appear. These symptoms may be headache, cough, loose-motions, wound with pus, etc.",
+      "question": "What are common symptoms of disease?"
+    },
+    {
+      "context": "These symptoms indicate disease but do not tell what the disease is.",
+      "question": "What do these symptoms indicate?"
+    },
+    {
+      "context": "It is advisable to go to the doctor to diagnose any signs of a disease on the basis of these symptoms.",
+      "question": "Why should you visit a doctor?"
+    },
+    {
+      "context": "The doctor will get laboratory tests done, if required for the confirmation of a particular disease.",
+      "question": "What will a doctor do for disease confirmation?"
+    },
+    {
+      "context": "Symptoms of disease and signs appear. These symptoms may be headache, cough, loose-motions, wound with pus, etc.",
+      "question": "Name one symptom that indicates illness."
+    }
+  ]
+}

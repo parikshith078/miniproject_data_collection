@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In this osmosis experiment, four peeled potato halves are prepared as potato cups, with one cup made from a boiled potato. They are all placed in a trough of water to observe the effects of osmosis.",
+      "question": "What is the purpose of using boiled potato?"
+    },
+    {
+      "context": "Each potato cup is placed in water to see how osmosis affects the potatoes over time. The experiment aims to investigate water movement through semi-permeable membranes.",
+      "question": "What does osmosis refer to in this experiment?"
+    },
+    {
+      "context": "Boiled and raw potato cups are submerged in water to help visualize the effects of osmosis. This serves as a practical demonstration of the process in plant cells.",
+      "question": "How will osmosis be demonstrated in this experiment?"
+    },
+    {
+      "context": "After placing the potato cups in water, observations will be made at regular intervals to compare the changes in each potato cup's weight and texture due to osmosis.",
+      "question": "What will you measure to understand osmosis?"
+    },
+    {
+      "context": "The experiment uses potato cups to illustrate osmosis effectively, allowing students to collect data on how different types of potatoes respond to water.",
+      "question": "What type of data will be collected during the experiment?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In the plant kingdom, morphological characters are taken into consideration while deciding about the divisions. Morphology is the study of shapes and forms of various parts.",
+      "question": "What is studied for plant divisions?"
+    },
+    {
+      "context": "In the animal kingdom, anatomical characters are taken into consideration while deciding about subgroups. Anatomy is the study of various organs’ design in animals.",
+      "question": "What type of characters guide animal subgroups?"
+    },
+    {
+      "context": "Morphology is the study of shapes and forms of various parts. In the animal kingdom, anatomical characters are taken into consideration while deciding about subgroups.",
+      "question": "What does morphology focus on in plants?"
+    },
+    {
+      "context": "In the plant kingdom, morphological characters are taken into consideration while deciding about the divisions. In the animal kingdom, anatomical characters are taken into consideration while deciding about subgroups.",
+      "question": "What differs between plants and animals in classification?"
+    },
+    {
+      "context": "Anatomy is the study of various organs’ design in animals, while morphology is crucial for plant categorization.",
+      "question": "What does anatomy study in animals?"
+    }
+  ]
+}

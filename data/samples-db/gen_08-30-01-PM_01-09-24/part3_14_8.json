@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Scientists are working on developing some alternate energy sources so that dependency on coal and petroleum can be reduced. Some examples are given below: Solar energy is being used to produce electricity at many places.",
+      "question": "What are scientists working on developing?"
+    },
+    {
+      "context": "Solar energy is being used to produce electricity at many places. Although the technologies for solar energy are still costly but future prospects look bright.",
+      "question": "What is the current cost status of solar energy technologies?"
+    },
+    {
+      "context": "Fuel cell is another development which may help in replacing the internal combustion engines from automobiles. Hydrogen is being used as fuel in buses and cars in many countries.",
+      "question": "What might replace internal combustion engines?"
+    },
+    {
+      "context": "Hydrogen, when used as a fuel, produces water as a byproduct. Thus, hydrogen can be an environmentally-friendly fuel.",
+      "question": "What is produced when hydrogen is used as fuel?"
+    },
+    {
+      "context": "Scientists are working on developing some alternate energy sources so that dependency on coal and petroleum can be reduced. Some examples are given below: Solar energy is being used to produce electricity at many places.",
+      "question": "Why do we need alternate energy sources?"
+    },
+    {
+      "context": "Although the technologies for solar energy are still costly but future prospects look bright. Fuel cell is another development which may help in replacing the internal combustion engines from automobiles.",
+      "question": "What potential does solar energy technology have?"
+    },
+    {
+      "context": "Hydrogen is being used as fuel in buses and cars in many countries. Hydrogen, when used as a fuel, produces water as a byproduct.",
+      "question": "How is hydrogen used in transportation?"
+    }
+  ]
+}

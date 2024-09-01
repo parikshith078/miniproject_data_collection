@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The nervous system mechanism conveys information as electric impulses, allowing for rapid communication. In contrast, hormonal mechanisms use chemical messengers, which travel more slowly and result in prolonged effects. The quick action of the nervous system leads to short-lived effects, whereas hormones allow for longer responses.",
+      "question": "How is information conveyed in the nervous system?"
+    },
+    {
+      "context": "While the nervous system transmits information rapidly and results in quick responses, the hormonal system relies on slower chemical messengers that produce effects over a longer duration. This distinction makes the nervous system suited for immediate reactions, while the hormonal system manages sustained bodily functions.",
+      "question": "What is the main difference in response times?"
+    },
+    {
+      "context": "The nervous system utilizes electric impulses for fast communication, with short-lived effects. On the other hand, the hormonal system sends messages chemically through blood, resulting in slower reactions but prolonged impacts on the body, which can influence various functions over longer periods.",
+      "question": "What type of messengers does the hormonal system use?"
+    },
+    {
+      "context": "Nervous mechanisms convey information through electric impulses, allowing for quick responses. Hormonal mechanisms, however, utilize slower chemical messengers traveling through blood, producing longer-lasting effects that can regulate processes over time, such as growth and metabolism.",
+      "question": "What mechanism results in prolonged effects?"
+    },
+    {
+      "context": "In the nervous system, information flows quickly, allowing for immediate responses that are usually short-lived. The hormonal system, using chemical messengers to communicate, takes more time but ensures that responses have a lasting impact, affecting the body's processes more gradually.",
+      "question": "Which system has short-lived effects?"
+    }
+  ]
+}

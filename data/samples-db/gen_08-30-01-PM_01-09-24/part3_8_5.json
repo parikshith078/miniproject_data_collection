@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Sexual dimorphism refers to the phenomenon where males and females of the same species exhibit distinct physical differences, resulting in varied appearances. Secondary sexual characters are the specific traits that contribute to this dimorphism, enhancing the visual differences between sexes.",
+      "question": "What is sexual dimorphism?"
+    },
+    {
+      "context": "The term sexual dimorphism refers to the distinct physical differences found between males and females of a species. These differences are often accentuated by secondary sexual characters, which are features that emphasize these dissimilarities.",
+      "question": "What are secondary sexual characters?"
+    },
+    {
+      "context": "In biology, sexual dimorphism is the term used to describe the observable physical differences between male and female individuals within a species. Secondary sexual characters play a crucial role in highlighting these differences, impacting mating behaviors and attraction.",
+      "question": "How does sexual dimorphism affect mating?"
+    },
+    {
+      "context": "Secondary sexual characters are traits that enhance the physical differences between males and females, which is an example of sexual dimorphism. These traits can include aspects such as coloration, size, and the presence of certain structures that may aid in reproduction.",
+      "question": "What role do secondary sexual characters play?"
+    },
+    {
+      "context": "Sexual dimorphism indicates the differences in appearance between male and female organisms of a species, while secondary sexual characters are the specific features that draw attention to these differences. Such traits often evolve due to reproductive pressures.",
+      "question": "Why do secondary sexual characters evolve?"
+    }
+  ]
+}

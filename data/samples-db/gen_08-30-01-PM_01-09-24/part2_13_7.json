@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Management practices for cattle include cleaning, sheltering and feeding. a) Cleaning involves periodic washing to get rid of dirt and loose hair. b) Shelter facilities include well ventilated roof sheds which protect cattle from rain, cold and sun.",
+      "question": "What are the main management practices for cattle?"
+    },
+    {
+      "context": "Feeding of cattle includes supply of uncontaminated and balanced diet. Animal feed are of two types namely roughage feed and concentrate feed.",
+      "question": "What are the two types of cattle feed?"
+    },
+    {
+      "context": "Shelter facilities include well ventilated roof sheds which protect cattle from rain, cold and sun.",
+      "question": "What is the purpose of shelter for cattle?"
+    },
+    {
+      "context": "Cleaning involves periodic washing to get rid of dirt and loose hair.",
+      "question": "What is the purpose of cleaning cattle?"
+    },
+    {
+      "context": "Feeding of cattle includes supply of uncontaminated and balanced diet.",
+      "question": "Why is balanced diet important for cattle?"
+    }
+  ]
+}

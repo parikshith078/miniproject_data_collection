@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Amphibians are unique creatures that thrive in two environments, having adaptations to survive in both aquatic and terrestrial habitats. They are characterized by their cold-blooded nature and include species such as frogs, toads, and salamanders.",
+      "question": "What environments do amphibians thrive in?"
+    },
+    {
+      "context": "These animals are adapted to live both in water and land. They require moist environments to prevent dehydration and often have permeable skin for absorbing water and oxygen, making them dependent on their habitats.",
+      "question": "Why do amphibians need moist environments?"
+    },
+    {
+      "context": "Frogs, toads, and salamanders are examples of amphibians, which have distinct life stages, including both aquatic larvae and terrestrial adults, showcasing their dual lifestyle.",
+      "question": "What are examples of amphibians mentioned?"
+    },
+    {
+      "context": "Amphibians typically undergo a metamorphosis, starting as eggs in water, progressing to larvae like tadpoles, and ultimately developing into adult forms that can live on land.",
+      "question": "What is the life cycle of amphibians like?"
+    },
+    {
+      "context": "As cold-blooded animals, amphibians rely on external environmental temperatures to regulate their body heat, influencing their activity levels and behaviors throughout the day.",
+      "question": "How do amphibians regulate their body temperature?"
+    }
+  ]
+}

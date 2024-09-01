@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Water occupies a very large area of the Earth’s surface and is also found underground. Some amount of water exists in the form of water vapour in the atmosphere. Most of the water on Earth’s surface is found in seas and oceans and is saline.",
+      "question": "Where is most water found on Earth?"
+    },
+    {
+      "context": "Practically every summer, most places have to face a shortage of water. And in rural areas, where water supply systems have not been installed, people are forced to spend considerable amounts of time in fetching water from faraway sources.",
+      "question": "What issue do rural areas face during summer?"
+    },
+    {
+      "context": "All cellular processes take place in a water medium. All the reactions that take place within our body and within the cells occur between substances that are dissolved in water.",
+      "question": "Why is water essential for cellular processes?"
+    },
+    {
+      "context": "Terrestrial life-forms require fresh water for this because their bodies cannot tolerate or get rid of the high amounts of dissolved salts in saline water. Thus, water sources need to be easily accessible for animals and plants to survive on land.",
+      "question": "Why do terrestrial life-forms need fresh water?"
+    },
+    {
+      "context": "The underground water and the water in rivers, lakes and ponds is also fresh. However, the availability of fresh water varies from place to place.",
+      "question": "How does the availability of fresh water vary?"
+    }
+  ]
+}

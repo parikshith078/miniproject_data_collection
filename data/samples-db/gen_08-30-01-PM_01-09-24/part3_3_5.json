@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The alveoli are the small balloon-like structures present in the lungs. Each lung contains 300 –350 million alveoli, making it a total of approximately 700 million in both the lungs.",
+      "question": "How many alveoli are in both lungs?"
+    },
+    {
+      "context": "The walls of the alveoli consist of an extensive network of blood vessels. This large surface area makes the gaseous exchange more efficient.",
+      "question": "What do the alveolar walls consist of?"
+    },
+    {
+      "context": "The alveolar surface when spread out covers about 80 m2 area. This large surface area makes the gaseous exchange more efficient.",
+      "question": "How much area does the alveolar surface cover?"
+    },
+    {
+      "context": "The alveoli are the small balloon-like structures present in the lungs. The extensive network of blood vessels aids in gas exchange.",
+      "question": "What is the function of the blood vessels in alveoli?"
+    },
+    {
+      "context": "Each lung contains 300 –350 million alveoli, making it a total of approximately 700 million in both the lungs.",
+      "question": "How many total alveoli are there in the lungs?"
+    },
+    {
+      "context": "The alveolar surface when spread out covers about 80 m2 area. A large surface area is essential for efficient gas exchange.",
+      "question": "Why is a large alveolar surface area important?"
+    }
+  ]
+}

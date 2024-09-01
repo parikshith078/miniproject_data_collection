@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fertilization happens after pollination. A mature pollen consists of two cells. The larger one is the vegetative cell and the smaller one is the generative cell. The vegetative cell starts growing and emerges through the germination pore, developing into a pollen tube.",
+      "question": "What are the two types of cells in mature pollen?"
+    },
+    {
+      "context": "The generative cell divides into two male gametes (sperms). The pollen tube enters into the embryo sac through micropyle. The pollen tube bursts open, gametes are released from the pollen tube and enter the embryo sac.",
+      "question": "Where does the pollen tube enter during fertilization?"
+    },
+    {
+      "context": "The generative cell divides into two male gametes (sperms). One of the gametes fuses with the egg, and the other fuses with the secondary nucleus. The fusion of a male gamete with the egg is known as fertilization.",
+      "question": "What is fertilization in the context of plant reproduction?"
+    },
+    {
+      "context": "The vegetative cell starts growing and emerges through the germination pore, developing into a pollen tube. The pollen tube bursts open, gametes are released from the pollen tube and enter the embryo sac.",
+      "question": "What does the vegetative cell develop into?"
+    },
+    {
+      "context": "The pollen tube enters into the embryo sac through micropyle. The pollen tube bursts open, gametes are released from the pollen tube and enter the embryo sac. One of the gametes fuses with the egg.",
+      "question": "What happens after the pollen tube enters the embryo sac?"
+    }
+  ]
+}

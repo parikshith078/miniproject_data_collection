@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The maintenance of living organisms must go on even at the conditions, when they are not physically active. Even when we sit idle and during sleeping, this maintenance job through cells functioning has to go on.",
+      "question": "What happens to cell function at rest?"
+    },
+    {
+      "context": "The life process includes the activities performed by the different organs to maintain the body. Some of the life processes in the living beings are described below.",
+      "question": "What do life processes involve?"
+    },
+    {
+      "context": "The maintenance of living organisms must go on even at the conditions, when they are not physically active. The life process includes the activities performed by the different organs to maintain the body.",
+      "question": "Why is maintenance important for living organisms?"
+    },
+    {
+      "context": "Even when we sit idle and during sleeping, this maintenance job through cells functioning has to go on. The life process includes the activities performed by the different organs to maintain the body.",
+      "question": "When does cell maintenance occur?"
+    },
+    {
+      "context": "The maintenance of living organisms must go on even at the conditions, when they are not physically active. Some of the life processes in the living beings are described below.",
+      "question": "Are life processes active during inactivity?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "All wounds should be treated carefully and cleaned with iodine solution.",
+      "question": "How should wounds be treated?"
+    },
+    {
+      "context": "Immunisation of infants by DPT should be done.",
+      "question": "What immunisation should infants receive?"
+    },
+    {
+      "context": "Anti-tetanus serum (ATS) injection within 24 hours of injury provides passive immunity while tetanus toxoid (TT) gives active immunity.",
+      "question": "What does ATS provide after an injury?"
+    },
+    {
+      "context": "Immunisation of infants by DPT should be done.",
+      "question": "What does DPT stand for in immunisation?"
+    },
+    {
+      "context": "All wounds should be treated carefully and cleaned with iodine solution.",
+      "question": "What solution is used to clean wounds?"
+    }
+  ]
+}

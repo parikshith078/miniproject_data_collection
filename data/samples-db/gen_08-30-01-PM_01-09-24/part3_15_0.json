@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Natural resources such as water, forests, coal and petroleum are essential for human survival. They provide the necessary materials and energy for our daily lives and contribute to the economy and environment.",
+      "question": "What are examples of natural resources?"
+    },
+    {
+      "context": "Human beings rely on natural resources like water, forests, coal, and petroleum for their survival. These resources are vital for food, shelter, and energy production.",
+      "question": "Why are natural resources important for humans?"
+    },
+    {
+      "context": "Water, forests, coal, and petroleum serve as natural resources critical for human survival. They support various industries and maintain ecological balance.",
+      "question": "How do natural resources support industries?"
+    },
+    {
+      "context": "Forests, coal, petroleum, and water are classified as natural resources which play a crucial role in sustaining human life and economic activities.",
+      "question": "What role do natural resources play in the economy?"
+    },
+    {
+      "context": "The survival of humans hinges on natural resources including water, forests, coal, and petroleum, which are essential for various human activities.",
+      "question": "In what ways do humans depend on natural resources?"
+    }
+  ]
+}

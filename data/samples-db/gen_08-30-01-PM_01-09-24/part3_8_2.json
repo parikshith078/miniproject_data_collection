@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Human beings are complex animals and hence there is a distinct phase in their life cycle which marks the onset and attainment of sexual maturity.",
+      "question": "What marks the onset of sexual maturity?"
+    },
+    {
+      "context": "This period is called puberty. It usually starts at around 10 – 11 years of age in girls and at around 12 – 13 years of age in boys.",
+      "question": "What is the starting age of puberty in boys?"
+    },
+    {
+      "context": "It usually ends at around 18th year of age in girls and at around 19th year of age in boys.",
+      "question": "At what age does puberty end for girls?"
+    },
+    {
+      "context": "Since the years during puberty end in ‘teens’; hence this phase is also called teenage.",
+      "question": "Why is puberty also called teenage?"
+    },
+    {
+      "context": "This period is called puberty. It usually starts at around 10 – 11 years of age in girls and at around 12 – 13 years of age in boys.",
+      "question": "What is the general age range for girls to start puberty?"
+    },
+    {
+      "context": "It usually starts at around 10 – 11 years of age in girls and at around 12 – 13 years of age in boys.",
+      "question": "When do boys typically start puberty?"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The notochord is replaced by a spinal column during embryonic stage, serving as the main support structure for the developing vertebrate. Vertebrates are divided into two superclasses, viz. pisces and tetrapoda, which includes animals such as fish and amphibians, reptiles, birds, and mammals.",
+      "question": "What are the two superclasses of vertebrates?"
+    },
+    {
+      "context": "Vertebrates exhibit significant diversity, and during the development stage, the notochord is replaced by a spinal column. This is a key characteristic that enables the classification into superclasses: pisces, which includes fish, and tetrapoda, which contains land-dwelling animals.",
+      "question": "What is replaced by the spinal column in vertebrates?"
+    },
+    {
+      "context": "In the embryonic stage of vertebrates, the notochord is replaced by the spinal column, an essential part of their anatomy. This replacement marks a transition into two primary groups: pisces, pertaining to aquatic species, and tetrapoda, referring to terrestrial organisms.",
+      "question": "What anatomical structure is crucial in vertebrate development?"
+    },
+    {
+      "context": "During embryonic development, vertebrates transition from having a notochord to a spinal column, indicating their classification into two major groups. The superclasses pisces represent fish and tetrapoda encompass four-legged vertebrates like amphibians and mammals.",
+      "question": "What indicates the classification of vertebrates?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Nucleus has a double membraned envelope called nuclear envelope.",
+      "question": "What is the nuclear envelope?"
+    },
+    {
+      "context": "The nuclear envelope possesses many pores called nuclear pores.",
+      "question": "What are nuclear pores?"
+    },
+    {
+      "context": "Nucleus is the major central structure in the cell.",
+      "question": "What is the role of the nucleus?"
+    },
+    {
+      "context": "The nucleoplasm has two types of nuclear structures i) the nucleolus and, ii) chromatin.",
+      "question": "What are the structures found in nucleoplasm?"
+    },
+    {
+      "context": "Nucleus is a dense spherical structure embedded in the cytoplasm.",
+      "question": "Where is the nucleus located?"
+    }
+  ]
+}

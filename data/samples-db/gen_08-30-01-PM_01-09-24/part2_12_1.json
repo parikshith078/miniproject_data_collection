@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Manure is an organic substance and is prepared by the decomposition of plant and animal wastes. It helps in enriching the soil with organic matter and nutrients, increasing soil fertility, and improving soil texture.",
+      "question": "What is manure made from?"
+    },
+    {
+      "context": "Manures help in enriching the soil with organic matter and nutrients, which aids in increasing soil fertility and improving soil texture.",
+      "question": "How do manures affect soil fertility?"
+    },
+    {
+      "context": "Using manure increases the water holding capacity of soil and saves our environment from the excessive use of fertilizers.",
+      "question": "What is a benefit of using manure for water retention?"
+    },
+    {
+      "context": "Manure is prepared by the decomposition of plant and animal wastes and helps in improving soil texture by enriching it with nutrients.",
+      "question": "What does manure do to soil texture?"
+    },
+    {
+      "context": "Manure helps in increasing soil fertility, water holding capacity of soil, and prevents environmental harm from fertilizers.",
+      "question": "How does manure benefit the environment?"
+    }
+  ]
+}

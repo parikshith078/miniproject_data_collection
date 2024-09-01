@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Early man-like forms appeared about 7 lakhs 50 thousand years ago. The first sure fossil of our own species of man, the Homo sapiens, indicate that true man appeared on the earth 2 lakhs 50 thousand years ago.",
+      "question": "When did Homo sapiens first appear?"
+    },
+    {
+      "context": "The first sure fossil of our own species of man, the Homo sapiens, indicate that true man appeared on the earth 2 lakhs 50 thousand years ago.",
+      "question": "What is the age of the first Homo sapiens fossil?"
+    },
+    {
+      "context": "Early man-like forms appeared about 7 lakhs 50 thousand years ago. The first sure fossil of our own species of man, the Homo sapiens, indicate that true man appeared on the earth 2 lakhs 50 thousand years ago.",
+      "question": "How long ago did early man-like forms exist?"
+    },
+    {
+      "context": "The first sure fossil of our own species of man, the Homo sapiens, indicate that true man appeared on the earth 2 lakhs 50 thousand years ago.",
+      "question": "What species is referred to as Homo sapiens?"
+    },
+    {
+      "context": "Early man-like forms appeared about 7 lakhs 50 thousand years ago. The first sure fossil of our own species of man, the Homo sapiens, indicate that true man appeared on the earth 2 lakhs 50 thousand years ago.",
+      "question": "What time frame marks the appearance of early man-like forms?"
+    }
+  ]
+}

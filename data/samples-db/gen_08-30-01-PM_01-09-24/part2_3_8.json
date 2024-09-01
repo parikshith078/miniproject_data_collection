@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Good health is a very hard thing to measure, but it is one of life's most precious things. The World Health Organisation has defined health as a state of complete physical, mental and social well-being.",
+      "question": "How does the WHO define health?"
+    },
+    {
+      "context": "Community health can be defined as 'All the personal health along with the environmental services for the importance of health of community'.",
+      "question": "What is community health?"
+    },
+    {
+      "context": "Some of the health services are given below: (i) Establishment of health care services like primary health centers, district hospitals, community health centers, medical colleges, all Indian institutes, regional hospitals etc.",
+      "question": "What are examples of health care services?"
+    },
+    {
+      "context": "(ii) Provision of safe drinking water and proper disposal of garbage. (iii) Prevention of harmful insect breeding sites.",
+      "question": "What does community health include?"
+    },
+    {
+      "context": "(iv) Management of different types of environmental pollution by Central and State Pollution Control Boards.",
+      "question": "Who manages environmental pollution?"
+    },
+    {
+      "context": "(v) Preventive vaccinations against number of diseases like tuberculosis, diphtheria, whooping cough, tetanus, measles, hepatitis, etc.",
+      "question": "What is the purpose of preventive vaccinations?"
+    },
+    {
+      "context": "(vi) Provision of family planning advices and services. (vii) Provision of medical care to school going children.",
+      "question": "What services are provided to children in communities?"
+    },
+    {
+      "context": "(viii) Prevention of food adulteration. (ix) Health education.",
+      "question": "What are other significant health services offered?"
+    }
+  ]
+}

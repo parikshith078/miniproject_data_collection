@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Biological control methods include the usage of bio-pesticides that are less toxic for the environment. Bacillus thuringenesis is an insect pathogen that kills a wide range of insect larvae.",
+      "question": "What is an example of a bio-pesticide?"
+    },
+    {
+      "context": "Preventive measures and biological control methods are considered eco-friendly methods of crop protection. Bacillus thuringenesis is a well-known insect pathogen.",
+      "question": "How are bio-pesticides characterized?"
+    },
+    {
+      "context": "The usage of bio-pesticides like Bacillus thuringenesis is beneficial for the environment. These methods help control insect larvae populations sustainably.",
+      "question": "What do biological control methods aim to achieve?"
+    },
+    {
+      "context": "Bacillus thuringenesis is an insect pathogen that specifically targets insect larvae. This organism is an example of a bio-pesticide.",
+      "question": "What type of organism is Bacillus thuringenesis?"
+    }
+  ]
+}

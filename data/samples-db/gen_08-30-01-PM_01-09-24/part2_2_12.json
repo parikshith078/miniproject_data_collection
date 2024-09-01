@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The body is bilaterally symmetric and there are three layers in the body wall. Animals are cylindrical in shape. A pseudocoelom is present, hence organs are absent.",
+      "question": "What type of symmetry do nemathelminthes exhibit?"
+    },
+    {
+      "context": "Examples: Roundworms, pinworms, filarial parasite (Wuchereria), etc.",
+      "question": "Which organisms are examples of nemathelminthes?"
+    },
+    {
+      "context": "A pseudocoelom is present, hence organs are absent. Examples: Roundworms, pinworms, filarial parasite (Wuchereria), etc.",
+      "question": "What type of body cavity do nemathelminthes have?"
+    },
+    {
+      "context": "The body is bilaterally symmetric and there are three layers in the body wall. Animals are cylindrical in shape.",
+      "question": "Describe the shape of nemathelminthes."
+    },
+    {
+      "context": "A pseudocoelom is present, hence organs are absent. Animals are cylindrical in shape.",
+      "question": "What does the presence of a pseudocoelom imply about nemathelminthes?"
+    }
+  ]
+}

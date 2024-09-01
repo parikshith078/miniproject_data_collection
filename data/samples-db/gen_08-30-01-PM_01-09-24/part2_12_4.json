@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Fertilizers are chemicals commercially produced in factories and used as plant nutrients. They supply Nitrogen, Phosphorous, Potassium, etc., and are used to ensure good vegetative growth giving rise to healthy plants.",
+      "question": "What nutrients do fertilizers supply?"
+    },
+    {
+      "context": "Excessive use of fertilizer leads to pollution of water. Continuous use of fertilizer leads to a decrease in soil fertility because the organic matter of the soil cannot be replenished as microorganisms present in soil get harmed due to fertilizer.",
+      "question": "What pollution is caused by excessive fertilizer use?"
+    },
+    {
+      "context": "Application of fertilizers results in higher yield of crops but increases the cost of farming. As the fertilizers are water soluble chemicals, a large part of the fertilizers applied is washed away due to excessive irrigation, resulting in the growth of unwanted plants like Water Hyacinth, algae, etc.",
+      "question": "How do fertilizers affect farming costs?"
+    },
+    {
+      "context": "They help in good vegetative growth and produce healthy plants. Continuous use of fertilizer leads to a decrease in soil fertility because the organic matter of the soil cannot be replenished as microorganisms present in soil get harmed due to fertilizer.",
+      "question": "What is a disadvantage of continuous fertilizer use?"
+    }
+  ]
+}

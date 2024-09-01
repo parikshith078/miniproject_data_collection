@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In saprophytic nutrition, the digestion of food takes place before ingestion of food. This type of nutrition is usually seen in fungi and some other microorganisms.",
+      "question": "What type of organisms exhibit saprophytic nutrition?"
+    },
+    {
+      "context": "The organism secretes digestive enzymes on the food and then ingests the simple substances.",
+      "question": "How do saprophytic organisms obtain nutrients?"
+    },
+    {
+      "context": "This type of nutrition is usually seen in fungi and some other microorganisms.",
+      "question": "Which organisms are commonly associated with saprophytic nutrition?"
+    },
+    {
+      "context": "In saprophytic nutrition, the digestion of food takes place before ingestion of food.",
+      "question": "What happens to food in saprophytic nutrition before it is ingested?"
+    },
+    {
+      "context": "The organism secretes digestive enzymes on the food and then ingests the simple substances.",
+      "question": "What role do digestive enzymes play in saprophytic nutrition?"
+    }
+  ]
+}

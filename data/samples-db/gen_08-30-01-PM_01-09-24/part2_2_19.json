@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "PISCES are commonly known as fish. They have a streamlined body and are cold-blooded animals. Bony fish examples include Rohu and katla.",
+      "question": "What do we commonly call PISCES?"
+    },
+    {
+      "context": "Fish are categorized as PISCES, which are known for having streamlined bodies. They are cold-blooded animals, with examples including Rohu and katla.",
+      "question": "What characteristic makes PISCES cold-blooded?"
+    },
+    {
+      "context": "Rohu and katla are examples of bony fish that belong to the class PISCES, which are known for their streamlined bodies and cold-blooded nature.",
+      "question": "What are two examples of bony fish?"
+    },
+    {
+      "context": "The class PISCES includes cold-blooded animals known as fish, which typically have a streamlined body for swimming. Rohu and katla represent bony fish.",
+      "question": "Name one example of a bony fish."
+    },
+    {
+      "context": "PISCES, commonly referred to as fish, are characterized by their streamlined bodies and their cold-blooded nature. Examples include Rohu and katla.",
+      "question": "What is a defining feature of the body of PISCES?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Variations allow organisms to exist in diverse habitats or niches. In the absence of variations, a species may be restricted to particular area. If this area gets drastically altered, due to various natural or man-made causes, the species may be wiped out.",
+      "question": "Why are variations important for species survival?"
+    },
+    {
+      "context": "However, if some variations were present in a few individuals, these colonize other habitats and could survive. But if variations are present in a single organism there would be very little for it to survive.",
+      "question": "What happens when some individuals have variations?"
+    },
+    {
+      "context": "If this area gets drastically altered, due to various natural or man-made causes, the species may be wiped out. However, if some variations were present in a few individuals, these colonize other habitats and could survive.",
+      "question": "What can happen to species if their habitat is altered?"
+    },
+    {
+      "context": "In the absence of variations, a species may be restricted to particular area. If this area gets drastically altered, due to various natural or man-made causes, the species may be wiped out.",
+      "question": "What is the risk for species without variations?"
+    },
+    {
+      "context": "If variations are present in a single organism there would be very little for it to survive. Variations allow organisms to exist in diverse habitats or niches.",
+      "question": "What is a limitation of variations in a single organism?"
+    }
+  ]
+}

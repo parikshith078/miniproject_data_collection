@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "A tissue with the cells of similar structure (one type of cells) and function is called simple tissue. It is of three types. 1. Parenchyma 2. Collenchyma 3. Sclerenchyma",
+      "question": "What is a simple tissue?"
+    },
+    {
+      "context": "A tissue with the cells of similar structure (one type of cells) and function is called simple tissue. It is of three types. 1. Parenchyma 2. Collenchyma 3. Sclerenchyma",
+      "question": "List the types of simple tissue."
+    },
+    {
+      "context": "A tissue with the cells of similar structure (one type of cells) and function is called simple tissue. It is of three types. 1. Parenchyma 2. Collenchyma 3. Sclerenchyma",
+      "question": "Which types are classified as simple tissues?"
+    },
+    {
+      "context": "A tissue with the cells of similar structure (one type of cells) and function is called simple tissue. It is of three types. 1. Parenchyma 2. Collenchyma 3. Sclerenchyma",
+      "question": "How many types of simple tissue are there?"
+    }
+  ]
+}

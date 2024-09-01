@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Proper dietary habits that are consumption of balanced diet and at fixed time. Good personal and domestic hygiene is very essential.",
+      "question": "What are proper dietary habits?"
+    },
+    {
+      "context": "Your food should be fresh and kept away from dust, flies, insect and microbes to avoid any infection and spoilage.",
+      "question": "Why should food be kept fresh and clean?"
+    },
+    {
+      "context": "You should wash your face and hands with soap before eating or handling the food.",
+      "question": "What should you do before handling food?"
+    },
+    {
+      "context": "Smoking, chewing tobacco, drinking alcohol, taking addictive drugs are bad habits and should be avoided.",
+      "question": "What habits should be avoided for good health?"
+    },
+    {
+      "context": "Food should be cooked with good feelings and cheerful state.",
+      "question": "How should food be prepared according to this text?"
+    }
+  ]
+}

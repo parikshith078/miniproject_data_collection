@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Cell wall is made of cellulose. Cell wall is present only in plant cells. It is a rigid protective covering outside the plasma membrane.",
+      "question": "What is the main component of the cell wall?"
+    },
+    {
+      "context": "Most of the plant cell walls are made of cellulose. The cell wall consists of three layers namely, middle lamella, primary wall and secondary wall.",
+      "question": "What are the three layers of the cell wall?"
+    },
+    {
+      "context": "The middle lamella is a thin amorphous cement-like layer between two adjacent cells. Primary wall is the first formed wall of the cell and is produced inner to the middle lamella.",
+      "question": "What is the function of the middle lamella?"
+    },
+    {
+      "context": "Presence of cell wall in plant cells distinguishes them from animal cells. The secondary wall is a thick layer found inner to the primary wall.",
+      "question": "How do plant cells differ from animal cells?"
+    },
+    {
+      "context": "Cell wall is made of cellulose. The secondary wall is a thick layer found inner to the primary wall.",
+      "question": "Where is the secondary wall located?"
+    },
+    {
+      "context": "Cell wall is present only in plant cells. It is a rigid protective covering outside the plasma membrane.",
+      "question": "What cells have a cell wall?"
+    },
+    {
+      "context": "The primary wall is the first formed wall of the cell and is produced inner to the middle lamella.",
+      "question": "What is produced first in the cell wall formation?"
+    },
+    {
+      "context": "The cell wall consists of three layers namely, middle lamella, primary wall and secondary wall. Most of the plant cell walls are made of cellulose.",
+      "question": "What primarily composes most plant cell walls?"
+    },
+    {
+      "context": "The middle lamella is a thin amorphous cement-like layer between two adjacent cells. Presence of cell wall in plant cells distinguishes them from animal cells.",
+      "question": "What distinguishes plant cells from animal cells?"
+    },
+    {
+      "context": "The secondary wall is a thick layer found inner to the primary wall. Cell wall is a rigid protective covering outside the plasma membrane.",
+      "question": "What is the role of the cell wall?"
+    }
+  ]
+}

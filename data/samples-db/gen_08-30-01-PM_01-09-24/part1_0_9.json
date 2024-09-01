@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The cell membrane or the plasma membrane is known as a selectively permeable membrane because it regulates the movement of substances in and out of the cell. This means that the plasma membrane allows the entry of only some substances and prevents the movement of some other materials.",
+      "question": "What term describes the plasma membrane's selective function?"
+    },
+    {
+      "context": "The cell membrane or the plasma membrane is known as a selectively permeable membrane because it regulates the movement of substances in and out of the cell. This means that the plasma membrane allows the entry of only some substances and prevents the movement of some other materials.",
+      "question": "What does selectively permeable mean in cell membranes?"
+    },
+    {
+      "context": "The cell membrane or the plasma membrane is known as a selectively permeable membrane because it regulates the movement of substances in and out of the cell. This means that the plasma membrane allows the entry of only some substances and prevents the movement of some other materials.",
+      "question": "What role does the plasma membrane play in cellular regulation?"
+    },
+    {
+      "context": "The cell membrane or the plasma membrane is known as a selectively permeable membrane because it regulates the movement of substances in and out of the cell. This means that the plasma membrane allows the entry of only some substances and prevents the movement of some other materials.",
+      "question": "How does the plasma membrane maintain homeostasis?"
+    },
+    {
+      "context": "The cell membrane or the plasma membrane is known as a selectively permeable membrane because it regulates the movement of substances in and out of the cell. This means that the plasma membrane allows the entry of only some substances and prevents the movement of some other materials.",
+      "question": "What substances are allowed by the plasma membrane?"
+    }
+  ]
+}

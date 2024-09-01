@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The embryo gets nutrition from the mother's blood with the help of special tissue called placenta. This is a disc-like tissue which develops between the uterine wall and embryo. It has villi on the embryo side of the tissue.",
+      "question": "What tissue helps nourish the embryo?"
+    },
+    {
+      "context": "The placenta has villi on the embryo side of the tissue. On the mother's side are blood spaces which the villi. This gives a large surface area for oxygen and glucose to pass.",
+      "question": "What role do villi play in nutrient exchange?"
+    },
+    {
+      "context": "This gives a large surface area for oxygen and glucose to pass from the mother to the embryo. It has villi on the embryo side of the tissue.",
+      "question": "How does the placenta facilitate nutrient transfer?"
+    },
+    {
+      "context": "The embryo gets nutrition from the mother's blood with the help of special tissue called placenta. This is a disc-like tissue which develops between the uterine wall and embryo.",
+      "question": "What is the function of the placenta?"
+    },
+    {
+      "context": "On the mother's side are blood spaces which the villi. This gives a large surface area for oxygen and glucose to pass from the mother to the embryo.",
+      "question": "What does the large surface area of the placenta allow?"
+    }
+  ]
+}

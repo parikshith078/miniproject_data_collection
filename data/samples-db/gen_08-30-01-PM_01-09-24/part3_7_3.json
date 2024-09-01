@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In binary fission, the parent organism splits to form two new organisms. It occurs under favorable environmental conditions. Organisms like Amoeba and Paramecium reproduce this way, ensuring rapid population growth when conditions allow.",
+      "question": "What organisms reproduce by binary fission?"
+    },
+    {
+      "context": "In multiple fission, a parent organism divides to create many new organisms simultaneously. This process happens during unfavorable environmental conditions, helping organisms survive through adverse times. Plasmodium is a notable example of this method of reproduction.",
+      "question": "When does multiple fission typically occur?"
+    },
+    {
+      "context": "Binary fission results in two daughter cells, while multiple fission leads to several daughter cells being formed from a single parent cell. The former is more common in favorable environments while the latter is a survival strategy.",
+      "question": "What is a key difference between binary and multiple fission?"
+    },
+    {
+      "context": "Organisms like Amoeba and Paramecium reproduce through binary fission, where one parent organism divides into two. This method is efficient and rapid under suitable conditions, promoting quick population growth.",
+      "question": "Which organisms undergo binary fission?"
+    },
+    {
+      "context": "Multiple fission is a reproductive strategy used by certain organisms like Plasmodium, allowing them to survive in hostile conditions by producing numerous offspring at once when needed.",
+      "question": "What organism is known for multiple fission?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "During the storage of grains, various biotic factors such as insects, rodents, mites, fungi, bacteria, etc.",
+      "question": "What are biotic factors in grain storage?"
+    },
+    {
+      "context": "These factors act on stored grains and result in degradation, poor germinability, discolouration, etc.",
+      "question": "What are the consequences of these factors on grains?"
+    },
+    {
+      "context": "Various abiotic factors such as inappropriate moisture, temperature, lack of sunlight, flood, etc. are responsible for losses of grains.",
+      "question": "What abiotic factors affect grain storage?"
+    },
+    {
+      "context": "Insects, rodents, and fungi are some among several biotic factors responsible for grain losses.",
+      "question": "Which organisms are considered biotic factors?"
+    },
+    {
+      "context": "Factors such as inappropriate moisture and temperature can lead to significant losses in stored grains.",
+      "question": "How do moisture and temperature affect grains?"
+    },
+    {
+      "context": "Several abiotic and biotic factors can lead to grain degradation and loss during storage.",
+      "question": "What leads to grain loss during storage?"
+    },
+    {
+      "context": "Rodents and mites are examples of organisms that damage stored grains.",
+      "question": "Which pests can cause harm to storage grains?"
+    },
+    {
+      "context": "Floods and lack of sunlight can impair the quality of stored grains.",
+      "question": "How do floods impact grain storage?"
+    }
+  ]
+}

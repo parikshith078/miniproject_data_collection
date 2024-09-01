@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mitochondria are known as the powerhouses of the cell, where cellular respiration occurs. This process involves converting oxygen and nutrients into energy, primarily in the form of ATP. Additionally, water is produced as a byproduct of these reactions. Mitochondria are essential for energy production and also play a role in regulating cellular metabolism.",
+      "question": "What is the main function of mitochondria?"
+    },
+    {
+      "context": "In mitochondria, the process of cellular respiration consists of several stages including the Krebs cycle and oxidative phosphorylation. During these processes, glucose and oxygen are used to generate ATP, with carbon dioxide and water as waste products. This energy production is critical for various cellular activities and overall cellular health.",
+      "question": "What two substances are primarily used in mitochondria?"
+    },
+    {
+      "context": "Mitochondria are involved in energy production through the breakdown of glucose and other substrates via oxidative phosphorylation. They also stabilize cellular metabolism by regulating mitochondrial biogenesis and apoptosis. The inner mitochondrial membrane houses the electron transport chain, which is crucial for ATP synthesis.",
+      "question": "How do mitochondria contribute to cellular metabolism?"
+    },
+    {
+      "context": "Mitochondria not only generate ATP but also help maintain cellular homeostasis by regulating the balance of ions and metabolites. They participate in signaling pathways that control cell growth, survival, and metabolism. Mitochondria help in the production of reactive oxygen species which play a role in cell signaling.",
+      "question": "What role do mitochondria play beyond energy production?"
+    },
+    {
+      "context": "Mitochondria contain their own DNA and ribosomes, allowing them to produce some of their proteins independently. This feature suggests a unique evolutionary history for mitochondria, originally being free-living bacteria that formed a symbiotic relationship with a host cell. This endosymbiotic theory is widely accepted among scientists.",
+      "question": "Why do mitochondria have their own DNA?"
+    }
+  ]
+}

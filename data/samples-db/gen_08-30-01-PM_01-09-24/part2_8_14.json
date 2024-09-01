@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "These phenomena are the result of changes that take place in our atmosphere due to the heating of air and the formation of water vapour. Water vapour is formed due to the heating of water bodies and the activities of living organisms.",
+      "question": "What causes the formation of water vapour?"
+    },
+    {
+      "context": "The rise in temperature creates a low pressure zone which attracts cool air from high pressure zone and pushes up the hot air. Thus the atmosphere can be heated from below by the radiation that is reflected back or re-radiated by the land or water bodies.",
+      "question": "How does high pressure influence air movement?"
+    },
+    {
+      "context": "On being heated, convection currents are set up in the air. These phenomena are the result of changes that take place in our atmosphere due to the heating of air and the formation of water vapour.",
+      "question": "What role do convection currents play in air movement?"
+    },
+    {
+      "context": "The rise in temperature creates a low pressure zone which attracts cool air from high pressure zone and pushes up the hot air. On being heated, convection currents are set up in the air.",
+      "question": "What happens to air when it heats up?"
+    },
+    {
+      "context": "Water vapour is formed due to the heating of water bodies and the activities of living organisms. The rise in temperature creates a low pressure zone which attracts cool air from high pressure zone.",
+      "question": "What is the relationship between water bodies and air pressure?"
+    }
+  ]
+}

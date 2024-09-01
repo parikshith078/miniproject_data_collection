@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Animal husbandry is a scientific management practice that enhances various types of food production. For instance, it helps in enhancing milk production, increasing egg production, boosting meat production, and even improving fish production. Additionally, it plays a significant role in the proper management of agricultural wastes, making it a valuable practice for farmers.",
+      "question": "What are the benefits of animal husbandry?"
+    },
+    {
+      "context": "The practice of animal husbandry involves the careful scientific management of farm animals. This management not only focuses on raising healthy animals but also significantly contributes to enhancing milk production, improving egg yields, increasing meat supply, and raising fish. Furthermore, it aids in the effective disposal and management of agricultural waste.",
+      "question": "How does animal husbandry improve food production?"
+    },
+    {
+      "context": "Scientific management of farm animals, referred to as animal husbandry, serves numerous functions for humans. It not only enhances milk and egg production but also boosts the quantity of meat and fish produced. In addition to these benefits, it helps in the effective management of agricultural waste, showcasing its importance in farming systems.",
+      "question": "How does animal husbandry assist in waste management?"
+    },
+    {
+      "context": "Animal husbandry is crucial for the efficient management of farm animals, leading to various advantages for human consumption. This includes greater quantities of milk, eggs, and meat produced. Another plus is the contribution to fish production and the ability to manage agricultural waste properly, making it a vital element in agriculture.",
+      "question": "What types of production are improved by animal husbandry?"
+    }
+  ]
+}

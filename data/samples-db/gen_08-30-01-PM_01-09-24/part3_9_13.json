@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Darwin observed that organisms have unlimited capacity to reproduce and can produce offspring rapidly.",
+      "question": "What is the key point about reproduction in Darwin's theory?"
+    },
+    {
+      "context": "According to Darwin, higher numbers of offspring increase survival chances of the species.",
+      "question": "Why is producing more offspring important?"
+    },
+    {
+      "context": "Darwin's insights into species evolution highlighted the ability of organisms to reproduce at a fast pace.",
+      "question": "What did Darwin emphasize about the speed of reproduction?"
+    },
+    {
+      "context": "In 'Origin of Species', Darwin discussed the significance of offspring for survival of species.",
+      "question": "What did Darwin say about offspring and survival?"
+    },
+    {
+      "context": "Darwin theorized that organisms can reproduce quickly, which aids in their survival.",
+      "question": "How does rapid reproduction aid organisms according to Darwin?"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Fossils also indicate connecting links between the two groups of organisms. For example, Archaeopteryx is a connecting link between reptiles and birds.",
+      "question": "What is Archaeopteryx's significance in evolution?"
+    },
+    {
+      "context": "Fossils also indicate connecting links between the two groups of organisms. For example, Archaeopteryx is a connecting link between reptiles and birds.",
+      "question": "Which two groups does Archaeopteryx connect?"
+    },
+    {
+      "context": "Fossils also indicate connecting links between the two groups of organisms. For example, Archaeopteryx is a connecting link between reptiles and birds.",
+      "question": "What role do fossils play in understanding evolution?"
+    },
+    {
+      "context": "Fossils also indicate connecting links between the two groups of organisms. For example, Archaeopteryx is a connecting link between reptiles and birds.",
+      "question": "Give an example of a connecting link in evolution."
+    }
+  ]
+}

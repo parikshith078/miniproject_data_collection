@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Permanent tissue is formed when meristematic cells undergo differentiation. These cells lose their ability to divide and become specialized for specific functions.",
+      "question": "What happens to meristematic tissue during differentiation?"
+    },
+    {
+      "context": "Once meristematic tissue undergoes differentiation, it becomes permanent tissue with a definite structure and function.",
+      "question": "How do cells transform into permanent tissue?"
+    },
+    {
+      "context": "Differentiation enables meristematic tissue cells to perform specific functions, and once this occurs, they form permanent tissue.",
+      "question": "What is the outcome of cell differentiation in plants?"
+    },
+    {
+      "context": "Cells produced by meristematic tissues either continue to divide or stop dividing and form permanent tissue with specific roles.",
+      "question": "What determines whether a cell becomes permanent tissue?"
+    },
+    {
+      "context": "After cells differentiate from meristematic tissue, they lose the capability to divide, signaling the establishment of permanent tissue.",
+      "question": "What capability do cells lose after differentiation?"
+    }
+  ]
+}

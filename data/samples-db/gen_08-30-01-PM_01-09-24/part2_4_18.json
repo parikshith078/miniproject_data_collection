@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Infectious diseases spread from an infected person to a healthy person through air, water, food, vectors, physical contact, and sexual contact.",
+      "question": "What are the means of disease spread?"
+    },
+    {
+      "context": "Infectious diseases spread from an infected person to a healthy person through air, water, food, vectors, physical contact, and sexual contact.",
+      "question": "How do infectious diseases typically spread?"
+    },
+    {
+      "context": "Infectious diseases spread from an infected person to a healthy person through air, water, food, vectors, physical contact, and sexual contact.",
+      "question": "Name a way diseases can spread."
+    },
+    {
+      "context": "Infectious diseases spread from an infected person to a healthy person through air, water, food, vectors, physical contact, and sexual contact.",
+      "question": "What role does physical contact play in disease transmission?"
+    },
+    {
+      "context": "Infectious diseases spread from an infected person to a healthy person through air, water, food, vectors, physical contact, and sexual contact.",
+      "question": "List one vector of infectious disease."
+    }
+  ]
+}

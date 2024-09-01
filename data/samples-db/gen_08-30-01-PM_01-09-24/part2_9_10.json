@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In fact, the sun is the main source of energy for every activity on earth. This energy facilitates the everlasting cycle of all resources in the biosphere.",
+      "question": "What is the main source of energy on Earth?"
+    },
+    {
+      "context": "A living organism is made of Carbon, Oxygen, Nitrogen and other elements. All living organisms need a regular dose of these elements to continue life.",
+      "question": "What elements are living organisms made of?"
+    },
+    {
+      "context": "During a lifetime, all these things are returned to the atmosphere in some way. For example, we return oxygen in the form of carbon dioxide and return water in the form of sweat or urine.",
+      "question": "How do organisms return oxygen to the atmosphere?"
+    },
+    {
+      "context": "Ultimately when a living being dies, then the body gets decomposed and returns these elements back to earth.",
+      "question": "What happens to the body of a living being after it dies?"
+    },
+    {
+      "context": "This system ensures that whatever we take from earth and its atmosphere we return it in some way or another.",
+      "question": "What does the energy cycle ensure about resources?"
+    }
+  ]
+}

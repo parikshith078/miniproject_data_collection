@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "Vegetative propagation is the ability of plants to reproduce by bringing forth new plants from existing vegetative structures without sexual reproduction. Some examples of vegetative propagation are given below.",
+      "question": "What is vegetative propagation in plants?"
+    },
+    {
+      "context": "The potato tuber is a modified stem. Many notches can be seen on the surface of potato. These are called ‘eyes’ of potato. Each ‘eye’ of a potato can give rise to a new potato plant.",
+      "question": "What do the 'eyes' of a potato do?"
+    },
+    {
+      "context": "Farmers utilize this capability of potatoes to grow potato more quickly; which is not possible by using the seeds of potato.",
+      "question": "Why do farmers prefer vegetative propagation for potatoes?"
+    }
+  ]
+}

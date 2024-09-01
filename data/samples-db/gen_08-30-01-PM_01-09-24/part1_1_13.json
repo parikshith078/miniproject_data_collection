@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Leucoplasts are responsible for storing food; such as carbohydrates, protein and lipid.",
+      "question": "What do leucoplasts store in plants?"
+    },
+    {
+      "context": "Chromoplasts impart various colours to the plant parts.",
+      "question": "What is the function of chromoplasts in plants?"
+    },
+    {
+      "context": "A leaf of a plant is green in colour because of chloroplast. Chloroplast is the site of photosynthesis.",
+      "question": "What gives leaves their green colour?"
+    },
+    {
+      "context": "Leucoplasts are responsible for storing food; such as carbohydrates, protein and lipid.",
+      "question": "Name one type of food stored by leucoplasts."
+    },
+    {
+      "context": "Chromoplasts impart various colours to the plant parts.",
+      "question": "Which plastids are responsible for plant coloration?"
+    },
+    {
+      "context": "A leaf of a plant is green in colour because of chloroplast. Chloroplast is the site of photosynthesis.",
+      "question": "What is the primary role of chloroplasts?"
+    }
+  ]
+}

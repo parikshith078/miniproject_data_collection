@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Parasitic disease is typically caused by the parasite’s entry into the body via the skin or mouth. It is not unusual to pick up parasitic infections from soil.",
+      "question": "How do parasites typically enter the body?"
+    },
+    {
+      "context": "It is not unusual to pick up parasitic infections from soil, typically by either walking barefoot or by placing the hands in the dirt.",
+      "question": "What are common ways to contract parasitic infections?"
+    },
+    {
+      "context": "Often people carry a parasite without ever knowing it. Parasitic disease is typically caused by the parasite’s entry into the body.",
+      "question": "Can people be aware of carrying a parasite?"
+    },
+    {
+      "context": "It is not unusual to pick up parasitic infections from soil, typically by either walking barefoot and allowing entry through the feet.",
+      "question": "What can cause skin entry of parasites?"
+    },
+    {
+      "context": "Parasitic disease is typically caused by the parasite’s entry into the body via the skin or mouth, often without noticeable symptoms.",
+      "question": "What entry routes cause parasitic diseases?"
+    }
+  ]
+}

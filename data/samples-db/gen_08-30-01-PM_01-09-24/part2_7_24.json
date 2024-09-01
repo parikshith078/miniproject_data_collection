@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Coping with a parasitic disease can be stressful, more so when the patient believes that parasites come from being dirty.",
+      "question": "Why can coping with a parasitic disease be stressful?"
+    },
+    {
+      "context": "Parasites can be contracted regardless of the cleanliness of the home.",
+      "question": "Can parasites infect a clean home?"
+    },
+    {
+      "context": "While hand washing and overall cleanliness are positive ways to prevent parasitic infections and diseases, they in no way guarantee that parasites won’t infect a family member.",
+      "question": "What does cleanliness not guarantee against?"
+    },
+    {
+      "context": "Parasites can be contracted regardless of the cleanliness of the home.",
+      "question": "What factor does not prevent parasite contraction?"
+    },
+    {
+      "context": "Coping with a parasitic disease can be stressful, more so when the patient believes that parasites come from being dirty.",
+      "question": "How can misconceptions about cleanliness affect patients?"
+    }
+  ]
+}

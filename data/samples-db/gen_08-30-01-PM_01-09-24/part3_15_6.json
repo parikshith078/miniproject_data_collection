@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Coal and petroleum are commonly used as energy sources, but their usage should be minimised due to environmental concerns. Alternatives include using CNG or LPG as fuels in automobiles. Renewable sources such as solar power, hydropower, and wind energy are better options for sustainable energy needs.",
+      "question": "What should be used instead of coal? "
+    },
+    {
+      "context": "It is advised to minimise the use of coal and petroleum. To combat pollution, CNG and LPG can serve as effective fuels for automobiles. Moreover, shifting to renewable energy sources like solar power is encouraged.",
+      "question": "What fuels can replace coal and petroleum in vehicles?"
+    },
+    {
+      "context": "Minimising coal and petroleum usage is crucial for environmental health. Alternatives like CNG or LPG in vehicles and renewable energy sources such as solar, wind, and hydropower can significantly reduce our carbon footprint.",
+      "question": "What are some renewable energy sources?"
+    },
+    {
+      "context": "The use of coal and petroleum has a negative impact on the environment, making it important to explore alternatives. Using CNG and LPG in automobiles and relying on renewable sources like solar energy is recommended.",
+      "question": "Why should coal and petroleum usage be minimised?"
+    },
+    {
+      "context": "To address energy needs sustainably, the shift from coal and petroleum to alternatives such as CNG and LPG in cars is essential. Furthermore, incorporating renewable energies like wind and solar power enhances energy security.",
+      "question": "Which sources are better than coal and petroleum?"
+    }
+  ]
+}

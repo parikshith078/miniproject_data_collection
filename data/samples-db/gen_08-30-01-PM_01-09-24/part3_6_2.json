@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "In case of any injury to the spinal cord, the signals coming from the nerves as well as the signals coming to the receptors will be disrupted. This disruption can lead to loss of movement, sensation, or both, depending on the severity of the injury.",
+      "question": "What happens to signals during spinal cord injury?"
+    },
+    {
+      "context": "In case of any injury to the spinal cord, the signals coming from the nerves as well as the signals coming to the receptors will be disrupted. This can significantly affect the body's ability to communicate and respond to stimuli.",
+      "question": "How does spinal cord injury affect signal communication?"
+    },
+    {
+      "context": "In case of any injury to the spinal cord, the signals coming from the nerves as well as the signals coming to the receptors will be disrupted. The result is that messages between the brain and the body do not function properly.",
+      "question": "What results from disrupted signals in spinal cord injury?"
+    },
+    {
+      "context": "In case of any injury to the spinal cord, the signals coming from the nerves as well as the signals coming to the receptors will be disrupted. This can lead to various physical disabilities and changes in bodily functions.",
+      "question": "What are the consequences of disrupted signals in the body?"
+    }
+  ]
+}

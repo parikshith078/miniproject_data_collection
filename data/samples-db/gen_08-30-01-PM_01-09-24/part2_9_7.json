@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The carbon cycle is the biogeochemical cycle by which carbon is exchanged among the biosphere, pedosphere, geosphere, hydrosphere, and atmosphere of the Earth. The cycle is usually thought of as four major reservoirs of carbon interconnected by pathways of exchange. These reservoirs are: (I) The atmosphere.",
+      "question": "What is the first reservoir of carbon?"
+    },
+    {
+      "context": "These reservoirs are: (I) The atmosphere. (II) The terrestrial biosphere, which is usually defined to include freshwater systems and non-living organic material, such as soil carbon.",
+      "question": "What are included in the terrestrial biosphere?"
+    },
+    {
+      "context": "The carbon cycle is the biogeochemical cycle by which carbon is exchanged among the biosphere, pedosphere, geosphere, hydrosphere, and atmosphere of the Earth. These reservoirs are: (III) The oceans, including dissolved inorganic carbon and living and non-living marine biota.",
+      "question": "What do the oceans contain regarding carbon?"
+    },
+    {
+      "context": "These reservoirs are: (I) The atmosphere. (II) The terrestrial biosphere. (III) The oceans, including dissolved inorganic carbon and living and non-living marine biota, (IV) The sediments including fossil fuels.",
+      "question": "What are the four major reservoirs of carbon?"
+    }
+  ]
+}

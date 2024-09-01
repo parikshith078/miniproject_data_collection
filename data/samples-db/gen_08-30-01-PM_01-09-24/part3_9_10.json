@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Thus sometimes accidents may also result in changes in certain characters of the population.",
+      "question": "What can cause changes in population characters?"
+    },
+    {
+      "context": "This is known as 'Genetic drift', which provides diversity in the population.",
+      "question": "What is the term for changes in gene frequency?"
+    },
+    {
+      "context": "Thus there is change in the frequency of genes in small populations.",
+      "question": "In which populations does genetic drift occur?"
+    },
+    {
+      "context": "Characters as we know are governed by genes.",
+      "question": "What governs the characters of a population?"
+    },
+    {
+      "context": "Thus sometimes accidents may also result in changes in certain characters of the population.",
+      "question": "What role do accidents play in genetic drift?"
+    }
+  ]
+}

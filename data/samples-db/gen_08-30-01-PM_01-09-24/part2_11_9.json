@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Improving crop yields involves the practices carried out by farmers to achieve higher standards of crop production. It includes: 1. Choice of seeds for planting 2. Nurturing of the crop plants 3. Protection of the growing and harvested crops from loss.",
+      "question": "What is involved in improving crop yields?"
+    },
+    {
+      "context": "The major activities for improving crop yields can be classified as (i) Crop variety improvement (ii) Crop production improvement (iii) Crop protection improvement.",
+      "question": "What are the major activities for crop yield improvement?"
+    },
+    {
+      "context": "Improving crop yields involves the practices carried out by farmers to achieve higher standards of crop production. It includes the choice of seeds for planting and nurturing of the crop plants.",
+      "question": "What practices are involved in crop production?"
+    },
+    {
+      "context": "Crop variety improvement focuses on selecting and breeding plants for desirable traits to increase productivity and resilience against diseases and pests.",
+      "question": "What does crop variety improvement focus on?"
+    },
+    {
+      "context": "Protection of the growing and harvested crops from loss is crucial for ensuring that farmers achieve the highest possible crop yields.",
+      "question": "Why is crop protection important?"
+    }
+  ]
+}

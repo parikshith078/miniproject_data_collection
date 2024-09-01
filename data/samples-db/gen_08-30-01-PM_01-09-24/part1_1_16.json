@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "Robert Hooke was the first to discover cells in 1665. He observed thin slices of cork and described the empty spaces he saw as 'cells', which is derived from the Latin word 'cella', meaning small room.",
+      "question": "Who discovered cells in 1665?"
+    },
+    {
+      "context": "Leeuwenhoek was the first to discover free living cells in pond water in 1674. He used a simple microscope he had made himself to observe these microorganisms for the first time.",
+      "question": "What did Leeuwenhoek discover in 1674?"
+    },
+    {
+      "context": "Robert Brown discovered the nucleus in 1831, which he observed in plant cells. This discovery was pivotal in understanding cell biology and the role of the nucleus in cellular function.",
+      "question": "Who discovered the nucleus and when?"
+    }
+  ]
+}

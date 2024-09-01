@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "These animals have pores all over their body. The pores lead into the canal system. Water flows through the canal system and facilitates entry of food and exchange of other materials.",
+      "question": "How does water flow benefit sponges?"
+    },
+    {
+      "context": "The animal is not differentiated into tissues. The body is covered with a hard outer skeleton. These are commonly known as sponges.",
+      "question": "What is unique about sponge tissue structure?"
+    },
+    {
+      "context": "They are marine animals. Examples: Sycon, spongilla, euplectelea, etc.",
+      "question": "Can you name some examples of sponges?"
+    },
+    {
+      "context": "Water flows through the canal system and facilitates entry of food and exchange of other materials.",
+      "question": "What role does the canal system play in sponges?"
+    },
+    {
+      "context": "The body is covered with a hard outer skeleton. These are commonly known as sponges.",
+      "question": "What covers the body of sponges?"
+    }
+  ]
+}

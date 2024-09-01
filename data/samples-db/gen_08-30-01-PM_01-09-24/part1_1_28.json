@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Osmosis is a fundamental process in biological systems, involving the movement of water across cell membranes. It occurs through selectively permeable membranes and is essential for maintaining the proper function of cells.",
+      "question": "What role does osmosis play in cells?"
+    },
+    {
+      "context": "In osmosis, water molecules move to balance the concentration of solutes on either side of a membrane. This process is crucial for cell survival, as it helps regulate fluid balance within and outside the cells.",
+      "question": "How do water molecules balance solute concentrations?"
+    },
+    {
+      "context": "Understanding osmosis is important in many scientific fields, particularly biology and chemistry. It affects how plants absorb water and nutrients from the soil, influencing their growth and health.",
+      "question": "Why is osmosis important for plant growth?"
+    },
+    {
+      "context": "The direction of water movement during osmosis depends on the concentration gradient. Water moves from areas of lower solute concentration to areas of higher solute concentration until equilibrium is reached.",
+      "question": "What determines the direction of water movement in osmosis?"
+    },
+    {
+      "context": "Osmosis can have significant effects in various scenarios, such as when cells are placed in solutions of different concentrations. This can lead to cell swelling or shrinking depending on the surrounding solution's osmolarity.",
+      "question": "What happens to cells in different osmotic solutions?"
+    }
+  ]
+}

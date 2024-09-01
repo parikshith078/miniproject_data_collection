@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "PLANTAE are multicellular and autotrophs. Presence of chlorophyll is a distinct characteristic of plants, because of which they are capable of doing photosynthesis. Cell wall is present.",
+      "question": "What are the main characteristics of Plantae?"
+    },
+    {
+      "context": "These are multicellular and autotrophs. Presence of chlorophyll is a distinct characteristic of plants, because of which they are capable of doing photosynthesis. Cell wall is present.",
+      "question": "Why do plants perform photosynthesis?"
+    },
+    {
+      "context": "Presence of chlorophyll is a distinct characteristic of plants, because of which they are capable of doing photosynthesis.",
+      "question": "What pigment allows plants to photosynthesize?"
+    },
+    {
+      "context": "PLANTAE are multicellular and autotrophs. Presence of chlorophyll is a distinct characteristic of plants, because of which they are capable of doing photosynthesis.",
+      "question": "Are plants unicellular or multicellular?"
+    },
+    {
+      "context": "Cell wall is present in PLANTAE, which distinguishes them from other kingdoms of life.",
+      "question": "What structure is present in plant cells but not in animal cells?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Xylem is mainly concerned with the transport of nutrients, water and minerals upwards in the plant body. It forms a continuous tube through the roots, stems, leaves, flowers and fruits by the fusion of elongated cells.",
+      "question": "What does xylem transport in plants?"
+    },
+    {
+      "context": "It is composed of different kinds of cells namely, 1. Tracheids 2. Xylem vessels. 3. Xylem fibres 4. Xylem parenchyma.",
+      "question": "Name the components of xylem tissue."
+    },
+    {
+      "context": "Xylem is mainly concerned with the transport of nutrients, water and minerals upwards in the plant body.",
+      "question": "What is the primary function of xylem?"
+    },
+    {
+      "context": "It forms a continuous tube through the roots, stems, leaves, flowers and fruits by the fusion of elongated cells.",
+      "question": "How does xylem form a transport system?"
+    },
+    {
+      "context": "Xylem is mainly concerned with the transport of nutrients, water and minerals upwards in the plant body.",
+      "question": "What role does xylem play in plant physiology?"
+    }
+  ]
+}

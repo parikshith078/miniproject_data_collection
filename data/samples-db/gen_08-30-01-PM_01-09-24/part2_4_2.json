@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Coronary heart disease is the leading cause of death globally and is caused by atherosclerosis.",
+      "question": "What causes coronary heart disease?"
+    },
+    {
+      "context": "Heart disease encompasses various forms, with coronary heart disease being the most prevalent worldwide.",
+      "question": "Which type of heart disease is the most common?"
+    },
+    {
+      "context": "Ischemic heart disease is also referred to as coronary heart disease.",
+      "question": "What is another name for coronary heart disease?"
+    },
+    {
+      "context": "The disease of the blood vessels that leads to coronary heart disease is known as atherosclerosis.",
+      "question": "What is atherosclerosis?"
+    },
+    {
+      "context": "Coronary artery disease is a significant type of heart disease that impacts blood vessels.",
+      "question": "What is coronary artery disease?"
+    }
+  ]
+}

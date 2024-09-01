@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The cerebrum is the largest part in the human brain. It is divided into two hemispheres; called cerebral hemispheres. The cerebrum controls the voluntary motor actions.",
+      "question": "What actions does the cerebrum control?"
+    },
+    {
+      "context": "It is the site of sensory perceptions; like tactile and auditory perceptions. The cerebrum is the largest part in the human brain.",
+      "question": "What types of perceptions occur in the cerebrum?"
+    },
+    {
+      "context": "It is the seat of learning and memory. The cerebrum controls the voluntary motor actions.",
+      "question": "What important functions are associated with the cerebrum?"
+    },
+    {
+      "context": "The cerebrum controls the voluntary motor actions. It is the site of sensory perceptions; like tactile and auditory perceptions.",
+      "question": "How does the cerebrum contribute to sensory experiences?"
+    },
+    {
+      "context": "The cerebrum is divided into two hemispheres; called cerebral hemispheres. It is the seat of learning and memory.",
+      "question": "What is the structure of the cerebrum?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "The nitrogen cycle is the biogeochemical cycle that describes the transformations of nitrogen and nitrogen-containing compounds in nature. It is a cycle which includes gaseous components. Earth’s atmosphere is about 78% nitrogen, making it the largest pool of nitrogen. Nitrogen is essential for many biological processes; it is crucial for any life here on Earth.",
+      "question": "Why is nitrogen essential for life?"
+    },
+    {
+      "context": "Processing, or fixation, is necessary to convert gaseous nitrogen into forms usable by living organisms. Some fixation occurs in lightning strikes, but most fixation is done by free-living or symbiotic bacteria.",
+      "question": "What process converts gaseous nitrogen for use by organisms?"
+    },
+    {
+      "context": "In plants, much of the nitrogen is used in chlorophyll molecules which are essential for photosynthesis and further growth. Processing, or fixation, is necessary to convert gaseous nitrogen into forms usable by living organisms.",
+      "question": "How is nitrogen used in plants?"
+    },
+    {
+      "context": "Some nitrogen fixing bacteria, such as Rhizobium, live in the root nodules of legumes (such as peas or beans). Here they form a mutualistic relationship with the plant, producing ammonia in exchange for carbohydrates.",
+      "question": "What is a mutualistic relationship in the nitrogen cycle?"
+    },
+    {
+      "context": "A few other plants can form such symbioses. Nowadays, a very considerable portion of nitrogen is fixated in ammonia chemical plants.",
+      "question": "Where is nitrogen fixated in large amounts today?"
+    },
+    {
+      "context": "Nitrogen is in all amino acids, is incorporated into proteins, and is present in the bases that make up nucleic acids, such as DNA and RNA. In plants, much of the nitrogen is used in chlorophyll molecules which are essential for photosynthesis and further growth.",
+      "question": "What role does nitrogen play in DNA?"
+    },
+    {
+      "context": "Nitrogen fixing bacteria have the nitrogenase enzyme that combines gaseous nitrogen with hydrogen to produce ammonia, which is then further converted by the bacteria to make its own organic compounds.",
+      "question": "What enzyme is involved in nitrogen fixation?"
+    },
+    {
+      "context": "Nutrient-poor soils can be planted with legumes to enrich them with nitrogen. A few other plants can form such symbioses.",
+      "question": "How do legumes improve soil nutrient content?"
+    }
+  ]
+}

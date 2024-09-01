@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mendel selected the garden pea plant, Pisum sativum for his experiments. He selected tall and dwarf plants and allowed them to grow naturally. As pea plants produce seeds only by self-pollination, he observed that tall plants produced always tall plants generation after generation under natural conditions.",
+      "question": "What plants did Mendel select for his experiment?"
+    },
+    {
+      "context": "When a pure breeding tall plant was crossed with a pure breeding dwarf plant, all plants were tall in the first filial generation (F1) i.e., there was not any medium height plants or dwarf plants.",
+      "question": "What was the result of the first cross between tall and dwarf plants?"
+    },
+    {
+      "context": "This means that only one of the parental traits were seen and not the mixture of the two. When such an F1 tall plant was allowed to have self-pollination, both the tall and dwarf plants appeared in the second filial generation (F2) in the ratio of 3:1.",
+      "question": "What does the 3:1 ratio in F2 signify?"
+    },
+    {
+      "context": "Hence, he termed the tall and dwarf plants as wild types or pure breeding varieties. Then he crossed a tall plant with a dwarf plant, produced progeny and calculated the percentage of tallness and dwarfness in subsequent generations.",
+      "question": "What terms did Mendel use for his pure breeding varieties?"
+    },
+    {
+      "context": "This indicates that both tallness and dwarfness were inherited in the F1 plants but only tallness trait was expressed.",
+      "question": "What traits were inherited in the F1 generation?"
+    }
+  ]
+}

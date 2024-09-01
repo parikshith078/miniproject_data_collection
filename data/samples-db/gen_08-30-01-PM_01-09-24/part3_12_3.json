@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The nutrient movement is a cyclic movement where the nutrients revolve round with an ecosystem, hence cyclic. Nutrients pass from abiotic nutrient stores, such as the soil and the atmosphere, into biotic, plant and animal stores (the biomass).",
+      "question": "What type of movement is nutrient movement?"
+    },
+    {
+      "context": "Nutrients pass from abiotic nutrient stores, such as the soil and the atmosphere, into biotic, plant and animal stores (the biomass).",
+      "question": "Where do nutrients move from in an ecosystem?"
+    },
+    {
+      "context": "Nutrients are then recycled, within the ecosystem, following death and decomposition.",
+      "question": "What happens to nutrients after an organism dies?"
+    },
+    {
+      "context": "Nutrients pass from abiotic nutrient stores, such as the soil and the atmosphere, into biotic, plant and animal stores (the biomass). The nutrients are then recycled.",
+      "question": "How are nutrients stored in an ecosystem?"
+    },
+    {
+      "context": "The nutrient movement is a cyclic movement where the nutrients revolve round with an ecosystem, hence cyclic. Nutrients pass from abiotic nutrient stores, such as the soil and the atmosphere, into biotic, plant and animal stores.",
+      "question": "What defines the nutrient movement in ecosystems?"
+    }
+  ]
+}

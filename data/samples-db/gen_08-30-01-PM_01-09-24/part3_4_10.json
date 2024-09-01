@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The human brain can be divided into three regions, viz. forebrain, midbrain and hindbrain.",
+      "question": "What are the three regions of the human brain?"
+    },
+    {
+      "context": "Forebrain: It is composed of the cerebrum.",
+      "question": "What is the main structure of the forebrain?"
+    },
+    {
+      "context": "Midbrain: It is composed of the hypothalamus.",
+      "question": "Which structure composes the midbrain?"
+    },
+    {
+      "context": "Hindbrain: It is composed of the cerebellum, pons and medulla oblongata.",
+      "question": "What structures make up the hindbrain?"
+    },
+    {
+      "context": "The human brain can be divided into three regions, viz. forebrain, midbrain and hindbrain.",
+      "question": "Name one of the three regions of the brain."
+    },
+    {
+      "context": "Hindbrain: It is composed of the cerebellum, pons and medulla oblongata.",
+      "question": "Which brain region includes the cerebellum?"
+    }
+  ]
+}

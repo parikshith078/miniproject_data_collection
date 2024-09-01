@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The reflex arc passes at the level of the spinal cord and the signals involved in reflex action do not travel up to the brain. This is important because sending signals to the brain would involve more time.",
+      "question": "Why do reflex actions not go to the brain?"
+    },
+    {
+      "context": "The relay neuron is present in the spinal cord. The spinal cord sends signals to the effector via the motor neuron.",
+      "question": "Where is the relay neuron located?"
+    },
+    {
+      "context": "The following flow chart shows the flow of signal in a reflex arc. The receptor is the organ which comes in the danger zone.",
+      "question": "What is the function of the receptor in a reflex arc?"
+    },
+    {
+      "context": "The sensory neurons pick signals from the receptor and send them to the relay neuron. The effector comes in action moves the receptor away from the danger.",
+      "question": "What role do sensory neurons play in a reflex arc?"
+    },
+    {
+      "context": "The path through which nerves signals; involved in a reflex action; travel is called the reflex arc.",
+      "question": "What is the reflex arc?"
+    },
+    {
+      "context": "Although every action is ultimately controlled by the brain, the reflex action is mainly controlled at the level of spinal cord.",
+      "question": "Who ultimately controls every action?"
+    }
+  ]
+}

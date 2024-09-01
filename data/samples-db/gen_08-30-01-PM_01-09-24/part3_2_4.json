@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plants have no special organs for removal of wastes. The waste products of respiration and photosynthesis are used as raw materials for each other. Oxygen gas produced as a by-product of photosynthesis is used up during respiration and carbon dioxide produced during respiration is used up during photosynthesis.",
+      "question": "How do plants use waste products?"
+    },
+    {
+      "context": "Excretion is carried out in the plants in the following ways: The gaseous wastes, oxygen, carbon dioxide and water vapour are removed through stomata of leaves and lenticels of stems.",
+      "question": "What are the methods of excretion in plants?"
+    },
+    {
+      "context": "Some waste products collect in the leaves and bark of trees. When the leaves and bark are shed, the wastes are eliminated.",
+      "question": "What happens to waste in leaves and bark?"
+    },
+    {
+      "context": "Some waste products are rendered harmless and then stored in the plant body as solid bodies. Raphides, tannins, resins, gum, rubber and essential oils are some such wastes.",
+      "question": "What are examples of waste stored in plants?"
+    },
+    {
+      "context": "The gaseous wastes, oxygen, carbon dioxide and water vapour are removed through stomata of leaves and lenticels of stems.",
+      "question": "Which gases are excreted by plants?"
+    }
+  ]
+}

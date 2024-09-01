@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Xylem is responsible for transportation of water and minerals. It is composed of trachieds, xylem vessels, xylem parenchyma and xylem fibre. Trachieds and xylem vessels are the conducting elements.",
+      "question": "What is the function of xylem in plants?"
+    },
+    {
+      "context": "Phloem is responsible for transportation of food. Phloem is composed of sieve tubes, companion cells, phloem parenchyma and bast fibres. Sieve tubes are the conducting elements in phloem.",
+      "question": "What are the main components of phloem?"
+    },
+    {
+      "context": "The xylem makes a continuous tube in plants which runs from roots to stem and right up to the veins of leaves.",
+      "question": "How does xylem facilitate transportation in plants?"
+    },
+    {
+      "context": "Plants have specialized vascular tissues for transportation of substances. There are two types of vascular tissues in plants, viz. xylem and phloem.",
+      "question": "What are the two types of vascular tissues in plants?"
+    },
+    {
+      "context": "Xylem conducts water and minerals obtained from the soil (via roots) to the rest of the plant.",
+      "question": "What does xylem transport from the roots?"
+    },
+    {
+      "context": "Phloem transports food materials from the leaves to different parts of the plant body.",
+      "question": "Where does phloem transport food from?"
+    },
+    {
+      "context": "Xylem is composed of trachieds, xylem vessels, xylem parenchyma and xylem fibre.",
+      "question": "List the components of xylem."
+    },
+    {
+      "context": "Sieve tubes are the conducting elements in phloem.",
+      "question": "Which elements are responsible for conduction in phloem?"
+    }
+  ]
+}

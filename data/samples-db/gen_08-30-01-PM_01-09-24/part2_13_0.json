@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Preventive measures include proper soil and seed preparation, timely sowing of seeds, intercropping and mixed cropping, usage of resistant varieties of crops, etc.",
+      "question": "What are some preventive measures in crop protection?"
+    },
+    {
+      "context": "Preventive measures include proper soil and seed preparation, timely sowing of seeds, intercropping and mixed cropping, usage of resistant varieties of crops, etc.",
+      "question": "Why is timely sowing important in crop management?"
+    },
+    {
+      "context": "Preventive measures include proper soil and seed preparation, timely sowing of seeds, intercropping and mixed cropping, usage of resistant varieties of crops, etc.",
+      "question": "What is the benefit of using resistant crop varieties?"
+    },
+    {
+      "context": "Preventive measures include proper soil and seed preparation, timely sowing of seeds, intercropping and mixed cropping, usage of resistant varieties of crops, etc.",
+      "question": "How does intercropping help in crop protection?"
+    },
+    {
+      "context": "Preventive measures include proper soil and seed preparation, timely sowing of seeds, intercropping and mixed cropping, usage of resistant varieties of crops, etc.",
+      "question": "What role does soil preparation play in crop health?"
+    }
+  ]
+}

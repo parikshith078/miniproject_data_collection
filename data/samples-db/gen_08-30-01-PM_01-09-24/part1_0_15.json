@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The nucleolus is a spherical body rich in protein and RNA. It is the site of ribosome formation. There may be one or more nucleoli in the nucleoplasm. The chromatin is a network of fine threads composed of genetic material DNA and proteins.",
+      "question": "What is the function of the nucleolus?"
+    },
+    {
+      "context": "During cell division, chromatin is condensed into thick cord-like structures called Chromosomes. The chromosomes contain genes and each gene is responsible for one hereditary character of the organism.",
+      "question": "What happens to chromatin during cell division?"
+    },
+    {
+      "context": "Genes contain information for inheritance of features from parents to next generation in the form of DNA molecule. The chromosomes contain genes and each gene is responsible for one hereditary character of the organism.",
+      "question": "What do genes influence in organisms?"
+    },
+    {
+      "context": "The chromatin is a network of fine threads composed of genetic material DNA and proteins. During cell division, chromatin is condensed into thick cord-like structures called Chromosomes.",
+      "question": "What is chromatin made of?"
+    },
+    {
+      "context": "There may be one or more nucleoli in the nucleoplasm. The nucleolus is a spherical body rich in protein and RNA. It is the site of ribosome formation.",
+      "question": "What is the role of the nucleolus in the cell?"
+    }
+  ]
+}

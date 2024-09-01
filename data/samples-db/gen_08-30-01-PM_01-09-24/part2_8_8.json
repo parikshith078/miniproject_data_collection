@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Symptoms to help in finding out that the baby is sick are: (i) continuous crying (ii) drooping of eyes (iii) redness of eyes (iv) high temperature of body.",
+      "question": "What are some symptoms of illness in babies?"
+    },
+    {
+      "context": "Signs which help to indicate the sickness in baby (i) loose motions, stomach pain indicate diarrhoea. (ii) high fever, headache, muscular pain, feeling of shivering and cold indicate malaria.",
+      "question": "What signs may indicate a baby has diarrhoea?"
+    },
+    {
+      "context": "Doctors suggest for laboratory tests, if there is fever with no other symptoms to find out the kind of sickness.",
+      "question": "When do doctors suggest laboratory tests for babies?"
+    },
+    {
+      "context": "Redness and persistent rubbing of eyes indicate eye flu. (iv) pale skin, yellow urine, yellowing of eyes indicate jaundice.",
+      "question": "What indicates a baby may have eye flu?"
+    },
+    {
+      "context": "High fever, headache, muscular pain, feeling of shivering and cold indicate malaria.",
+      "question": "What symptoms are associated with malaria in babies?"
+    }
+  ]
+}

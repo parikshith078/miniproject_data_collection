@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Boys undergo significant physical developments during puberty. They often experience a sudden increase in height, while their voice deepens and the Adam's apple becomes more noticeable. Along with this, they also see their shoulders widen and their bodies become more muscular. Facial hair starts to appear, and hair also develops in areas such as the underarms and pubic region.",
+      "question": "What physical changes occur in boys during puberty?"
+    },
+    {
+      "context": "As boys hit puberty, several changes are observed. A notable growth spurt occurs where they grow taller. Their voices deepen significantly, and the Adam’s apple, a cartilage structure in the throat, becomes prominent. Additionally, their shoulders widen and they develop muscle mass.",
+      "question": "How does the voice change during boys' puberty?"
+    },
+    {
+      "context": "During puberty, boys grow taller quickly, and their deepening voices are marked by a noticeable Adam's apple. Increased muscle growth leads to broader shoulders, and they also begin to grow facial hair and hair in various body areas, including armpits and the pubis.",
+      "question": "What areas of the body experience hair growth in boys?"
+    },
+    {
+      "context": "Puberty brings various changes for boys, such as a sharp increase in height, a deepening voice, and the development of a more set jawline accentuated by a prominent Adam's apple. Along with broader shoulders, boys also notice facial hair growth and hair in underarm and pubic areas starting to emerge.",
+      "question": "What changes contribute to boys appearing more muscular during puberty?"
+    },
+    {
+      "context": "As boys mature into adolescence, they face rapid changes. Height increases dramatically as they experience growth spurts. Their voices typically become deeper, and they develop a more prominent Adam's apple. Increased muscle mass gives their bodies strength and definition.",
+      "question": "What role does muscle growth play in boys' physical development?"
+    }
+  ]
+}

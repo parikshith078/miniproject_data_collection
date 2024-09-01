@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Monocotyledonous plants have a single seed leaf in their seeds. This seed leaf serves as the baby plant during the early stages of development.",
+      "question": "What is a seed leaf?"
+    },
+    {
+      "context": "Examples of monocotyledonous plants include wheat, rice, and maize. These plants are characterized by their single seed leaf.",
+      "question": "Name an example of a monocotyledonous plant."
+    },
+    {
+      "context": "In monocotyledonous plants, the seed contains only one cotyledon. This is different from dicotyledonous plants which have two seed leaves.",
+      "question": "How many seed leaves do monocotyledonous plants have?"
+    },
+    {
+      "context": "Monocotyledonous plants, such as maize and wheat, are categorized based on their seed structure, specifically having only one seed leaf.",
+      "question": "What categorizes a plant as monocotyledonous?"
+    },
+    {
+      "context": "Maize, rice, and wheat are well-known monocotyledonous plants, which showcase the characteristics of having one seed leaf in their seeds.",
+      "question": "Which plants are examples of monocotyledons?"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "samples": [
+    {
+      "context": "Pneumonia is a serious disease of lungs characterised by accumulation of mucus/fluid in alveoli and bronchioles to that extent that breathing becomes difficult.",
+      "question": "What characterizes pneumonia?"
+    },
+    {
+      "context": "Pneumonia is caused by Streptococcus pneumoniae or Diplococcus pneumoniae, and Haemophilus influenzae.",
+      "question": "What causes pneumonia?"
+    },
+    {
+      "context": "A healthy person acquires the infection by inhaling the droplets/aerosols released by an infected person or even by sharing glasses and utensils with an infected person.",
+      "question": "How is pneumonia transmitted?"
+    },
+    {
+      "context": "The onset of pneumonia is usually sudden with a single shaking chill, followed by fever, pain with breathing on the side of lung involved.",
+      "question": "What are the symptoms of pneumonia?"
+    },
+    {
+      "context": "In severe cases the lips and finger nails turn grey to bluish in colour.",
+      "question": "What happens in severe pneumonia cases?"
+    },
+    {
+      "context": "The patients should be isolated and healthy persons should not share their belongings.",
+      "question": "How can pneumonia be prevented?"
+    },
+    {
+      "context": "Pneumococcal conjugate vaccine (PCV13) is available.",
+      "question": "What vaccine is used for pneumonia prevention?"
+    },
+    {
+      "context": "Drugs against pneumonia are erythromycin, tetracycline and sulphonamide.",
+      "question": "What are some treatments for pneumonia?"
+    },
+    {
+      "context": "If untreated, pneumonia leads to death.",
+      "question": "What can happen if pneumonia is untreated?"
+    }
+  ]
+}

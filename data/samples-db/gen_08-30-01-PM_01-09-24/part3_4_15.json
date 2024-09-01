@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Reflex arcs are formed in the spinal cord and the information (input) reaches the brain. The brain is only aware of the signal and the response that has taken place. However, the brain has no role to play in the creation of the response.",
+      "question": "What is the role of the brain in reflex arcs?"
+    },
+    {
+      "context": "The brain is only aware of the signal and the response that has taken place. However, the brain has no role to play in the creation of the response.",
+      "question": "Does the brain create the response in reflex arcs?"
+    },
+    {
+      "context": "The brain has no role to play in the creation of the response. Reflex arcs are formed in the spinal cord and the information (input) reaches the brain.",
+      "question": "Where are reflex arcs formed in the body?"
+    },
+    {
+      "context": "Reflex arcs are formed in the spinal cord and the information (input) reaches the brain. The brain is only aware of the signal.",
+      "question": "What does the brain become aware of in reflex arcs?"
+    }
+  ]
+}

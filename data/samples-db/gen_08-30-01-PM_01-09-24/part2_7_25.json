@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Good health of a person depends on factors such as social environment, public cleanliness, good economic conditions and earnings, and social equality and harmony. Each of these aspects plays a crucial role in an individual's overall well-being.",
+      "question": "What factors influence a person's health?"
+    },
+    {
+      "context": "Public cleanliness and good economic conditions are essential for maintaining good health. These contribute to a healthy living environment and provide the means for necessary health resources.",
+      "question": "How does public cleanliness affect health?"
+    },
+    {
+      "context": "Social equality and harmony contribute greatly to the good health of individuals. They ensure that everyone has access to health services and a supportive community.",
+      "question": "Why is social equality important for health?"
+    },
+    {
+      "context": "Economic conditions impact health; better earnings allow individuals to afford healthcare and sustain a healthy lifestyle. Poor economic conditions can lead to health issues.",
+      "question": "How do economic conditions relate to health?"
+    },
+    {
+      "context": "A person's health is determined by their social environment, including relationships and community support, which can significantly affect mental and physical health outcomes.",
+      "question": "What role does social environment play in health?"
+    }
+  ]
+}

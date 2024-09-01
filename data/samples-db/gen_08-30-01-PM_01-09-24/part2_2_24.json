@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The body is covered with hairs. These are warm-blooded animals. Most of the mammalians give birth to young ones and are called viviparous.",
+      "question": "What is the defining characteristic of mammals?"
+    },
+    {
+      "context": "These are warm-blooded animals. Most of the mammalians give birth to young ones and are called viviparous.",
+      "question": "What term describes mammals that give birth to live young?"
+    },
+    {
+      "context": "Examples: human, chimpanzee, lion, etc. These are warm-blooded animals.",
+      "question": "Name an example of a warm-blooded animal."
+    },
+    {
+      "context": "Most of the mammalians give birth to young ones and are called viviparous.",
+      "question": "What type of reproduction is associated with most mammals?"
+    },
+    {
+      "context": "The body is covered with hairs. These are warm-blooded animals.",
+      "question": "What physical feature is common among mammals?"
+    }
+  ]
+}

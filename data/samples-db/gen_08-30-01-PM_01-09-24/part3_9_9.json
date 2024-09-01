@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "In this situation a colour variation occurs again in its progeny during reproduction, but now it results in ‘Blue’ colour beetles instead of ‘red’ colour beetle. This blue colour beetle can pass its colour to its progeny. So that all its progeny are blue. Crows can see blue coloured beetles on the green leaves of the bushes and the red ones as well.",
+      "question": "What color are the new beetles in this scenario?"
+    },
+    {
+      "context": "By chance the few beetles survived are mostly blue. Crows can eat both red and blue coloured beetles, and there is no survival advantage for blue coloured beetles as we have seen in case of green coloured beetles.",
+      "question": "Why do blue beetles lack a survival advantage?"
+    },
+    {
+      "context": "Initially in the population, there are a few blue beetles, but most are red. An elephant comes by and stamps on the bushes where the beetles live. This kills most of the beetles.",
+      "question": "What event reduces the beetle population significantly?"
+    },
+    {
+      "context": "This blue colour beetle can pass its colour to its progeny. Imagine at this point an elephant comes by and stamps on the bushes where the beetles live. This kills most of the beetles.",
+      "question": "What happens to the beetles when the elephant arrives?"
+    },
+    {
+      "context": "Crows can see blue coloured beetles on the green leaves of the bushes and the red ones as well. In this case there is no survival advantage for blue coloured beetles.",
+      "question": "Which animal preys on both blue and red beetles?"
+    },
+    {
+      "context": "By chance the few beetles survived are mostly blue. This kills most of the beetles. What happens initially in the population, there are a few blue beetles, but most are red.",
+      "question": "What color are the surviving beetles after the event?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The cells of Bacteria and Cyanobacteria lack a well-organized nucleus and are called prokaryotic cells. Their DNA is not enclosed by a nuclear membrane.",
+      "question": "What type of cells are Bacteria classified as?"
+    },
+    {
+      "context": "Prokaryotic cells lack membrane-bound organelles and are considered to be primitive organisms.",
+      "question": "Why are prokaryotic cells considered primitive?"
+    },
+    {
+      "context": "The DNA of prokaryotic cells is not enclosed by a nuclear membrane unlike eukaryotic cells.",
+      "question": "How is the DNA structured in prokaryotic cells?"
+    },
+    {
+      "context": "Prokaryotic organisms are those that possess prokaryotic cells, including Bacteria and Cyanobacteria.",
+      "question": "Which organisms are classified as prokaryotes?"
+    },
+    {
+      "context": "Cyanobacteria are also known as blue-green algae and are examples of prokaryotic cells.",
+      "question": "What is another name for Cyanobacteria?"
+    },
+    {
+      "context": "Prokaryotic cells are differentiated from eukaryotic cells by the absence of a well-organized nucleus.",
+      "question": "What distinguishes prokaryotic cells from eukaryotic cells?"
+    }
+  ]
+}

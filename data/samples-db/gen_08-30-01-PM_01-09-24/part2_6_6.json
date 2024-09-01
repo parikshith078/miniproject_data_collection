@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Whooping cough is caused by Bordetella pertussis and is a common childhood disease affecting the respiratory system. Mode of transmission: It has an incubation period of 10 – 16 days. It spreads by droplet infection or by direct contact.",
+      "question": "What bacterium causes whooping cough?"
+    },
+    {
+      "context": "Symptoms of Whooping cough (Pertussis): It causes loss of appetite, fever, running nose, fatigue, sneezing and constant cough leaving the child breathless, tired and red in face.",
+      "question": "What are common symptoms of whooping cough?"
+    },
+    {
+      "context": "The child usually vomits and there is frothy discharge from his mouth and nose. There may be other complications like vomiting, convulsions and pneumonia.",
+      "question": "What complications can arise from whooping cough?"
+    },
+    {
+      "context": "Prevention and treatment of Whooping cough (Pertussis): Immunisation of the disease is done in infants by DPT vaccination at six weeks, three months and five months.",
+      "question": "How is whooping cough prevented in infants?"
+    },
+    {
+      "context": "Erythromycin antibiotic is used for the treatment. Whooping cough is caused by Bordetella pertussis and is a common childhood disease affecting the respiratory system.",
+      "question": "What treatment is typically used for whooping cough?"
+    }
+  ]
+}

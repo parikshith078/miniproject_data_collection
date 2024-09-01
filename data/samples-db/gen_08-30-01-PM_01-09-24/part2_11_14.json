@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Nutrient management involves different practices carried out by farmers to achieve higher yields. The higher yields of crops mainly depend upon input applications like improved seeds, fertilizers and modern techniques of sowing and harvesting.",
+      "question": "What is the purpose of nutrient management?"
+    },
+    {
+      "context": "Plants require a number of nutrients for their growth and development. Plants get nutrients from air, water and soil. Nearly 16 elements are essential for plant growth and reproduction.",
+      "question": "What do plants need for growth?"
+    },
+    {
+      "context": "On the basis of the requirement by the plants, they are further classified into Macro Nutrients and Micro Nutrients.",
+      "question": "How are nutrients classified for plants?"
+    },
+    {
+      "context": "The higher yields of crops mainly depend upon input applications like improved seeds, fertilizers and modern techniques of sowing and harvesting.",
+      "question": "What affects crop yield according to the text?"
+    },
+    {
+      "context": "Nearly 16 elements are essential for plant growth and reproduction. On the basis of the requirement by the plants, they are further classified into Macro Nutrients and Micro Nutrients.",
+      "question": "How many elements are essential for plant growth?"
+    }
+  ]
+}

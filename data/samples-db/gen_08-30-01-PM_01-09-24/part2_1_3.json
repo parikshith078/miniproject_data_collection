@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The following four types of elements make up xylem tissue: (i) Xylem tracheids (tubular unicellular), (ii) Xylem vessels (multicellular), (iii) Xylem parenchyma (stores food and helps in sideways conduction of water), (iv) Xylem fibres (provide mechanical support).",
+      "question": "What are the components of xylem tissue?"
+    },
+    {
+      "context": "The constituents of phloem tissue are: (i) Sieve tubes (tubular living cells with perforated end walls) (ii) Companion cell (living cells) (iii) Phloem parenchyma (living cells) (iv) Phloem fibres (non-living and sclerenchyma cells).",
+      "question": "What makes up phloem tissue?"
+    },
+    {
+      "context": "Xylem tracheids are tubular unicellular elements of xylem tissue, while xylem vessels are multicellular and serve a similar purpose.",
+      "question": "What is the difference between tracheids and vessels?"
+    },
+    {
+      "context": "Xylem parenchyma helps in the sideways conduction of water and also stores food, providing additional functionality to xylem tissue.",
+      "question": "What role does xylem parenchyma play?"
+    },
+    {
+      "context": "Phloem fibres are non-living and consist of sclerenchyma cells, which add structure and support to phloem tissue.",
+      "question": "What is the significance of phloem fibres?"
+    }
+  ]
+}

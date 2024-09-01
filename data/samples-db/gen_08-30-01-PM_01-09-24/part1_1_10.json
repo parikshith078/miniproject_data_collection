@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plastids are disc or oval shaped organelles which occur in plant cells only. Plastids are of three types: Leucoplasts, Chromoplasts and Chloroplasts.",
+      "question": "What shapes do plastids have?"
+    },
+    {
+      "context": "Plastids are disc or oval shaped organelles which occur in plant cells only. Plastids are of three types: Leucoplasts, Chromoplasts and Chloroplasts.",
+      "question": "How many types of plastids exist?"
+    },
+    {
+      "context": "Plastids are disc or oval shaped organelles which occur in plant cells only. Plastids are of three types: Leucoplasts, Chromoplasts and Chloroplasts.",
+      "question": "In which type of cells are plastids found?"
+    },
+    {
+      "context": "Plastids are disc or oval shaped organelles which occur in plant cells only. Plastids are of three types: Leucoplasts, Chromoplasts and Chloroplasts.",
+      "question": "Name one type of plastid."
+    },
+    {
+      "context": "Plastids are disc or oval shaped organelles which occur in plant cells only. Plastids are of three types: Leucoplasts, Chromoplasts and Chloroplasts.",
+      "question": "Do plastids occur in animal cells?"
+    }
+  ]
+}

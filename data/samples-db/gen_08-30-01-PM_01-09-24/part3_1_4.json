@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "Autotrophic nutrition refers to the mode of nutrition wherein organisms produce their own food using light energy, usually through the process of photosynthesis. This process predominantly occurs in plants during the day when sunlight is available. The chlorophyll in plant leaves captures light energy, which is then used to convert carbon dioxide and water into glucose and oxygen. Food is generally prepared during day time, when photosynthesis takes place, making it crucial for these organisms' survival and energy needs.",
+      "question": "When does food preparation occur?"
+    },
+    {
+      "context": "Autotrophic nutrition plays a critical role in the ecosystem as autotrophs, such as plants and certain bacteria, are the primary producers. They harness sunlight through photosynthesis, converting light energy into chemical energy stored in glucose. This process primarily takes place during the day when sunlight is abundant, allowing these organisms to produce food effectively. Food is generally prepared during day time, ensuring that autotrophs can sustain themselves and provide energy to other organisms in the food web.",
+      "question": "What is the role of daylight in food preparation?"
+    },
+    {
+      "context": "In the process of autotrophic nutrition, plants engage in photosynthesis, which involves converting carbon dioxide and water into organic compounds using sunlight. This conversion is crucial for creating energy-rich food within the plant. During the day, chlorophyll captures the sunlight necessary for this process, resulting in the production of food, typically in the form of glucose. Food is generally prepared during day time, emphasizing the importance of light for autotrophs' survival.",
+      "question": "What do plants convert into food during the day?"
+    }
+  ]
+}

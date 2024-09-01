@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "When conditions become unfavourable, unicellular organisms develop a thick coating called a cyst. The cyst protects the organism, halting metabolic activities and allowing it to survive. Upon returning to favourable conditions, the cyst dissolves, releasing daughter nuclei which grow into new individuals.",
+      "question": "What is the function of a cyst in unicellular organisms?"
+    },
+    {
+      "context": "The organism develops a thick coating around itself called a cyst when faced with harsh conditions. After forming a cyst, all metabolic activities stop. This ensures the organism can survive until the environment becomes conducive again for growth and reproduction.",
+      "question": "What happens to an organism's metabolism during cyst formation?"
+    },
+    {
+      "context": "In multiple fission, the nucleus divides into several nuclei inside a protective cyst. After environmental conditions improve, the cyst breaks down, freeing the nuclei to grow into new individual organisms. This process is crucial for survival during adverse conditions.",
+      "question": "What occurs when environmental conditions become favorable again?"
+    },
+    {
+      "context": "Plasmodium and entamoeba undergo a cyst stage when not in their prime host. This helps them survive until they can enter a more suitable environment. During this phase, they form cysts to protect themselves from unfavorable conditions.",
+      "question": "Which organisms undergo a cyst stage for survival?"
+    },
+    {
+      "context": "The cyst protects unicellular organisms from unfavourable conditions by halting their metabolic processes. Once the conditions improve, the cyst breaks down and the daughter nuclei are released, developing into new individuals of the organism.",
+      "question": "How do daughter nuclei develop into new organisms?"
+    }
+  ]
+}

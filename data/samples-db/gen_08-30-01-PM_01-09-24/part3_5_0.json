@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The growth in a plant part in response to light is called phototropic movement. Stems usually show positive phototropic movement, while roots usually show negative phototropic movement.",
+      "question": "What is phototropic movement in plants?"
+    },
+    {
+      "context": "This happens because of a higher rate of cell division in the part of stem which is away from the sunlight.",
+      "question": "Why does the stem bend towards light?"
+    },
+    {
+      "context": "The heightened rate of cell division is attained by increased secretion of the plant hormone auxin.",
+      "question": "What hormone increases cell division in phototropism?"
+    },
+    {
+      "context": "If a plant is kept in a container in which no sunlight reaches and a hole in the container allows some sunlight; the stem finally grows in the direction of the sunlight.",
+      "question": "How does light affect plant stem growth?"
+    },
+    {
+      "context": "Roots usually show negative phototropic movement, while stems usually show positive phototropic movement.",
+      "question": "How do stems and roots differ in phototropic movement?"
+    }
+  ]
+}

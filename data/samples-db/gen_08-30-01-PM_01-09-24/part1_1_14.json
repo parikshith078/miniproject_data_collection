@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Centrosome is present in animal cells and in certain lower plants. It is absent in prokaryotic cells and in higher plant cells. It is located near one pole of the nucleus.",
+      "question": "What cells contain centrosomes?"
+    },
+    {
+      "context": "It contains a pair of small, hollow granules called centrioles. Centrosome is present in animal cells and in certain lower plants.",
+      "question": "What structures are found in centrosomes?"
+    },
+    {
+      "context": "Centrosome is absent in prokaryotic cells and in higher plant cells. It contains a pair of small, hollow granules called centrioles.",
+      "question": "In which cells is centrosome absent?"
+    },
+    {
+      "context": "It is located near one pole of the nucleus. It contains a pair of small, hollow granules called centrioles.",
+      "question": "Where is the centrosome located in the cell?"
+    },
+    {
+      "context": "Centrosome is present in animal cells and in certain lower plants. It is located near one pole of the nucleus.",
+      "question": "What type of cells does the centrosome appear in?"
+    }
+  ]
+}

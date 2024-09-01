@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Lock jaw disease is caused by the spores of Clostridium tetani that enter through wounds. When these spores enter the body, they produce a toxin that affects the nervous system, leading to muscle stiffness and spasms, particularly in the jaw. This condition is medically referred to as tetanus.",
+      "question": "What causes lock jaw disease?"
+    },
+    {
+      "context": "The symptoms of lock jaw are caused by the tetanus toxin that disrupts normal muscle function. Initial symptoms often include difficulty swallowing and stiffness in the neck and jaw. As the disease progresses, it can lead to more severe muscle spasms throughout the body.",
+      "question": "What are the initial symptoms of lock jaw?"
+    },
+    {
+      "context": "The spores of Clostridium tetani can be found in soil, dust, and manure. Tetanus can occur if a person sustains a deep puncture wound or cut that is contaminated with these spores. Vaccination is a key preventive measure against this disease.",
+      "question": "How can one contract tetanus?"
+    },
+    {
+      "context": "Treatment for lock jaw typically involves administering tetanus antitoxin, which neutralizes the toxin in the body. Additionally, muscle relaxants may be used to alleviate spasms. Prevention through vaccination is crucial, as the tetanus vaccine is very effective.",
+      "question": "What is the treatment for lock jaw?"
+    },
+    {
+      "context": "The lock jaw disease is not commonly seen in countries with widespread vaccination programs. However, in areas where such programs are lacking, cases of tetanus can still occur, particularly among unvaccinated populations or those with incomplete vaccination histories.",
+      "question": "Is lock jaw common in vaccinated populations?"
+    }
+  ]
+}

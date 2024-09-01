@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The atmosphere of Earth contains a mixture of many gases like nitrogen (78.08%), oxygen (20.95%), carbon dioxide (0.03%) and water vapour (in varying proportion).",
+      "question": "What gases are found in Earth's atmosphere?"
+    },
+    {
+      "context": "On the other hand, the atmosphere on Venus and Mars mainly contains carbon dioxide, i.e., about 95 - 97%.",
+      "question": "What gas predominates in Venus and Mars' atmospheres?"
+    },
+    {
+      "context": "It may be the reason that due to this, no life is known to exist in both Venus and Mars.",
+      "question": "Why is there no known life on Venus and Mars?"
+    },
+    {
+      "context": "The atmosphere of Earth contains a mixture of many gases like nitrogen (78.08%) and oxygen (20.95%).",
+      "question": "What is the percentage of oxygen in Earth's atmosphere?"
+    },
+    {
+      "context": "The atmosphere on Venus and Mars mainly contains carbon dioxide, i.e., about 95 - 97%.",
+      "question": "How much carbon dioxide is in Mars' atmosphere?"
+    },
+    {
+      "context": "The atmosphere of Earth contains a mixture of many gases like nitrogen (78.08%) and water vapour.",
+      "question": "What role does water vapour play in Earth's atmosphere?"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "At the end of two weeks, some organic molecules were formed in the setup. Some amino acids and sugar were also formed. This proved the hypothesis of J. B. S. Haldane that life originated from inorganic raw materials.",
+      "question": "What did Haldane's hypothesis suggest?"
+    },
+    {
+      "context": "At the end of two weeks, some organic molecules were formed in the setup. Some amino acids and sugar were also formed. This proved the hypothesis of J. B. S. Haldane that life originated from inorganic raw materials.",
+      "question": "What organic molecules were formed after two weeks?"
+    },
+    {
+      "context": "At the end of two weeks, some organic molecules were formed in the setup. Some amino acids and sugar were also formed. This proved the hypothesis of J. B. S. Haldane that life originated from inorganic raw materials.",
+      "question": "How long did the experiment run to form organic molecules?"
+    },
+    {
+      "context": "At the end of two weeks, some organic molecules were formed in the setup. Some amino acids and sugar were also formed. This proved the hypothesis of J. B. S. Haldane that life originated from inorganic raw materials.",
+      "question": "What types of organic molecules were mentioned?"
+    }
+  ]
+}

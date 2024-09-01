@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "If we kill all the organisms in one trophic level, the lower trophic level will grow more in number and the higher trophic level will not survive and flow of energy from one trophic level to another will not take place.",
+      "question": "What happens if one trophic level is removed?"
+    },
+    {
+      "context": "The impact of removing all the organisms in a trophic level will be different for different trophic levels.",
+      "question": "How does organism removal impact different trophic levels?"
+    },
+    {
+      "context": "Removal of producers will affect all the organisms and they won’t survive.",
+      "question": "What is the consequence of removing producers?"
+    },
+    {
+      "context": "The removal of higher trophic level will lead to an increase in organisms of lower trophic level and the organisms die due to a shortage of food.",
+      "question": "What occurs when higher trophic levels are removed?"
+    },
+    {
+      "context": "The lower trophic level of an ecosystem has a greater number of individuals than the higher trophic levels.",
+      "question": "Which trophic level has more individuals?"
+    }
+  ]
+}

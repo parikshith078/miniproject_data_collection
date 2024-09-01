@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "There are permanent storage facilities in secured lands for military-related liquid and radioactive waste materials. High-level radioactive wastes are stored in deep underground storage.",
+      "question": "What is one method of hazardous waste disposal?"
+    },
+    {
+      "context": "It involves drilling a well into dry porous material below groundwater. Hazardous waste liquids are pumped into the well. They are soaked into the porous material and made to remain isolated indefinitely.",
+      "question": "What is deep well injection in waste disposal?"
+    },
+    {
+      "context": "Hazardous biomedical wastes are usually disposed of by means of incineration. Human anatomical wastes, discarded medicines, toxic drugs, blood, pus, animal wastes, microbiological and biotechnological wastes etc., are called biomedical wastes.",
+      "question": "What types of wastes are incinerated?"
+    },
+    {
+      "context": "There are permanent storage facilities in secured lands for military-related liquid and radioactive waste materials. High-level radioactive wastes are stored in deep underground storage.",
+      "question": "Where are high-level radioactive wastes stored?"
+    },
+    {
+      "context": "The burning of materials is called incineration. Hazardous biomedical wastes are usually disposed of by means of incineration.",
+      "question": "What does incineration involve?"
+    },
+    {
+      "context": "High-level radioactive wastes are stored in deep underground storage. Deep well injection involves drilling a well into dry porous material.",
+      "question": "What is deep well injection used for?"
+    }
+  ]
+}

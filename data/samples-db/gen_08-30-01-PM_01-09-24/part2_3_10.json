@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Nutrition can be defined as the procurement of substances necessary for growth, development, maintenance and activities of a living organism. We obtain food from various plant and animal sources.",
+      "question": "What is defined as substances necessary for growth?"
+    },
+    {
+      "context": "We consume energy even while sleeping. Energy requirement depends on individual, age and special need.",
+      "question": "What influences energy requirements in individuals?"
+    },
+    {
+      "context": "In order to keep healthy and energetic, we need to take food. It takes care of the daily energy need also.",
+      "question": "Why do we need to consume food?"
+    },
+    {
+      "context": "Growing children, pregnant women and nursing mothers need more energy. Energy requirement depends on individual, age and special need.",
+      "question": "Who needs more energy according to nutrition?"
+    },
+    {
+      "context": "Nutrition can be defined as the procurement of substances necessary for growth, development, maintenance and activities of a living organism.",
+      "question": "What does nutrition provide for living organisms?"
+    },
+    {
+      "context": "We obtain food from various plant and animal sources. In order to keep healthy and energetic, we need to take food.",
+      "question": "What types of sources provide our food?"
+    }
+  ]
+}

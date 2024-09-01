@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fish farming, also known as aquaculture, refers to the cultivation of fish for commercial purposes. This method of raising fish can provide a significant source of income and help meet the growing demand for seafood.",
+      "question": "What is another term for fish farming?"
+    },
+    {
+      "context": "Aquaculture involves raising various species of fish in controlled environments, typically for food production. This practice is vital for sustaining fish populations and ensuring that seafood remains an affordable protein source.",
+      "question": "Why is fish farming important for food production?"
+    },
+    {
+      "context": "Fish farming not only provides a way to produce fish more reliably but also reduces pressure on wild fish populations. The controlled conditions can lead to healthier fish and more efficient harvesting.",
+      "question": "How does fish farming help wild fish populations?"
+    },
+    {
+      "context": "As fish is a cheap source of animal protein, fish farming plays a crucial role in dietary needs across the globe. This industry supports local economies and provides job opportunities.",
+      "question": "Why is fish considered a cheap source of protein?"
+    },
+    {
+      "context": "The practice of aquaculture is essential for meeting the increasing demands for seafood as the global population grows. Fish farming can be done in freshwater or saltwater bodies.",
+      "question": "In what types of water can fish farming take place?"
+    }
+  ]
+}

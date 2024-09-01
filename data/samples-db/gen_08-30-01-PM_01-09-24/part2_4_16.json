@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Diseases can arise due to a variety of causes including pathogens like viruses, bacteria, fungi, protozoans, or worms.",
+      "question": "What are some examples of pathogens?"
+    },
+    {
+      "context": "Other factors contributing to diseases may include poor health and undernourishment, which weaken the body's defenses.",
+      "question": "How does undernourishment affect disease risk?"
+    },
+    {
+      "context": "Malfunctioning of body parts can also lead to disease, affecting organ function and overall health.",
+      "question": "What can malfunctioning body parts cause?"
+    },
+    {
+      "context": "Environmental pollution is another significant contributor to diseases due to toxic substances entering our bodies.",
+      "question": "What role does pollution play in disease?"
+    },
+    {
+      "context": "Lastly, genetic disorders can predispose individuals to certain diseases, affecting their health from birth.",
+      "question": "How do genetic disorders contribute to diseases?"
+    }
+  ]
+}

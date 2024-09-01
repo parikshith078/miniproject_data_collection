@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Bacteria are the simplest and one of the oldest organisms on the earth. Their simple body design does not make them weak from any angle.",
+      "question": "Why are bacteria considered resilient organisms?"
+    },
+    {
+      "context": "Evolution does not mean progress in every case. This can be proved by example of bacteria.",
+      "question": "How does bacteria challenge the concept of evolution as progress?"
+    },
+    {
+      "context": "Bacteria are the simplest and one of the oldest organisms on the earth.",
+      "question": "What characteristics define bacteria as one of the oldest organisms?"
+    },
+    {
+      "context": "Their simple body design does not make them weak from any angle.",
+      "question": "What advantage does a simple body design provide to bacteria?"
+    },
+    {
+      "context": "This can be proved by example of bacteria. Bacteria are the simplest and one of the oldest organisms.",
+      "question": "What role do bacteria play in understanding evolution?"
+    }
+  ]
+}

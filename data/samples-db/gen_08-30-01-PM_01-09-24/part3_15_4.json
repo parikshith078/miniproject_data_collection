@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "To cover long distances, one should take a bus instead of using personal vehicles.",
+      "question": "Why should we take a bus for long distances?"
+    },
+    {
+      "context": "Instead, one can walk or cycle to cover short distances.",
+      "question": "What alternatives exist for short distances?"
+    },
+    {
+      "context": "Throw biodegradable and non-biodegradable waste into separate bins.",
+      "question": "Why is waste separation important?"
+    },
+    {
+      "context": "Stop using plastic and polythene bags for carrying goods.",
+      "question": "What should we avoid using for carrying goods?"
+    },
+    {
+      "context": "Practice rainwater harvesting.",
+      "question": "What method can we use to collect rainwater?"
+    },
+    {
+      "context": "Waste minimum amount of water while using and repair leaking taps.",
+      "question": "What is a key water-saving practice?"
+    },
+    {
+      "context": "Use recycled paper.",
+      "question": "What type of paper should we prefer?"
+    },
+    {
+      "context": "Switch off electrical appliances when not in use.",
+      "question": "What should we do with unused electrical appliances?"
+    },
+    {
+      "context": "During winters, wear an extra sweater to avoid using heaters.",
+      "question": "What can help reduce heater use in winter?"
+    },
+    {
+      "context": "Use fluorescent tubes in place of bulbs to save electricity.",
+      "question": "What type of lighting saves more electricity?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The diaphragm is a crucial membrane that separates the thoracic chamber from the abdominal cavity. It plays a vital role in the breathing mechanism of the lungs by moving up and down.",
+      "question": "What does the diaphragm separate?"
+    },
+    {
+      "context": "When the diaphragm moves down, the lungs expand and air is inhaled. This mechanism is essential for the process of breathing, allowing oxygen to enter the body.",
+      "question": "What happens when the diaphragm moves down?"
+    },
+    {
+      "context": "The intercostalis muscles work alongside the diaphragm in the breathing mechanism. Their coordination is essential for the expansion and contraction of the lungs during inhalation and exhalation.",
+      "question": "What muscles assist the diaphragm in breathing?"
+    },
+    {
+      "context": "During exhalation, when the diaphragm moves up, the lungs contract and air is pushed out of the body. This is a vital process for removing carbon dioxide.",
+      "question": "What occurs when the diaphragm moves up?"
+    },
+    {
+      "context": "The breathing mechanism involves the diaphragm and intercostalis muscles. It is essential for respiration and is controlled involuntarily by the body.",
+      "question": "What controls the breathing mechanism?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Evolution of complex organs and thus of complex organisms has happened in stages. Let us take the example of evolution of eyes. Planaria is the first animal which shows ‘eye’ like structure.",
+      "question": "What animal first showed eye-like structures?"
+    },
+    {
+      "context": "Let us take the example of evolution of eyes. Planaria is the first animal which shows ‘eye’ like structure.",
+      "question": "What is the example given for eye evolution?"
+    },
+    {
+      "context": "Evolution of complex organs and thus of complex organisms has happened in stages.",
+      "question": "How does evolution of organisms occur according to this text?"
+    },
+    {
+      "context": "The first animal which shows ‘eye’ like structure is Planaria.",
+      "question": "Which animal is mentioned as showing the first eye structure?"
+    },
+    {
+      "context": "Evolution of complex organisms has happened in stages, such as the evolution of eyes.",
+      "question": "In what way does evolution occur for complex organisms?"
+    }
+  ]
+}

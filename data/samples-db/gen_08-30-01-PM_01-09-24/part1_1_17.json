@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mitochondria and plastids are the two organelles that contain their own genetic material. Both these organelles have their own DNA and ribosomes. This characteristic allows them to produce some of their own proteins independently of the cellular machinery.",
+      "question": "What are the two organelles with genetic material?"
+    },
+    {
+      "context": "Both mitochondria and plastids possess their own DNA and ribosomes, which enable them to synthesize proteins necessary for their function. This autonomy supports their roles in energy production and photosynthesis.",
+      "question": "What is the function of organelles with their own DNA?"
+    },
+    {
+      "context": "The presence of DNA and ribosomes in mitochondria and plastids signifies that these organelles are semi-autonomous. This means they can manage some aspects of their cellular functions independently.",
+      "question": "Why are some organelles considered semi-autonomous?"
+    },
+    {
+      "context": "Mitochondria are known for their role in energy production, while plastids, which include chloroplasts, are crucial for photosynthesis. Their own genetic material gives them the ability to replicate and produce necessary proteins.",
+      "question": "What roles do mitochondria and plastids play in cells?"
+    },
+    {
+      "context": "The discovery of organelles like mitochondria and plastids having their own genetic material has significant implications for the endosymbiotic theory, which explains the origin of these organelles in eukaryotic cells.",
+      "question": "What does the presence of DNA in organelles suggest about their evolution?"
+    }
+  ]
+}

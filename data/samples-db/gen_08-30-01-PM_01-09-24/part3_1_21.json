@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Haemoglobin transports oxygen molecule to all the body cells for cellular respiration. The haemoglobin pigment present in the blood gets attached to four O2 molecules that are obtained from breathing.",
+      "question": "What does haemoglobin transport to body cells?"
+    },
+    {
+      "context": "After giving away O2 to the body cells, blood takes away CO2 which is the end product of cellular respiration. Now the blood becomes de-oxygenated.",
+      "question": "What does blood carry away from body cells?"
+    },
+    {
+      "context": "This oxygenated blood is then distributed to all the body cells by the heart. After giving away O2 to the body cells, blood takes away CO2.",
+      "question": "How is oxygenated blood distributed to body cells?"
+    },
+    {
+      "context": "Since haemoglobin pigment has less affinity for CO2, CO2 is mainly transported in the dissolved form. This de-oxygenated blood gives CO2 to lung alveoli and takes O2 in return.",
+      "question": "How is CO2 predominantly transported in the blood?"
+    },
+    {
+      "context": "The haemoglobin pigment present in the blood gets attached to four O2 molecules that are obtained from breathing. It thus forms oxyhaemoglobin and the blood becomes oxygenated.",
+      "question": "What does oxyhaemoglobin consist of?"
+    },
+    {
+      "context": "Oxygen and carbon dioxide transport in humans is essential for cellular respiration and maintaining homeostasis in the body.",
+      "question": "Why is gas transport crucial in humans?"
+    }
+  ]
+}

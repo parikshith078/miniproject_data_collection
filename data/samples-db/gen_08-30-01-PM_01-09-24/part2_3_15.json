@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "A person may be regarded as suffering from a disease when his body does not function properly. Minor and major disorders of the body may lead to diseases.",
+      "question": "What defines a person suffering from a disease?"
+    },
+    {
+      "context": "Microbes are the microscopic organisms such as virus, bacteria, some fungi and protozoans that are responsible for causing diseases in human beings.",
+      "question": "What organisms are known as microbes?"
+    },
+    {
+      "context": "Cholera, tetanus, typhoid, diphtheria and pneumonia are some common diseases caused by bacteria.",
+      "question": "Which diseases are caused by bacteria?"
+    },
+    {
+      "context": "Polio, common cold, influenza, measles, chicken pox and AIDS are diseases caused by virus.",
+      "question": "Name diseases caused by viruses."
+    },
+    {
+      "context": "Amoebic dysentery and malaria are caused by protozoans.",
+      "question": "What diseases result from protozoan infections?"
+    },
+    {
+      "context": "One of the greatest achievements in the history of mankind is the demonstration by Pasteur, Koch and others of germs or microbes that cause diseases.",
+      "question": "Who demonstrated that germs cause diseases?"
+    }
+  ]
+}

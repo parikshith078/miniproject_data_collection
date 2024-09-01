@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "The human respiratory system is composed of a pair of lungs. These are attached to a system of tubes which open on the outside through the nostrils. Following are the main structures in the human respiratory system: Nostrils: There two nostrils which converge to form a nasal passage.",
+      "question": "What do the nostrils help to filter?"
+    },
+    {
+      "context": "The mucus and the hairs help in filtering the dust particles out from inhaled air. Further, air is warmed up when it enters the nasal passage.",
+      "question": "How does the nasal passage affect inhaled air?"
+    },
+    {
+      "context": "This part comes after the pharynx. Larynx: This part comes after the pharynx. This is also called the voice box.",
+      "question": "What is the larynx also known as?"
+    },
+    {
+      "context": "Cartilaginous rings prevent the collapse of trachea in the absence of air. Bronchi: A pair of bronchi comes out from the trachea; with one bronchus going to each lung.",
+      "question": "What prevents trachea from collapsing?"
+    },
+    {
+      "context": "A bronchus divides into branches and sub-branches; inside the lung. Alveoli: These are air-sacs at the end of bronchioles.",
+      "question": "Where are alveoli located in the respiratory system?"
+    },
+    {
+      "context": "This is alveolus; where oxygen mixes with the blood and carbon dioxide exits from the blood. The exchange of gases; in alveoli; takes place due to pressure differential.",
+      "question": "What happens in the alveoli of the lungs?"
+    },
+    {
+      "context": "Alveolus is composed of a very thin membrane and is the place where blood capillaries open. This is alveolus; where oxygen mixes with the blood and carbon dioxide exits from the blood.",
+      "question": "What is the structure of an alveolus?"
+    }
+  ]
+}

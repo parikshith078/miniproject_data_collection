@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Miller and Urey conducted the Miller -Urey experiment in 1953 to demonstrate how the life would have originated on the earth. They created an environment in laboratory which mimicked the environment of earth as it was during the time of origin of life.",
+      "question": "What year was the Miller-Urey experiment conducted?"
+    },
+    {
+      "context": "The Miller -Urey experiment's environment used water, methane, ammonia and hydrogen. The liquid was heated to initiate evaporation and electrodes were used to create electric discharge.",
+      "question": "What four substances were used in the Miller-Urey experiment?"
+    },
+    {
+      "context": "Stanley L. Miller and Harold C. Urey conducted a laboratory experiment to mimic early Earth’s conditions where life supposedly originated.",
+      "question": "Who conducted the Miller-Urey experiment?"
+    },
+    {
+      "context": "In the Miller -Urey experiment, the liquid was heated to initiate evaporation, simulating early Earth's conditions necessary for the origin of life.",
+      "question": "What process was used to initiate evaporation in the experiment?"
+    },
+    {
+      "context": "The Miller-Urey experiment aimed to demonstrate the molecular origin of life by recreating the early Earth environment in the laboratory.",
+      "question": "What was the aim of the Miller-Urey experiment?"
+    }
+  ]
+}

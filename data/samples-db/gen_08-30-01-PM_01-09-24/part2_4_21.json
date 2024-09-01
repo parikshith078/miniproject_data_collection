@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Immunization gives a good level of protection against many serious diseases. It uses your body's natural defense mechanism, the immune response, to build resistance to specific infection.",
+      "question": "How does immunization protect against diseases?"
+    },
+    {
+      "context": "The reasons for immunizing children include preventing illness with serious infectious diseases and protecting the population by reducing the spread of diseases.",
+      "question": "What are the two main reasons for immunizing children?"
+    },
+    {
+      "context": "It uses your body's natural defense mechanism, the immune response, to build resistance to specific infection.",
+      "question": "What mechanism does immunization utilize to build resistance?"
+    },
+    {
+      "context": "Immunization gives a good level of protection against many serious diseases.",
+      "question": "What does immunization provide against serious diseases?"
+    },
+    {
+      "context": "Preventing illness with serious infectious diseases and protecting the population by reducing the spread of diseases.",
+      "question": "What does immunization help prevent besides individual illness?"
+    }
+  ]
+}

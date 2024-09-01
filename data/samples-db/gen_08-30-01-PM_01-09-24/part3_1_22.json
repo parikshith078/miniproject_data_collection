@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The exchange of gases takes place between the blood of the capillaries that surround the alveoli and the gases present in the alveoli.",
+      "question": "Where does gas exchange occur in the lungs?"
+    },
+    {
+      "context": "Each lung contains 300 -350 million alveoli. These numerous alveoli increase the surface area for gaseous exchange making the process of respiration more efficient.",
+      "question": "How do alveoli improve respiratory efficiency?"
+    },
+    {
+      "context": "The lungs get filled up with air during the process of inhalation as ribs are lifted up and diaphragm is flattened.",
+      "question": "What happens to the diaphragm during inhalation?"
+    },
+    {
+      "context": "Thus, alveoli are the site for exchange of gases. The lungs get filled up with air during the process of inhalation.",
+      "question": "What is the primary function of alveoli?"
+    },
+    {
+      "context": "The air that is rushed inside the lungs fills the numerous alveoli present in the lungs.",
+      "question": "What fills the alveoli during inhalation?"
+    }
+  ]
+}

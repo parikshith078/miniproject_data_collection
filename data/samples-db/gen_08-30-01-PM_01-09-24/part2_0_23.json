@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The epithelial tissue forms the covering or lining of most of the organs. The cells of epithelial tissue are tightly packed and form a continuous sheet.",
+      "question": "What role does epithelial tissue play in organs?"
+    },
+    {
+      "context": "There is small amount of cementing materials between the cells and no intercellular space is present. Permeability of the epithelial tissue plays a great role in exchange of materials among various organs.",
+      "question": "What feature is notable about the space between epithelial cells?"
+    },
+    {
+      "context": "Epithelial tissues are of the following types: 1. Simple Epithelium 2. Cuboidal Epithelium 3. Columnar Epithelium 4. Stratified Epithelium.",
+      "question": "What are the four types of epithelial tissue?"
+    },
+    {
+      "context": "Epithelial tissue plays an important role in osmoregulation. All epithelial tissues are separated by the underlying tissue by an extracellular fibrous basement membrane.",
+      "question": "What is osmoregulation's significance in epithelial tissue?"
+    },
+    {
+      "context": "The cells of epithelial tissue are tightly packed and form a continuous sheet. There is small amount of cementing materials between the cells and no intercellular space is present.",
+      "question": "How are the cells within epithelial tissue arranged?"
+    }
+  ]
+}

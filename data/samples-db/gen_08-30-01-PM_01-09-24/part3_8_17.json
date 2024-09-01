@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Expression of morphological characters as tall or dwarf plant, violet or white flowers is called Phenotype. The expression of gene (or Chromosomal makeup) of an individual for a particular trait is called Genotype.",
+      "question": "What is the definition of phenotype?"
+    },
+    {
+      "context": "The expression of morphological characters as tall or dwarf plant, violet or white flowers is called Phenotype. The expression of gene (or Chromosomal makeup) of an individual for a particular trait is called Genotype.",
+      "question": "What does genotype refer to in genetics?"
+    },
+    {
+      "context": "The expression of morphological characters as tall or dwarf plant, violet or white flowers is called Phenotype. The expression of gene (or Chromosomal makeup) of an individual for a particular trait is called Genotype.",
+      "question": "Can you give examples of phenotypic traits?"
+    },
+    {
+      "context": "Expression of morphological characters as tall or dwarf plant, violet or white flowers is called Phenotype. The expression of gene (or Chromosomal makeup) of an individual for a particular trait is called Genotype.",
+      "question": "How is genotype different from phenotype?"
+    },
+    {
+      "context": "Expression of morphological characters as tall or dwarf plant, violet or white flowers is called Phenotype. The expression of gene (or Chromosomal makeup) of an individual for a particular trait is called Genotype.",
+      "question": "What impacts an organism's phenotype?"
+    }
+  ]
+}

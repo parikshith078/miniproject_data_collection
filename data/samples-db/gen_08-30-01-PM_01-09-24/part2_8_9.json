@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In condition (c), a person is most likely to fall sick. The reasons are: (a) Due to malaria, the body becomes weak and loss of body fluids occur. In this condition, if she takes four days fast, her recovery from malaria related weakness will not occur and she will become more weak.",
+      "question": "How can fasting affect recovery from malaria?"
+    },
+    {
+      "context": "The reasons are: (a) Due to malaria, the body becomes weak and loss of body fluids occur. In this condition, if she takes four days fast, her recovery from malaria related weakness will not occur and she will become more weak.",
+      "question": "What happens to the body during malaria?"
+    },
+    {
+      "context": "Her immune system is already weak due to malaria and if she takes care of someone suffering from chicken pox, there is high probability that she may also suffer this diseases.",
+      "question": "How does malaria affect the immune system?"
+    },
+    {
+      "context": "The reasons are: (b) Her immune system is already weak due to malaria and if she takes care of someone suffering from chicken pox, there is high probability that she may also suffer this diseases.",
+      "question": "What is the risk of caring for a chicken pox patient?"
+    },
+    {
+      "context": "In this condition, if she takes four days fast, her recovery from malaria related weakness will not occur and she will become more weak.",
+      "question": "What effect does a four-day fast have on malaria recovery?"
+    }
+  ]
+}

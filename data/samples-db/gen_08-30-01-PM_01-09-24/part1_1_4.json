@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Ribosomes occur free in the cytoplasm as well as attached to the outer surface of the rough endoplasmic reticulum.",
+      "question": "Where can ribosomes be found?"
+    },
+    {
+      "context": "Each ribosome consists of two subunits – a small subunit and a large subunit.",
+      "question": "What are the parts of a ribosome?"
+    },
+    {
+      "context": "Many ribosomes get attached to messenger RNA and form a structure called polyribosome or polysome.",
+      "question": "What do ribosomes form with mRNA?"
+    },
+    {
+      "context": "Ribosomes are small granular structures made up of ribo nucleic acids (RNA) and proteins.",
+      "question": "What are ribosomes made of?"
+    },
+    {
+      "context": "At the time of protein synthesis, many ribosomes get attached to messenger RNA.",
+      "question": "What is the role of ribosomes during protein synthesis?"
+    }
+  ]
+}

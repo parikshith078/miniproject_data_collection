@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Organisms with unorganized nucleus are kept under the kingdom Monera. Those with organized nucleus are kept in other kingdoms. Unicellular eukaryotes are kept in the kingdom Protista, while multicellular eukaryotes are kept in other kingdoms.",
+      "question": "What defines kingdoms Monera and Protista?"
+    },
+    {
+      "context": "Heterotrophic organisms in which cell wall is present are taken under the kingdom fungi. Autotrophic organisms in which cell wall is present are taken in the kingdom Plantae. Organisms in which cell wall is absent are taken in the kingdom Animalia.",
+      "question": "Which kingdom includes heterotrophic organisms?"
+    },
+    {
+      "context": "The organization of the nucleus and the number of cells are key factors in grouping organisms. Unicellular organisms are placed in Protista while multicellular ones are assigned to other kingdoms.",
+      "question": "How does nucleus organization affect kingdom classification?"
+    },
+    {
+      "context": "Organisms are classified based on their nutritional modes, cell wall presence, and cell organization. This results in five distinct kingdoms: Monera, Protista, Fungi, Plantae, and Animalia.",
+      "question": "What are the five kingdoms based on?"
+    },
+    {
+      "context": "Autotrophic organisms in which cell wall is present belong to Plantae, whereas those with no cell wall belong to Animalia. This shows the importance of cell wall in classification.",
+      "question": "Which kingdom contains autotrophic organisms?"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The system of binomial nomenclature was proposed by Carolus Linnaeus. The biological name is composed of two terms. The first term is called genetic name and the second term is called species name.",
+      "question": "Who proposed the system of binomial nomenclature?"
+    },
+    {
+      "context": "The system of binomial nomenclature was proposed by Carolus Linnaeus. The biological name is composed of two terms. The first term is called genetic name and the second term is called species name.",
+      "question": "What are the two terms in a biological name?"
+    },
+    {
+      "context": "The system of binomial nomenclature was proposed by Carolus Linnaeus. The biological name is composed of two terms. The first term is called genetic name and the second term is called species name.",
+      "question": "What is the first term in binomial nomenclature called?"
+    },
+    {
+      "context": "The system of binomial nomenclature was proposed by Carolus Linnaeus. The biological name is composed of two terms. The first term is called genetic name and the second term is called species name.",
+      "question": "What is the second term in a binomial name?"
+    }
+  ]
+}

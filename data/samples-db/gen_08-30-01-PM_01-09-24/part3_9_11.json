@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In this case beetles population is increasing, but suddenly bushes were affected by a plant disease in which leaf material were destroyed or in which leaves are affected by this beetles got less food material. So beetles are poorly nourished. So the weight of beetles decrease but no changes take place in their genetic material (DNA). After a few years the plant disease are eliminated. Bushes are healthy with plenty of leaves.",
+      "question": "What caused the beetles to lose weight?"
+    },
+    {
+      "context": "Suddenly bushes were affected by a plant disease in which leaf material were destroyed or in which leaves are affected by this beetles got less food material. So beetles are poorly nourished.",
+      "question": "How did the plant disease affect the beetles?"
+    },
+    {
+      "context": "As the bushes became healthier with plenty of leaves, the beetles' population had initially decreased in weight due to malnutrition from the diseased plants.",
+      "question": "What happened to the bushes over time?"
+    },
+    {
+      "context": "The weight of beetles decreased, but no changes took place in their genetic material (DNA) as a result of the plant disease affecting their food sources.",
+      "question": "Did the genetic material of the beetles change?"
+    },
+    {
+      "context": "After a few years the plant disease were eliminated and the bushes became healthy with plenty of leaves, allowing the beetle population to potentially recover.",
+      "question": "What eventually happened to the plant disease?"
+    }
+  ]
+}

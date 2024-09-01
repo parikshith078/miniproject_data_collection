@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The endoplasmic reticulum (ER) is a network of membranes within the cytoplasm of a cell. It plays a crucial role in the synthesis of lipids and proteins, which are essential components of the cell membrane. The rough ER, with ribosomes attached, is particularly involved in the production of proteins, while the smooth ER is primarily responsible for the synthesis of lipids.",
+      "question": "What synthesizes lipids and proteins for cell membranes?"
+    },
+    {
+      "context": "In cells, the endoplasmic reticulum (ER) is a highly folded membrane structure that is critical for the synthesis of fats and proteins. The rough ER is studded with ribosomes and helps produce proteins, while the smooth ER synthesizes lipids. These molecules are key to forming and maintaining the cell membrane.",
+      "question": "Which organelle is responsible for lipid synthesis?"
+    },
+    {
+      "context": "The endoplasmic reticulum is made of two distinct regions: the rough ER, which has ribosomes on its surface and synthesizes proteins, and the smooth ER, which lacks ribosomes and synthesizes lipids. Together, they contribute to the production of components necessary for cell membranes.",
+      "question": "What is the function of the rough ER?"
+    },
+    {
+      "context": "The endoplasmic reticulum serves two major functions in the cell: the synthesis of proteins and lipids. The rough ER is primarily involved in protein synthesis due to its ribosomal attachments, while the smooth ER focuses on lipid synthesis, which is a fundamental process in cell membrane formation.",
+      "question": "What role does the smooth ER play in cells?"
+    },
+    {
+      "context": "Lipids and proteins are vital for constructing the cell membrane, and their synthesis occurs within the endoplasmic reticulum. This organelle has two forms, the rough ER that produces proteins and the smooth ER that takes care of lipid production, ensuring the membrane's integrity and function.",
+      "question": "Where does cell membrane synthesis occur?"
+    }
+  ]
+}

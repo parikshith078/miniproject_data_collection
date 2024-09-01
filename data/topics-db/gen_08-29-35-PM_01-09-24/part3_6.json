@@ -1,0 +1,76 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Function of Receptors",
+      "Content": "Receptors are sensory structures (organs/tissues or cells) present all over the body. The receptors are either grouped in case of eye or ear, or scattered in case of skin. Functions of receptors: (i) They sense the external stimuli such as heat or pain. (ii) They also trigger an impulse in the sensory neuron which sends message to the spinal cord. When the receptors are damaged, the external stimuli transferring signals to the brain are not felt. For example, in the case of damaged receptors, if we accidentally touch any hot object, then our hands might get burnt as damaged receptors cannot perceive the external stimuli of heat and pain."
+    },
+    {
+      "sub-topic": "Structure and Function of Neurons",
+      "Content": "Neurons are the functional units of the nervous system. The three main parts of a neuron are axon, dendrite, and cell body. Functions of the three parts of a neuron: Axon: It conducts messages away from the cell body. Dendrite: It receives information from axon of another cell and conducts the messages towards the cell body. Cell body: It contains nucleus, mitochondria, and other organelles. It is mainly concerned with the maintenance and growth."
+    },
+    {
+      "sub-topic": "Disruption of Signals in Spinal Cord Injury",
+      "Content": "In case of any injury to the spinal cord, the signals coming from the nerves as well as the signals coming to the receptors will be disrupted."
+    },
+    {
+      "sub-topic": "Chemical Coordination in Plants",
+      "Content": "In animals, control and coordination occur with the help of nervous system. However, plants do not have a nervous system. Plants respond to stimuli by showing movements. The growth, development, and responses to the environment in plants is controlled and coordinated by a special class of chemical substances known as hormones. These hormones are produced in one part of the plant body and are translocated to other needy parts. For example, a hormone produced in roots is translocated to other parts when required. The five major types of phytohormone are auxins, gibberellins, cytokinins, abscisic acid, and ethylene. These phytohormones are either growth promoters (such as auxins, gibberellins, cytokinins, and ethylene) or growth inhibitors such as abscisic acid."
+    },
+    {
+      "sub-topic": "Importance of Control and Coordination",
+      "Content": "The maintenance of the body functions in response to changes in the body by working together of various integrated body systems is known as coordination. All the movements that occur in response to stimuli are carefully coordinated and controlled. In animals, the control and coordination movements are provided by nervous and muscular systems. The nervous system sends messages to and away from the brain. The spinal cord plays an important role in the relay of messages. In the absence of this system of control and coordination, our body will not be able to function properly. For example, when we accidentally touch a hot utensil, we immediately withdraw our hand. In the absence of nerve transmission, we will not withdraw our hand and may get burnt."
+    },
+    {
+      "sub-topic": "Involuntary Actions vs. Reflex Actions",
+      "Content": "Involuntary actions cannot be consciously controlled. For example, we cannot consciously control the movement of food in the alimentary canal. These actions are however directly under the control of the brain. On the other hand, the reflex actions such as closing of eyes immediately when bright light is focused show sudden response and do not involve any thinking. This means that unlike involuntary actions, the reflex actions are not under the control of brain."
+    },
+    {
+      "sub-topic": "Comparison of Nervous and Hormonal Mechanisms",
+      "Content": "1. Nervous system mechanism: The information is conveyed in the form of electric impulse. 2. The information is transmitted or transported through blood. 3. The flow of information is rapid and the response is quick. 4. Its effects are short lived. Hormonal system mechanism: 1. The information is conveyed in the form of chemical messengers. 2. The information travels slowly and the response is slow. 3. It has prolonged effects."
+    },
+    {
+      "sub-topic": "Movement in Sensitive Plants vs. Movement in Human Legs",
+      "Content": "1. The movement that takes place in a sensitive plant such as Mimosa pudica occurs in response to touch (stimulus). 2. Movement in our legs is an example of voluntary actions. 3. For this movement, the information is transmitted from cell to cell by electro-chemical signals as plants do not have any specialised tissue for conduction of impulses. 4. The signal or messages for these actions are passed to the brain and hence are consciously controlled."
+    },
+    {
+      "sub-topic": "Importance of Reproduction",
+      "Content": "Reproduction is an integral feature of all living beings. The process by which a living being produces its own like is called reproduction. Importance of Reproduction: Reproduction is important for each species, because this is the only way for a living being to continue its lineage. Apart from being important for a particular individual, reproduction is also important for the whole ecosystem. Reproduction helps in maintaining a proper balance among various biotic constituents of the ecosystem. Moreover, reproduction also facilitates evolution because variations come through reproduction; over several generations."
+    },
+    {
+      "sub-topic": "Types of Reproduction",
+      "Content": "There are two main types, viz. asexual and sexual reproduction. Asexual Reproduction: When a single parent is involved and no gamete formation takes place; the method is called asexual reproduction. No meiosis happens during asexual reproduction. Sexual Reproduction: When two parents are involved and gamete formation takes; the method is called sexual reproduction. Meiosis happens during gamete formation; which is an important step of sexual reproduction."
+    },
+    {
+      "sub-topic": "Importance of DNA Copying in Reproduction",
+      "Content": "The importance of DNA copying during reproduction is that: (i) It is responsible for the transmission of parental characteristic to its offsprings. (ii) It also leads to certain genetic variation."
+    },
+    {
+      "sub-topic": "Benefits of Variation",
+      "Content": "Variations allow organisms to exist in diverse habitats or niches. In the absence of variations, a species may be restricted to particular area. If this area gets drastically altered, due to various natural or man-made causes, the species may be wiped out. However, if some variations were present in a few individuals, these colonize other habitats and could survive. But if variations are present in a single organism there would be very little for it to survive."
+    },
+    {
+      "sub-topic": "Asexual Reproduction - Fission",
+      "Content": "Modes of reproduction involving a single parent, without involving gametes. These are known as asexual modes of reproduction. Organisms can reproduce asexually in many ways. Some of them are given here. FISSION: BINARY FISSION: Most of the unicellular animals prefer this method for reproduction. These organisms reproduce by binary fission; especially when conditions are favourable, i.e. adequate amount of food and moisture is available. Binary fission is somewhat similar to mitosis. The mother cell divides into two daughter cells; and each daughter cell begins its life like a new individual. The parent generation ceases to exist, after binary fission. Amoeba is a very good example of the organism which reproduces by binary fission."
+    },
+    {
+      "sub-topic": "Asexual Reproduction - Multiple Fission",
+      "Content": "When conditions become unfavourable, i.e. food, moisture, proper temperature, etc. are not available; this is the preferred mode of reproduction by unicellular organisms. The organism develops a thick coating around itself. This is called cyst. The cyst helps the organism to tide over the bad phase. The nucleus divides into several nuclei and each daughter nucleus is surrounded by a membrane. All metabolic activities stop in the organism, after cyst formation. When favourable conditions return, the cyst dissolves or breaks down; releasing the daughter nuclei. The daughter nuclei; in turn; grow into new individuals. Plasmodium and entamoeba undergo cyst stage, when they are not in the body of their prime host, i.e. humans."
+    },
+    {
+      "sub-topic": "Asexual Reproduction - Fragmentation",
+      "Content": "In multicellular organisms with simple body organization, simple reproductive methods have been noticed. Reproduction by fragmentation is seen in filamentous algae, e.g. spirogyra. In Spirogyra algae, the plant body breaks up into smaller fragments. Each fragment grows into a new individual."
+    },
+    {
+      "sub-topic": "Asexual Reproduction - Regeneration",
+      "Content": "If the individual is somehow cut or broken up into many pieces, many of these pieces grow into separate individuals. For example, simple animals like Hydra and Planaria can be cut into any number of pieces and each piece grows into a complete organism. This is known as regeneration. Regeneration is carried out by specialised cells. These cells proliferate and make large numbers of cells."
+    },
+    {
+      "sub-topic": "Asexual Reproduction - Budding",
+      "Content": "Organisms such as Hydra use regenerative cells for reproduction in the process of budding. In Hydra, a bud develops as an outgrowth due to repeated cell division at one specific site. These buds develop into tiny individuals and when fully mature, detach from the parent body and become new independent individuals."
+    },
+    {
+      "sub-topic": "Asexual Reproduction - Vegetative Propagation",
+      "Content": "Vegetative propagation is the ability of plants to reproduce by bringing forth new plants from existing vegetative structures without sexual reproduction. Some examples of vegetative propagation are given below. Tuber of Potato: The potato tuber is a modified stem. Many notches can be seen on the surface of potato. These are called ‘eyes’ of potato. Each ‘eye’ of a potato can give rise to a new potato plant. Farmers utilize this capability of potatoes to grow potato more quickly; which is not possible by using the seeds of potato."
+    }
+  ]
+}

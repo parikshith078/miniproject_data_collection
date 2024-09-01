@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The plant body is differentiated into root, stem, and leaf, with a present vascular system. They do not bear seeds and are referred to as cryptogams. Examples include ferns and horsetails.",
+      "question": "What type of plants are referred to as cryptogams?"
+    },
+    {
+      "context": "Pteridophyta plants have a differentiated body consisting of root, stem, and leaf, and they feature a vascular system. These plants do not produce seeds, classifying them as cryptogams.",
+      "question": "Why are Pteridophyta classified as cryptogams?"
+    },
+    {
+      "context": "Plants in the Pteridophyta group are characterized by their lack of seeds, making them distinct from phanerogams, which do produce seeds.",
+      "question": "How do Pteridophyta differ from phanerogams?"
+    },
+    {
+      "context": "Examples of Pteridophyta include plants such as Marsilea, ferns, and horsetails. These plants have roots, stems, and leaves, indicating a complex structure.",
+      "question": "Name some examples of Pteridophyta."
+    },
+    {
+      "context": "The vascular system is a significant feature of Pteridophyta, contributing to their structure. These plants are differentiated into roots, stems, and leaves without seeds.",
+      "question": "What is the role of the vascular system in Pteridophyta?"
+    }
+  ]
+}

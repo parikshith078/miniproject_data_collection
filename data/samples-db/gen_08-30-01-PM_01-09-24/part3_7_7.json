@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "DNA is crucial during reproduction as it ensures that genetic information is accurately passed from parents to offspring. Chromosomes, found in the cell nucleus, store this genetic information in the form of DNA, which is responsible for the inheritance of traits. Without DNA copying, the new generation would not receive the necessary instructions for development and functioning.",
+      "question": "What role does DNA play in inheritance?"
+    },
+    {
+      "context": "In the process of reproduction, one of the fundamental steps is the copying of DNA. This ensures that when cells divide, each new cell receives an identical set of chromosomes and hence the same genetic information. The accurate copying of DNA is vital for maintaining the continuity of these inherited traits through generations.",
+      "question": "Why must DNA be copied during reproduction?"
+    },
+    {
+      "context": "The genetic material, or DNA, housed in the chromosomes of a cell carries essential information that determines inherited features. When reproduction occurs, DNA must be duplicated to facilitate the proper distribution of genetic traits to the offspring. This process is fundamental for the continuity of life and species.",
+      "question": "How does DNA contribute to species continuity?"
+    },
+    {
+      "context": "During the reproductive process, an essential event is the duplication of DNA to create a genetic blueprint for the next generation. The DNA present in the cell nucleus is critical because it contains instructions needed for protein synthesis, which influences various characteristics in organisms. This copying maintains the inheritance of parental traits.",
+      "question": "What happens to DNA during cell reproduction?"
+    },
+    {
+      "context": "Maintaining the genetic integrity of organisms during reproduction requires the precise copying of DNA. The information contained in chromosomes guides the inherited traits from parents to their offspring. Each organism's ability to grow and function correctly depends significantly on the accurate transmission of this DNA information.",
+      "question": "Why is accurate DNA copying crucial for offspring?"
+    }
+  ]
+}

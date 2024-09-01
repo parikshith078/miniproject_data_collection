@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Heterotrophic nutrition is typical of animals. These organisms eat organic matter in other organisms —either alive (as hunters) or dead (as scavengers).",
+      "question": "What type of nutrition do animals rely on?"
+    },
+    {
+      "context": "Saprotrophic organisms are the decay organisms. They digest dead materials using enzymes that they secrete externally.",
+      "question": "How do saprotrophic organisms digest materials?"
+    },
+    {
+      "context": "Heterotrophic nutrition is typical of animals. These organisms eat organic matter in other organisms —either alive (as hunters) or dead (as scavengers).",
+      "question": "What do heterotrophic organisms consume?"
+    },
+    {
+      "context": "These organisms eat organic matter in other organisms —either alive (as hunters) or dead (as scavengers).",
+      "question": "What are the two ways heterotrophs obtain food?"
+    },
+    {
+      "context": "They digest dead materials using enzymes that they secrete externally. Saprotrophic organisms are the decay organisms.",
+      "question": "What role do saprotrophic organisms play in the ecosystem?"
+    }
+  ]
+}

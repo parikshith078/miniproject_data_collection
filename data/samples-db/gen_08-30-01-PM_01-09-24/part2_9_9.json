@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The oxygen cycle describes the movement of oxygen within and between its three main reservoirs: the atmosphere, the biosphere, and the lithosphere. Photosynthesis is a key process that contributes to this cycle, essential for sustaining life. It is the largest contributor to the oxygen present in the atmosphere.",
+      "question": "What is the main driving factor of the oxygen cycle?"
+    },
+    {
+      "context": "Photosynthesis plays a critical role in the oxygen cycle as it produces oxygen from carbon dioxide and water. This process occurs primarily in plants, algae, and some bacteria, helping to replenish atmospheric oxygen levels and support life.",
+      "question": "Which process is responsible for producing oxygen?"
+    },
+    {
+      "context": "The three main reservoirs of the oxygen cycle include the atmosphere, biosphere, and lithosphere. These elements interact through various processes such as respiration, decay, and combustion, which involve the continual recycling of oxygen.",
+      "question": "What are the three main reservoirs of the oxygen cycle?"
+    },
+    {
+      "context": "The oxygen cycle illustrates how oxygen moves through the atmosphere, biosphere, and lithosphere. This biogeochemical cycle is crucial for maintaining ecological balance and supporting life processes throughout the planet.",
+      "question": "Why is the oxygen cycle important for life?"
+    },
+    {
+      "context": "The oxygen cycle is primarily driven by photosynthesis, which not only produces oxygen but also consumes carbon dioxide, playing an essential role in regulating atmospheric gases and supporting life on Earth.",
+      "question": "How does photosynthesis affect atmospheric gases?"
+    }
+  ]
+}

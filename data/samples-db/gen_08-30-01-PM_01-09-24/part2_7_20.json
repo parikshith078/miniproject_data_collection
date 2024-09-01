@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Symptoms of various worm infestation include itching, usually of the anus or vaginal area, weight loss, increased appetite, abdominal pain, bowel obstructions, vomiting, disturbed sleep, worms present in the stools or vomit, diarrhea, anemia, symptoms of pneumonia, food poisoning symptoms, aching muscles or joints, or a generally feeling of illness.",
+      "question": "What is a common symptom of roundworm infestation?"
+    },
+    {
+      "context": "These symptoms can range from barely noticeable to very severe.",
+      "question": "How severe can parasitic symptoms be?"
+    },
+    {
+      "context": "Parasites such as roundworms feed off the human waste in the intestines.",
+      "question": "Where do roundworms feed in the human body?"
+    },
+    {
+      "context": "Symptoms include itching, weight loss, abdominal pain, and vomiting.",
+      "question": "Name three symptoms of worm infestation."
+    },
+    {
+      "context": "These symptoms can range from barely noticeable to very severe.",
+      "question": "What does the severity of parasitic symptoms imply?"
+    },
+    {
+      "context": "Symptoms of various worm infestation include itching, abdominal pain, bowel obstructions, and anemia.",
+      "question": "Which symptom is associated with bowel obstructions?"
+    }
+  ]
+}

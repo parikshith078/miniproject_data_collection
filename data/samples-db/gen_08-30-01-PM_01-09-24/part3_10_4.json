@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The modern system of classification is based on evolutionary relationship. Due to this, this is also known as phylogenetic classification. The kingdom is the highest taxa, while the species is the lowest taxa.",
+      "question": "What does phylogenetic classification focus on?"
+    },
+    {
+      "context": "Members of a species have a higher number of common characters, than members of a kingdom. For example; all human beings belong to the species Homo sapiens.",
+      "question": "What is an example of a species in humans?"
+    },
+    {
+      "context": "The kingdom is the highest taxa, while the species is the lowest taxa. Members of a species have a higher number of common characters.",
+      "question": "What is the highest taxa in biological classification?"
+    },
+    {
+      "context": "Due to this, this is also known as phylogenetic classification. The kingdom is the highest taxa, while the species is the lowest taxa.",
+      "question": "What is another name for the modern classification system?"
+    },
+    {
+      "context": "For example; all human beings belong to the species Homo sapiens. Members of a species have a higher number of common characters.",
+      "question": "How do species members compare in common character?"
+    }
+  ]
+}

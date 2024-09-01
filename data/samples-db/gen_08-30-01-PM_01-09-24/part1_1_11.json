@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Leucoplasts are colourless plastids which store food in the form of starch, lipids and proteins. They are primarily found in non-photosynthetic tissues of plants. Leucoplasts can convert into other types of plastids based on the needs of the plant.",
+      "question": "What do leucoplasts store?"
+    },
+    {
+      "context": "Chromoplasts are yellow or reddish in colour due to the presence of pigments other than chlorophyll. These plastids are essential for the pigmentation of flowers and fruits, attracting pollinators and aiding in seed dispersal.",
+      "question": "What color are chromoplasts typically?"
+    },
+    {
+      "context": "Leucoplasts serve as storage organelles in plants, primarily keeping nutrients like starch, lipids, and proteins. They are crucial for plant development, especially in roots and tubers.",
+      "question": "What type of food do leucoplasts store?"
+    },
+    {
+      "context": "Chromoplasts differentiate from chloroplasts and are responsible for the vibrant colors of many fruits and flowers, which helps in attracting animals for pollination and seed dispersal.",
+      "question": "What is the function of chromoplasts?"
+    }
+  ]
+}

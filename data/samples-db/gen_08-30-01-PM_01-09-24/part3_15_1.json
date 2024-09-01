@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "(ii) We should use recycled paper to reduce the cutting down of trees.",
+      "question": "How can recycled paper help the environment?"
+    },
+    {
+      "context": "(iii) We should not waste water.",
+      "question": "Why is water conservation important?"
+    },
+    {
+      "context": "(v) We should practice car pooling to avoid the excessive use of petroleum.",
+      "question": "What is the benefit of car pooling?"
+    },
+    {
+      "context": "(vi) We should use alternative sources of energy such as hydro-energy and solar energy.",
+      "question": "What are alternative energy sources?"
+    },
+    {
+      "context": "(iv) We should practice rainwater harvesting.",
+      "question": "What is rainwater harvesting?"
+    }
+  ]
+}

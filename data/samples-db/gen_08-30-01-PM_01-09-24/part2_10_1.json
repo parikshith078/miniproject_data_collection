@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "The ozone layer absorbs 93 - 99% of the sun’s high frequency ultraviolet light, which is potentially damaging to life on earth.",
+      "question": "What percentage of UV light does the ozone absorb?"
+    },
+    {
+      "context": "Over 91% of the ozone in Earth's atmosphere is present in the ozone layer.",
+      "question": "What percentage of ozone is in the ozone layer?"
+    },
+    {
+      "context": "The ozone layer is located in the lower portion of the stratosphere from approximately 10 km to 50 km above Earth's surface.",
+      "question": "Where is the ozone layer located?"
+    },
+    {
+      "context": "Heavy use of CFCs by humans has caused the ozone layer to break at some places.",
+      "question": "What has caused damage to the ozone layer?"
+    },
+    {
+      "context": "The thickness of the ozone layer varies seasonally and geographically.",
+      "question": "What causes the thickness of the ozone layer to vary?"
+    },
+    {
+      "context": "Increased UV radiation has led to increased cases of skin cancers due to ozone layer depletion.",
+      "question": "What health issue is linked to ozone layer depletion?"
+    },
+    {
+      "context": "The ozone layer contains relatively high concentrations of ozone.",
+      "question": "What does the ozone layer contain?"
+    }
+  ]
+}

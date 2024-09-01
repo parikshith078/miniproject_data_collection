@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Organisms such as Hydra use regenerative cells for reproduction in the process of budding. In Hydra, a bud develops as an outgrowth due to repeated cell division at one specific site.",
+      "question": "What process do Hydra use for reproduction?"
+    },
+    {
+      "context": "These buds develop into tiny individuals and when fully mature, detach from the parent body and become new independent individuals.",
+      "question": "What happens to the buds when they mature?"
+    },
+    {
+      "context": "In Hydra, a bud develops as an outgrowth due to repeated cell division at one specific site.",
+      "question": "How does a bud develop in Hydra?"
+    },
+    {
+      "context": "Buds develop as an outgrowth due to repeated cell division at one specific site.",
+      "question": "What causes the development of buds in Hydra?"
+    },
+    {
+      "context": "When fully mature, detach from the parent body and become new independent individuals.",
+      "question": "What occurs when buds reach maturity?"
+    }
+  ]
+}

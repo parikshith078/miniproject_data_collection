@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The Bishnoi community of Rajasthan is one such example. Amrita Devi Bishnoi is still remembered with reverence for the way she fought for protecting the khejri trees in Khejrali village. She; along with 363 other people; sacrificed her life for the protection of khejri trees in 1731.",
+      "question": "Who is Amrita Devi Bishnoi?"
+    },
+    {
+      "context": "The Bishnoi community of Rajasthan is one such example. Amrita Devi Bishnoi is still remembered with reverence for the way she fought for protecting the khejri trees in Khejrali village.",
+      "question": "Why is the Bishnoi community important?"
+    },
+    {
+      "context": "Amrita Devi Bishnoi is still remembered with reverence for the way she fought for protecting the khejri trees in Khejrali village. She; along with 363 other people; sacrificed her life for the protection of khejri trees in 1731.",
+      "question": "What did Amrita Devi Bishnoi fight for?"
+    },
+    {
+      "context": "The Bishnoi community of Rajasthan is one such example. Amrita Devi Bishnoi is still remembered with reverence for the way she fought for protecting the khejri trees in Khejrali village.",
+      "question": "What trees were the focus of protection efforts?"
+    },
+    {
+      "context": "She; along with 363 other people; sacrificed her life for the protection of khejri trees in 1731. Local People and Forest Conservation suggest that involvement of local communities is necessary for any conservation effort.",
+      "question": "What happened in Khejrali village in 1731?"
+    }
+  ]
+}

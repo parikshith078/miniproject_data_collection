@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Angiosperms are also known as flowering plants because the flower is a specialized organ meant for reproduction.",
+      "question": "What are angiosperms also known as?"
+    },
+    {
+      "context": "The seeds are covered. The word ‘angios’ means covered.",
+      "question": "What does the word 'angios' mean?"
+    },
+    {
+      "context": "There is great diversity in species of angiosperm.",
+      "question": "What is notable about angiosperm species?"
+    },
+    {
+      "context": "The flower is a specialized organ meant for reproduction.",
+      "question": "What is the function of the flower in angiosperms?"
+    }
+  ]
+}

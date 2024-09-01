@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A food web is a graphical depiction of feeding connections among species of an ecological community. Food web consists of food chains of a particular ecosystem. The food web is an illustration of various methods of feeding that links the ecosystem.",
+      "question": "What does a food web represent?"
+    },
+    {
+      "context": "The food web also defines the energy flow through species of a community as a result of their feeding relationships. All the food chains are interconnected and overlapping within an ecosystem and they make up a food web.",
+      "question": "How does the food web impact energy flow?"
+    },
+    {
+      "context": "It increases the stability of the ecosystem. It provides other sources of food and allows the endangered species to grow.",
+      "question": "What is a benefit of having a food web?"
+    },
+    {
+      "context": "The food web also defines the energy flow through species of a community as a result of their feeding relationships. All the food chains are interconnected and overlapping within an ecosystem and they make up a food web.",
+      "question": "What composes a food web?"
+    },
+    {
+      "context": "Food web consists of food chains of a particular ecosystem. The food web is an illustration of various methods of feeding that links the ecosystem.",
+      "question": "What elements comprise a food web?"
+    }
+  ]
+}

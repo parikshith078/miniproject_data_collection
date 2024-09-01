@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Animal tissues are categorized into four main types based on their structure and function. These are epithelial tissue, connective tissue, muscular tissue, and nervous tissue, each playing a vital role in the body’s functioning and organization.",
+      "question": "What are the four types of animal tissues?"
+    },
+    {
+      "context": "The four types of animal tissues include epithelial tissue, which covers body surfaces, connective tissue that supports and binds other tissues, muscular tissue responsible for movement, and nervous tissue that transmits signals throughout the body.",
+      "question": "What is the role of muscular tissue?"
+    },
+    {
+      "context": "Epithelial tissue serves as a protective layer and is involved in absorption, secretion, and sensation. Connective tissue is exemplified by tendons, ligaments, and blood, supporting organs and structures. Muscular tissue facilitates movement, while nervous tissue enables communication within the body.",
+      "question": "How does epithelial tissue function in the body?"
+    },
+    {
+      "context": "Animal tissues are categorized into four distinct types: epithelial tissue, which acts as a lining for various surfaces, connective tissue, which provides support and structure, muscular tissue, which is involved in movement, and nervous tissue, responsible for relaying information.",
+      "question": "What is connective tissue responsible for?"
+    },
+    {
+      "context": "The primary types of animal tissues include epithelial tissue, which covers and protects surfaces; connective tissue that holds everything together; muscular tissue that enables movement; and nervous tissue, which facilitates communication between different body parts.",
+      "question": "Name a type of tissue responsible for communication."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Poultry farming involves raising fowl specifically for egg and meat production. Cross-breeding plays a significant role by mixing different breeds to obtain desirable traits in the offspring. For instance, the Indian breed Aseel is often cross-bred with the foreign breed called Leghorn.",
+      "question": "What is cross-breeding in poultry farming?"
+    },
+    {
+      "context": "In poultry farming, fowls are primarily raised for two purposes: egg production and chicken meat production. Different breeds are utilized for these purposes, such as broilers for meat and layers for eggs. Cross-breeding is frequently employed to improve the breeds.",
+      "question": "What are the two primary purposes of poultry farming?"
+    },
+    {
+      "context": "Broilers are a specific type of fowl raised for meat production, while layers are the breeds primarily raised for egg production. Cross-breeding, such as that between Aseel and Leghorn, aims to enhance traits in poultry.",
+      "question": "What are broilers used for in poultry farming?"
+    },
+    {
+      "context": "The Aseel is an Indian breed of fowl notable for its fighting qualities, while Leghorn is a foreign breed well-known for its egg-laying capabilities. Cross-breeding these two varieties helps to merge desirable characteristics.",
+      "question": "What traits does the Aseel breed have?"
+    },
+    {
+      "context": "Raising poultry involves various techniques including cross-breeding to develop fowl that possess favorable attributes for either egg or meat production. For example, the combination of Aseel and Leghorn seeks to produce superior offspring.",
+      "question": "Why is cross-breeding important in poultry farming?"
+    }
+  ]
+}

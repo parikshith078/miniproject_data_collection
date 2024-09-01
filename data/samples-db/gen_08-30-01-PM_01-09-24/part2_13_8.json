@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cattle should be protected from diseases. Diseases in cattle are caused by both external and internal parasites. External parasites live on the skin and cause skin diseases.",
+      "question": "What causes diseases in cattle?"
+    },
+    {
+      "context": "Certain preventive measures of diseases in animals are listed: Proper disposal of dead animals and animal wastes. Shelters should be clean, dry and well ventilated.",
+      "question": "What are some preventive measures for cattle diseases?"
+    },
+    {
+      "context": "Internal parasites affect the stomach and intestinal parts. Certain preventive measures of diseases in animals are listed: Proper disposal of dead animals and animal wastes.",
+      "question": "How do internal parasites affect cattle?"
+    },
+    {
+      "context": "Hygienic management of animals and animal products helps in disease prevention. Periodic visit of veterinary physician to check the animals.",
+      "question": "Why are veterinary visits important for cattle?"
+    },
+    {
+      "context": "Shelters should be clean, dry and well ventilated. External parasites live on the skin and cause skin diseases.",
+      "question": "How should cattle shelters be maintained?"
+    }
+  ]
+}

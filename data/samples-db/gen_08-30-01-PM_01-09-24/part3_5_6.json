@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Auxin is synthesized at the shoot tip. It helps the cell grow longer. When a tendril comes in contact with a support, auxin stimulates faster growth of the cells on the opposite side, so that the tendril forms a coil around the support.",
+      "question": "Where is auxin synthesized in plants?"
+    },
+    {
+      "context": "When a tendril comes in contact with a support, auxin stimulates faster growth of the cells on the opposite side, so that the tendril forms a coil around the support. This makes the tendrils appear as a watch spring.",
+      "question": "What effect does auxin have on tendrils when they contact a support?"
+    },
+    {
+      "context": "Auxin is synthesized at the shoot tip. It helps the cell grow longer. When a tendril comes in contact with a support, auxin stimulates faster growth of the cells on the opposite side.",
+      "question": "What is the role of auxin in plant growth?"
+    },
+    {
+      "context": "Auxin stimulates faster growth of the cells on the opposite side, so that the tendril forms a coil around the support. This makes the tendrils appear as a watch spring.",
+      "question": "How does auxin contribute to the coiling of tendrils?"
+    },
+    {
+      "context": "When a tendril comes in contact with a support, auxin stimulates faster growth of the cells on the opposite side, so that the tendril forms a coil around the support. This makes the tendrils appear as a watch spring.",
+      "question": "What shape do tendrils resemble due to auxin action?"
+    }
+  ]
+}

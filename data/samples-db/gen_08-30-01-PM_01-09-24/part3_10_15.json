@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "All human beings, even though they have different size, colour and looks, belong to the same species because they have similar DNA sequences and have descended from the same ancestors.",
+      "question": "What defines human beings as the same species?"
+    },
+    {
+      "context": "Also, they are capable of reproducing among themselves.",
+      "question": "Why is reproduction important for species classification?"
+    }
+  ]
+}

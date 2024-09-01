@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "These causes are expressed through the intermediate risk factors of raised blood pressure, raised glucose levels, abnormal blood lipids, overweight and obesity. The major modifiable risk factors, in conjunction with the non-modifiable risk factors of age and heredity, explain the majority of new events of heart disease, stroke, chronic respiratory diseases and some important cancers.",
+      "question": "What are the major modifiable risk factors?"
+    },
+    {
+      "context": "The relationship between the major modifiable risk factors and the main chronic diseases is similar in all regions of the world.",
+      "question": "How does the risk factor relationship vary by region?"
+    },
+    {
+      "context": "The major modifiable risk factors, in conjunction with the non-modifiable risk factors of age and heredity, explain the majority of new events of heart disease.",
+      "question": "What role do non-modifiable factors play in chronic diseases?"
+    },
+    {
+      "context": "These causes are expressed through the intermediate risk factors of raised blood pressure, raised glucose levels, abnormal blood lipids, overweight and obesity.",
+      "question": "What are the intermediate risk factors mentioned?"
+    },
+    {
+      "context": "The relationship between the major modifiable risk factors and the main chronic diseases is similar in all regions of the world.",
+      "question": "Is the relationship of risk factors consistent globally?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The stomach is a bag-like organ. Highly muscular walls of the stomach help in churning the food. The walls of stomach secrete hydrochloric acid. Hydrochloric acid kills the germs which may be present in food.",
+      "question": "What role does hydrochloric acid play in the stomach?"
+    },
+    {
+      "context": "The stomach is a bag-like organ. Highly muscular walls of the stomach help in churning the food. The walls of stomach secrete hydrochloric acid. Hydrochloric acid kills the germs which may be present in food.",
+      "question": "How do the walls of the stomach assist in digestion?"
+    },
+    {
+      "context": "The stomach is a bag-like organ. Highly muscular walls of the stomach help in churning the food. The walls of stomach secrete hydrochloric acid. Hydrochloric acid kills the germs which may be present in food.",
+      "question": "What is the function of the stomach's muscular walls?"
+    },
+    {
+      "context": "The stomach is a bag-like organ. Highly muscular walls of the stomach help in churning the food. The walls of stomach secrete hydrochloric acid. Hydrochloric acid kills the germs which may be present in food.",
+      "question": "How does the stomach protect against germs in food?"
+    },
+    {
+      "context": "The stomach is a bag-like organ. Highly muscular walls of the stomach help in churning the food. The walls of stomach secrete hydrochloric acid. Hydrochloric acid kills the germs which may be present in food.",
+      "question": "What happens to food in the stomach?"
+    }
+  ]
+}

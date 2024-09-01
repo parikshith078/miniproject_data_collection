@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "To make our school environment eco-friendly, it is essential to plant different kinds of shady and fruity trees. Different flowering plants should also be planted.",
+      "question": "What types of trees should be planted?"
+    },
+    {
+      "context": "No waste material and used paper, foil, empty packets should be spread all over the school. The water facility should be in good condition.",
+      "question": "What should be avoided on school grounds?"
+    },
+    {
+      "context": "Rooms should be properly ventilated. There should be proper provision of dustbins for the disposal of waste.",
+      "question": "What should be provided for waste disposal?"
+    },
+    {
+      "context": "There should be big and clean playgrounds.",
+      "question": "What should the playgrounds be like?"
+    },
+    {
+      "context": "Different flowering plants should also be planted. The water facility should be in good condition.",
+      "question": "What type of plants should be introduced?"
+    }
+  ]
+}

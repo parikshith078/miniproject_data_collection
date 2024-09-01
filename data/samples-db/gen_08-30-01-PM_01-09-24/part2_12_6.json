@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Manures increase soil fertility by enriching the soil with organic matter and nutrients as it is prepared by the decomposition of animal excreta and plant wastes.",
+      "question": "How do manures improve soil fertility?"
+    },
+    {
+      "context": "On the other hand, fertilizers are mostly inorganic compounds whose excessive use is harmful to the symbiotic micro-organisms living in soil.",
+      "question": "What is a negative effect of excessive fertilizer use?"
+    },
+    {
+      "context": "Their excessive use also reduces soil fertility. Hence, fertilizers are considered good for only short-term use.",
+      "question": "Why are fertilizers only recommended for short-term use?"
+    },
+    {
+      "context": "Manures increase soil fertility by enriching the soil with organic matter and nutrients.",
+      "question": "What materials are used to prepare manures?"
+    },
+    {
+      "context": "Fertilizers are mostly inorganic compounds whose excessive use is harmful to the symbiotic micro-organisms living in soil.",
+      "question": "What types of compounds do fertilizers primarily consist of?"
+    }
+  ]
+}

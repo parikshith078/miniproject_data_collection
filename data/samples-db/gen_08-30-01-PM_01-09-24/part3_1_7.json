@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Heterotrophic nutrition is a mode of nutrition where organisms obtain their food by consuming other living beings or organic matter. All animals and fungi have this type of nutrition, relying on external sources for their energy and nutrient requirements.",
+      "question": "Which organisms utilize heterotrophic nutrition?"
+    },
+    {
+      "context": "In heterotrophic nutrition, organisms are unable to produce their own food. Instead, they must feed on plants, animals, or decomposing materials. All animals and fungi have this type of nutrition, making them dependent on other life forms for sustenance.",
+      "question": "What is the main characteristic of heterotrophic nutrition?"
+    },
+    {
+      "context": "Heterotrophic nutrition includes various feeding strategies such as herbivory, carnivory, and decomposing. All animals and fungi have this type of nutrition, which signifies their role as consumers in the ecosystem.",
+      "question": "What roles do animals and fungi play in their ecosystems?"
+    },
+    {
+      "context": "In ecosystems, different organisms exhibit various forms of nutrition. Heterotrophic nutrition is one type where food is obtained by consuming other organisms. All animals and fungi have this type of nutrition, contrasting with autotrophic organisms like plants.",
+      "question": "How does heterotrophic nutrition differ from autotrophic nutrition?"
+    }
+  ]
+}

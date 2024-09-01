@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Soil is an important resource that decides the diversity of life in an area. The outermost layer of our Earth is called the crust and the minerals found in this layer supply a variety of nutrients to life-forms.",
+      "question": "What factors influence soil diversity?"
+    },
+    {
+      "context": "The Sun heats up rocks during the day so that they expand. At night, these rocks cool down and contract. This results in the formation of cracks and ultimately the huge rocks break up into smaller pieces.",
+      "question": "How does temperature affect rock breakage?"
+    },
+    {
+      "context": "Water helps in the formation of soil in two ways. One, water could get into the cracks in the rocks formed due to uneven heating by the Sun. If this water later freezes, it would cause the cracks to widen.",
+      "question": "What role does freezing water play in soil formation?"
+    },
+    {
+      "context": "Fast flowing water often carries big and small particles of rock downstream. These rocks rub against other rocks and the resultant abrasion causes the rocks to wear down into smaller and smaller particles.",
+      "question": "What does flowing water do to rocks over time?"
+    },
+    {
+      "context": "Strong winds also erode rocks down. The wind also carries sand from one place to the other like water does.",
+      "question": "How does wind contribute to soil formation?"
+    }
+  ]
+}

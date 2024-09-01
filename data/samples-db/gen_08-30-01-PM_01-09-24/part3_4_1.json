@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Different pathways are taken by nerves to bring about coordinated activity, classified into three types: afferent, efferent, and association nerves.",
+      "question": "What are the three types of nerve pathways?"
+    },
+    {
+      "context": "Afferent neurons carry messages towards the central nervous system from sense organ nerve endings that detect changes in surroundings.",
+      "question": "What do afferent neurons carry?"
+    },
+    {
+      "context": "Efferent neurons transport messages from the central nervous system to effectors that will produce a response.",
+      "question": "What is the function of efferent neurons?"
+    },
+    {
+      "context": "Association nerves serve to connect afferent and efferent neurons, facilitating communication within the nervous system.",
+      "question": "What do association nerves do?"
+    },
+    {
+      "context": "There is coordination between eye and finger in the holding stick activity, demonstrating how nerves work together.",
+      "question": "What does the holding stick activity demonstrate?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Autotrophic nutrition is essential for plants, which utilize photosynthesis to produce food. The process requires carbon dioxide, water, chlorophyll, and sunlight to synthesize carbohydrates and release oxygen as a by-product.",
+      "question": "What is the main by-product of photosynthesis?"
+    },
+    {
+      "context": "Photosynthesis, a crucial part of autotrophic nutrition, involves the conversion of carbon dioxide and water into carbohydrates. This process primarily takes place in the presence of sunlight and chlorophyll pigment in plants.",
+      "question": "What conditions are required for photosynthesis?"
+    },
+    {
+      "context": "The process of autotrophic nutrition is dependent on photosynthesis, which allows plants to create their own food. This process also results in the release of oxygen into the atmosphere, which is vital for living organisms.",
+      "question": "How do plants contribute to atmospheric oxygen?"
+    },
+    {
+      "context": "During the process of photosynthesis, autotrophic organisms like plants convert carbon dioxide and water into carbohydrates, using sunlight and chlorophyll pigment. This transformation is fundamental in sustaining life on Earth.",
+      "question": "What do autotrophic organisms produce during photosynthesis?"
+    },
+    {
+      "context": "Photosynthesis is the key process behind autotrophic nutrition, enabling plants to harness sunlight to create food. In this process, water and carbon dioxide are transformed into carbohydrates, with oxygen released as a by-product.",
+      "question": "What is the role of sunlight in photosynthesis?"
+    }
+  ]
+}

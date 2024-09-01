@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Sieve elements are the conducting elements of the phloem. Sieve elements are of two types – sieve cells and sieve tubes. Sieve cells are present in Pteridophytes and Gymnosperms whereas sieve tubes are present in Angiosperms.",
+      "question": "What are the two types of sieve elements?"
+    },
+    {
+      "context": "Sieve elements are the conducting elements of the phloem. Sieve elements are of two types – sieve cells and sieve tubes. Sieve cells are present in Pteridophytes and Gymnosperms whereas sieve tubes are present in Angiosperms.",
+      "question": "In which plants are sieve tubes found?"
+    },
+    {
+      "context": "Sieve elements are the conducting elements of the phloem. Sieve elements are of two types – sieve cells and sieve tubes. Sieve cells are present in Pteridophytes and Gymnosperms whereas sieve tubes are present in Angiosperms.",
+      "question": "Which type of sieve element is found in Gymnosperms?"
+    },
+    {
+      "context": "Sieve elements are the conducting elements of the phloem. Sieve elements are of two types – sieve cells and sieve tubes. Sieve cells are present in Pteridophytes and Gymnosperms whereas sieve tubes are present in Angiosperms.",
+      "question": "What is the primary function of sieve elements?"
+    }
+  ]
+}

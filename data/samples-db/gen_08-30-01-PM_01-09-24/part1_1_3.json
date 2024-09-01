@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Lysosomes are involved in the intracellular digestion of food particles ingested by the cell through endocytosis. This process allows the cell to break down complex materials into simpler substances that it can utilize for energy and growth.",
+      "question": "What is the role of lysosomes in digestion?"
+    },
+    {
+      "context": "The lysosomes of WBCs (White blood cells) destroy pathogens and other foreign particles and thus take part in natural defence of the body. This function is crucial for maintaining the immune response and protecting the body against infections.",
+      "question": "How do lysosomes contribute to the immune response?"
+    },
+    {
+      "context": "Lysosomes are involved in the intracellular digestion of food particles ingested by the cell through endocytosis, enabling the breakdown of materials for metabolic processes. They contribute to the recycling of cellular components as well.",
+      "question": "What processes do lysosomes facilitate within cells?"
+    },
+    {
+      "context": "The lysosomes of WBCs (White blood cells) destroy pathogens and other foreign particles and thus take part in natural defence of the body. Their enzymatic activity is key in protecting the organism from diseases.",
+      "question": "What types of cells contain lysosomes for defense?"
+    },
+    {
+      "context": "Lysosomes are involved in the intracellular digestion of food particles ingested by the cell through endocytosis. By breaking down these particles, lysosomes play a critical role in cellular nutrition.",
+      "question": "Why are lysosomes important for cellular nutrition?"
+    }
+  ]
+}

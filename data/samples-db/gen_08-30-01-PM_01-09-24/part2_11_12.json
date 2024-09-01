@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A variety of biotic factors such as pests, nematodes, diseases, etc. can reduce the net crop production.",
+      "question": "What are examples of biotic factors?"
+    },
+    {
+      "context": "For example, boll weevil is a pest on cotton. It attacks the cotton crop, thereby reducing its yield.",
+      "question": "What pest affects cotton crops?"
+    },
+    {
+      "context": "Weeds also reduce crop productivity by competing with the main crop for nutrients, light, and space.",
+      "question": "How do weeds affect crop productivity?"
+    },
+    {
+      "context": "Similarly, abiotic factors such as salinity, temperature, etc. affect the net crop production.",
+      "question": "What are some abiotic factors affecting crops?"
+    },
+    {
+      "context": "Some natural calamities such as droughts and floods are unpredictable. Their occurrence has a great impact on crops sometimes, destroying the entire crop.",
+      "question": "What natural calamities affect crop production?"
+    }
+  ]
+}

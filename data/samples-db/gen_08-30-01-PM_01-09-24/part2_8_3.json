@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Infectious diseases spread by different means. These are: (i) Through air An infected person when sneezes or coughs releases droplets containing germs. These droplets infect another healthy person through air and microbes enter a new body. Examples of such diseases are common cold, pneumonia and tuberculosis.",
+      "question": "What diseases spread through air?"
+    },
+    {
+      "context": "If the water source is polluted by the excreta of infectious persons having gut diseases and this water is used by other people they will be infected by diseases. For example, cholera, amoebiasis, hepatitis spread through water.",
+      "question": "Which diseases are transmitted through water?"
+    },
+    {
+      "context": "Some diseases like AIDS and syphilis, etc., are transmitted by sexual contact. Other than this, AIDS virus also spreads through blood, infected syringes, infected mother to her baby during pregnancy and through breast feeding.",
+      "question": "How is AIDS transmitted?"
+    },
+    {
+      "context": "There are some animals which act as intermediaries or vectors for a particular diseases. The vectors carry diseases from infected person to the healthy person. For example, mosquito spread malaria causing organism in humans, while sucking their blood.",
+      "question": "What role do vectors play in disease transmission?"
+    }
+  ]
+}

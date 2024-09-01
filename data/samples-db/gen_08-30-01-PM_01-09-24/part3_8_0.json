@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Ovary produces the eggs or the female gametes. All the eggs are produced by the ovary when the female child is still in the womb.",
+      "question": "What do ovaries produce in females?"
+    },
+    {
+      "context": "One egg matures in each ovulation cycle and is released from the ovary.",
+      "question": "How many eggs mature during each ovulation cycle?"
+    },
+    {
+      "context": "The egg is caught by the fimbriae and transferred to the fallopian tube.",
+      "question": "What structure catches the egg after ovulation?"
+    },
+    {
+      "context": "All the eggs are produced by the ovary when the female child is still in the womb.",
+      "question": "When are eggs produced in a female's life?"
+    },
+    {
+      "context": "One egg matures in each ovulation cycle and is released from the ovary.",
+      "question": "What happens to the egg during ovulation?"
+    }
+  ]
+}

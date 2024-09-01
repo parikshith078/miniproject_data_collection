@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The mouth has teeth and tongue. Salivary glands are also present in the mouth. The tongue has gustatory receptors which perceive the sense of taste.",
+      "question": "What is the role of the tongue in digestion?"
+    },
+    {
+      "context": "The mouth has teeth and tongue. Salivary glands are also present in the mouth.",
+      "question": "What structures are found in the mouth?"
+    },
+    {
+      "context": "The tongue helps in turning over the food, so that saliva can be properly mixed in it.",
+      "question": "How does the tongue assist saliva mixing?"
+    },
+    {
+      "context": "The tongue has gustatory receptors which perceive the sense of taste.",
+      "question": "What is the function of gustatory receptors?"
+    },
+    {
+      "context": "Salivary glands are also present in the mouth. The tongue has gustatory receptors which perceive the sense of taste.",
+      "question": "What do the salivary glands contribute to digestion?"
+    }
+  ]
+}

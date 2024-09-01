@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The hypothalamus lies at the base of the cerebrum. It controls sleep and wake cycle (circadian rhythm) of the body.",
+      "question": "What part of the brain controls circadian rhythm?"
+    },
+    {
+      "context": "The hypothalamus lies at the base of the cerebrum. It also controls the urges for eating and drinking.",
+      "question": "Which brain region regulates hunger and thirst?"
+    },
+    {
+      "context": "The hypothalamus controls sleep and wake cycle (circadian rhythm) of the body.",
+      "question": "What function does the hypothalamus perform related to sleep?"
+    },
+    {
+      "context": "It controls sleep and wake cycle (circadian rhythm) of the body. It also controls the urges for eating and drinking.",
+      "question": "What are two key functions of the hypothalamus?"
+    },
+    {
+      "context": "It controls sleep and wake cycle (circadian rhythm) of the body. The hypothalamus lies at the base of the cerebrum.",
+      "question": "Where is the hypothalamus located in the brain?"
+    }
+  ]
+}

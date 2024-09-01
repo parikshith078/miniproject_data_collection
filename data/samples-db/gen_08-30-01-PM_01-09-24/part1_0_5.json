@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "A cell is made of life giving substance called protoplasm. The protoplasm is a highly organised jelly-like, viscous, semi-fluid, composed of molecules of various chemicals.",
+      "question": "What is protoplasm composed of?"
+    },
+    {
+      "context": "A plant cell consists of a cell wall and protoplast. Cell wall is absent in animal cells. Protoplast denotes the whole of protoplasm present in a cell.",
+      "question": "What distinguishes plant and animal cells?"
+    },
+    {
+      "context": "Protoplasm is commonly called the ‘physical basis of life’. A plant cell consists of a cell wall and protoplast.",
+      "question": "What is protoplasm often referred to?"
+    },
+    {
+      "context": "It is differentiated into plasma membrane, nucleus and cytoplasm. Protoplast denotes the whole of protoplasm present in a cell.",
+      "question": "What are the components of a protoplast?"
+    },
+    {
+      "context": "Most of these are organic molecules such as proteins, carbohydrates, fats, nucleic acid etc. Protoplasm is commonly called the ‘physical basis of life’.",
+      "question": "Which organic molecules are found in protoplasm?"
+    },
+    {
+      "context": "Protoplasm is a highly organised jelly-like, viscous, semi-fluid, composed of molecules of various chemicals. A cell is made of life giving substance called protoplasm.",
+      "question": "How is protoplasm described?"
+    }
+  ]
+}

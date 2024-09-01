@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "On basis of their utility, cattle are classified into two types namely milch animals and draught animals. Milch animals or dairy animals produce milk. Males of this type are not useful for working on farm.",
+      "question": "What are milch animals used for?"
+    },
+    {
+      "context": "Draught animals are used for carrying out agricultural work like tilling, irrigation and carting. Cows belonging to this category are poor milk-yielding varieties.",
+      "question": "What is a primary use of draught animals?"
+    },
+    {
+      "context": "Milch animals or dairy animals produce milk. Males of this type are not useful for working on farm.",
+      "question": "Are male milch animals useful for work?"
+    },
+    {
+      "context": "Cattle are classified into milch animals and draught animals based on their utility. Milch animals produce milk, while draught animals are used for work.",
+      "question": "How are cattle classified?"
+    },
+    {
+      "context": "Cows belonging to the draught category are poor milk-yielding varieties, while milch animals are specifically bred for milk production.",
+      "question": "What characterizes draught cows?"
+    }
+  ]
+}

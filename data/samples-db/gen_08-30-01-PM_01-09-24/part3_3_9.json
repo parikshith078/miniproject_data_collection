@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Alveoli are tiny balloon-like structures present inside the lungs. The walls of the alveoli are one cell thick and it contains an extensive network of blood capillaries.",
+      "question": "What is the primary function of alveoli?"
+    },
+    {
+      "context": "Nephrons are tubular structures present inside the kidneys. Nephrons are made of glomerulus, bowman’s capsule, and a long renal tube. It also contains a cluster of thin-walled capillaries.",
+      "question": "What are the main components of nephrons?"
+    },
+    {
+      "context": "The exchange of O2 and CO2 takes place between the blood of the capillaries that surround the alveoli and the gases present in the alveoli. Alveoli are the site of gaseous exchange.",
+      "question": "How do alveoli facilitate gas exchange?"
+    },
+    {
+      "context": "The blood enters the kidneys through the renal artery which branches into many capillaries in the glomerulus. The water and solute are transferred to the nephron at Bowman’s capsule.",
+      "question": "What is the role of glomerulus in nephrons?"
+    },
+    {
+      "context": "During the flow of filtrate, some substances such as glucose, amino acids, and water are selectively re-absorbed. Nephrons are the basic filtration unit.",
+      "question": "What substances are reabsorbed in the nephron?"
+    },
+    {
+      "context": "Alveoli are the site of gaseous exchange. The walls of the alveoli are one cell thick and it contains an extensive network of blood capillaries.",
+      "question": "Why are alveoli structured to be one cell thick?"
+    },
+    {
+      "context": "Nephrons are the basic filtration unit. The collecting duct collects the urine from many nephrons and passes it to the ureter.",
+      "question": "How does urine travel from the nephron?"
+    },
+    {
+      "context": "Alveoli are tiny balloon-like structures present inside the lungs. The exchange of O2 and CO2 takes place between the blood of the capillaries that surround the alveoli and the gases present in the alveoli.",
+      "question": "What gases are exchanged in the alveoli?"
+    },
+    {
+      "context": "Nephrons are made of glomerulus, bowman’s capsule, and a long renal tube. From henle’s loop, filtrate passes into the distal tubule and then to the collecting duct.",
+      "question": "What is the order of filtrate movement in a nephron?"
+    },
+    {
+      "context": "Alveoli contain an extensive network of blood capillaries. Nephrons are made of glomerulus, bowman’s capsule, and a long renal tube.",
+      "question": "What structures support the function of alveoli and nephrons?"
+    }
+  ]
+}

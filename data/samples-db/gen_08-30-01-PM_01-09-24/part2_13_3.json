@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The branch of agriculture which deals with the feeding, shelter, health and breeding of domestic animals such as cattle, pigs, horses and fowls is called animal husbandry.",
+      "question": "What is animal husbandry?"
+    },
+    {
+      "context": "The various elements of animal husbandry are: 1. Proper feeding of animals. 2. Provision for clean drinking water for animals.",
+      "question": "What are some elements of animal husbandry?"
+    },
+    {
+      "context": "Prevention and cure of animal diseases is an essential part of animal husbandry.",
+      "question": "Why is disease prevention important?"
+    },
+    {
+      "context": "Proper breeding of animals is one of the main aspects of animal husbandry.",
+      "question": "What does proper breeding in animal husbandry involve?"
+    },
+    {
+      "context": "Provision for clean drinking water is necessary for animal husbandry practices.",
+      "question": "Why is clean drinking water important for animals?"
+    }
+  ]
+}

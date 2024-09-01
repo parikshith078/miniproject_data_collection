@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Leprosy symptoms include light coloured patches on the skin, thickening of nerves, and loss of sensation. Additional symptoms may include fever, ulcers, and deformities in fingers and toes.",
+      "question": "What are common symptoms of leprosy?"
+    },
+    {
+      "context": "The lepromin test evaluates leprosy through an intradermal lepromin injection. This test helps classify leprosy type based on the patient's reaction.",
+      "question": "What is the purpose of the lepromin test?"
+    },
+    {
+      "context": "In leprosy, tuberculoid leprosy reacts positively to the lepromin test, while lepromatous leprosy shows a negative reaction to the same test.",
+      "question": "How does leprosy type affect lepromin test results?"
+    },
+    {
+      "context": "Leprosy affects sensitivity in the body, resulting in loss of sensation, fever, and potential ulcers. It can also lead to deformities of fingers and toes over time.",
+      "question": "How does leprosy impact body sensitivity?"
+    },
+    {
+      "context": "Symptoms of leprosy include skin patches and nerve thickening, accompanied by fever and pain. Some may also develop skin ulcers and deformities.",
+      "question": "What complications can arise from leprosy?"
+    }
+  ]
+}

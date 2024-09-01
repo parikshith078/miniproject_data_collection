@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plant cells have a rigid cell wall made of cellulose, which provides structural support. They also contain chloroplasts for photosynthesis and large vacuoles for storing nutrients and waste. In contrast, animal cells have a flexible membrane, no chloroplasts, and smaller vacuoles.",
+      "question": "What structures are unique to plant cells?"
+    },
+    {
+      "context": "Unlike animal cells, plant cells typically have a chloroplast that allows them to perform photosynthesis. Additionally, they have a larger central vacuole that maintains turgor pressure, as well as a cell wall that gives them a distinct shape.",
+      "question": "What is the function of chloroplasts in plant cells?"
+    },
+    {
+      "context": "Plant cells differ from animal cells in having a cell wall, chloroplasts, and larger central vacuoles. These components enable plants to produce their own food and maintain their shape, contrasting with the more fluid structure of animal cells.",
+      "question": "How does the cell wall affect plant cell structure?"
+    },
+    {
+      "context": "Animal cells do not have chloroplasts or cell walls, which are common in plant cells. Instead, they have lysosomes that help break down waste, contributing to a different form and function within multicellular organisms.",
+      "question": "What role do lysosomes play in animal cells?"
+    },
+    {
+      "context": "The primary differences between plant and animal cells include the presence of a cell wall, chloroplasts, and large vacuoles in plant cells, which are adaptations to their functions, while animal cells have a more varied structure and are generally more flexible.",
+      "question": "List one similarity between plant and animal cells."
+    }
+  ]
+}

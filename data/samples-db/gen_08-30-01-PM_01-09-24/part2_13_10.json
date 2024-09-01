@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Cross-breeding is done between foreign and local breeds of animals to facilitate the growth of animals with desired qualities. e.g. Foreign breed like Jersey cow, with long lactation period, is crossed with local breed like Red Sindhi cow, with high resistance to disease, to obtain offspring of desired qualities like long lactation period and high resistance to diseases.",
+      "question": "What is the purpose of cross-breeding cattle?"
+    },
+    {
+      "context": "Cross-breeding is done between foreign and local breeds of animals to facilitate the growth of animals with desired qualities. e.g. Foreign breed like Jersey cow, with long lactation period, is crossed with local breed like Red Sindhi cow, with high resistance to disease, to obtain offspring of desired qualities like long lactation period and high resistance to diseases.",
+      "question": "Which two breeds are crossed in this example?"
+    },
+    {
+      "context": "Cross-breeding is done between foreign and local breeds of animals to facilitate the growth of animals with desired qualities. e.g. Foreign breed like Jersey cow, with long lactation period, is crossed with local breed like Red Sindhi cow, with high resistance to disease, to obtain offspring of desired qualities like long lactation period and high resistance to diseases.",
+      "question": "What qualities are desired in the offspring?"
+    },
+    {
+      "context": "Cross-breeding is done between foreign and local breeds of animals to facilitate the growth of animals with desired qualities. e.g. Foreign breed like Jersey cow, with long lactation period, is crossed with local breed like Red Sindhi cow, with high resistance to disease, to obtain offspring of desired qualities like long lactation period and high resistance to diseases.",
+      "question": "What is one benefit of using a local breed in cross-breeding?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Forests help to maintain oxygen and carbon dioxide balance in the air. They reduce the level of CO2 in the air and to prevent greenhouse effect. These maintain temperature of the environment.",
+      "question": "How do forests help maintain oxygen balance?"
+    },
+    {
+      "context": "Trees spread their roots deep inside the Earth and bind the soil particles firmly. This reduces soil erosion. Forests help to maintain nutrient cycles (biogeochemical cycles) in the atmosphere.",
+      "question": "What is one way forests prevent soil erosion?"
+    },
+    {
+      "context": "Trees help to maintain the water cycle. Forests conserve water and make them available on the surface of Earth as water sources.",
+      "question": "How do trees benefit the water cycle?"
+    },
+    {
+      "context": "Forests influence the quality of air, soil and water resources in following ways: They increase the rate of photosynthesis in surrounding region.",
+      "question": "What is one effect of forests on photosynthesis?"
+    },
+    {
+      "context": "Forests help to maintain temperature of the environment. This influence has significant effects on climate and weather patterns.",
+      "question": "How do forests impact environmental temperature?"
+    },
+    {
+      "context": "Forests influence the quality of air, soil, and water resources. They are critical for maintaining ecological balance.",
+      "question": "Why are forests important for ecological balance?"
+    }
+  ]
+}

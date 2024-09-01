@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The heart has superior and inferior vena cava, which carries de-oxygenated blood from the upper and lower regions of the body respectively and supplies this de-oxygenated blood to the right atrium of the heart.",
+      "question": "What do the vena cavae carry to the heart?"
+    },
+    {
+      "context": "From the lungs, the pulmonary veins transport the oxygenated blood to the left atrium of the heart. Then the left atrium contracts and through the auriculo-ventricular aperture, the oxygenated blood enters the left ventricle.",
+      "question": "What transports oxygenated blood to the left atrium?"
+    },
+    {
+      "context": "The right atrium then contracts and passes the de-oxygenated blood to the right ventricle, through an auriculo-ventricular aperture. Then the right ventricle contracts and passes the de-oxygenated blood into the two pulmonary arteries.",
+      "question": "What happens to de-oxygenated blood in the right atrium?"
+    },
+    {
+      "context": "The aorta gives rise to many arteries that distribute the oxygenated blood to all the regions of the body. Therefore, the blood goes twice through the heart. This is known as double circulation.",
+      "question": "What is the term for blood moving twice through the heart?"
+    },
+    {
+      "context": "The separation of oxygenated and de-oxygenated blood allows a more efficient supply of oxygen to the body cells. This efficient system of oxygen supply is very useful in warm-blooded animals such as human beings.",
+      "question": "Why is double circulation efficient for warm-blooded animals?"
+    }
+  ]
+}

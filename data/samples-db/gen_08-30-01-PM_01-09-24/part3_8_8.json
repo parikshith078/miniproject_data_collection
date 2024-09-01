@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Pollination is the transfer of pollen grains from anther to stigma of a flower. Fertilisation involves male and female gametes forming a zygote.",
+      "question": "What is the main difference between pollination and fertilization?"
+    },
+    {
+      "context": "The process of pollination occurs before fertilization, where pollen grains are transferred to the stigma.",
+      "question": "When does pollination occur in relation to fertilization?"
+    },
+    {
+      "context": "Pollination involves only male gametes, while fertilization involves both male and female gametes to form a zygote.",
+      "question": "Which type of gametes are involved in pollination?"
+    },
+    {
+      "context": "Fertilization is defined as the fusion of male and female gametes, leading to the formation of a zygote.",
+      "question": "What does fertilization lead to in the reproductive process?"
+    },
+    {
+      "context": "The anther is the part of the flower where pollen is produced for the process of pollination.",
+      "question": "What is the role of the anther in pollination?"
+    }
+  ]
+}

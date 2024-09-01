@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Common management practices in dairy and poultry farming are: (i) Proper shelter facilities and their regular cleaning. (ii) Some basic hygienic conditions such as clean water, nutritious food, etc.",
+      "question": "What are some basic hygienic conditions for animals?"
+    },
+    {
+      "context": "(iii) Animals are kept in spacious, airy, and ventilated place. (iv) Prevention and cure of diseases at the right time is ensured.",
+      "question": "Why is proper ventilation important for animals?"
+    },
+    {
+      "context": "Some basic hygienic conditions such as clean water, nutritious food, etc. (iii) Animals are kept in spacious, airy, and ventilated place.",
+      "question": "What are the benefits of proper animal spacing?"
+    },
+    {
+      "context": "Prevention and cure of diseases at the right time is ensured. Common management practices in dairy and poultry farming are: (i) Proper shelter facilities and their regular cleaning.",
+      "question": "How can diseases be prevented in farming?"
+    },
+    {
+      "context": "Proper shelter facilities and their regular cleaning. (ii) Some basic hygienic conditions such as clean water, nutritious food, etc.",
+      "question": "What role does shelter play in animal management?"
+    }
+  ]
+}

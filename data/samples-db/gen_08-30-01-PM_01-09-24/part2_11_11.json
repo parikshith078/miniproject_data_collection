@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "In genetics, hybridisation is the process of combining different varieties or species of organisms which are genetically dissimilar to create a hybrid. It can be inter varietal, inter specific, intergeneric.",
+      "question": "What is hybridisation in genetics?"
+    },
+    {
+      "context": "Genetically modified crops. Here the crop is improved by introducing a gene that would provide desired characteristics.",
+      "question": "How are genetically modified crops improved?"
+    },
+    {
+      "context": "Hybridisation includes inter varietal, inter specific, and intergeneric combinations of organisms.",
+      "question": "What types of hybridisation exist?"
+    },
+    {
+      "context": "Hybridisation is the process of combining different varieties or species of organisms which are genetically dissimilar to create a hybrid.",
+      "question": "What is the goal of hybridisation?"
+    },
+    {
+      "context": "In hybridisation, organisms that are genetically dissimilar are combined to create a hybrid.",
+      "question": "What is combined in hybridisation?"
+    },
+    {
+      "context": "Genetically modified crops involve introducing a gene that provides desired traits to the organism.",
+      "question": "What does the gene introduce in GM crops?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cells constitute various components of plants and animals. A cell is the smallest unit of life and is capable of all living functions. Cells are the building blocks of life.",
+      "question": "What are cells referred to as?"
+    },
+    {
+      "context": "All cells vary in their shape, size, and activity they perform. In fact, the shape and size of the cell are related to the specific functions they perform.",
+      "question": "How are cell shape and function related?"
+    },
+    {
+      "context": "A cell is the smallest unit of life and is capable of all living functions. Cells are the building blocks of life. This is the reason why cells are referred to as the basic structural and functional units of life.",
+      "question": "What is the smallest unit of life?"
+    },
+    {
+      "context": "Cells are the building blocks of life. This is the reason why cells are referred to as the basic structural and functional units of life.",
+      "question": "Why are cells called building blocks of life?"
+    },
+    {
+      "context": "All cells vary in their shape, size, and activity they perform. In fact, the shape and size of the cell are related to the specific functions they perform.",
+      "question": "Do all cells have the same size and shape?"
+    }
+  ]
+}

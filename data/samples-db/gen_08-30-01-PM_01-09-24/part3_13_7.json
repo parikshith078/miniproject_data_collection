@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Many items can be reused many times. For example; old newspaper can be used for packing many items.",
+      "question": "What can old newspapers be used for?"
+    },
+    {
+      "context": "Old envelopes can be used for doing rough work while doing your homework.",
+      "question": "How can old envelopes be reused?"
+    },
+    {
+      "context": "Old plastic bottles can be used for many other purposes.",
+      "question": "What can old plastic bottles be repurposed for?"
+    },
+    {
+      "context": "Many items like newspaper and plastic bottles can be reused repeatedly.",
+      "question": "Which items can be reused many times?"
+    },
+    {
+      "context": "Reuse practices include using old newspapers and envelopes for different tasks.",
+      "question": "What are some examples of reuse practices?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Decomposers, such as bacteria, play a crucial role in breaking down the bodies of dead organisms. They decompose these bodies into their basic elements, returning essential nutrients to the environment. This process is vital for maintaining the cycle of life, allowing new life forms to develop from the recycled materials.",
+      "question": "What role do decomposers play in ecosystems?"
+    },
+    {
+      "context": "The process of decomposition is essential for the cycle of life. Decomposers break down dead organic matter through various methods, returning nutrients to the soil. This allows new plants to grow, which in turn supports herbivores and the overall food web sustainability.",
+      "question": "How do decomposers contribute to nutrient cycling?"
+    },
+    {
+      "context": "Bacteria and other decomposers are responsible for recycling materials in ecosystems. They break down the bodies of deceased organisms, turning them into simpler substances. This essential function supports the cycle of life and helps maintain healthy ecosystems.",
+      "question": "Which organisms are classified as decomposers?"
+    },
+    {
+      "context": "When organisms die, decomposers like bacteria are crucial for returning nutrients to the earth. They break down deceased organisms into basic elements, which is a key aspect of the cycle of life. Without decomposers, nutrient depletion would occur rapidly in ecosystems.",
+      "question": "What happens to nutrients during decomposition?"
+    },
+    {
+      "context": "The decomposition process involves various organisms, particularly bacteria, which play a significant role in breaking down dead matter. This process transforms complex organic materials into simple substances, allowing for ongoing nutrient availability and maintaining ecological balance within the cycle of life.",
+      "question": "What occurs during the decomposition process?"
+    }
+  ]
+}

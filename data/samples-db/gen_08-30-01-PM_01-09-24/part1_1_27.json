@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Amoeba, a single-celled organism, primarily feeds through endocytosis, which allows it to engulf food particles using its flexible membrane. This process is essential for obtaining nutrients necessary for its survival and growth.",
+      "question": "What process do Amoebas use to feed?"
+    },
+    {
+      "context": "The process of endocytosis in Amoeba involves the cell membrane wrapping around solid particles, allowing the organism to absorb nutrients from its surroundings. This capability showcases the adaptability of unicellular organisms in various environments.",
+      "question": "What ability of the Amoeba aids in food acquisition?"
+    },
+    {
+      "context": "Flexibility in the Amoeba's cell membrane is crucial for its feeding strategy. By engulfing food through endocytosis, the Amoeba can effectively capture necessary nutrients from its environment, demonstrating a unique survival mechanism.",
+      "question": "Why is the Amoeba's cell membrane flexible?"
+    },
+    {
+      "context": "Endocytosis allows Amoeba to take in food particles by enveloping them with its membrane. This process is not only vital for nutrition but also illustrates how single-celled organisms interact with their environment to sustain themselves.",
+      "question": "What role does endocytosis play for Amoebas?"
+    },
+    {
+      "context": "Amoebas utilize endocytosis to obtain food from their environment. The ability of the cell membrane to change shape enables the organism to engulf solid food particles, which are then digested to extract nutrients necessary for life.",
+      "question": "How does endocytosis assist the Amoeba in nourishment?"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Menstruation is a trait which is unique to humans and some primates. During each ovulation cycle, the uterus prepares itself in anticipation of a possible pregnancy. The uterine wall develops an additional lining.",
+      "question": "What is unique to humans and some primates?"
+    },
+    {
+      "context": "When the egg is not fertilized, it gets disintegrated and so does the additional lining in the uterine wall. The fragments of disintegrated tissues are shed; along with blood.",
+      "question": "What happens to the egg if it is not fertilized?"
+    },
+    {
+      "context": "This is observed in the form of bleeding through the vagina which can last from 3 to 7 days. The whole sequence of events during an ovulation cycle is called menstrual cycle.",
+      "question": "How long can menstruation last?"
+    },
+    {
+      "context": "The first menstrual flow is called menarche and the last menstrual flow (which happens in the late 40s) is called menopause.",
+      "question": "What is the term for the first menstrual flow?"
+    }
+  ]
+}

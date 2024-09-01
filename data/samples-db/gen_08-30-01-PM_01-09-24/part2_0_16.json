@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "The parenchyma cells associated with xylem are known as xylem parenchyma. It is the only living tissue amongst xylem cells. They store food reserves in the form of starch and fat. They also help in conduction of water.",
+      "question": "What do xylem parenchyma cells store?"
+    },
+    {
+      "context": "Xylem parenchyma is the only living tissue amongst xylem cells and they store food reserves in the form of starch and fat. They also help in conduction of water.",
+      "question": "What is the role of xylem parenchyma in water conduction?"
+    },
+    {
+      "context": "Xylem parenchyma, associated with xylem, is the only living tissue. Besides storing food reserves in starch and fat, they assist in water conduction.",
+      "question": "Which type of tissue is xylem parenchyma?"
+    }
+  ]
+}

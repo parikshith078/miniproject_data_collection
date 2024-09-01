@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Ozone gas is poisonous in nature, if inhaled. The thinning of the ozone layer present in the stratosphere is called depletion of the ozone layer. Due to depletion of the ozone layer, harmful ultraviolet radiations will reach the surface of Earth which may lead to skin diseases and cancer.",
+      "question": "What are the harmful effects of ozone depletion?"
+    },
+    {
+      "context": "To reduce the depletion of the ozone layer, the use of chemicals releasing substances like CFCs has been phased out by international agreements.",
+      "question": "What chemicals were reduced to protect the ozone layer?"
+    },
+    {
+      "context": "Due to depletion of the ozone layer, harmful ultraviolet radiations will reach the surface of Earth which may lead to skin diseases and cancer.",
+      "question": "What radiation increases due to ozone depletion?"
+    },
+    {
+      "context": "The thinning of the ozone layer present in the stratosphere is called depletion of the ozone layer. Due to depletion of the ozone layer, harmful ultraviolet radiations will reach the surface of Earth.",
+      "question": "What is ozone layer depletion?"
+    },
+    {
+      "context": "The thinning of the ozone layer present in the stratosphere is called depletion of the ozone layer. Ozone gas is poisonous in nature, if inhaled.",
+      "question": "Why is ozone gas considered dangerous?"
+    }
+  ]
+}

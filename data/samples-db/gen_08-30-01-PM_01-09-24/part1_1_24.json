@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The Golgi apparatus is a key organelle in the cell responsible for modifying, sorting, and packaging proteins and lipids for secretion or delivery to other organelles. It acts like a post office, ensuring that cellular products are properly processed before they reach their destinations. Without the Golgi apparatus, cells would struggle to properly distribute their macromolecules.",
+      "question": "What is the role of the Golgi apparatus?"
+    },
+    {
+      "context": "The Golgi apparatus is not only crucial for protein processing, but it also plays a significant role in developing lysosomes, the cell's waste disposal system, and producing polysaccharides. Its functions are essential for maintaining proper cellular organization and functionality. If absent, secretion of many substances would be hampered.",
+      "question": "How does the Golgi apparatus support lysosome function?"
+    },
+    {
+      "context": "Cells rely on the Golgi apparatus to carry out processes such as glycosylation, where carbohydrates are added to proteins and lipids. This step is vital for determining the fate of these molecules in the cell. Without the Golgi, these critical modifications may not occur, affecting cell communication and metabolism.",
+      "question": "What is glycosylation and its significance?"
+    },
+    {
+      "context": "The Golgi apparatus is involved in both the synthesis and secretion of various hormones, neurotransmitters, and enzymes. If cells lacked this organelle, the production and effective delivery of these important signaling molecules would be jeopardized, potentially leading to cellular dysfunction and disease.",
+      "question": "What happens to hormone production without the Golgi apparatus?"
+    }
+  ]
+}

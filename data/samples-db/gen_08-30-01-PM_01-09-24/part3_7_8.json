@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Sexual reproduction requires both male and female components to produce offspring. For example, a bull cannot produce calves by itself; it requires a cow. Similarly, female sheep cannot reproduce without a male sheep. The involvement of both sexes is essential for new offspring to be created.",
+      "question": "What is essential for sexual reproduction?"
+    },
+    {
+      "context": "In sexual reproduction, two distinct components, male and female, collaborate to create offspring. Specifically, a bull cannot generate new calves independently; it necessitates the presence of a cow. Likewise, a female sheep must have a male sheep for reproduction to occur.",
+      "question": "What role does the cow play in reproduction?"
+    },
+    {
+      "context": "The process of sexual reproduction relies on the interplay between male and female components. For instance, bulls need cows for reproduction, as they cannot create calves on their own. Similarly, female sheep must mate with male sheep to reproduce successfully.",
+      "question": "Can a bull produce calves on its own?"
+    },
+    {
+      "context": "Two essential components are required for sexual reproduction: male and female. A bull, by itself, is incapable of producing calves; it must have a cow. Likewise, female sheep are unable to reproduce without a male sheep being involved in the process.",
+      "question": "What animals are mentioned in sexual reproduction?"
+    },
+    {
+      "context": "Sexual reproduction involves male and female components working together to produce new offspring. A bull alone cannot create calves; it requires a cow. Likewise, without a male sheep, female sheep are not able to give birth to new sheep.",
+      "question": "What is necessary for a female sheep to reproduce?"
+    }
+  ]
+}

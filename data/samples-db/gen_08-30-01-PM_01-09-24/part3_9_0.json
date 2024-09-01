@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mendel's experiments with pea plants showed that round and yellow seeds are dominant traits. The F2 generation from self-pollinated F1 plants exhibited a 9:3:3:1 phenotypic ratio, indicating the presence of both dominant and recessive traits.",
+      "question": "What ratio did Mendel observe in the F2 generation?"
+    },
+    {
+      "context": "In Mendel's experiments, the F2 generation produced round yellow seeds, round green seeds, wrinkled yellow seeds, and wrinkled green seeds. The dominant traits were round and yellow, while wrinkled and green were recessive.",
+      "question": "What two traits are considered dominant in Mendel's experiments?"
+    },
+    {
+      "context": "Mendel's observations of the F2 generation revealed that out of every 16 offspring, the phenotypes appeared in the ratio 9 round yellow, 3 round green, 3 wrinkled yellow, and 1 wrinkled green seed.",
+      "question": "How many phenotypes did Mendel identify in the F2 generation?"
+    },
+    {
+      "context": "When self-pollinated, the F1 generation produced various combinations of seed traits in the F2 generation, confirming Mendel’s laws of inheritance with a 9:3:3:1 distribution.",
+      "question": "What does the 9:3:3:1 ratio represent in Mendel's study?"
+    },
+    {
+      "context": "Mendel's research indicated that round and yellow seed traits are dominant, whereas wrinkled texture and green color were found to be recessive when plants self-pollinated.",
+      "question": "Which seed traits were found to be recessive in Mendel's experiments?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In the biosphere, oxygen undergoes cycles of respiration and photosynthesis. Humans and animals breathe in oxygen. This oxygen is used in metabolic processes and carbon dioxide given out.",
+      "question": "What roles do humans and animals play in the oxygen cycle?"
+    },
+    {
+      "context": "The oxygen in the atmosphere is freed by the process of photolysis. The energy in the sunlight breaks the oxygen bearing oxygen to produce free oxygen.",
+      "question": "How does photolysis contribute to the oxygen cycle?"
+    },
+    {
+      "context": "Oxygen from these minerals is freed by chemical weathering. When the mineral bearing oxygen is exposed to chemical reaction, the mineral wears down free oxygen is produced.",
+      "question": "What process releases oxygen from minerals in the lithosphere?"
+    },
+    {
+      "context": "Plants and phytoplankton undergo process of photosynthesis where carbon dioxide is used in the presence of sunlight to form carbohydrates and oxygen.",
+      "question": "What do plants produce during photosynthesis?"
+    },
+    {
+      "context": "This cycle shields earth from harmful UV rays. In the biosphere, oxygen undergoes cycles of respiration and photosynthesis.",
+      "question": "How does the oxygen cycle protect the earth?"
+    }
+  ]
+}

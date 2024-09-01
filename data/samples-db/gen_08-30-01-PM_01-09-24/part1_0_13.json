@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Cytoplasm helps in intracellular distribution of enzymes, nutrients and other biomolecules within the cell.",
+      "question": "What is one function of the cytoplasm?"
+    },
+    {
+      "context": "Synthesis of different types of biomolecules such as proteins, nucleotides, fatty acids etc., takes place in the cytoplasm.",
+      "question": "What biomolecules are synthesized in the cytoplasm?"
+    },
+    {
+      "context": "Cytoplasm helps in intracellular distribution of enzymes, nutrients and other biomolecules within the cell.",
+      "question": "How does the cytoplasm contribute to enzyme distribution?"
+    },
+    {
+      "context": "Synthesis of different types of biomolecules such as proteins, nucleotides, fatty acids etc., takes place in the cytoplasm.",
+      "question": "Which biomolecule synthesis occurs in the cytoplasm?"
+    },
+    {
+      "context": "Cytoplasm helps in intracellular distribution of enzymes, nutrients and other biomolecules within the cell.",
+      "question": "What does the cytoplasm distribute within the cell?"
+    },
+    {
+      "context": "Synthesis of different types of biomolecules such as proteins, nucleotides, fatty acids etc., takes place in the cytoplasm.",
+      "question": "What occurs in the cytoplasm related to biomolecules?"
+    }
+  ]
+}

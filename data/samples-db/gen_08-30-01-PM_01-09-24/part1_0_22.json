@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Endoplasmic reticulum is a complicated and interconnected system of membrane-bound channels and tubules. It is spread throughout the cytoplasm and is continuous with the plasma membrane and nuclear membrane.",
+      "question": "What is the structure of endoplasmic reticulum?"
+    },
+    {
+      "context": "There are two types of Endoplasmic Reticulum. a) Rough Endoplasmic Reticulum. (RER) b) Smooth Endoplasmic Reticulum. (SER)",
+      "question": "What are the two types of endoplasmic reticulum?"
+    },
+    {
+      "context": "Rough endoplasmic reticulum (Granular endoplasmic reticulum) They are found in cells which synthesize proteins.",
+      "question": "What is the function of rough endoplasmic reticulum?"
+    },
+    {
+      "context": "This type of endoplasmic reticulum possesses rough walls because the ribosomes remain attached with the membrane of endoplasmic reticulum.",
+      "question": "Why is the rough endoplasmic reticulum called rough?"
+    },
+    {
+      "context": "Smooth endoplasmic reticulum (Agranular endoplasmic reticulum) They are found in cells which synthesize lipid.",
+      "question": "What does smooth endoplasmic reticulum synthesize?"
+    },
+    {
+      "context": "The walls are smooth and ribosomes are not attached to its membrane.",
+      "question": "What distinguishes smooth ER from rough ER?"
+    }
+  ]
+}

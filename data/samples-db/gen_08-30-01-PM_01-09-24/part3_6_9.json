@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Asexual Reproduction: When a single parent is involved and no gamete formation takes place; the method is called asexual reproduction.",
+      "question": "What is asexual reproduction defined as?"
+    },
+    {
+      "context": "No meiosis happens during asexual reproduction. Sexual Reproduction: When two parents are involved and gamete formation takes; the method is called sexual reproduction.",
+      "question": "What occurs during sexual reproduction?"
+    },
+    {
+      "context": "Two main types, viz. asexual and sexual reproduction. Asexual Reproduction: When a single parent is involved and no gamete formation takes place.",
+      "question": "What are the two main types of reproduction?"
+    },
+    {
+      "context": "Meiosis happens during gamete formation; which is an important step of sexual reproduction.",
+      "question": "What important process occurs in sexual reproduction?"
+    },
+    {
+      "context": "Asexual Reproduction: When a single parent is involved and no gamete formation takes place.",
+      "question": "How many parents are involved in asexual reproduction?"
+    }
+  ]
+}

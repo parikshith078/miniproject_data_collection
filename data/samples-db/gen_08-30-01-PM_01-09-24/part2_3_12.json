@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Regular exercise is necessary to keep our body fit. These exercises vary with age, physical condition and nature of work of the individual.",
+      "question": "Why is exercise important for fitness?"
+    },
+    {
+      "context": "In the case of sedentary worker, exercise is even more essential. Another aspect of health is regular sleep and relaxation.",
+      "question": "Why is exercise important for sedentary workers?"
+    },
+    {
+      "context": "The duration of sleep also varies with age and nature of work. Infants sleep for long hours, which is necessary for them to grow.",
+      "question": "How does sleep duration change with age?"
+    },
+    {
+      "context": "For children, an average of eight hours of sound sleep is sufficient. For adults six hours of sleep is enough.",
+      "question": "What is the recommended sleep duration for adults?"
+    },
+    {
+      "context": "Relaxation improves the capacity to work. Relaxation may be defined as an activity or recreation, which provides a relief or diversion from work or effort.",
+      "question": "What is relaxation in the context of health?"
+    },
+    {
+      "context": "There are various ways of relaxation. Yoga and meditation relax the body and mind. Listening to music and reading magazines are also relaxing.",
+      "question": "What activities can help with relaxation?"
+    }
+  ]
+}

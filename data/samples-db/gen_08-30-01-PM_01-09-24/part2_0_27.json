@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Stratified epithelium consists of multiple layers of cells which provide enhanced protection. An example of this type of epithelium is the skin, which withstands various external factors. The layered structure helps in preventing wear and tear from environmental damage.",
+      "question": "What is an example of stratified epithelium?"
+    },
+    {
+      "context": "Stratified epithelium is made up of several cell layers, which allows it to serve as a protective barrier. The skin is a prime illustration of this type of tissue, helping to shield the body from physical and biological harm. The stratified design plays a crucial role in minimizing damage.",
+      "question": "How does stratified epithelium prevent wear and tear?"
+    },
+    {
+      "context": "The skin exemplifies stratified epithelium, which is composed of multiple layers of cells. This structure is specifically designed to bear the impact of wear and tear strong enough to endure abrasions from different sources. Stratification enhances resilience.",
+      "question": "What function does stratification serve in epithelium?"
+    },
+    {
+      "context": "In stratified epithelium, cells are layered, providing significant protection against damage. The skin, with its multiple cell layers, is a clear representation of how this design aids in protection against environmental stressors. This arrangement effectively reduces wear.",
+      "question": "Why is stratified epithelium important for the skin?"
+    }
+  ]
+}

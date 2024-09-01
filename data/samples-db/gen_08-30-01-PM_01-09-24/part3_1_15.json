@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "When someone runs too fast, he may experience a throbbing pain in the leg muscles. This happens because of anaerobic respiration taking place in the muscles. During running, the energy demand from the muscle cells increases.",
+      "question": "What causes pain in leg muscles while running?"
+    },
+    {
+      "context": "Anaerobic respiration takes place in the muscles. During running, the energy demand from the muscle cells increases. This is compensated by anaerobic respiration and lactic acid is formed in the process.",
+      "question": "What is produced during anaerobic respiration?"
+    },
+    {
+      "context": "The deposition of lactic acid causes the pain in the leg muscles. The pain subsides after taking rest for some time.",
+      "question": "How does lactic acid affect leg muscles?"
+    },
+    {
+      "context": "Anaerobic respiration occurs when someone runs too fast. It increases the energy demand from the muscle cells and leads to pain.",
+      "question": "What triggers anaerobic respiration in muscles?"
+    },
+    {
+      "context": "The pain in leg muscles results from lactic acid formation during anaerobic respiration. Resting helps alleviate this pain.",
+      "question": "How can leg muscle pain be relieved?"
+    }
+  ]
+}

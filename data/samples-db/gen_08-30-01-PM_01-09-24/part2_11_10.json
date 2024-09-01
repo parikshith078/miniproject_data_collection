@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Crop variety improvement focuses on enhancing agricultural performance by increasing yields and ensuring crops meet quality standards. Key factors include higher yield per acre, quality improvement based on crop needs, biotic and abiotic resistance to various stresses, and adjustments in maturity duration for economic viability. Wider adaptability across climates is also essential, as well as desirable characteristics aimed at specific uses, such as tallness for fodder or dwarfism for cereals.",
+      "question": "What is the goal of crop variety improvement?"
+    },
+    {
+      "context": "The approach to crop variety improvement includes methods like hybridisation and the development of genetically modified crops. These methods aim to meet essential factors for crop success such as resistance to diseases and pests, adaptability to different climates, and other desirable traits that increase productivity and quality.",
+      "question": "What methods are used for crop variety improvement?"
+    },
+    {
+      "context": "Factors in crop variety improvement include the development of crops that can resist biotic factors like diseases and insects, as well as abiotic stresses, which include weather extremes like heat and frost. In addition, having a change in maturity duration can enhance economic yields, and wider adaptability means that crops can survive in various climatic conditions.",
+      "question": "What factors contribute to crop resilience?"
+    },
+    {
+      "context": "For a successful crop variety improvement, characteristics such as height and branching in fodder crops are desired, while dwarf traits are preferred for cereals. This consideration of agronomic characteristics is important for maximizing yield and suitability for specific agricultural practices.",
+      "question": "What agronomic characteristics are preferred for fodder crops?"
+    },
+    {
+      "context": "With crop variety improvement, achieving higher yields is critical for boosting productivity per acre of agricultural land. Alongside this, improved quality that caters to varying crop needs, resistance to pests and diseases, and adaptability to climate are important to ensure food security and economic gain for farmers.",
+      "question": "Why is higher yield important in agriculture?"
+    }
+  ]
+}

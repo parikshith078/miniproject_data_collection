@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Kharif crop refers to the farming, plowing, reaping and harvesting of any household plants sown in the rainy season.",
+      "question": "What does Kharif crop refer to?"
+    },
+    {
+      "context": "They are cultivated for autumn harvest. By the beginning of first rain in July during southwest rainy season in monsoon the crops are sown.",
+      "question": "When are Kharif crops sown?"
+    },
+    {
+      "context": "The Kharif season varies state to state in India, beginning in May and ending latest by January.",
+      "question": "When does Kharif season start in India?"
+    },
+    {
+      "context": "These crops are totally dependent on quantity of rain and water as well as its timings.",
+      "question": "What do Kharif crops depend on?"
+    },
+    {
+      "context": "Kharif crops are popularly known as monsoon plants and are harvested after the rainy season.",
+      "question": "What are Kharif crops commonly called?"
+    }
+  ]
+}

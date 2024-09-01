@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Heterotrophic nutrition is a type of nutrition where organisms obtain their food by consuming other organisms or organic substances. This process does not involve the use of pigment, as heterotrophs are not capable of photosynthesis and rely on already produced organic matter for their energy and nutrients.",
+      "question": "What is heterotrophic nutrition?"
+    },
+    {
+      "context": "In heterotrophic nutrition, organisms do not utilize chlorophyll or other pigments necessary for photosynthesis. Instead, they rely on ingesting food that is already synthesized by other living beings, such as plants and animals, to meet their nutritional needs.",
+      "question": "Why are pigments not needed in heterotrophic nutrition?"
+    },
+    {
+      "context": "Organisms that engage in heterotrophic nutrition vary widely, including animals, fungi, and many bacteria. They play essential roles in ecosystems by decomposing organic matter and recycling nutrients, and unlike autotrophs, they do not require pigments for processing food.",
+      "question": "Which organisms exhibit heterotrophic nutrition?"
+    },
+    {
+      "context": "Heterotrophic organisms cannot produce their own food; instead, they must consume other living things or organic matter. Since they do not perform photosynthesis, they do not require pigments, making them distinct from autotrophs that do.",
+      "question": "How do heterotrophs acquire their food?"
+    }
+  ]
+}

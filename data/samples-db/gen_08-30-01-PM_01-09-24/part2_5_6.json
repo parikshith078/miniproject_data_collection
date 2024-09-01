@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "To lower your risk of catching or spreading a viral disease, you can: abstain from sexual activity, or engage in sexual activities within a mutually monogamous relationship.",
+      "question": "What is a way to reduce viral disease risk?"
+    },
+    {
+      "context": "Avoid contact of your hands with your eyes, nose and mouth to prevent viral disease transmission.",
+      "question": "How can you prevent viral infections?"
+    },
+    {
+      "context": "Cover your mouth and nose when sneezing or coughing to avoid spreading viral diseases.",
+      "question": "What should you do when sneezing or coughing?"
+    },
+    {
+      "context": "Wash your hands frequently and properly as a basic hygiene practice to fight viral diseases.",
+      "question": "Why is hand washing important for health?"
+    },
+    {
+      "context": "Getting sufficient rest is crucial for maintaining a healthy immune system and reducing viral disease risks.",
+      "question": "How does sleep affect viral disease risk?"
+    },
+    {
+      "context": "Vaccination as recommended by your healthcare provider can help protect against viral diseases.",
+      "question": "What role does vaccination play in disease prevention?"
+    },
+    {
+      "context": "Using sterile needles for tattooing or injectable drug use can significantly lower the risk of viral infections.",
+      "question": "What practice reduces infection risk during drug use?"
+    },
+    {
+      "context": "A well-balanced diet supports your immune system in fighting off viruses.",
+      "question": "How does diet influence immunity against viruses?"
+    }
+  ]
+}

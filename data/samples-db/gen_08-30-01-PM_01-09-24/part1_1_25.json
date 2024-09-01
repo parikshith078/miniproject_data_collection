@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mitochondria create energy for the cell through cellular respiration. Most chemical reactions involved in cellular respiration occur within the mitochondria, releasing energy as ATP molecules, which are essential for various life processes.",
+      "question": "What do mitochondria release for cell energy?"
+    },
+    {
+      "context": "Known as the powerhouse of the cell, mitochondria are crucial for energy production. They perform cellular respiration, where chemical reactions convert nutrients into ATP, providing energy for various cellular activities.",
+      "question": "Why are mitochondria called the powerhouse?"
+    },
+    {
+      "context": "Mitochondria are essential for life because they convert nutrients into usable energy. This process is primarily what distinguishes them as the powerhouse of the cell due to their role in generating ATP for energy.",
+      "question": "How do mitochondria contribute to cellular energy?"
+    },
+    {
+      "context": "The energy for a cell's chemical activities is predominantly produced through the mitochondria's function in cellular respiration, where nutrients are transformed and ATP is generated, hence their nickname as powerhouse.",
+      "question": "What is the main function of mitochondria?"
+    },
+    {
+      "context": "ATP molecules produced by mitochondria are vital for various life processes. The importance of mitochondria in creating energy through cellular respiration is why they are labeled the powerhouse of the cell.",
+      "question": "What is ATP's role in the cell?"
+    }
+  ]
+}

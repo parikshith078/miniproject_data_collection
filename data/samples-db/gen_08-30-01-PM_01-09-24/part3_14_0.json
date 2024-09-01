@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "We should conserve forests and wildlife to preserve the biodiversity so as to avoid the loss of ecological stability. A large number of tribes are the habitants in and around the forests.",
+      "question": "Why should we conserve forests and wildlife?"
+    },
+    {
+      "context": "If the forests are not conserved, then it may affect these habitants. Without proper management of forest and wildlife, the quality of soil, the water sources, and even the amount of rainfall may be affected.",
+      "question": "What happens if forests are not conserved?"
+    },
+    {
+      "context": "Without forest and wildlife, life would become impossible for human beings.",
+      "question": "How does deforestation affect human life?"
+    },
+    {
+      "context": "A large number of tribes are the habitants in and around the forests. Without proper management of forest and wildlife, the quality of soil may be affected.",
+      "question": "What groups are impacted by forest conservation?"
+    },
+    {
+      "context": "We should conserve forests and wildlife to preserve the biodiversity to avoid the loss of ecological stability.",
+      "question": "What is one reason for preserving biodiversity?"
+    }
+  ]
+}

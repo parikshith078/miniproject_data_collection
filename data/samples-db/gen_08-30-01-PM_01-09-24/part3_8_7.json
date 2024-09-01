@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Beginning of puberty does not mean that a person is psychologically ready for the process of reproduction. For a human being, reproduction involves more than just producing an offspring.",
+      "question": "What factors influence reproductive readiness?"
+    },
+    {
+      "context": "Moreover, the act of sex also has the potential of creating many sexually transmitted diseases.",
+      "question": "What does sex potentially lead to?"
+    },
+    {
+      "context": "As any act of sex has the potential of fertilization, so taking care of contraception becomes important.",
+      "question": "Why is contraception important during reproduction?"
+    },
+    {
+      "context": "Reproductive health involves preventing the chances of STDs and preventing unwanted children.",
+      "question": "What is a key focus of reproductive health?"
+    },
+    {
+      "context": "AIDS and Hepatitis B are incurable till date. Even the curable STDs are potentially dangerous; not only physically but also psychologically.",
+      "question": "What are the challenges posed by STDs?"
+    },
+    {
+      "context": "Reproductive health means a couple should be able to enjoy the reproductive phase of its life without taking the burden of gigantic family.",
+      "question": "What does reproductive health aim to enable for couples?"
+    }
+  ]
+}

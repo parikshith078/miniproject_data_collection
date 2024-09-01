@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Breaking down glucose into pyruvate: This step happens in the cytoplasm. Glucose molecule is broken down into pyruvic acid. Glucose molecule is composed of 6 carbon atoms, while pyruvic acid is composed of 3 carbon atoms.",
+      "question": "What is the first step of respiration?"
+    },
+    {
+      "context": "Fate of Pyruvic Acid: Further breaking down of pyruvic acid takes place in mitochondria and the molecules formed depend on the type of respiration in a particular organism. Respiration is of two types, viz. aerobic respiration and anaerobic respiration.",
+      "question": "What are the two types of respiration?"
+    },
+    {
+      "context": "Breaking down glucose into pyruvate: This step happens in the cytoplasm. Glucose molecule is broken down into pyruvic acid. Glucose molecule is composed of 6 carbon atoms, while pyruvic acid is composed of 3 carbon atoms.",
+      "question": "How many carbon atoms are in glucose?"
+    },
+    {
+      "context": "Fate of Pyruvic Acid: Further breaking down of pyruvic acid takes place in mitochondria and the molecules formed depend on the type of respiration in a particular organism. Respiration is of two types, viz. aerobic respiration and anaerobic respiration.",
+      "question": "Where does pyruvic acid break down further?"
+    },
+    {
+      "context": "Breaking down glucose into pyruvate: This step happens in the cytoplasm. Glucose molecule is broken down into pyruvic acid. Glucose molecule is composed of 6 carbon atoms, while pyruvic acid is composed of 3 carbon atoms.",
+      "question": "What is produced from glucose in the cytoplasm?"
+    },
+    {
+      "context": "Fate of Pyruvic Acid: Further breaking down of pyruvic acid takes place in mitochondria and the molecules formed depend on the type of respiration in a particular organism. Respiration is of two types, viz. aerobic respiration and anaerobic respiration.",
+      "question": "What determines the molecules formed from pyruvic acid?"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "The water cycle, also known as the hydrologic cycle, describes the continuous movement of water on, above, and below the surface of the earth. Water can change states among liquid, vapor and ice at various places in the water cycle. Although the balance of water on Earth remains fairly constant over time, individual water molecules can come and go.",
+      "question": "What is the water cycle also called?"
+    },
+    {
+      "context": "Water evaporates as vapor into the air. Ice and snow can sublimate directly into water vapor. Rising air currents take the vapor up into the atmosphere where cooler temperatures cause it to condense into clouds.",
+      "question": "How does water vapor form into clouds?"
+    },
+    {
+      "context": "Air currents move clouds around the globe, cloud particles collide, grow, and fall out of the sky as precipitation. Some precipitation falls as snow and can accumulate as ice caps and glaciers, which can store frozen water for thousands of years.",
+      "question": "What happens to precipitation over time?"
+    },
+    {
+      "context": "Not all runoff flows into rivers. Much of it soaks into the ground as infiltration. Some water infiltrates deep into the ground and replenishes aquifers, which store huge amounts of freshwater for long periods of time.",
+      "question": "What is the role of infiltration in the water cycle?"
+    },
+    {
+      "context": "Snow packs can thaw and melt, and the melted water flows overland as snowmelt. Most precipitation falls back into the oceans or onto land, where the precipitation flows over the ground as surface runoff.",
+      "question": "What does snowmelt contribute to in the water cycle?"
+    },
+    {
+      "context": "Some groundwater finds openings in the land surface and emerges as freshwater springs. Over time, the water reenters the ocean, where our water cycle started.",
+      "question": "Where does groundwater reemerge in the water cycle?"
+    },
+    {
+      "context": "The sun, which drives the water cycle, heats water in the oceans. Water can change states among liquid, vapor and ice at various places in the water cycle.",
+      "question": "What drives the water cycle?"
+    },
+    {
+      "context": "Rising air currents take the vapor up into the atmosphere where cooler temperatures cause it to condense into clouds. Air currents move clouds around the globe.",
+      "question": "What causes clouds to move around the globe?"
+    },
+    {
+      "context": "Some precipitation falls as snow and can accumulate as ice caps and glaciers, which can store frozen water for thousands of years. Snow packs can thaw and melt, and the melted water flows overland as snowmelt.",
+      "question": "What can snow accumulate as during the water cycle?"
+    },
+    {
+      "context": "Water evaporates as vapor into the air. Ice and snow can sublimate directly into water vapor. Rising air currents take the vapor up into the atmosphere.",
+      "question": "What happens to water in the evaporation process?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Natural resources can be broadly categorized into two types, viz. exhaustible and non-exhaustible. Management of natural resources is all about their judicious use in a way that the exhaustible resources can last for many generations to come and non-exhaustible resources can be maintained in as pristine form as possible.",
+      "question": "What are the two types of natural resources?"
+    },
+    {
+      "context": "Management of natural resources is all about their judicious use in a way that the exhaustible resources can last for many generations to come and non-exhaustible resources can be maintained in as pristine form as possible.",
+      "question": "How should exhaustible resources be managed?"
+    },
+    {
+      "context": "Natural resources can be broadly categorized into two types, viz. exhaustible and non-exhaustible. Management of natural resources is all about their judicious use in a way that the exhaustible resources can last for many generations to come and non-exhaustible resources can be maintained in as pristine form as possible.",
+      "question": "What is the focus of natural resource management?"
+    },
+    {
+      "context": "exhaustible resources can last for many generations to come and non-exhaustible resources can be maintained in as pristine form as possible. Management of natural resources is all about their judicious use.",
+      "question": "What is the goal of managing natural resources?"
+    },
+    {
+      "context": "Natural resources can be broadly categorized into two types, viz. exhaustible and non-exhaustible. Management of natural resources is all about their judicious use in a way that...",
+      "question": "Define exhaustible and non-exhaustible resources."
+    }
+  ]
+}

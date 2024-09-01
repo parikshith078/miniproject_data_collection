@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Autotrophic nutrition is a process where food is synthesised from simple inorganic raw materials such as carbon dioxide (CO2) and water. This method of nutrient creation is fundamental in organisms that can produce their own energy through photosynthesis or chemosynthesis.",
+      "question": "What is autotrophic nutrition?"
+    },
+    {
+      "context": "In the process of autotrophic nutrition, organisms take in carbon dioxide and water to create their own food. This allows them to sustain themselves without consuming other organisms.",
+      "question": "What materials are used in autotrophic nutrition?"
+    },
+    {
+      "context": "Organisms that engage in autotrophic nutrition can convert CO2 and water into organic compounds, which serve as food sources. This property distinguishes them from heterotrophic organisms that rely on others for nutrients.",
+      "question": "What do autotrophic organisms synthesize from CO2?"
+    },
+    {
+      "context": "The primary components of autotrophic nutrition are carbon dioxide and water. These simple inorganic substances are essential for the synthesis of food materials in autotrophic organisms.",
+      "question": "What role does water play in autotrophic nutrition?"
+    },
+    {
+      "context": "Photosynthesis is a key example of autotrophic nutrition, where energy from sunlight is used to convert CO2 and water into glucose and oxygen. This illustrates the importance of autotrophs in the ecosystem.",
+      "question": "How does sunlight relate to autotrophic nutrition?"
+    }
+  ]
+}

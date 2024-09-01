@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "To prevent the incidence of infectious diseases in school following precautions can be taken: (i) Avoid contact of students suffering from air borne diseases like common cold, cough, eye, flu, etc.",
+      "question": "What diseases should students avoid contacting?"
+    },
+    {
+      "context": "(ii) By checking the availability of clean drinking water in school.",
+      "question": "Why is clean drinking water important in schools?"
+    },
+    {
+      "context": "(iii) Clean surroundings in school will not allow the growth and multiplication of vectors.",
+      "question": "How do clean surroundings impact disease prevention?"
+    },
+    {
+      "context": "(iv) Starting childhood immunisation programme in schools.",
+      "question": "What role do immunization programs play in schools?"
+    }
+  ]
+}

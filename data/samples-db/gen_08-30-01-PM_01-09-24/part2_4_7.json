@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The causes (risk factors) of chronic diseases are well established; a small set of common risk factors are responsible for most diseases. These include unhealthy diet and physical inactivity.",
+      "question": "What are common risk factors for chronic diseases?"
+    },
+    {
+      "context": "These risk factors are modifiable and the same in men and women: unhealthy diet, physical inactivity, and tobacco use.",
+      "question": "Are chronic disease risk factors the same for both genders?"
+    },
+    {
+      "context": "These include unhealthy diet; physical inactivity; and tobacco use, which are all modifiable risk factors.",
+      "question": "Which risk factor is associated with tobacco?"
+    },
+    {
+      "context": "A small set of common risk factors are responsible for most of the main chronic diseases, including an unhealthy diet.",
+      "question": "What diet is linked to chronic diseases?"
+    },
+    {
+      "context": "The causes of chronic diseases are well known, including physical inactivity, which increases health risks.",
+      "question": "How does physical inactivity affect health?"
+    }
+  ]
+}

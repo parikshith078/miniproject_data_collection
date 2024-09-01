@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Self-pollinated plants receive pollen grains from the same flower or another flower on the same plant and its distance from other plants hardly affects its reproduction.",
+      "question": "How do self-pollinating plants reproduce?"
+    },
+    {
+      "context": "Self-pollinated plants rarely show variations in characters, indicating a lack of genetic diversity.",
+      "question": "Why do self-pollinated plants show little variation?"
+    },
+    {
+      "context": "Geographical isolation is not a major factor in the formation of new species of self-pollinated plants.",
+      "question": "Does geographical isolation affect self-pollinated plants?"
+    },
+    {
+      "context": "No, geographical isolation is not a major factor in self-pollinating plants due to their reproductive nature.",
+      "question": "Why is geographical isolation less significant for self-pollinating plants?"
+    },
+    {
+      "context": "Self-pollination involves receiving pollen from the same or nearby flowers, making geographical distance less relevant.",
+      "question": "What aspect of reproduction diminishes the role of geographic distance?"
+    }
+  ]
+}

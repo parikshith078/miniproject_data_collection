@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The process of origin of a new species is called speciation. A species is a group of organisms in which most of the characters are similar and members of a species are able to breed among themselves.",
+      "question": "What is the definition of speciation?"
+    },
+    {
+      "context": "Speciation can happen if two groups of the same species are somehow prevented from interbreeding for several generations. This can happen because of geographical segregation or because of some other factors.",
+      "question": "What can cause speciation to occur?"
+    },
+    {
+      "context": "A species is a group of organisms in which most of the characters are similar and members of a species are able to breed among themselves. Speciation can happen if two groups of the same species are somehow prevented from interbreeding.",
+      "question": "What are the characteristics of a species?"
+    },
+    {
+      "context": "Speciation can happen if two groups of the same species are somehow prevented from interbreeding for several generations. This can happen because of geographical segregation or because of some other factors.",
+      "question": "What role does interbreeding play in speciation?"
+    }
+  ]
+}

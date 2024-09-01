@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fungi are microorganisms characterised by cell walls made from a substance called chitin.",
+      "question": "What are the cell walls of fungi made of?"
+    },
+    {
+      "context": "Most fungi are harmless to humans and some are edible.",
+      "question": "Are most fungi harmful to humans?"
+    },
+    {
+      "context": "Other fungi can be infectious and may lead to life-threatening diseases.",
+      "question": "Can some fungi cause serious diseases?"
+    },
+    {
+      "context": "Fungi reproduce by releasing spores that can be picked up by direct contact or even inhaled.",
+      "question": "How do fungi reproduce?"
+    },
+    {
+      "context": "Fungi reproduce by releasing spores that can be picked up by direct contact.",
+      "question": "What is released by fungi for reproduction?"
+    }
+  ]
+}

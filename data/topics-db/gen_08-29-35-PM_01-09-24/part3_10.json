@@ -1,0 +1,68 @@
+{
+  "topic": [
+    {
+      "sub-topic": "Genetic Changes",
+      "Content": "Genetic changes. Evolution of new species, because of geographical segregation is called genetic drift."
+    },
+    {
+      "sub-topic": "Factors Leading to Speciation",
+      "Content": "Genetic drift and natural selection could lead to rise of a new species."
+    },
+    {
+      "sub-topic": "Geographical Isolation in Self-Pollinating Plants",
+      "Content": "No, geographical isolation is not a major factor in the formation of new species of self-pollinated plants. This is because self-pollinated plants receive pollen grains from the same flower or another flower on the same plant and its distance from other plants hardly affects its reproduction. Moreover, self-pollinated plants rarely show variations in characters."
+    },
+    {
+      "sub-topic": "Geographical Isolation in Asexually Reproducing Organisms",
+      "Content": "No, because asexual reproduction involves only a single parent. So, the geographical isolation does not affect its reproduction cycle. Moreover, asexually reproducing organisms rarely show any variations in characters."
+    },
+    {
+      "sub-topic": "Evolution and Classification",
+      "Content": "The modern system of classification is based on evolutionary relationship. Due to this, this is also known as phylogenetic classification. The kingdom is the highest taxa, while the species is the lowest taxa. Members of a species have a higher number of common characters, than members of a kingdom. For example; all human beings belong to the species Homo sapiens."
+    },
+    {
+      "sub-topic": "Homologous Organs",
+      "Content": "Organs which have common design but serve different functions in different animals are called homologous organs. For example; the forelimbs of all tetrapods are composed of humerus, radio-ulna, tarsals and metatarsals. Yet, the forelimbs of frogs are adapted to a jumping movement, those of birds are used for flying and those of humans are used for handling tools. This shows that frogs, birds and humans have evolved from a common ancestor."
+    },
+    {
+      "sub-topic": "Analogous Organs",
+      "Content": "Organs which have different design but serve a common function in different animals are called analogous organs. Wings of birds and wings of bat are good examples of a pair of analogous organs. Wings of birds are composed of all the bones of forelimb and are covered with feathers. Wings of bats are mainly composed of the digital bones and a thin membrane covering the structure. Yet wings in both the organisms are used for flying."
+    },
+    {
+      "sub-topic": "Fossils",
+      "Content": "The preserved remains of animals or plants or other organisms from the distant past are called fossils. Fossils provide the evidence that the present animals have originated from previously existing ones through the process of continuous evolution."
+    },
+    {
+      "sub-topic": "Fossils and Evolutionary History",
+      "Content": "Fossils can be used to reconstruct evolutionary history of an organism. The distribution pattern of fossils shows that the ancient fossils present in the bottom rocks are simple, while the most recent fossils found in the upper strata are more highly evolved. It means fossils form and become more and more complex as we proceed from earliest to recent rocks. It gives us an idea of time in history when different species were formed or became extinct."
+    },
+    {
+      "sub-topic": "Connecting Links in Evolution",
+      "Content": "Fossils also indicate connecting links between the two groups of organisms. For example, Archaeopteryx is a connecting link between reptiles and birds."
+    },
+    {
+      "sub-topic": "Evolution by Stages",
+      "Content": "Evolution of complex organs and thus of complex organisms has happened in stages. Let us take the example of evolution of eyes. Planaria is the first animal which shows ‘eye’ like structure."
+    },
+    {
+      "sub-topic": "Evolutionary Tree",
+      "Content": "To understand evolution, a branching diagram or “Tree” is used to show the inferred evolution relationships among various biological species or other entities based upon similarities and differences in their physical and genetic characters."
+    },
+    {
+      "sub-topic": "Evolution vs Progress",
+      "Content": "Evolution does not mean progress in every case. This can be proved by example of bacteria. Bacteria are the simplest and one of the oldest organisms on the earth. Their simple body design does not make them weak from any angle."
+    },
+    {
+      "sub-topic": "Human Evolution",
+      "Content": "The modern humans are called Homo sapiens. Many scientific investigations have shown that the modern humans evolved in Africa. They migrated towards north; in due course of time and settled near what is known as the Mediterranean Sea. When the ice age ended, melting of ice resulted in the rise in water level. The humans migrated in different directions from that area."
+    },
+    {
+      "sub-topic": "Timeline of Human Evolution",
+      "Content": "Early man-like forms appeared about 7 lakhs 50 thousand years ago. The first sure fossil of our own species of man, the Homo sapiens, indicate that true man appeared on the earth 2 lakhs 50 thousand years ago."
+    },
+    {
+      "sub-topic": "Diversity in Humans",
+      "Content": "All human beings, even though they have different size, colour and looks, belong to the same species because they have similar DNA sequences and have descended from the same ancestors. Also, they are capable of reproducing among themselves."
+    }
+  ]
+}

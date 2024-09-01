@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Ozone at the higher levels of the atmosphere is a product of UV radiation acting on oxygen (O2) molecules. The higher energy UV radiations split apart some molecular oxygen (O2) into free oxygen (O) atoms.",
+      "question": "What forms ozone in the atmosphere?"
+    },
+    {
+      "context": "This radiation is highly damaging to organisms; for example, it is known to cause skin cancer in human beings.",
+      "question": "What does ultraviolet radiation cause in humans?"
+    },
+    {
+      "context": "The amount of ozone in the atmosphere began to drop sharply in the 1980s. This decrease has been linked to synthetic chemicals like chlorofluorocarbons (CFCs).",
+      "question": "What chemical is linked to ozone depletion?"
+    },
+    {
+      "context": "In 1987, the United Nations Environment Programme (UNEP) succeeded in forging an agreement to freeze CFC production at 1986 levels.",
+      "question": "What action was taken by UNEP in 1987?"
+    },
+    {
+      "context": "Ozone (O3) is a molecule formed by three atoms of oxygen. While O2, which we normally refer to as oxygen, is essential for all aerobic forms of life.",
+      "question": "What is ozone composed of?"
+    }
+  ]
+}

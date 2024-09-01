@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Phloem fibres are specifically associated with phloem and are a type of sclerenchyma tissue. They provide mechanical support to the plant and are also referred to as bast-fibres. Unlike other types of phloem cells, phloem fibres are the only type that consists of dead cells.",
+      "question": "What are phloem fibres also known as?"
+    },
+    {
+      "context": "Phloem fibres, commonly referred to as bast-fibres, are derived from sclerenchyma tissue and play a crucial role in providing mechanical support to plants. They differ from the other three types of phloem cells because they are composed of dead tissues, aiding in the structural integrity of the plant.",
+      "question": "What type of cells are phloem fibres?"
+    },
+    {
+      "context": "In the plant's phloem, there are four different types of cells, but phloem fibres stand out as the only type that consists of dead tissue. They are essential for the mechanical support of the plant and are also known as bast-fibres.",
+      "question": "What is the function of phloem fibres?"
+    },
+    {
+      "context": "Phloem fibres, also known as bast-fibres, belong to the class of sclerenchyma cells and are important for their role in supporting the plant structurally. They are unique compared to the other phloem cells because they do not have living tissues.",
+      "question": "What types of tissues are phloem fibres?"
+    }
+  ]
+}

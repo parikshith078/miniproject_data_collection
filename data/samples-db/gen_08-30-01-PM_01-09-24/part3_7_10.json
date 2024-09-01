@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Pollination is the transfer of pollen grains from the anther to the stigma. Pollen grains are transferred mainly by wind, water, and insects. They are called pollinating agents.",
+      "question": "What is the role of pollinating agents?"
+    },
+    {
+      "context": "Pollination is the first and important event in the development of the fruit and seed. Pollen grains are transferred mainly by wind, water, and insects.",
+      "question": "What are the methods of pollen transfer?"
+    },
+    {
+      "context": "Pollination is the transfer of pollen grains from the anther to the stigma. Pollination is essential for fruit and seed development.",
+      "question": "Where do pollen grains transfer to during pollination?"
+    },
+    {
+      "context": "Pollen grains are transferred mainly by wind, water, and insects. They are called pollinating agents.",
+      "question": "Which organisms contribute to the pollination process?"
+    },
+    {
+      "context": "Pollination is the first and important event in the development of the fruit and seed. Pollination initiates the reproductive process in flowering plants.",
+      "question": "Why is pollination considered important in plant development?"
+    }
+  ]
+}

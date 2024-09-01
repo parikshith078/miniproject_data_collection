@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Liver is the largest organ in the human body. Liver manufactures bile; which gets stored in gall bladder.",
+      "question": "What is the largest organ in the human body?"
+    },
+    {
+      "context": "Liver manufactures bile; which gets stored in gall bladder. Pancreas is situated below the stomach.",
+      "question": "Where is the pancreas located in the body?"
+    },
+    {
+      "context": "Pancreas is situated below the stomach. It secretes pancreatic juice which contains many digestive enzymes.",
+      "question": "What does the pancreas secrete?"
+    },
+    {
+      "context": "Liver manufactures bile; which gets stored in gall bladder. Pancreas secretes pancreatic juice.",
+      "question": "What is the function of the liver related to bile?"
+    },
+    {
+      "context": "Pancreas is situated below the stomach. It secretes pancreatic juice which contains many digestive enzymes.",
+      "question": "What role does pancreatic juice play in digestion?"
+    }
+  ]
+}

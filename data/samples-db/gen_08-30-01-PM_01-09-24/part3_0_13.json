@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "Photosynthesis is the main way through which the solar energy is made available for different living beings. Green plants are the main producers of food in the ecosystem.",
+      "question": "What is the main role of photosynthesis?"
+    },
+    {
+      "context": "All other organisms directly or indirectly depend on green plants for food. The process of photosynthesis also helps in maintaining the balance of carbon dioxide and oxygen in the air.",
+      "question": "Why are green plants important for other organisms?"
+    },
+    {
+      "context": "The process of photosynthesis helps in maintaining the balance of carbon dioxide and oxygen in the air. Green plants are the main producers of food in the ecosystem.",
+      "question": "How does photosynthesis affect air quality?"
+    }
+  ]
+}

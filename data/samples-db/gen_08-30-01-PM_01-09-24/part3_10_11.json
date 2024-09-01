@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A branching diagram or “Tree” is used to show the inferred evolution relationships among various biological species.",
+      "question": "What is an evolutionary tree used for?"
+    },
+    {
+      "context": "The evolutionary tree illustrates similarities and differences in physical and genetic characters among entities.",
+      "question": "What do evolutionary trees illustrate?"
+    },
+    {
+      "context": "An evolutionary tree helps to understand the inferred evolution relationships among various biological species.",
+      "question": "What relationships does the evolutionary tree demonstrate?"
+    },
+    {
+      "context": "To understand evolution, various biological species are represented in an evolutionary tree.",
+      "question": "Which entities are represented in an evolutionary tree?"
+    },
+    {
+      "context": "The tree is based on similarities and differences in both physical and genetic characters.",
+      "question": "On what basis is the evolutionary tree constructed?"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "The importance of DNA copying during reproduction is that: (i) It is responsible for the transmission of parental characteristic to its offsprings. (ii) It also leads to certain genetic variation.",
+      "question": "What does DNA copying transmit to offspring?"
+    },
+    {
+      "context": "The importance of DNA copying during reproduction is that: (i) It is responsible for the transmission of parental characteristic to its offsprings. (ii) It also leads to certain genetic variation.",
+      "question": "How does DNA copying contribute to genetic variation?"
+    }
+  ]
+}

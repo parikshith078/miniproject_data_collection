@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Anthrax is an acute infectious disease caused by airborne, spore-forming, rod-like, non-motile bacterium, Bacillus anthracis. These particles can be used in biological warfare.",
+      "question": "What causes the anthrax disease?"
+    },
+    {
+      "context": "It most commonly occurs in wild and domestic vertebrates (cattle, sheep, goats, camels, antelopes, and other herbivores), but it can also occur in humans when they are exposed to infected animals.",
+      "question": "Who can get infected with anthrax?"
+    },
+    {
+      "context": "Infected animals shed a large number of bacilli (bacteria) in the discharges from the mouth, nose and rectum which sporulate in the soil.",
+      "question": "How does anthrax spread in the environment?"
+    },
+    {
+      "context": "Anthrax infection can occur in three different forms: cutaneous, gastrointestinal and pulmonary. Cutaneous anthrax occurs when bacteria enter through skin cuts and wounds.",
+      "question": "What are the forms of anthrax infection?"
+    },
+    {
+      "context": "Symptoms of Anthrax (Biowar disease): Initial symptoms resemble those of common cold. Later there is difficulty in breathing, cough, fever, fast pulse and cardiovascular collapse.",
+      "question": "What are the initial symptoms of anthrax?"
+    },
+    {
+      "context": "The only known effective prevention against anthrax is the anthrax vaccine. The vaccine was developed from an attenuated strain B. anthracis.",
+      "question": "What is a preventive measure against anthrax?"
+    },
+    {
+      "context": "Pulmonary anthrax is acquired by inhaling dust containing B. anthracis. Pulmonary anthrax is often called wool-sorter’s disease.",
+      "question": "What is another name for pulmonary anthrax?"
+    },
+    {
+      "context": "If left untreated, anthrax in all forms can lead to septicemia and death. Death is apparently due to oxygen depletion, secondary shock, and respiratory failure.",
+      "question": "What can happen if anthrax is untreated?"
+    },
+    {
+      "context": "A suitable antibiotic like ciprofloxacin is quite effective, particularly if used in the initial stages of disease.",
+      "question": "Which antibiotic is effective against anthrax?"
+    },
+    {
+      "context": "Gastrointestinal anthrax is caused by taking under-cooked meat of infected animals. Symptoms include nausea, vomiting, and bloody diarrhea.",
+      "question": "What causes gastrointestinal anthrax?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Transport of materials in xylem: Xylem tissue helps in the transport of water and minerals. Water is transported upwards from roots to all other plant parts. Transport in xylem occurs with the help of simple physical forces such as transpiration pull.",
+      "question": "How does xylem transport water?"
+    },
+    {
+      "context": "Transport of materials in phloem: Phloem tissue helps in the transport of food. Food is transported in both upward and downward directions. Transport of food in phloem requires energy in the form of ATP.",
+      "question": "What energy source does phloem use for transport?"
+    },
+    {
+      "context": "Xylem tissue helps in the transport of water and minerals. Water is transported upwards from roots to all other plant parts. Transport in xylem occurs with the help of simple physical forces such as transpiration pull.",
+      "question": "What is the role of transpiration pull in xylem?"
+    },
+    {
+      "context": "Food is transported in both upward and downward directions. Transport of food in phloem requires energy in the form of ATP. Phloem tissue helps in the transport of food.",
+      "question": "In which directions does phloem transport food?"
+    },
+    {
+      "context": "Water is transported upwards from roots to all other plant parts. Xylem tissue helps in the transport of water and minerals. Transport in xylem occurs with the help of simple physical forces.",
+      "question": "Where is water transported to from the roots?"
+    },
+    {
+      "context": "Transport of food in phloem requires energy in the form of ATP. Phloem tissue helps in the transport of food. Food is transported in both upward and downward directions.",
+      "question": "Why is energy important for phloem transport?"
+    }
+  ]
+}

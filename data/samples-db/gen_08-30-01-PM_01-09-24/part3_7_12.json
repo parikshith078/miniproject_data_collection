@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Self pollination is certain in bisexual flowers, meaning that they can facilitate their fertilization without needing outside agents. This method is reliable as it guarantees that flowering plants can reproduce regardless of pollinator availability, ensuring their survival in various conditions.",
+      "question": "What is a certain advantage of self pollination?"
+    },
+    {
+      "context": "Self pollination allows flowers to reproduce without the aid of external pollinators, such as bees or wind. This independence can be beneficial in isolated environments where pollinators are scarce, making self pollination a reliable method for some plants.",
+      "question": "Why is self pollination advantageous for some plants?"
+    },
+    {
+      "context": "One disadvantage of self pollination is that it often results in fewer seeds being produced. This lower seed count can limit the population growth of a species, especially in competitive environments where having more offspring can be beneficial for survival.",
+      "question": "What is a disadvantage of self pollination?"
+    },
+    {
+      "context": "Self pollination can lead to the production of weak plants due to the minute size of the endosperm in the seeds. This can diminish the overall vitality of the next generation, making them less resilient to environmental stresses.",
+      "question": "How does self pollination affect plant strength?"
+    },
+    {
+      "context": "Another significant disadvantage of self pollination is the inability to create new varieties of plants. This stagnation can result in the degradation of the plants over time, as they cannot adapt to changing environments or resist pathogens effectively.",
+      "question": "What impact does self pollination have on plant varieties?"
+    }
+  ]
+}

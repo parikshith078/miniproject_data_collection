@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The underlying determinants of chronic diseases are a reflection of the major forces driving social, economic, and cultural change – globalization, urbanization, population aging, and the general policy environment.",
+      "question": "What are the key determinants of chronic diseases?"
+    },
+    {
+      "context": "The underlying determinants of chronic diseases are a reflection of the major forces driving social, economic, and cultural change – globalization, urbanization, population aging, and the general policy environment.",
+      "question": "How do globalization and urbanization affect health?"
+    },
+    {
+      "context": "The underlying determinants of chronic diseases are a reflection of the major forces driving social, economic, and cultural change – globalization, urbanization, population aging, and the general policy environment.",
+      "question": "What impact does population aging have on chronic diseases?"
+    },
+    {
+      "context": "The underlying determinants of chronic diseases are a reflection of the major forces driving social, economic, and cultural change – globalization, urbanization, population aging, and the general policy environment.",
+      "question": "How do policy environments influence chronic diseases?"
+    },
+    {
+      "context": "The underlying determinants of chronic diseases are a reflection of the major forces driving social, economic, and cultural change – globalization, urbanization, population aging, and the general policy environment.",
+      "question": "What role does cultural change play in chronic diseases?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Sclerenchyma is a dead tissue. The cells are thick with lignified walls. They give mechanical support to the organs. This has two types of cells – Sclereids and Fibres.",
+      "question": "What types of cells are in sclerenchyma?"
+    },
+    {
+      "context": "The cells are thick with lignified walls. They give mechanical support to the organs. This has two types of cells – Sclereids and Fibres.",
+      "question": "What is the primary function of sclerenchyma?"
+    },
+    {
+      "context": "Sclerenchyma is a dead tissue. The cells are thick with lignified walls. They give mechanical support to the organs.",
+      "question": "What type of tissue is sclerenchyma?"
+    },
+    {
+      "context": "This has two types of cells – Sclereids and Fibres. Sclerenchyma is a dead tissue.",
+      "question": "Which type of plant tissue is composed of sclereids and fibres?"
+    },
+    {
+      "context": "Sclerenchyma is a dead tissue. The cells are thick with lignified walls.",
+      "question": "What defines the structure of sclerenchyma cells?"
+    }
+  ]
+}

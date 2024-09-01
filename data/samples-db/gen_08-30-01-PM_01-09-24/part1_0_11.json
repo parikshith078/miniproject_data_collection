@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The cell wall gives a definite shape to the plant cells and provides mechanical strength to the cell. It also helps in protecting the protoplasm against injury, contributing to the overall rigidity of the cell.",
+      "question": "What is one function of the cell wall?"
+    },
+    {
+      "context": "In plants, the cell wall provides mechanical strength and gives rigidity to the cell. This structure is crucial for maintaining shape and protecting the protoplasm from injury.",
+      "question": "How does the cell wall protect protoplasm?"
+    },
+    {
+      "context": "The cell wall is important as it gives a definite shape to plant cells while providing mechanical strength and rigidity. Additionally, it protects the internal components of the cell from various injuries.",
+      "question": "What does the cell wall provide to plant cells?"
+    },
+    {
+      "context": "Cell walls in plant cells contribute to the rigidity and mechanical strength of the cells. They are essential for giving a definite shape and protecting the cell’s protoplasm.",
+      "question": "What is the role of the cell wall in cell structure?"
+    },
+    {
+      "context": "The plant cell wall serves multiple functions including providing a definite shape, mechanical strength, rigidity, and protection to the protoplasm against injuries.",
+      "question": "What are two functions of the cell wall?"
+    }
+  ]
+}

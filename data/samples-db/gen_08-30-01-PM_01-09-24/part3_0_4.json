@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Excretion is vital for maintaining homeostasis in the body. It involves various organs working together to eliminate metabolic waste effectively.",
+      "question": "What is the role of excretion in the body?"
+    },
+    {
+      "context": "The excretion process includes organs like the kidneys, liver, lungs, and skin. Each plays a unique role in waste elimination.",
+      "question": "Which organs are involved in excretion?"
+    },
+    {
+      "context": "Metabolic waste by-products can include substances such as urea, carbon dioxide, and salts. It is crucial to remove these to prevent toxicity.",
+      "question": "What types of waste are expelled through excretion?"
+    },
+    {
+      "context": "The removal of waste through excretion helps to balance fluids and electrolytes, which is essential for proper physiological functions.",
+      "question": "How does excretion contribute to homeostasis?"
+    },
+    {
+      "context": "Excretion not only involves the removal of waste but also the regulation of various bodily functions, making it a complex and essential process.",
+      "question": "Why is excretion considered a complex process?"
+    }
+  ]
+}

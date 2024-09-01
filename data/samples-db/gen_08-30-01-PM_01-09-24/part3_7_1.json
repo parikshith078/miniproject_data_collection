@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Rhizopus produces hundreds of microscopic reproductive units called spores. When the spore case bursts, the spores spread into air. Under favourable conditions like damp and warm conditions, they germinate and produce new individuals.",
+      "question": "What conditions are favourable for spore germination?"
+    },
+    {
+      "context": "Unlike flowering plants, Rhizopus and Mucor reproduce by spore formation. The spore case bursts and releases spores into the air, which can land on food or soil.",
+      "question": "How do Rhizopus and Mucor reproduce?"
+    },
+    {
+      "context": "The air-borne spores of Rhizopus, when they land on food or soil, can germinate and produce new individuals if the conditions are favourable.",
+      "question": "What happens when spores land on suitable surfaces?"
+    },
+    {
+      "context": "Fungi like Rhizopus, Mucor, and non-flowering plants such as ferns and mosses use spore formation as a method of reproduction.",
+      "question": "Which organisms reproduce by spore formation?"
+    },
+    {
+      "context": "Spore formation in Rhizopus involves the bursting of the spore case called sporangium, releasing spores to the environment.",
+      "question": "What is the spore case called in Rhizopus?"
+    }
+  ]
+}

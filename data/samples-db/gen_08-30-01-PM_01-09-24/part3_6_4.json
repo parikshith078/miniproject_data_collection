@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The maintenance of the body functions in response to changes in the body by working together of various integrated body systems is known as coordination. All the movements that occur in response to stimuli are carefully coordinated and controlled.",
+      "question": "What is the definition of coordination?"
+    },
+    {
+      "context": "In animals, the control and coordination movements are provided by nervous and muscular systems. The nervous system sends messages to and away from the brain.",
+      "question": "Which systems provide control and coordination in animals?"
+    },
+    {
+      "context": "The spinal cord plays an important role in the relay of messages. In the absence of this system of control and coordination, our body will not be able to function properly.",
+      "question": "What role does the spinal cord play in coordination?"
+    },
+    {
+      "context": "For example, when we accidentally touch a hot utensil, we immediately withdraw our hand. In the absence of nerve transmission, we will not withdraw our hand and may get burnt.",
+      "question": "What happens when we touch a hot object?"
+    },
+    {
+      "context": "All the movements that occur in response to stimuli are carefully coordinated and controlled. In animals, the control and coordination movements are provided by nervous and muscular systems.",
+      "question": "How are movements controlled in response to stimuli?"
+    }
+  ]
+}

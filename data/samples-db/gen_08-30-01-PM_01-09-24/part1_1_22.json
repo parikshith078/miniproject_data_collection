@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Prokaryotic cells are unicellular organisms that lack a membrane-bound nucleus and organelles, and they have a simpler structure compared to eukaryotic cells. They often have a cell wall made of peptidoglycan and can reproduce asexually. In contrast, eukaryotic cells are more complex, have a defined nucleus, and possess organelles like mitochondria and the endoplasmic reticulum.",
+      "question": "What are the key differences between prokaryotic and eukaryotic cells?"
+    },
+    {
+      "context": "Prokaryotic cells are generally smaller and simpler than eukaryotic cells. They lack the compartmentalization found in eukaryotic cells, meaning that prokaryotes do not have separate areas for various cell functions. They reproduce primarily through binary fission, while eukaryotic cells typically reproduce through mitosis and meiosis.",
+      "question": "How do prokaryotic cells compare to eukaryotic cells?"
+    },
+    {
+      "context": "Prokaryotic cells are characterized by their lack of a nucleus and membrane-bound organelles, making them simpler than eukaryotic cells. They have nucleoid regions where their DNA is located, while eukaryotic cells have a nucleus that encloses their DNA. Prokaryotic cells also tend to be smaller than eukaryotic cells.",
+      "question": "What structural differences exist between prokaryotic and eukaryotic cells?"
+    },
+    {
+      "context": "One major difference between prokaryotic and eukaryotic cells is that prokaryotes are always single-celled organisms, while eukaryotes can be either unicellular or multicellular. Additionally, prokaryotic cells have circular DNA, while eukaryotic cells possess linear DNA within their nuclei.",
+      "question": "Can you identify differences in cellular organization between prokaryotes and eukaryotes?"
+    },
+    {
+      "context": "Prokaryotic cells typically have a simpler structure, lacking membrane-bound organelles and a defined nucleus, while eukaryotic cells have complex structures that include organelles and a nucleus. Prokaryotic organisms include bacteria and archaea, whereas eukaryotic organisms include plants, animals, and fungi.",
+      "question": "What types of organisms are prokaryotic compared to eukaryotic?"
+    }
+  ]
+}

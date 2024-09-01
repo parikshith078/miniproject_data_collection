@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Inertia in taking action to reduce the level of pollution stemmed largely from a widespread belief that the Ganga, as a holy river, had the ability to purify all that came into contact with it.",
+      "question": "What belief hindered pollution reduction efforts?"
+    },
+    {
+      "context": "Although there is some scientific evidence for the Ganga river’s high capacity to assimilate a large level of organic waste input, no river can sustain its self-purifying power with this kind of over-use.",
+      "question": "What damages the Ganga's self-purifying ability?"
+    },
+    {
+      "context": "The Ganga Action Plan (GAP) originated from the personal intervention and interest of our late Prime Minister Mrs Indira Gandhi who had directed the Central Board for the Prevention and Control of Water Pollution.",
+      "question": "Who initiated the Ganga Action Plan?"
+    },
+    {
+      "context": "The Ganga Action Plan (GAP) originated from the personal intervention and interest of our late Prime Minister Mrs Indira Gandhi who had directed the Central Board for the Prevention and Control of Water Pollution.",
+      "question": "What organization was directed to survey pollution in Ganga?"
+    },
+    {
+      "context": "Although there is some scientific evidence for the Ganga river’s high capacity to assimilate a large level of organic waste input, including pathogens, but no river can sustain its self-purifying power.",
+      "question": "What types of waste can Ganga assimilate?"
+    }
+  ]
+}

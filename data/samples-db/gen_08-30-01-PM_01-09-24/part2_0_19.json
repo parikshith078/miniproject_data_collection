@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Companion cells are thin walled elongated specialized Parenchyma cells. They are associated with sieve elements. They have a prominent nucleus and cytoplasm.",
+      "question": "What are companion cells associated with?"
+    },
+    {
+      "context": "Companion cells are thin walled elongated specialized Parenchyma cells. They help the sieve tube in conduction of food materials in angiosperms.",
+      "question": "What is the function of companion cells?"
+    },
+    {
+      "context": "Companion cells are thin walled elongated specialized Parenchyma cells. They have a prominent nucleus and cytoplasm. They support the sieve tube in food conduction.",
+      "question": "What is a notable feature of companion cells?"
+    },
+    {
+      "context": "Companion cells are associated with sieve elements. They help the sieve tube in conduction of food materials in angiosperms.",
+      "question": "What do companion cells assist in?"
+    },
+    {
+      "context": "Companion cells are thin walled elongated specialized Parenchyma cells. They help in conduction of food materials in angiosperms.",
+      "question": "What type of plants are companion cells found in?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The upward movement of water and minerals from roots to different plant parts is called ascent of sap. Many factors are at play in ascent of sap and it takes place in many steps. They are explained as follows: Root Pressure.",
+      "question": "What is the ascent of sap?"
+    },
+    {
+      "context": "Root Pressure: The walls of cells of root hairs are very thin. Water from soil enters the root hairs because of osmosis. Root pressure is responsible for movement of water up to the base of the stem.",
+      "question": "What causes water to move in roots?"
+    },
+    {
+      "context": "Capillary Action: A very fine tube is called capillary. Water or any liquid rises in the capillary because of physical forces and this phenomenon is called capillary action.",
+      "question": "What is capillary action in plants?"
+    },
+    {
+      "context": "Adhesion-cohesion of Water Molecules: Water molecules make a continuous column in the xylem because of forces of adhesion and cohesion among the molecules.",
+      "question": "How do water molecules stay together in xylem?"
+    },
+    {
+      "context": "Transpiration Pull: Loss of water vapour through stomata and lenticels; in plants; is called transpiration. Transpiration through stomata creates vacuum which creates a suction, called transpiration pull.",
+      "question": "What is transpiration and why is it important?"
+    },
+    {
+      "context": "The transpiration pull sucks the water column from the xylem tubes and thus water is able to rise to great heights in even the tallest plants.",
+      "question": "How does transpiration aid in water movement?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The levels of a food chain (food pyramid) is called Trophic levels. The trophic level of an organism is the level it holds in a food pyramid. The sun is the source of all the energy in food chains. Green plants, usually the first level of any food chain, absorb some of the Sun’s light energy to make their own food by photosynthesis.",
+      "question": "What are trophic levels in a food chain?"
+    },
+    {
+      "context": "The third in the chain are Secondary Consumers. These usually eat up the primary consumers and other animal matter. They are commonly called carnivores and examples include lions, snakes, and cats.",
+      "question": "What is a secondary consumer?"
+    },
+    {
+      "context": "The fourth level is called Tertiary Consumers. These are animals that eat secondary consumers. Quaternary Consumers eat tertiary consumers.",
+      "question": "What do tertiary consumers eat?"
+    },
+    {
+      "context": "Quaternary Consumers eat tertiary consumers. At the top of the levels are Predators. They are animals that have little or no natural enemies.",
+      "question": "Who are at the top of the trophic levels?"
+    },
+    {
+      "context": "Predators feed on preys. A prey is an animal that predators hunt to kill and feed on. Predators include owls, snakes, wild cats, crocodiles, and sharks.",
+      "question": "What is the role of a predator?"
+    },
+    {
+      "context": "When any organism dies, detrivores (like vultures, worms, and crabs) eat them up. The rest are broken down by decomposers (mostly bacteria and fungi), and the exchange of energy continues.",
+      "question": "What do decomposers do in an ecosystem?"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Classification makes it easy to study the organisms; on the basis of certain common characters. For anybody, it is impossible to study about each of them in his lifetime. There are millions of species on this earth.  ",
+      "question": "Why is classification important in biology?"
+    },
+    {
+      "context": "For anybody, it is impossible to study about each of them in his lifetime. Classification makes it easy to study the organisms; on the basis of certain common characters. There are millions of species on this earth.",
+      "question": "What problem does classification solve for scientists?"
+    }
+  ]
+}

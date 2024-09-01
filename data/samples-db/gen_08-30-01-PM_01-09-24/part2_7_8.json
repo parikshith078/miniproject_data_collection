@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Plague is confirmed by Wayson stain test. Anti-plague vaccine, spray of insecticides, killing of rats, nose caps and high cots (rat flea can jump up to 45 cm) are some preventive measures.",
+      "question": "What tests are used to confirm plague?"
+    },
+    {
+      "context": "Anti-plague vaccine, spray of insecticides, killing of rats, nose caps and high cots (rat flea can jump up to 45 cm) are some preventive measures.",
+      "question": "What are some preventive measures for plague?"
+    },
+    {
+      "context": "Streptomycin or oral tetracycline is effective against plague.",
+      "question": "Which antibiotics are effective against plague?"
+    },
+    {
+      "context": "Wayson stain test is used to confirm the presence of plague.",
+      "question": "What is the purpose of the Wayson stain test?"
+    },
+    {
+      "context": "Spray of insecticides, killing of rats, nose caps and high cots are used to prevent plague.",
+      "question": "How can rats help in the spread of plague?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In complex organisms, different tasks are carried out by different organs and organ systems. Tissues are the first step towards division of labour in complex organisms.",
+      "question": "What is the role of tissues in organisms?"
+    },
+    {
+      "context": "In complex organisms, different tasks are carried out by different organs and organ systems. Tissues are the first step towards division of labour in complex organisms.",
+      "question": "How do tissues contribute to an organism's functionality?"
+    },
+    {
+      "context": "In complex organisms, different tasks are carried out by different organs and organ systems. Tissues are the first step towards division of labour in complex organisms.",
+      "question": "What does division of labour refer to in biology?"
+    },
+    {
+      "context": "In complex organisms, different tasks are carried out by different organs and organ systems. Tissues are the first step towards division of labour in complex organisms.",
+      "question": "What allows complex organisms to perform specific functions?"
+    },
+    {
+      "context": "In complex organisms, different tasks are carried out by different organs and organ systems. Tissues are the first step towards division of labour in complex organisms.",
+      "question": "Why are tissues important for complex organisms?"
+    }
+  ]
+}

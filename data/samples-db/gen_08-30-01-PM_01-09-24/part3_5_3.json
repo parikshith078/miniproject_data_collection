@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Nastic movements do not depend on the direction from which a stimulus acts. For example, when someone touches the leaves of mimosa, the leaves droop regardless of the touch direction. These movements occur due to changes in the water balance in the cells, leading to flaccidity when water is lost.",
+      "question": "What are nastic movements in plants?"
+    },
+    {
+      "context": "The leaves of mimosa exhibit nastic movement by drooping when touched. This drooping happens irrespective of the touch direction, which is characteristic of nastic movements. The phenomenon is primarily caused by the loss of water in leaf cells, resulting in a flaccid state.",
+      "question": "How do nastic movements occur in plants?"
+    },
+    {
+      "context": "When mimosa leaves are touched, they droop as a response to the stimulus. This reaction is an example of nastic movement, characterized by its independence from the stimulus direction. The mechanism involves cells in the leaves losing water, causing them to lack firmness.",
+      "question": "What happens to mimosa leaves when touched?"
+    },
+    {
+      "context": "Nastic movements, like the drooping of mimosa leaves, are triggered by touch but do not depend on the direction of the stimulus. Such movement results from a change in water balance within leaf cells, which become flaccid upon losing water.",
+      "question": "What causes the drooping of mimosa leaves?"
+    },
+    {
+      "context": "In nastic movements, the plant's response is not oriented towards the stimulus, as seen in mimosa leaves that droop when touched. This occurs due to the loss of water from cells, which leads to their flaccidity and inability to maintain their position.",
+      "question": "Do nastic movements depend on stimulus direction?"
+    }
+  ]
+}

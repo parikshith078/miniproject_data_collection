@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cell is the smallest unit of life, which is capable of all living functions. If the organisation of a cell is destroyed due to some physical or chemical influence, then the ability of the cell to perform all living functions such as respiration, nutrition, excretion, etc. would be affected.",
+      "question": "What happens if a cell's organization is destroyed?"
+    },
+    {
+      "context": "Cell is the smallest unit of life, which is capable of all living functions. If the organisation of a cell is destroyed due to some physical or chemical influence, then the ability of the cell to perform all living functions such as respiration, nutrition, excretion, etc. would be affected.",
+      "question": "How does damage to a cell affect its functions?"
+    },
+    {
+      "context": "Cell is the smallest unit of life, which is capable of all living functions. If the organisation of a cell is destroyed due to some physical or chemical influence, then the ability of the cell to perform all living functions such as respiration, nutrition, excretion, etc. would be affected.",
+      "question": "List some functions affected by cell damage."
+    },
+    {
+      "context": "Cell is the smallest unit of life, which is capable of all living functions. If the organisation of a cell is destroyed due to some physical or chemical influence, then the ability of the cell to perform all living functions such as respiration, nutrition, excretion, etc. would be affected.",
+      "question": "What are the implications of cell organization loss?"
+    },
+    {
+      "context": "Cell is the smallest unit of life, which is capable of all living functions. If the organisation of a cell is destroyed due to some physical or chemical influence, then the ability of the cell to perform all living functions such as respiration, nutrition, excretion, etc. would be affected.",
+      "question": "What are living functions affected by cell organization disruption?"
+    }
+  ]
+}

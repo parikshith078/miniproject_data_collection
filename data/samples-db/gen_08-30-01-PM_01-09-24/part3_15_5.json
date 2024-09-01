@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Leaking taps should be repaired to prevent wastage of water resources. Water from industries should not be directly dumped in the river water to avoid pollution. Methods like rainwater harvesting and construction of canals should be promoted.",
+      "question": "Why should leaking taps be repaired?"
+    },
+    {
+      "context": "Use of insecticides and pesticides should be minimised because these chemicals wash away with rain, contaminating river water and underground water. This contamination poses a risk to aquatic life and human health.",
+      "question": "How do insecticides contaminate water sources?"
+    },
+    {
+      "context": "Construction of dams may also prove beneficial in managing water resources. Methods like rainwater harvesting and canals can help in better utilization of water. Such practices help in conservation and reduce wastage.",
+      "question": "What methods can help in conservation of water resources?"
+    },
+    {
+      "context": "Water from industries should not be directly dumped in the river water due to the harmful pollutants it carries. This can severely affect the aquatic ecosystem and compromise the quality of water for human use.",
+      "question": "What impact does industrial dumping have on rivers?"
+    },
+    {
+      "context": "Promoting rainwater harvesting is essential as it provides an alternative method of collecting water during rainy seasons. This practice reduces surface runoff and helps replenish groundwater levels.",
+      "question": "How does rainwater harvesting support water conservation?"
+    }
+  ]
+}

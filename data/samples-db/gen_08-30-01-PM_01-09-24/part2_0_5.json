@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The meristematic tissues are made up of group of similar and immature cells, which can divide and form new cells. Meristematic cells divide continuously and thus help in increasing the length and thickness of the plant.",
+      "question": "What type of cells make up meristematic tissue?"
+    },
+    {
+      "context": "Depending upon the position, meristematic tissues are of three types: i) Apical meristems: Apical meristem is present at the growing tips of stems and roots and increases the length of the plant body.",
+      "question": "Where are apical meristems located?"
+    },
+    {
+      "context": "These meristems occupy base of the leaves and the base of the internodal regions in plants such as grasses (mostly in monocotyledonous plants). These help in elongation of the internodes.",
+      "question": "What is the function of intercalary meristems?"
+    },
+    {
+      "context": "This includes the meristematic tissues occupying the lateral regions of the stems and roots which bring about increase in the width of the plant body.",
+      "question": "What is the role of lateral meristems in plants?"
+    },
+    {
+      "context": "They are responsible for growth in length, i.e. primary growth. ii) Intercalary meristems: These meristems occupy base of the leaves and the base of the internodal regions in plants such as grasses.",
+      "question": "What type of growth is facilitated by apical meristems?"
+    }
+  ]
+}

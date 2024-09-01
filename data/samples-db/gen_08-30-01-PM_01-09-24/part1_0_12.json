@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "A cell is enclosed in a membranous casing and is filled with a liquid substance which is called the cytoplasm. There are many cell organelles in a typical cell. Some of the main structures of a cell are as follows: The cytoplasm is the fluid content inside the plasma membrane.",
+      "question": "What is the role of cytoplasm in a cell?"
+    },
+    {
+      "context": "There are many cell organelles in a typical cell. Some of the main structures of a cell are as follows: The cytoplasm is the fluid content inside the plasma membrane.",
+      "question": "What does the cytoplasm contain?"
+    },
+    {
+      "context": "Each of these organelles performs a specific function for the cell. The cytoplasm is the fluid content inside the plasma membrane. It also contains many specialised cell organelles.",
+      "question": "What do organelles in the cytoplasm do?"
+    },
+    {
+      "context": "The cytoplasm is the fluid content inside the plasma membrane. It also contains many specialised cell organelles. A cell is enclosed in a membranous casing.",
+      "question": "What surrounds the cytoplasm in a cell?"
+    },
+    {
+      "context": "There are many cell organelles in a typical cell. The cytoplasm is the fluid content inside the plasma membrane. Each of these organelles performs a specific function for the cell.",
+      "question": "What is found within the cytoplasm?"
+    }
+  ]
+}

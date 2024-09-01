@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The process of obtaining energy through consumption of food is called as nutrition. This involves the breakdown of food into nutrients that are essential for the body’s functioning.",
+      "question": "What is the primary purpose of nutrition?"
+    },
+    {
+      "context": "Nutrition refers to the process of obtaining energy through consumption of food. It includes various components such as carbohydrates, proteins, fats, vitamins, and minerals.",
+      "question": "What types of components are included in nutrition?"
+    },
+    {
+      "context": "The process of obtaining energy through consumption of food is called as nutrition. Proper nutrition is crucial for maintaining health and wellness in individuals.",
+      "question": "Why is nutrition important for health?"
+    },
+    {
+      "context": "In the context of nutrition, food is broken down into various nutrients. These nutrients provide the energy needed for growth, maintenance, and overall bodily functions.",
+      "question": "What happens to food during the nutrition process?"
+    },
+    {
+      "context": "Nutrition is essential as it involves the acquisition of energy from food. A well-balanced diet can help in preventing health issues and supporting bodily functions effectively.",
+      "question": "How can nutrition prevent health issues?"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "In the human heart, blood passes through the heart twice in one cardiac cycle. This type of circulation is called double circulation, which ensures complete segregation of oxygenated and deoxygenated blood necessary for warm-blooded animals.",
+      "question": "What is double circulation in the heart?"
+    },
+    {
+      "context": "Double circulation ensures complete segregation of oxygenated and deoxygenated blood which is necessary for optimum energy production in warm-blooded animals.",
+      "question": "Why is double circulation important for warm-blooded animals?"
+    },
+    {
+      "context": "The heart beats about 72 times per minute in a normal adult. In one cardiac cycle, the heart pumps out 70 mL blood, resulting in about 4900 mL blood in a minute.",
+      "question": "How much blood does the heart pump in one minute?"
+    },
+    {
+      "context": "One complete heart beat in which all the chambers of the heart contract and relax once is called cardiac cycle.",
+      "question": "What is defined as a cardiac cycle?"
+    },
+    {
+      "context": "Blood circulation through the heart involves several stages: Systemic Vein → Sinus Venosus → Right Auricle → Right Ventricle.",
+      "question": "What is the first step in blood circulation through the heart?"
+    },
+    {
+      "context": "Double circulation allows the heart to effectively separate oxygenated and deoxygenated blood for better energy production.",
+      "question": "What does double circulation separate?"
+    },
+    {
+      "context": "In one cardiac cycle, the heart pumps out 70 mL blood, amounting to about 4900 mL blood in a minute.",
+      "question": "What is the volume of blood pumped in one cardiac cycle?"
+    }
+  ]
+}

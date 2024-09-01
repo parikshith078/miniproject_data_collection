@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Autotrophic nutrition is characterized by the ability of organisms to produce their own food using inorganic substances. All green plants and some bacteria have this type of nutrition, utilizing sunlight or inorganic chemicals to convert carbon dioxide and water into glucose and oxygen through processes like photosynthesis or chemosynthesis.",
+      "question": "What organisms exhibit autotrophic nutrition?"
+    },
+    {
+      "context": "In autotrophic nutrition, organisms can create their own food through processes like photosynthesis or chemosynthesis. All green plants and some bacteria have this type of nutrition, which allows them to convert light energy or inorganic substances into organic compounds necessary for growth.",
+      "question": "Which process do green plants use for autotrophic nutrition?"
+    },
+    {
+      "context": "Autotrophic nutrition plays a crucial role in the ecosystem as it forms the basis of the food chain. All green plants and certain bacteria possess this type of nutrition, enabling them to synthesize their own food from sunlight or chemicals without needing other organisms for energy.",
+      "question": "Why is autotrophic nutrition important in ecosystems?"
+    },
+    {
+      "context": "Through autotrophic nutrition, organisms like all green plants and some bacteria can generate their own food from simple inorganic materials. This ability is vital for the survival of these organisms, as well as for supporting other life forms that rely on them as primary producers.",
+      "question": "How do autotrophic organisms produce their food?"
+    }
+  ]
+}

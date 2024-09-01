@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The desirable agronomic characteristics for crop improvements are: (i) Tallness and profuse branching in any fodder crop. (ii) Dwarfness in cereals. These desirable agronomic characteristics help in increasing crop productivity.",
+      "question": "What is the benefit of tallness in fodder crops?"
+    },
+    {
+      "context": "The desirable agronomic characteristics for crop improvements are: (i) Tallness and profuse branching in any fodder crop. (ii) Dwarfness in cereals. These desirable agronomic characteristics help in increasing crop productivity.",
+      "question": "How does dwarfness in cereals influence crop yield?"
+    },
+    {
+      "context": "The desirable agronomic characteristics for crop improvements are: (i) Tallness and profuse branching in any fodder crop. (ii) Dwarfness in cereals. These desirable agronomic characteristics help in increasing crop productivity.",
+      "question": "What does profuse branching in fodder crops indicate?"
+    },
+    {
+      "context": "The desirable agronomic characteristics for crop improvements are: (i) Tallness and profuse branching in any fodder crop. (ii) Dwarfness in cereals. These desirable agronomic characteristics help in increasing crop productivity.",
+      "question": "Why are crop improvements focused on height and branching?"
+    },
+    {
+      "context": "The desirable agronomic characteristics for crop improvements are: (i) Tallness and profuse branching in any fodder crop. (ii) Dwarfness in cereals. These desirable agronomic characteristics help in increasing crop productivity.",
+      "question": "What role do agronomic characteristics play in agriculture?"
+    }
+  ]
+}

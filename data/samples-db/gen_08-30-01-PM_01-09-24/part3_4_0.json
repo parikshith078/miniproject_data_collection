@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "There are three main types of neurons: sensory neurons, motor neurons, and association neurons. Sensory neurons are responsible for receiving signals from various sense organs. Motor neurons then carry signals to muscles or glands, enabling movement or secretion. Finally, association neurons serve as a relay between sensory and motor neurons.",
+      "question": "What is the function of motor neurons?"
+    },
+    {
+      "context": "Sensory neurons are specialized to receive signals from sensory organs, while motor neurons send commands to muscles or glands. Association neurons connect sensory and motor neurons, facilitating communication within the nervous system.",
+      "question": "What do sensory neurons do?"
+    },
+    {
+      "context": "Neurons can be classified into three categories: sensory neurons that receive input from the environment, motor neurons that create responses by triggering muscle movements, and association neurons which connect and relay the information between the sensory and motor neurons.",
+      "question": "Name one type of neuron involved in reflex actions."
+    },
+    {
+      "context": "The primary types of neurons include sensory neurons that detect stimuli, motor neurons that execute responses, and association neurons which integrate the information from sensory input and send it to motor functions.",
+      "question": "Which neurons connect sensory and motor neurons?"
+    },
+    {
+      "context": "In the nervous system, sensory neurons detect external stimuli and send signals to the brain. Motor neurons take commands from the brain to the body, prompting movement. Association neurons facilitate the communication between the first two types.",
+      "question": "What role do association neurons play?"
+    }
+  ]
+}

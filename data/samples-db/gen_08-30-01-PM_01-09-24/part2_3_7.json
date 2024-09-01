@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "In aves, body is covered with feathers; while in mammals, body is covered with hairs. Mammary glands are absent in aves.",
+      "question": "What covers the body of aves?"
+    },
+    {
+      "context": "Forelimbs of aves are modified into wings which is not the case in mammals.",
+      "question": "How are the forelimbs of aves different?"
+    },
+    {
+      "context": "Aves are oviparous, while most of the mammals are viviparous.",
+      "question": "What type of reproduction is most common in mammals?"
+    }
+  ]
+}

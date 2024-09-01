@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Heterotrophic nutrition involves organisms that cannot produce their own food and must consume other organisms or organic matter for energy. This type of nutrition is essential for the survival of many kinds of animals, fungi, and some bacteria. Unlike autotrophs, which can prepare their food using sunlight or chemical energy, heterotrophs rely on consuming pre-existing organic substances.",
+      "question": "What is heterotrophic nutrition?"
+    },
+    {
+      "context": "Heterotrophic organisms acquire nutrients by ingesting their food sources. Since they rely on external food sources, these organisms typically respond to their environmental conditions, such as availability of food, which can fluctuate. This contrasts with autotrophs, which can produce organic substances from inorganic materials at any time.",
+      "question": "How do heterotrophic organisms acquire nutrients?"
+    },
+    {
+      "context": "In practicing heterotrophic nutrition, organisms like animals, fungi, and some bacteria consume organic material for energy. The timing of food availability affects these organisms significantly, as they are unable to prepare their food independently and must rely on the presence of other organic substances for survival.",
+      "question": "Why can food availability impact heterotrophic organisms?"
+    },
+    {
+      "context": "Heterotrophic nutrition is characterized by the need for external food sources. These organisms are unable to harness energy from sunlight or inorganic materials, limiting their food intake to what is available in their environments, which may vary seasonally or due to ecological factors.",
+      "question": "What limits heterotrophic organisms in food preparation?"
+    },
+    {
+      "context": "An example of heterotrophic nutrition is seen in many animals that must eat to obtain energy and nutrients. These organisms cannot manufacture their own food, and thus they rely wholly on the consumption of plants or other organisms, which are often dependent on environmental conditions for growth.",
+      "question": "Can heterotrophic organisms prepare their own food?"
+    }
+  ]
+}

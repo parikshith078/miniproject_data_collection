@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Bacteria are spread in many ways including: Spread by aerosols (through coughing and sneezing). For example, Streptococcus. Spread by surface and skin contact. For example, Staphylococcus aureus, including MRSA.",
+      "question": "How can bacteria be spread through aerosols?"
+    },
+    {
+      "context": "Infectious bacteria can grow, divide and spread in the body, leading to infectious disease. Some infectious bacteria give off toxins which can make some diseases more severe.",
+      "question": "What can some infectious bacteria produce that affects disease severity?"
+    },
+    {
+      "context": "Antibiotics are usually given to treat severe bacterial infections. Antibiotic resistance in bacteria is a significant problem.",
+      "question": "What is a major issue concerning antibiotics and bacteria?"
+    },
+    {
+      "context": "Spread through body fluids, such as blood and saliva. For example, meningococcal disease (meningitis).",
+      "question": "Which body fluids can spread infectious bacteria?"
+    },
+    {
+      "context": "Some infectious bacteria give off toxins which can make some diseases more severe. Bacteria are spread in many ways including: Spread by aerosols.",
+      "question": "What role do toxins play in infectious bacterial diseases?"
+    }
+  ]
+}

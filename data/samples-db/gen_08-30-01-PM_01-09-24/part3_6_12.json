@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Modes of reproduction involving a single parent, without involving gametes. These are known as asexual modes of reproduction. Organisms can reproduce asexually in many ways. Some of them are given here. FISSION: BINARY FISSION: Most of the unicellular animals prefer this method for reproduction.",
+      "question": "What does asexual reproduction involve?"
+    },
+    {
+      "context": "Binary fission is somewhat similar to mitosis. The mother cell divides into two daughter cells; and each daughter cell begins its life like a new individual.",
+      "question": "How does binary fission compare to mitosis?"
+    },
+    {
+      "context": "The parent generation ceases to exist, after binary fission. Amoeba is a very good example of the organism which reproduces by binary fission.",
+      "question": "Which organism is known for binary fission?"
+    },
+    {
+      "context": "Organisms can reproduce asexually in many ways. Some of them are given here. FISSION: BINARY FISSION: Most of the unicellular animals prefer this method for reproduction.",
+      "question": "What type of organisms prefer binary fission?"
+    },
+    {
+      "context": "These organisms reproduce by binary fission; especially when conditions are favourable, i.e. adequate amount of food and moisture is available.",
+      "question": "What conditions favor binary fission reproduction?"
+    }
+  ]
+}

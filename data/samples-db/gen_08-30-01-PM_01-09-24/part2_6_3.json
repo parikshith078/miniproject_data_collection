@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Diarrhoeal diseases are caused by bacteria like Shigella dysenteriae and Escherichia coli. It can spread through contaminated food, water or drinks, and is common in overcrowded insanitary conditions. Symptoms include loose stools, abdominal cramps and dehydration.",
+      "question": "What bacteria cause diarrhoeal diseases?"
+    },
+    {
+      "context": "The incubation period for diarrhoeal diseases is variable, and symptoms may include frequent stools with blood if infected by Shigella. Treatment involves using ORS to combat dehydration and loss of minerals.",
+      "question": "What is a treatment for diarrhoeal diseases?"
+    },
+    {
+      "context": "Diarrhoeal diseases can be prevented by avoiding contaminated food and water. Infections may cause symptoms like fever and increased pulse rate, alongside abdominal cramps and diminished appetite.",
+      "question": "How can diarrhoeal diseases be prevented?"
+    },
+    {
+      "context": "Common symptoms of diarrhoeal diseases include dehydration, low blood pressure, and frequent loose stools. Specific symptoms can vary based on the bacteria causing the infection.",
+      "question": "What are symptoms of diarrhoeal diseases?"
+    },
+    {
+      "context": "In high-risk areas, epidemics of diarrhoeal diseases can occur due to overcrowding and poor sanitation. The diseases may also be caused by eating contaminated food or drinking unsafe water.",
+      "question": "What causes diarrhoeal disease epidemics?"
+    }
+  ]
+}

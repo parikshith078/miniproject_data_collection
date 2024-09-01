@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The Golgi apparatus is essential for forming lysosomes through its modification and packaging of proteins. Additionally, it plays a crucial role in synthesizing both the cell wall and the cell membrane.",
+      "question": "What does the Golgi apparatus help form?"
+    },
+    {
+      "context": "In cells, the Golgi complex is responsible for synthesizing important structures, including components of the cell wall and cell membrane, in addition to producing lysosomes.",
+      "question": "What types of structures does the Golgi apparatus synthesize?"
+    },
+    {
+      "context": "The Golgi complex functions by modifying proteins and lipids, ultimately participating in the creation of lysosomes. It also has a key role in the synthesis of cell membranes and walls.",
+      "question": "How does the Golgi apparatus relate to lysosomes?"
+    },
+    {
+      "context": "Integral for cellular function, the Golgi apparatus not only creates lysosomes but also contributes significantly to the synthesis of the cell wall and cell membrane, both important for cell integrity.",
+      "question": "Why is the Golgi complex important for cells?"
+    }
+  ]
+}

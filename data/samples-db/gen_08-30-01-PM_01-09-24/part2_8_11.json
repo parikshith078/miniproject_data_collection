@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Air is a mixture of many gases like nitrogen, oxygen, carbon dioxide and water vapour.",
+      "question": "What gases make up air?"
+    },
+    {
+      "context": "All living beings need oxygen to break down glucose molecules and get energy for their activities.",
+      "question": "Why do living beings need oxygen?"
+    },
+    {
+      "context": "This results in the production of carbon dioxide.",
+      "question": "What is produced when glucose is broken down?"
+    },
+    {
+      "context": "Another process which results in the consumption of oxygen and the concomitant production of carbon dioxide is combustion.",
+      "question": "What is another process that consumes oxygen?"
+    },
+    {
+      "context": "This includes not just human activities, which burn fuels to get energy, but also forest fires.",
+      "question": "What activities contribute to the consumption of oxygen?"
+    }
+  ]
+}

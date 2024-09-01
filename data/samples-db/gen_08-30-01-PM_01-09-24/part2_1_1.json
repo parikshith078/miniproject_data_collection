@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "All cells possess the ability to respond to stimuli. However, cells of the nervous tissue are highly specialised for being stimulated and then transmitting the stimulus very rapidly from one place to another within the body.",
+      "question": "What is the primary function of nervous tissue?"
+    },
+    {
+      "context": "The brain, spinal cord and nerves are all composed of the nervous tissue. The cells of this tissue are called nerve cells or neurons.",
+      "question": "What types of cells make up nervous tissue?"
+    },
+    {
+      "context": "A neuron consists of a cell body with a nucleus and cytoplasm, from which long thin hair-like parts arise.",
+      "question": "What are the main components of a neuron?"
+    },
+    {
+      "context": "Usually, each neuron has a single long part, called the axon, and many short, branched parts called dendrites.",
+      "question": "What are the two main parts of a neuron?"
+    },
+    {
+      "context": "An axon is a long thread-like extension of nerve cells that transmits impulses away from the cell body. Dendrites, on the other hand, are thread-like extensions of the cell body that receive nerve impulses.",
+      "question": "What roles do axons and dendrites play in a neuron?"
+    },
+    {
+      "context": "Many nerve fibres bound together by connective tissue make up a nerve. A neuron consists of a cell body with a nucleus and cytoplasm.",
+      "question": "What structure is formed from multiple nerve fibers?"
+    },
+    {
+      "context": "This coordinated function helps in transmitting impulses very quickly.",
+      "question": "Why is the function of neurons described as coordinated?"
+    }
+  ]
+}

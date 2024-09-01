@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In his second experiment, Mendel used dihybrid cross. Let us take the example between plants with round and green seeds and those with wrinkled and yellow seeds.",
+      "question": "What is a dihybrid cross?"
+    },
+    {
+      "context": "The genotype of round and green seeds is shown by RRyy and that of wrinkled and yellow seeds is shown by rrYY.",
+      "question": "What genotypes represent round and green seeds?"
+    },
+    {
+      "context": "In the F1 generation, all plants produced from this cross exhibit dominant traits for round and green seeds.",
+      "question": "What traits are exhibited by F1 plants?"
+    },
+    {
+      "context": "Mendel studied the inheritance of two pairs of characteristics in his experiments with pea plants.",
+      "question": "What did Mendel study in his experiments?"
+    },
+    {
+      "context": "Dihybrid crosses allow us to observe how two different traits are inherited together in organisms.",
+      "question": "Why are dihybrid crosses important in genetics?"
+    }
+  ]
+}

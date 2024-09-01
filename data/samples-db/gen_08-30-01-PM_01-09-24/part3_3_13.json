@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Types of Nerve Cells: a) Myelinated or Medullated or White neurons: When the axon is enclosed by the white fatty myelin cover it is called Myelinated or Medullated or White neurons. This forms the cerebral cortex of our brain.",
+      "question": "What are myelinated neurons?"
+    },
+    {
+      "context": "b) Non-Myelinated or Non-Medullated or Grey neurons: This neuron is not enclosed by myelin sheath; so it appears greyish in colour. The axon is covered by only neurilemma and Schwann cells. This type of neuron is found in the white matter of cerebrum.",
+      "question": "Where are non-myelinated neurons found?"
+    },
+    {
+      "context": "d) Bipolar neurons: The sensory hair cells of the sense organs like rods and cones of retina are made up of bipolar neurons. Each bipolar neuron has a cell body and two process at the ends, one acting as axon and the other acting as Dendron.",
+      "question": "What role do bipolar neurons play?"
+    },
+    {
+      "context": "e) Multipolar neuron: The cerebral cortex contains the multipolar neurons; each multipolar neuron has a cell body with many dendrites and an axon.",
+      "question": "What is a characteristic of multipolar neurons?"
+    },
+    {
+      "context": "c) Unipolar neurons: The embryonic nervous tissue contains unipolar neurons. An unipolar neuron has a nerve cell body with a single process or fibre, which will act both as axon and Dendron.",
+      "question": "What is unique about unipolar neurons?"
+    }
+  ]
+}

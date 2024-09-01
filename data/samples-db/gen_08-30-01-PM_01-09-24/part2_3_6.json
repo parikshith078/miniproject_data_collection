@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Amphibians need water to lay eggs and fertilization is external. Reptilians do not need water to lay eggs and fertilization is internal.",
+      "question": "How do amphibians differ from reptiles in reproduction?"
+    },
+    {
+      "context": "Amphibians use both skin and lungs for breathing. Reptilians breathe through lungs only.",
+      "question": "What are the breathing differences between amphibians and reptiles?"
+    },
+    {
+      "context": "Reptilians do not need water to lay eggs and fertilization is internal. Amphibians need water to lay eggs and fertilization is external.",
+      "question": "What type of fertilization do amphibians have?"
+    },
+    {
+      "context": "Amphibians use both skin and lungs for breathing. Reptilians breathe through lungs only.",
+      "question": "Which animals rely on skin for respiration?"
+    },
+    {
+      "context": "Amphibians need water to lay eggs and fertilization is external. Reptilians do not need water to lay eggs.",
+      "question": "Which group needs water for egg laying?"
+    }
+  ]
+}

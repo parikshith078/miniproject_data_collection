@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The small intestine is divided into three parts, viz. duodenum, jejunum and ileum. These sections play unique roles in digestion and nutrient absorption. The duodenum receives chyme from the stomach, while the jejunum and ileum are mainly involved in the absorption of nutrients.",
+      "question": "What are the three parts of the small intestine?"
+    },
+    {
+      "context": "The small intestine is a highly coiled tube-like structure. It is significantly longer than the large intestine, which aid in the digestion and absorption of nutrients. Its smaller lumen compared to the large intestine facilitates this process.",
+      "question": "How does the length of the small intestine compare to the large intestine?"
+    },
+    {
+      "context": "The small intestine is longer than the large intestine but its lumen is smaller than that of the large intestine. This structure allows for efficient absorption of nutrients over a longer distance traveled through the digestive tract.",
+      "question": "Why is the lumen of the small intestine smaller?"
+    },
+    {
+      "context": "While the small intestine is longer than the large intestine, its lumen is notably smaller. The design of the small intestine helps in maximizing surface area for nutrient absorption with its coiled structure and villi.",
+      "question": "What is the function of the small intestine's coiled structure?"
+    },
+    {
+      "context": "The small intestine consists of three essential parts: the duodenum, jejunum and ileum. Each section contributes to the digestive process, with the duodenum primarily focusing on the initial stages of digestion.",
+      "question": "What role does the duodenum play in digestion?"
+    }
+  ]
+}

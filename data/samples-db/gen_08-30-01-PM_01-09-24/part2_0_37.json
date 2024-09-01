@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Smooth muscle is found in those organs where involuntary movement is possible, e.g. alimentary canal. The cells of smooth muscles are spindle-shaped and each has one nucleus.",
+      "question": "What shape are smooth muscle cells?"
+    },
+    {
+      "context": "The cells of smooth muscles are spindle-shaped and each has one nucleus. Smooth muscle is found in those organs where involuntary movement is possible, e.g. alimentary canal.",
+      "question": "Where is smooth muscle commonly found?"
+    },
+    {
+      "context": "Smooth muscle is found in those organs where involuntary movement is possible, e.g. alimentary canal. The cells of smooth muscles are spindle-shaped and each has one nucleus.",
+      "question": "What type of movement do smooth muscles control?"
+    },
+    {
+      "context": "The cells of smooth muscles are spindle-shaped and each has one nucleus. Smooth muscle is found in those organs where involuntary movement is possible, e.g. alimentary canal.",
+      "question": "How many nuclei do smooth muscle cells have?"
+    }
+  ]
+}

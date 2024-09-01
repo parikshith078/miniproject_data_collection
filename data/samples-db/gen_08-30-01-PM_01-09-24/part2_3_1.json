@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In the first case, the commonality of characters would represent a species. In the latter case, the commonality of characters would represent a higher taxa; like genus, family, order or phylum.",
+      "question": "What does commonality of characters indicate?"
+    },
+    {
+      "context": "We need to look at the fact if given character is present in a small number of organisms or a larger number of organisms.",
+      "question": "How should we assess the presence of characteristics?"
+    },
+    {
+      "context": "Choosing Characteristics for Hierarchy in Classification is essential for understanding biodiversity.",
+      "question": "Why is character choice important in classification?"
+    },
+    {
+      "context": "The number of organisms a character is present in determines its classification impact.",
+      "question": "What does the number of organisms influence?"
+    },
+    {
+      "context": "A species is defined by characters common to a smaller number of organisms.",
+      "question": "What defines a species in classification?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Ageing is associated with the gradual accumulation of various modifiable risks for chronic diseases. As individuals grow older, the influence of these risk factors on health outcomes becomes increasingly significant. This trend highlights the importance of addressing risk factors early in life to mitigate their impact later on.",
+      "question": "How does ageing impact chronic disease risk?"
+    },
+    {
+      "context": "As people age, they are more likely to experience the accumulation of modifiable risks for chronic diseases. The significance of such risk factors grows with age, emphasizing the need for lifelong health strategies.",
+      "question": "What does risk factor accumulation mean in ageing?"
+    },
+    {
+      "context": "The gradual increase of modifiable risks as people age leads to a heightened potential for chronic diseases. Understanding this relationship is crucial for developing prevention strategies throughout an individual's life.",
+      "question": "Why is risk factor management important with ageing?"
+    },
+    {
+      "context": "Ageing is marked by the build-up of risk factors that can be modified to reduce the likelihood of chronic diseases. This accumulation suggests that health interventions are necessary at various stages of life.",
+      "question": "What role do modifiable risks play in ageing?"
+    },
+    {
+      "context": "Research indicates that as age increases, so does the importance and effect of modifiable risks for chronic diseases. Thus, addressing these factors early on can significantly influence health outcomes.",
+      "question": "What is the link between age and modifiable risk factors?"
+    },
+    {
+      "context": "The relationship between ageing and chronic disease is often mediated by the accumulation of modifiable risks. This underscores the necessity for proactive health measures as one ages.",
+      "question": "What should be emphasized as one ages regarding health?"
+    }
+  ]
+}

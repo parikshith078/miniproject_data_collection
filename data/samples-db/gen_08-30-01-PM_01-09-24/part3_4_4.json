@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The autonomic nervous system (ANS) regulates involuntary body functions, maintaining homeostasis. It receives sensory input from structures responding to environmental stimuli. The motor output targets smooth and cardiac muscles, and glandular tissues.",
+      "question": "What does the ANS regulate in the body?"
+    },
+    {
+      "context": "Sweat glands are controlled by the autonomic nervous system. When the body is hot, sweating cools it down, demonstrating a homeostatic mechanism. However, sweating can also occur due to nervousness, showing a different response.",
+      "question": "How does sweating relate to homeostasis?"
+    },
+    {
+      "context": "The ANS is crucial for maintaining the internal environment of the body. Involuntary control includes regulating heart rate and digestion, which are essential for survival. It operates without conscious effort.",
+      "question": "What control does the ANS provide?"
+    },
+    {
+      "context": "Motor output of the autonomic nervous system affects smooth muscles and glands. This system is vital for regulating functions like heart rate, breathing, and digestion, necessary for survival and proper bodily function.",
+      "question": "What muscle types does the ANS affect?"
+    },
+    {
+      "context": "Involuntary control by the ANS allows responses to external stimuli, helping the body adapt. For instance, increased heart rate when exercising prepares the body for higher physical demand due to autonomic regulation.",
+      "question": "Why is the ANS important for physical activity?"
+    }
+  ]
+}

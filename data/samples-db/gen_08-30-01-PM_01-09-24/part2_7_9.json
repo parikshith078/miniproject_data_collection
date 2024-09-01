@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Leprosy is a contagious chronic bacterial disease caused by Mycobacterium leprae which is characterised by the chronic infection of the skin and other tissues.",
+      "question": "What bacterium causes leprosy?"
+    },
+    {
+      "context": "Leprosy is a contagious chronic bacterial disease caused by Mycobacterium leprae which is characterised by the chronic infection of the skin and other tissues.",
+      "question": "What is leprosy caused by?"
+    },
+    {
+      "context": "Leprosy is a contagious chronic bacterial disease caused by Mycobacterium leprae which is characterised by the chronic infection of the skin and other tissues.",
+      "question": "What type of disease is leprosy?"
+    },
+    {
+      "context": "Leprosy is a contagious chronic bacterial disease caused by Mycobacterium leprae which is characterised by the chronic infection of the skin and other tissues.",
+      "question": "What are the main symptoms of leprosy?"
+    },
+    {
+      "context": "Leprosy is a contagious chronic bacterial disease caused by Mycobacterium leprae which is characterised by the chronic infection of the skin and other tissues.",
+      "question": "How is leprosy transmitted between individuals?"
+    }
+  ]
+}

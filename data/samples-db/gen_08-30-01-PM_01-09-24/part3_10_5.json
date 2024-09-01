@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Organs which have common design but serve different functions in different animals are called homologous organs. For example; the forelimbs of all tetrapods are composed of humerus, radio-ulna, tarsals and metatarsals.",
+      "question": "What are homologous organs?"
+    },
+    {
+      "context": "Yet, the forelimbs of frogs are adapted to a jumping movement, those of birds are used for flying and those of humans are used for handling tools.",
+      "question": "How do forelimbs differ in function among species?"
+    },
+    {
+      "context": "This shows that frogs, birds and humans have evolved from a common ancestor.",
+      "question": "What does the similarity of forelimbs suggest about evolution?"
+    },
+    {
+      "context": "For example; the forelimbs of all tetrapods are composed of humerus, radio-ulna, tarsals and metatarsals.",
+      "question": "Which bones are common in tetrapod forelimbs?"
+    },
+    {
+      "context": "This shows that frogs, birds and humans have evolved from a common ancestor.",
+      "question": "What commonality do frogs, birds, and humans share?"
+    }
+  ]
+}

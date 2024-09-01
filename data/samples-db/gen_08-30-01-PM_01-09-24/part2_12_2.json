@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Manure is classified into two types according to the biological material used: COMPOST AND VERMI-COMPOST.",
+      "question": "What are the two types of manure?"
+    },
+    {
+      "context": "Composting: It is the process in which farm waste material (cow dung, domestic waste, sewage waste etc) is decomposed in pits.",
+      "question": "What materials are used in composting?"
+    },
+    {
+      "context": "Compost is the aerobically decomposed remnants of organic matter which is rich in nutrients.",
+      "question": "What is compost rich in?"
+    },
+    {
+      "context": "Vermicomposting: It is the process which involves use of earthworms to hasten the process of decomposition.",
+      "question": "What organisms are used in vermicomposting?"
+    },
+    {
+      "context": "Composting: It is the process in which farm waste material (cow dung, domestic waste, sewage waste etc) is decomposed in pits.",
+      "question": "Where is composting typically done?"
+    },
+    {
+      "context": "Vermicomposting: It is the process which involves use of earthworms to hasten the process of decomposition of plant and animal refuse.",
+      "question": "How does vermicomposting speed up decomposition?"
+    }
+  ]
+}

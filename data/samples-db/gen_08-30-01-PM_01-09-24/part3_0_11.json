@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The process by which green plants prepare food is called photosynthesis. During this process; the solar energy is converted into chemical energy and carbohydrates are formed.",
+      "question": "What is the main purpose of photosynthesis?"
+    },
+    {
+      "context": "Green leaves are the main sites of photosynthesis. During this process; the solar energy is converted into chemical energy and carbohydrates are formed.",
+      "question": "Where does photosynthesis primarily occur?"
+    },
+    {
+      "context": "The process by which green plants prepare food is called photosynthesis. Green leaves are the main sites of photosynthesis.",
+      "question": "What types of plants perform photosynthesis?"
+    },
+    {
+      "context": "During this process; the solar energy is converted into chemical energy and carbohydrates are formed. Green leaves are the main sites of photosynthesis.",
+      "question": "What is converted into chemical energy during photosynthesis?"
+    },
+    {
+      "context": "Photosynthesis is the process in which solar energy is converted into chemical energy and carbohydrates are formed.",
+      "question": "What energy type is transformed in photosynthesis?"
+    }
+  ]
+}

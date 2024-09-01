@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Chronic diseases include various conditions such as cardiovascular diseases, stroke, diabetes, and cancer, alongside other genetic and mental disorders.",
+      "question": "What are examples of chronic diseases?"
+    },
+    {
+      "context": "Among chronic diseases, hypertension is considered a cardiovascular disease along with others like heart disease and stroke.",
+      "question": "What type of disease is hypertension?"
+    },
+    {
+      "context": "Chronic respiratory diseases are categorized under chronic diseases, which also includes conditions like diabetes and cancer.",
+      "question": "What falls under chronic respiratory diseases?"
+    },
+    {
+      "context": "Cancer, diabetes, and cardiovascular diseases are prominent examples of chronic diseases affecting the population.",
+      "question": "Which chronic disease is commonly associated with cancer?"
+    },
+    {
+      "context": "Various chronic diseases also encompass disorders such as vision impairment, hearing impairment, and bone disorders.",
+      "question": "What types of disorders are included in chronic diseases?"
+    },
+    {
+      "context": "The term chronic diseases refers to long-lasting conditions like genetic disorders, mental disorders, and respiratory diseases.",
+      "question": "How long do chronic diseases typically last?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Mendel, an Austrian Augustinian monk observed variations in the characteristics of the garden pea plant (Pisum sativum) which he had cultivated in his monastery garden.",
+      "question": "What type of plant did Mendel study?"
+    },
+    {
+      "context": "Mendel was curious to find out the results of crossing of pea plants with the variation in traits.",
+      "question": "What did Mendel cross to study heredity?"
+    },
+    {
+      "context": "The visible contrasting characters that Mendel observed in the garden pea plants were given below: Seed shape - Round/Wrinkled seed colour - Yellow/Green.",
+      "question": "What was one trait Mendel observed in pea plants?"
+    },
+    {
+      "context": "Mendel worked out the first ever scientific experimental study on heredity, focusing on garden pea plants.",
+      "question": "What did Mendel study experimentally?"
+    },
+    {
+      "context": "Mendel observed variations such as pod shape which could be full or constricted in pea plants.",
+      "question": "What were the two pod shapes Mendel observed?"
+    },
+    {
+      "context": "The visible contrasting characters that Mendel observed were also related to flower position, being either axillary or terminal.",
+      "question": "What are the two flower positions Mendel found?"
+    },
+    {
+      "context": "Mendel cultivated garden pea plants to observe traits like stem height, which varied between tall and dwarf.",
+      "question": "What were the two stem heights Mendel noted?"
+    },
+    {
+      "context": "Mendel’s observations on traits like seed shape and flower colour laid the foundation for genetics.",
+      "question": "Which scientist laid the foundation for genetics?"
+    }
+  ]
+}

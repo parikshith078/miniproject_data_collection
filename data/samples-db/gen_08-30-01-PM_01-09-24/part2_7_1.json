@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The incubation period for tetanus ranges from 3 to 25 days. During this time, the bacterium releases a potent exotoxin, tetanospasmin, which enters the tissue and is transported by the blood to the central nervous system, leading to muscle tetanus.",
+      "question": "What is the incubation period for tetanus?"
+    },
+    {
+      "context": "Tetanus incubation lasts between 3 and 25 days, during which the bacterium releases tetanospasmin. This powerful exotoxin is absorbed into the bloodstream and reaches the central nervous system, causing muscle spasms.",
+      "question": "What does tetanospasmin do in the body?"
+    },
+    {
+      "context": "The incubation period for tetanus is between 3 and 25 days, where the bacteria secrete an exotoxin. This exotoxin enters the bloodstream and affects the central nervous system, leading to muscle contractions.",
+      "question": "How long can tetanus incubation last?"
+    },
+    {
+      "context": "During the incubation of 3 to 25 days in tetanus, the bacterium generates a strong exotoxin called tetanospasmin. This toxin is carried by blood to the central nervous system where it triggers muscle spasms.",
+      "question": "What is the main effect of the exotoxin active in tetanus?"
+    },
+    {
+      "context": "The incubation period associated with tetanus can be anywhere from 3 to 25 days, as the pathogenic bacterium releases tetanospasmin, which is carried by the blood into the central nervous system, causing convulsions in muscles.",
+      "question": "What is transported to the central nervous system during tetanus?"
+    }
+  ]
+}
