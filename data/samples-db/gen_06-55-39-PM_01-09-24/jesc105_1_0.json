@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Autotrophs meet their energy requirements and build their bodies with materials taken from the environment. Water is absorbed by the roots, and important nutrients like nitrogen, phosphorus, iron, and magnesium are taken from the soil. Nitrogen is used in protein synthesis and can be absorbed as inorganic nitrates or as organic compounds prepared by bacteria.",
+      "question": "What do autotrophs primarily absorb from soil?"
+    },
+    {
+      "context": "Each organism's nutrition differs based on their environment and the availability of food. For instance, mobile animals like deer require different strategies than stationary plants like grass for obtaining nutrients. Organisms may break down food outside their bodies, such as fungi, or take in and break down food internally, depending on their body design.",
+      "question": "How do mobile animals differ in nutrition strategies?"
+    },
+    {
+      "context": "Some organisms break down food outside their bodies and absorb it, like fungi such as bread moulds and mushrooms. Others ingest whole food and digest it internally, while some organisms, including cuscuta and ticks, obtain nutrition without killing their food sources, using a parasitic strategy.",
+      "question": "Which organisms utilize parasitic strategies for nutrition?"
+    },
+    {
+      "context": "Water for photosynthesis is absorbed from the soil by plant roots. In addition, nitrogen, phosphorus, iron, and magnesium are critical for plant body construction. Nitrogen is crucial for proteins and is obtained as inorganic nitrates or prepared by bacteria from atmospheric nitrogen.",
+      "question": "What role does nitrogen play in autotrophic organisms?"
+    },
+    {
+      "context": "Heterotrophic nutrition varies based on organism adaptation to their environment. The means of food acquisition depends on whether the food is stationary, like grasses, or mobile, like deer or lions. This adaptation leads to different nutritional strategies and mechanisms of food absorption.",
+      "question": "How does food source mobility affect organism nutrition?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Puberty also brings about various physical changes in the body. In girls, there is an increase in breast size and changes in body shape, while boys experience new facial hair growth. These changes are signs of sexual maturation.",
+      "question": "What physical change occurs in boys during puberty?"
+    },
+    {
+      "context": "The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.",
+      "question": "What is produced by the male reproductive system?"
+    },
+    {
+      "context": "In girls, there is an increase in breast size and changes in body shape, while boys experience new facial hair growth. These changes are signs of sexual maturation.",
+      "question": "What is a common sign of sexual maturation in girls?"
+    },
+    {
+      "context": "The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.",
+      "question": "Name a component of the male reproductive system."
+    },
+    {
+      "context": "Puberty also brings about various physical changes in the body. In girls, there is an increase in breast size and changes in body shape, while boys experience new facial hair growth.",
+      "question": "What changes occur in girls during puberty?"
+    }
+  ]
+}

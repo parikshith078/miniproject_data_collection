@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Living organisms are well-organised structures that require maintenance to prevent breakdown. They must keep repairing and maintaining their structures to remain alive. This maintenance occurs through molecular movements within these structures.",
+      "question": "Why must living organisms maintain their structures?"
+    },
+    {
+      "context": "The maintenance functions of living organisms must continue even when they are not actively doing anything. These functions are necessary to prevent damage and breakdown, requiring energy from external sources.",
+      "question": "When do maintenance processes occur in organisms?"
+    },
+    {
+      "context": "Energy is needed for maintenance processes in living organisms, and this energy is obtained from food, which is transferred from outside to inside the organism through a process called nutrition.",
+      "question": "How do living organisms obtain energy for maintenance?"
+    },
+    {
+      "context": "The organized nature of living structures can break down over time due to environmental effects, which necessitates the repair and maintenance of those structures through molecular movements.",
+      "question": "What can cause the breakdown of living structures?"
+    },
+    {
+      "context": "The processes that perform the maintenance job in living organisms are referred to as life processes, which are essential even when the organism is at rest or sleeping.",
+      "question": "What are the processes called that maintain life in organisms?"
+    },
+    {
+      "context": "All living creatures must consistently move molecules around to maintain their structures, highlighting the importance of molecular movements for the continuity of life.",
+      "question": "What is the role of molecular movements in living organisms?"
+    },
+    {
+      "context": "Nutrition is the process through which living organisms transfer energy from food, which is necessary for carrying out the maintenance processes that keep them alive.",
+      "question": "What is the process that provides energy to organisms?"
+    }
+  ]
+}

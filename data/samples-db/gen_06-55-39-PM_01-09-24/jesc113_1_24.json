@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Improvements in our lifestyle have resulted in greater amounts of waste material generation. Changes in attitude also have a role to play, with more and more things we use becoming disposable.",
+      "question": "How has lifestyle affected waste generation?"
+    },
+    {
+      "context": "Changes in packaging have resulted in much of our waste becoming non-biodegradable. What do you think will be the impact of these on our environment?",
+      "question": "What is the impact of non-biodegradable waste?"
+    },
+    {
+      "context": "Suggest ways of dealing with this waste. Improvements in our lifestyle have resulted in greater amounts of waste material generation.",
+      "question": "What are some waste management strategies?"
+    },
+    {
+      "context": "Changes in attitude also have a role to play, with more and more things we use becoming disposable.",
+      "question": "How do attitudes affect waste management?"
+    },
+    {
+      "context": "Improvements in our lifestyle have resulted in greater amounts of waste material generation. Changes in packaging have resulted in much of our waste becoming non-biodegradable.",
+      "question": "What changes have increased waste production?"
+    }
+  ]
+}

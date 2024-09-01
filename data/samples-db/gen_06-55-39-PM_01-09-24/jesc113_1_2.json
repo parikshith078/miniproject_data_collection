@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The use of chemicals like CFCs has endangered the ozone layer. Since the ozone layer protects against ultraviolet radiation from the Sun, this could damage the environment. Some regulations have been enacted to control these emissions and have shown promising results in recent years.",
+      "question": "What chemicals threaten the ozone layer?"
+    },
+    {
+      "context": "The use of chemicals like CFCs has endangered the ozone layer. Since the ozone layer protects against ultraviolet radiation from the Sun, this could damage the environment. Effective regulations have been put in place to mitigate these risks.",
+      "question": "How does the ozone layer protect the environment?"
+    },
+    {
+      "context": "Since the ozone layer protects against ultraviolet radiation from the Sun, this could damage the environment. Researchers are monitoring the size of the ozone hole to assess the effectiveness of regulations on CFC emissions.",
+      "question": "What role do regulations play in ozone layer protection?"
+    },
+    {
+      "context": "Some regulations have been enacted to control these emissions and have shown promising results in recent years. Studies are required to determine if there has been any change in the size of the ozone hole.",
+      "question": "Have regulations affected the ozone hole size?"
+    },
+    {
+      "context": "Since the ozone layer protects against ultraviolet radiation from the Sun, this could damage the environment. The recent monitoring has indicated some recovery in the ozone layer due to reduced CFC emissions.",
+      "question": "What is the impact of UV radiation on the environment?"
+    }
+  ]
+}

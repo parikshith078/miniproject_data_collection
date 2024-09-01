@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Since the sexual act always has the potential to lead to pregnancy, pregnancy will make major demands on the body and the mind of the woman.",
+      "question": "What demands does pregnancy place on women?"
+    },
+    {
+      "context": "Many ways have been devised to avoid pregnancy.",
+      "question": "What are some methods to avoid pregnancy?"
+    },
+    {
+      "context": "Contraceptive methods can be classified into several categories.",
+      "question": "How are contraceptive methods classified?"
+    },
+    {
+      "context": "One category is the creation of a mechanical barrier so that sperm does not reach the egg.",
+      "question": "What is one category of contraceptive methods?"
+    },
+    {
+      "context": "Condoms on the penis or similar coverings worn in the vagina can serve this purpose.",
+      "question": "What is an example of a mechanical barrier contraceptive?"
+    },
+    {
+      "context": "Another category of contraceptives acts by changing the hormonal balance of the body so that eggs are not released.",
+      "question": "How do hormonal contraceptives prevent pregnancy?"
+    },
+    {
+      "context": "These drugs commonly need to be taken orally as pills.",
+      "question": "How are hormonal contraceptives usually administered?"
+    },
+    {
+      "context": "However, since they change hormonal balances, they can cause side effects too.",
+      "question": "What is a potential downside of hormonal contraceptives?"
+    }
+  ]
+}

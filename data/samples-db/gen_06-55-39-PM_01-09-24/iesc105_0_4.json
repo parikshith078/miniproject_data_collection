@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Some cells like Amoeba have changing shapes. In some cases, the cell shape could be more or less fixed and peculiar for a particular type of cell; for example, nerve cells have a typical shape.",
+      "question": "What is a characteristic of nerve cells?"
+    },
+    {
+      "context": "We know that there is a division of labour in multicellular organisms such as human beings. This means that different parts of the human body perform different functions.",
+      "question": "What does division of labour refer to?"
+    },
+    {
+      "context": "Each living cell has the capacity to perform certain basic functions that are characteristic of all living forms. How does a living cell perform these basic functions?",
+      "question": "What basic functions do living cells perform?"
+    },
+    {
+      "context": "In fact, each such cell has got certain specific components within it known as cell organelles.",
+      "question": "What are the specific components of a cell called?"
+    },
+    {
+      "context": "If we study a cell under a microscope, we would come across three features in almost every cell; plasma membrane, nucleus and cytoplasm.",
+      "question": "What three features are found in almost every cell?"
+    },
+    {
+      "context": "All activities inside the cell and interactions of the cell with its environment are possible due to these features.",
+      "question": "What enables cell activities and interactions?"
+    }
+  ]
+}

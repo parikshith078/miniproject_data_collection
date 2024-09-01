@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "This is called animal husbandry. Many people living in the coastal areas consume fish as a major part of their diet.",
+      "question": "What is the term for rearing animals for food?"
+    },
+    {
+      "context": "Food is also obtained from animals for which animals are reared. This is called animal husbandry.",
+      "question": "What does animal husbandry focus on obtaining?"
+    },
+    {
+      "context": "Many people living in the coastal areas consume fish as a major part of their diet.",
+      "question": "What do coastal people commonly eat from animals?"
+    },
+    {
+      "context": "This is called animal husbandry. Many people living in the coastal areas consume fish as a major part of their diet.",
+      "question": "Who primarily consumes fish according to the text?"
+    }
+  ]
+}

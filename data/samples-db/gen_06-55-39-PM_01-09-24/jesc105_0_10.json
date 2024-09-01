@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Some organisms use simple food material obtained from inorganic sources in the form of carbon dioxide and water. These organisms, the autotrophs, include green plants and some bacteria. Other organisms utilise complex substances.",
+      "question": "What are autotrophs and examples?"
+    },
+    {
+      "context": "Photosynthesis fulfills the carbon and energy requirements of the autotrophic organism. It is the process by which autotrophs take in substances from the outside and convert them into stored forms of energy.",
+      "question": "What is the role of photosynthesis in autotrophs?"
+    },
+    {
+      "context": "Autotrophs take in carbon dioxide and water, which are converted into carbohydrates in the presence of sunlight and chlorophyll. Carbohydrates are utilised for providing energy to the plant.",
+      "question": "What do autotrophs convert into carbohydrates?"
+    },
+    {
+      "context": "Other organisms utilise complex substances. These complex substances have to be broken down into simpler ones before they can be used for the upkeep and growth of the body.",
+      "question": "How do heterotrophs obtain their nutrients?"
+    },
+    {
+      "context": "To achieve complex substance breakdown, organisms use bio-catalysts called enzymes. Enzymes are essential for the metabolic processes in living organisms, facilitating the needed reactions.",
+      "question": "What role do enzymes play in nutrition?"
+    }
+  ]
+}

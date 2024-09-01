@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Some common diseases are caused by microorganisms, including tuberculosis, measles, and chicken pox. These diseases can be transmitted through the air or contact with infected individuals.",
+      "question": "What are some diseases caused by microorganisms?"
+    },
+    {
+      "context": "Preventive measures for diseases like tuberculosis and measles often include vaccination, hand washing, and avoiding contact with sick individuals to stop transmission.",
+      "question": "What are preventive measures for tuberculosis?"
+    },
+    {
+      "context": "Diseases can be transmitted through various modes, such as air, water, or food. For instance, cholera bacteria are spread through contaminated water or food.",
+      "question": "How is cholera transmitted?"
+    },
+    {
+      "context": "The table lists malaria, caused by protozoa and mainly transmitted through mosquito bites, emphasizing the need for mosquito control in prevention efforts.",
+      "question": "What is the mode of transmission for malaria?"
+    },
+    {
+      "context": "Viruses such as hepatitis A and polio are primarily spread through water. Understanding these transmission modes helps develop effective preventive strategies.",
+      "question": "How is hepatitis A transmitted?"
+    }
+  ]
+}

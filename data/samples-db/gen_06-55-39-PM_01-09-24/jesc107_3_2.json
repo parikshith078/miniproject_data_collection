@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. It is essential for processes like menstruation, fertilization, and pregnancy.",
+      "question": "What are the main parts of the female reproductive system?"
+    },
+    {
+      "context": "Sexual reproduction in human beings involves the introduction of sperm in the vagina of the female. Fertilisation occurs in the fallopian tube, where a sperm meets an egg, leading to the development of an embryo.",
+      "question": "Where does fertilisation occur in human reproduction?"
+    },
+    {
+      "context": "The female reproductive system's organs work together to facilitate reproduction. This process is critical for the continuation of species through sexual reproduction.",
+      "question": "Why is the female reproductive system important?"
+    },
+    {
+      "context": "The female reproductive system includes vital elements such as ovaries, which produce eggs, and the uterus, which supports a developing fetus.",
+      "question": "What is the role of the ovaries in reproduction?"
+    },
+    {
+      "context": "In human sexual reproduction, sperm must travel to the female reproductive tract, specifically reaching the vagina to begin the fertilization process.",
+      "question": "What must happen for fertilization to take place?"
+    }
+  ]
+}

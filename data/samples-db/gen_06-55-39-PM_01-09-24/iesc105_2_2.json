@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mitochondria are known as the powerhouses of the cell. Mitochondria have two membrane coverings. The outer membrane is porous while the inner membrane is deeply folded. These folds increase surface area for ATP- generating chemical reactions.",
+      "question": "What increases surface area in mitochondria?"
+    },
+    {
+      "context": "ATP is known as the energy currency of the cell. The body uses energy stored in ATP for making new chemical compounds and for mechanical work. Mitochondria are strange organelles in the sense that they have their own DNA and ribosomes.",
+      "question": "What is ATP's role in the cell?"
+    },
+    {
+      "context": "Plastids are present only in plant cells. There are two types of plastids – chromoplasts (coloured plastids) and leucoplasts (white or colourless plastids). Chromoplasts containing the pigment chlorophyll are known as chloroplasts.",
+      "question": "What types of plastids exist in plant cells?"
+    },
+    {
+      "context": "Chloroplasts are important for photosynthesis in plants. Chloroplasts also contain various yellow or orange pigments in addition to chlorophyll. Leucoplasts are primarily organelles in which materials such as starch, oils and protein granules are stored.",
+      "question": "What is the role of chloroplasts in plants?"
+    },
+    {
+      "context": "Like the mitochondria, plastids also have their own DNA and ribosomes. The internal organisation of the chloroplast consists of numerous membrane layers embedded in a material called the stroma.",
+      "question": "What similar feature do plastids share with mitochondria?"
+    }
+  ]
+}

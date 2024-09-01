@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "The epidermis is usually made of a single layer of cells. In some plants living in very dry habitats, the epidermis may be thicker since protection against water loss is critical.",
+      "question": "What is the structure of the epidermis?"
+    },
+    {
+      "context": "Epidermal cells on the aerial parts of the plant often secrete a waxy, water-resistant layer on their outer surface. This aids in protection against loss of water, mechanical injury, and invasion by parasitic fungi.",
+      "question": "What do epidermal cells secrete for protection?"
+    },
+    {
+      "context": "The epidermis also has small pores called stomata, which are necessary for exchanging gases with the atmosphere.",
+      "question": "What are the small pores in the epidermis called?"
+    },
+    {
+      "context": "Transpiration (loss of water in the form of water vapor) also takes place through stomata. Epidermal cells of the roots, whose function is water absorption, commonly bear long hair-like parts that greatly increase the total absorptive surface area.",
+      "question": "What process occurs through the stomata?"
+    },
+    {
+      "context": "In some plants like desert plants, epidermis has a thick waxy coating of cutin (a chemical substance with water-proof quality) on its outer surface.",
+      "question": "What is cutin's role in desert plants?"
+    },
+    {
+      "context": "Xylem consists of tracheids, vessels, xylem parenchyma, and xylem fibers. Tracheids and vessels have thick walls, and many are dead cells when mature.",
+      "question": "What are the main components of xylem?"
+    },
+    {
+      "context": "Tracheids and vessels are tubular structures. This allows them to transport water and minerals vertically. The parenchyma stores food.",
+      "question": "What is the function of tracheids and vessels?"
+    },
+    {
+      "context": "Phloem is made up of five types of cells: sieve cells, sieve tubes, companion cells, phloem fibers, and the phloem parenchyma.",
+      "question": "What types of cells make up the phloem?"
+    },
+    {
+      "context": "Sieve tubes are tubular and play an essential role in the transport of nutrients throughout the plant.",
+      "question": "What is the function of sieve tubes?"
+    },
+    {
+      "context": "Xylem fibers are mainly supportive in function. Phloem is made up of five types of cells: sieve cells, sieve tubes, companion cells, phloem fibers, and the phloem parenchyma.",
+      "question": "What is the main function of xylem fibers?"
+    }
+  ]
+}

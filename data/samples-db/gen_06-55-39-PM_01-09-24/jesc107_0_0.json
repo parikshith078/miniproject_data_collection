@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Reproduction is not necessary to maintain the life of an individual organism, unlike essential life processes such as nutrition, respiration, or excretion. However, if an individual organism is going to create more individuals, a lot of its energy will be spent in the process. So why should an individual organism waste energy on a process it does not need to stay alive?",
+      "question": "Why do organisms engage in reproduction?"
+    },
+    {
+      "context": "Organisms look similar because their body designs are similar. If body designs are to be similar, the blueprints for these designs should be similar. Thus, reproduction at its most basic level will involve making copies of the blueprints of body design.",
+      "question": "What is involved in the reproduction process?"
+    },
+    {
+      "context": "Cells use chemical reactions to build copies of their DNA. This creates two copies of the DNA in a reproducing cell, and they will need to be separated from each other. However, keeping one copy of DNA in the original cell and simply pushing the other one out would not work because the copy pushed out would not have any organised cellular structure.",
+      "question": "How do cells separate copied DNA during reproduction?"
+    },
+    {
+      "context": "The answer to this question will depend on how accurately the copying reactions involved occur. No biochemical reaction is absolutely reliable. Therefore, it is only to be expected that the process of copying the DNA will have some variations each time.",
+      "question": "What factors influence DNA copying accuracy?"
+    },
+    {
+      "context": "The DNA copies generated will be similar, but may not be identical to the original. Some variations might be so drastic that the new DNA copy cannot work with the cellular apparatus it inherits. Such a newborn cell will simply die.",
+      "question": "What can happen to drastically altered DNA copies?"
+    },
+    {
+      "context": "There could still be many other variations in the DNA copies that would not lead to such a drastic outcome. Thus, the surviving cells are similar to but subtly different from each other. This inbuilt tendency for variation during reproduction is the basis for evolution.",
+      "question": "How do variations in DNA contribute to evolution?"
+    }
+  ]
+}

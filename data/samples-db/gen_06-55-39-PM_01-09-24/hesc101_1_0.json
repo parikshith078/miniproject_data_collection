@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Farmers in northern India used to grow legumes as fodder in one season and wheat in the next season. This helped in the replenishment of the soil with nitrogen. Farmers are being encouraged to adopt this practice.",
+      "question": "What is the benefit of growing legumes?"
+    },
+    {
+      "context": "This is because: 1. it enhances the water holding capacity of the soil. 2. it makes the soil porous due to which exchange of gases becomes easy.",
+      "question": "How does organic manure affect soil porosity?"
+    },
+    {
+      "context": "These are present in the nodules of roots of leguminous plants. They fix atmospheric nitrogen.",
+      "question": "Where are Rhizobium bacteria located?"
+    },
+    {
+      "context": "This is because: 3. it increases the number of friendly microbes. 4. it improves the texture of the soil.",
+      "question": "What does organic manure do to friendly microbes?"
+    },
+    {
+      "context": "Farmers are being encouraged to adopt this practice of crop rotation for sustainable farming.",
+      "question": "What farming practice is suggested for sustainability?"
+    }
+  ]
+}

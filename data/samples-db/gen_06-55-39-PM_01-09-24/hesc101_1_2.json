@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The supply of water to crops at regular intervals is called irrigation. The time and frequency of irrigation varies from crop to crop, soil to soil and season to season. In summer, the frequency of watering is higher. Why is it so? Could it be due to the increased rate of evaporation of water from the soil and the leaves?",
+      "question": "What factors affect irrigation frequency?"
+    },
+    {
+      "context": "Sources of irrigation: The sources of water for irrigation are— wells, tubewells, ponds, lakes, rivers, dams and canals. Traditional Methods of Irrigation The water available in wells, lakes and canals is lifted up by different methods in different regions, for taking it to the fields.",
+      "question": "What are the sources of irrigation water?"
+    },
+    {
+      "context": "Traditional Methods of Irrigation The water available in wells, lakes and canals is lifted up by different methods in different regions, for taking it to the fields. Cattle or human labour is used in these methods. So these methods are cheaper, but less efficient.",
+      "question": "How are traditional irrigation methods operated?"
+    },
+    {
+      "context": "Pumps are commonly used for lifting water. Diesel, biogas, electricity and solar energy is used to run these pumps.",
+      "question": "What energy sources power irrigation pumps?"
+    },
+    {
+      "context": "The various traditional ways are: (i) moat (pulley-system) (ii) chain pump (iii) dheerki, and (iv) rahat (Lever system). Pumps are commonly used for lifting water.",
+      "question": "List some traditional irrigation methods."
+    }
+  ]
+}

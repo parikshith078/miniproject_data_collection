@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Modern methods of irrigation help us to use water economically. The main methods used are as follows: (i) Sprinkler System: This system is more useful on the uneven land where sufficient water is not available. The perpendicular pipes, having rotating nozzles on top, are joined to the main pipeline at regular intervals.",
+      "question": "What is the purpose of the sprinkler system?"
+    },
+    {
+      "context": "In this system, the water falls drop by drop directly near the roots. So it is called drip system. It is the best technique for watering fruit plants, gardens and trees. Water is not wasted at all.",
+      "question": "How does the drip system conserve water?"
+    },
+    {
+      "context": "The removal of weeds is called weeding. Weeding is necessary since weeds compete with the crop plants for water, nutrients, space and light. Thus, they affect the growth of the crop.",
+      "question": "Why is weeding important for crop growth?"
+    },
+    {
+      "context": "Some weeds interfere even in harvesting and may be poisonous for animals and human beings. Farmers adopt many ways to remove weeds and control their growth.",
+      "question": "What problems can weeds cause for farmers?"
+    },
+    {
+      "context": "Tilling before sowing of crops helps in uprooting and killing of weeds, which may then dry up and get mixed with the soil.",
+      "question": "How does tilling help manage weed growth?"
+    }
+  ]
+}

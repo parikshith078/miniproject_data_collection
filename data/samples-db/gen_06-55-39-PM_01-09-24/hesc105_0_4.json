@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Deforestation increases the temperature and pollution levels on Earth, leading to higher carbon dioxide levels in the atmosphere. It also lowers groundwater levels and disturbs the balance in nature.",
+      "question": "How does deforestation affect groundwater levels?"
+    },
+    {
+      "context": "Fewer trees mean less carbon dioxide is used up, resulting in its increased amount in the atmosphere. This contributes to global warming and disrupts the water cycle, leading to reduced rainfall.",
+      "question": "What role do trees play in the carbon dioxide cycle?"
+    },
+    {
+      "context": "The increase in temperature on Earth due to deforestation disturbs the water cycle, potentially causing droughts. Deforestation is also a major cause of changes in soil properties.",
+      "question": "What relationship exists between deforestation and droughts?"
+    },
+    {
+      "context": "Deforestation leads to more soil erosion as fewer trees result in the removal of protective vegetation. This exposes lower soil layers, which have less humus and fertility, possibly leading to desertification.",
+      "question": "How does deforestation contribute to soil erosion?"
+    },
+    {
+      "context": "The removal of trees decreases the water holding capacity of the soil and reduces the infiltration rate of water, causing more frequent floods as water cannot move effectively into the ground.",
+      "question": "What is the impact of deforestation on soil water capacity?"
+    }
+  ]
+}

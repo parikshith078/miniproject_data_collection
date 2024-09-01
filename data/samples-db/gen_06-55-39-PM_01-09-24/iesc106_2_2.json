@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Simple tissues are made up of a single type of cell, whereas complex tissues contain multiple types of cells. Simple tissues serve specific functions like storage, photosynthesis, or support, while complex tissues work together to perform transport or defense in plants.",
+      "question": "What distinguishes simple tissues from complex tissues?"
+    },
+    {
+      "context": "Parenchyma has thin and flexible cell walls, collenchyma has unevenly thickened primary cell walls, and sclerenchyma has thick, lignified secondary cell walls. These differences contribute to their respective functions in the plant.",
+      "question": "How do parenchyma, collenchyma, and sclerenchyma differ?"
+    }
+  ]
+}

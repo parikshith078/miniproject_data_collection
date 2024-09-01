@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The excretory system of human beings includes a pair of kidneys, a pair of ureters, a urinary bladder, and a urethra. Kidneys are located in the abdomen, one on either side of the backbone. Urine produced in the kidneys passes through the ureters into the urinary bladder where it is stored until released through the urethra.",
+      "question": "What organs make up the excretory system?"
+    },
+    {
+      "context": "An artificial kidney is a device to remove nitrogenous waste products from the blood through dialysis. This device contains a number of tubes with a semi-permeable lining suspended in a tank filled with dialysing fluid, which removes waste products from the blood via diffusion, allowing for purification before the blood is pumped back into the body.",
+      "question": "What is the function of an artificial kidney?"
+    },
+    {
+      "context": "Each kidney has large numbers of filtration units called nephrons packed close together. The purpose of making urine is to filter out waste products from the blood such as nitrogenous waste.",
+      "question": "What are nephrons responsible for?"
+    },
+    {
+      "context": "Urine produced in the kidneys passes through the ureters into the urinary bladder where it is stored until released through the urethra. The purpose of making urine is to filter out waste products from the blood such as nitrogenous waste.",
+      "question": "What is stored in the urinary bladder?"
+    },
+    {
+      "context": "An artificial kidney is a device to remove nitrogenous waste products from the blood through dialysis. This device contains a number of tubes with a semi-permeable lining suspended in a tank filled with dialysing fluid.",
+      "question": "What does the dialysing fluid do?"
+    }
+  ]
+}

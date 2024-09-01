@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Amoeba is a single-celled organism. It begins the process of reproduction by the division of its nucleus into two nuclei. This is followed by division of its body into two, each part receiving a nucleus. Finally, two amoebae are produced from one parent amoeba. This type of reproduction in which an animal reproduces by dividing into two individuals is called binary fission.",
+      "question": "What is binary fission in Amoeba?"
+    },
+    {
+      "context": "Cloning is the production of an exact copy of a cell, any other living part, or a complete organism. Cloning of an animal was successfully performed for the first time by Ian Wilmut and his colleagues at the Roslin Institute in Edinburgh, Scotland. They successfully cloned a sheep named Dolly.",
+      "question": "Who was the first animal cloned?"
+    },
+    {
+      "context": "Dolly was born on 5th July 1996 and was the first mammal to be cloned. During the process of cloning Dolly, a cell was collected from the mammary gland of a female Finn Dorsett sheep. Simultaneously, an egg was obtained from a Scottish blackface ewe.",
+      "question": "What was Dolly the sheep cloned from?"
+    },
+    {
+      "context": "The nucleus was removed from the egg. Then, the nucleus of the mammary gland cell from the Finn Dorsett sheep was inserted into the egg of the Scottish blackface ewe whose nucleus had been removed.",
+      "question": "What was removed from the egg in the cloning process?"
+    },
+    {
+      "context": "Though Dolly was given birth by the Scottish blackface ewe, it was found to be absolutely identical to the Finn Dorsett sheep from which the nucleus was taken.",
+      "question": "What did Dolly resemble after cloning?"
+    },
+    {
+      "context": "Since Dolly, several attempts have been made to produce cloned mammals. However, many die before birth or die soon after birth. The cloned animals are many-a-times found to be born with severe abnormalities.",
+      "question": "What issue arises with cloned animals after birth?"
+    }
+  ]
+}

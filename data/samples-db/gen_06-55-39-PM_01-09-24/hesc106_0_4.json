@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The female reproductive organs are a pair of ovaries, oviducts (fallopian tubes) and the uterus. The ovary produces female gametes called ova (eggs). In human beings, a single matured egg is released into the oviduct by one of the ovaries every month. Uterus is the part where development of the baby takes place.",
+      "question": "What produces female gametes in females?"
+    },
+    {
+      "context": "When sperms come in contact with an egg, one of the sperms may fuse with the egg. Such fusion of the egg and the sperm is called fertilisation. During fertilisation, the nuclei of the sperm and the egg fuse to form a single nucleus.",
+      "question": "What is the term for sperm and egg fusion?"
+    },
+    {
+      "context": "This results in the formation of a fertilised egg or zygote. Fertilisation which takes place inside the female body is called internal fertilisation.",
+      "question": "What do we call a fertilised egg?"
+    },
+    {
+      "context": "The uterus is the part where development of the baby takes place. Like the sperm, an egg is also a single cell.",
+      "question": "What is the role of the uterus in reproduction?"
+    },
+    {
+      "context": "In human beings, a single matured egg is released into the oviduct by one of the ovaries every month. Fertilisation takes place inside the female body.",
+      "question": "How often is an egg released from the ovaries?"
+    },
+    {
+      "context": "The first step in the process of reproduction is the fusion of a sperm and an ovum. Fertilisation takes place inside the female body.",
+      "question": "Where does fertilisation occur in human beings?"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "In multi-cellular organisms there are millions of cells. Most of these cells are specialised to carry out specific functions. Each specialised function is taken up by a different group of cells. Since these cells carry out only a particular function, they do it very efficiently.",
+      "question": "What is the reason for cell specialization?"
+    },
+    {
+      "context": "This cluster of cells, called a tissue, is arranged and designed so as to give the highest possible efficiency of function. Blood, phloem, and muscle are all examples of tissues.",
+      "question": "What is a tissue and give examples?"
+    },
+    {
+      "context": "Plants are stationary or fixed – they don’t move. Since they have to be upright, they have a large quantity of supportive tissue. The supportive tissue generally has dead cells.",
+      "question": "Why do plants have supportive tissues?"
+    },
+    {
+      "context": "Animals on the other hand move around in search of food, mates, and shelter. They consume more energy as compared to plants. Most of the tissues they contain are living.",
+      "question": "How do animal tissues differ from plant tissues?"
+    },
+    {
+      "context": "The structural organisation of organs and organ systems is far more specialised and localised in complex animals than even in very complex plants.",
+      "question": "How is the organ structure in animals different?"
+    },
+    {
+      "context": "Based on the dividing capacity of the tissues, various plant tissues can be classified as growing or meristematic tissue and permanent tissue.",
+      "question": "What are the types of plant tissues based on growth?"
+    },
+    {
+      "context": "There are some tissues in plants that divide throughout their life. These tissues are localised in certain regions.",
+      "question": "What are tissues that divide throughout life called?"
+    },
+    {
+      "context": "The growth in plants is limited to certain regions, while this is not so in animals. There is no such demarcation of dividing and non-dividing regions in animals.",
+      "question": "How does growth in plants differ from animals?"
+    },
+    {
+      "context": "This fundamental difference reflects the different modes of life pursued by these two major groups of organisms, particularly in their different feeding methods.",
+      "question": "What do structural differences reflect in plants and animals?"
+    },
+    {
+      "context": "Thus, multi-cellular organisms show division of labour. Cells specialising in one function are often grouped together in the body.",
+      "question": "What does division of labor mean in multicellular organisms?"
+    }
+  ]
+}

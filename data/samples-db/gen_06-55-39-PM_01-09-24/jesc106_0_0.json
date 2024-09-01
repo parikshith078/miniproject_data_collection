@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "In animals, such control and coordination are provided by nervous and muscular tissues, which we have studied in Class IX. Touching a hot object is an urgent and dangerous situation for us. We need to detect it, and respond to it. How do we detect that we are touching a hot object?",
+      "question": "What helps us detect a hot object?"
+    },
+    {
+      "context": "This information, acquired at the end of the dendritic tip of a nerve cell sets off a chemical reaction that creates an electrical impulse. This impulse travels from the dendrite to the cell body, and then along the axon to its end.",
+      "question": "What triggers the electrical impulse in nerve cells?"
+    },
+    {
+      "context": "At the end of the axon, the electrical impulse sets off the release of some chemicals. These chemicals cross the gap, or synapse, and start a similar electrical impulse in a dendrite of the next neuron.",
+      "question": "What happens at the synapse during impulse transmission?"
+    },
+    {
+      "context": "It is thus no surprise that nervous tissue is made up of an organised network of nerve cells or neurons, and is specialised for conducting information via electrical impulses from one part of the body to another.",
+      "question": "What is the primary function of nervous tissue?"
+    },
+    {
+      "context": "Put some sugar in your mouth. How does it taste? Block your nose by pressing it between your thumb and index finger. Now eat sugar again. Is there any difference in its taste?",
+      "question": "How does blocking your nose affect taste?"
+    },
+    {
+      "context": "Do you come across a similar situation when you have a cold?",
+      "question": "How does a cold affect your sense of taste?"
+    }
+  ]
+}

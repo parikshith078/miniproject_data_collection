@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "The nucleus has a double layered covering called nuclear membrane. The nuclear membrane has pores which allow the transfer of material from inside the nucleus to its outside, that is, to the cytoplasm. The nucleus contains chromosomes, which are visible as rod-shaped structures only when the cell is about to divide. Chromosomes contain information for inheritance of characters from parents to next generation in the form of DNA molecules.",
+      "question": "What is the role of the nuclear membrane?"
+    },
+    {
+      "context": "In some organisms like bacteria, the nuclear region of the cell may be poorly defined due to the absence of a nuclear membrane. Such an undefined nuclear region containing only nucleic acids is called a nucleoid. Such organisms, whose cells lack a nuclear membrane, are called prokaryotes.",
+      "question": "What structure is found in prokaryotic cells?"
+    },
+    {
+      "context": "The cytoplasm is the fluid content inside the plasma membrane. It also contains many specialised cell organelles. Each of these organelles performs a specific function for the cell. Cell organelles are enclosed by membranes.",
+      "question": "What does the cytoplasm contain?"
+    },
+    {
+      "context": "Prokaryotic cells lack a defined nuclear region, the membrane-bound cell organelles are also absent. On the other hand, the eukaryotic cells have nuclear membrane as well as membrane-enclosed organelles.",
+      "question": "What is absent in prokaryotic cells?"
+    },
+    {
+      "context": "Whenever the cell is about to divide, the chromatin material gets organised into chromosomes. The nucleus plays a central role in cellular reproduction, the process by which a single cell divides and forms two new cells.",
+      "question": "What does the nucleus regulate during cell division?"
+    },
+    {
+      "context": "We had put iodine solution on the peel. Why? What would we see if we tried observing the peel without putting the iodine solution? Try it and see what the difference is. Further, when we put iodine solution on the peel, did each cell get evenly coloured?",
+      "question": "Why is iodine solution important in observing cells?"
+    },
+    {
+      "context": "In a cell which is not dividing, this DNA is present as part of chromatin material. Chromatin material is visible as entangled mass of thread like structures.",
+      "question": "What form does DNA take when the cell isn't dividing?"
+    },
+    {
+      "context": "Functional segments of DNA are called genes. DNA molecules contain the information necessary for constructing and organising cells.",
+      "question": "What are segments of DNA known as?"
+    },
+    {
+      "context": "Organisms with cells having a nuclear membrane are called eukaryotes. Prokaryotic cells also lack most of the other cytoplasmic organelles present in eukaryotic cells.",
+      "question": "What are organisms with nuclear membranes called?"
+    },
+    {
+      "context": "The chlorophyll in photosynthetic prokaryotic bacteria is associated with membranous vesicles but not with plastids as in eukaryotic cells.",
+      "question": "Where is chlorophyll found in prokaryotic bacteria?"
+    }
+  ]
+}

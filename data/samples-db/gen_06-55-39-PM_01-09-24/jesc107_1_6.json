@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "The reproductive parts of angiosperms are located in the flower. You have already studied the different parts of a flower – sepals, petals, stamens, and pistil. Stamens and pistil are the reproductive parts of a flower which contain the germ-cells.",
+      "question": "What parts of the flower are involved in reproduction?"
+    },
+    {
+      "context": "The swollen bottom part is the ovary, middle elongated part is the style, and the terminal part which may be sticky is the stigma. The ovary contains ovules and each ovule has an egg cell.",
+      "question": "What are the three main parts of the female flower structure?"
+    },
+    {
+      "context": "The male germ-cell produced by pollen grain fuses with the female gamete present in the ovule. This fusion of the germ-cells or fertilisation gives us the zygote which is capable of growing into a new plant.",
+      "question": "What does fertilization in flowering plants produce?"
+    },
+    {
+      "context": "The male germ-cell produced by pollen grain fuses with the female gamete present in the ovule. This fusion of the germ-cells or fertilisation gives us the zygote which is capable of growing into a new plant.",
+      "question": "What role do pollen grains play in plant fertilization?"
+    },
+    {
+      "context": "You have already studied the different parts of a flower – sepals, petals, stamens, and pistil. Stamens and pistil are the reproductive parts of a flower which contain the germ-cells.",
+      "question": "Which parts of the flower contain germ-cells?"
+    },
+    {
+      "context": "The swollen bottom part is the ovary, middle elongated part is the style, and the terminal part which may be sticky is the stigma. The ovary contains ovules and each ovule has an egg cell.",
+      "question": "Which part of the flower contains the ovules?"
+    },
+    {
+      "context": "The ovary contains ovules and each ovule has an egg cell. The male germ-cell produced by pollen grain fuses with the female gamete present in the ovule.",
+      "question": "What happens to the ovules during fertilization?"
+    }
+  ]
+}

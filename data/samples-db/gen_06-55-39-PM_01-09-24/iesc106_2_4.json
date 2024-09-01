@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Parenchyma tissue is found in several regions of plants, including the leaves, stems, roots, and fruits. This tissue plays a vital role in the storage of substances and also participates in photosynthesis in some green parts of the plant.",
+      "question": "Where is parenchyma tissue found?"
+    },
+    {
+      "context": "The epidermis serves as a protective outer layer for plants. It helps to reduce water loss, protect against pathogens, and provides a barrier to harmful environmental factors. The epidermis often contains specialized cells that assist with gas exchange and secretion.",
+      "question": "What does the epidermis do for plants?"
+    }
+  ]
+}

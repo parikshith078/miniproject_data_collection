@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cattle husbandry is done for two purposes—milk and draught labor for agricultural work such as tilling, irrigation, and carting. Indian cattle belong to two different species, Bos indicus (cows) and Bos bubalis (buffaloes).",
+      "question": "What are the two main purposes of cattle husbandry?"
+    },
+    {
+      "context": "Milk-producing females are called milch animals (dairy animals), while the ones used for farm labor are called draught animals. Milk production can be increased by increasing the lactation period.",
+      "question": "What are milch animals used for?"
+    },
+    {
+      "context": "Exotic or foreign breeds (for example, Jersey, Brown Swiss) are selected for long lactation periods, while local breeds (for example, Red Sindhi, Sahiwal) show excellent resistance to diseases.",
+      "question": "Which breeds are selected for long lactation periods?"
+    },
+    {
+      "context": "The two can be cross-bred to get animals with both the desired qualities. Cattle husbandry is done for two purposes—milk and draught labor for agricultural work.",
+      "question": "What is the benefit of cross-breeding cattle?"
+    },
+    {
+      "context": "Indian cattle belong to two different species, Bos indicus (cows) and Bos bubalis (buffaloes). Milk production can be increased by increasing the lactation period.",
+      "question": "What are the two species of Indian cattle?"
+    }
+  ]
+}

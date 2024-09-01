@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Microorganisms are used for the large-scale production of alcohol, wine, and acetic acid (vinegar). Yeast is used for commercial production of alcohol and wine. For this purpose, yeast is grown on natural sugars present in grains like barley, wheat, rice, crushed fruit juices, etc.",
+      "question": "What microorganism is used for wine production?"
+    },
+    {
+      "context": "These medicines kill or stop the growth of disease-causing microorganisms. Such medicines are called antibiotics. These days a number of antibiotics are being produced from bacteria and fungi.",
+      "question": "What do antibiotics do to microorganisms?"
+    },
+    {
+      "context": "Microorganisms are used for the large-scale production of alcohol, wine, and acetic acid (vinegar). Yeast is used for commercial production of alcohol and wine.",
+      "question": "What is produced using yeast in industry?"
+    },
+    {
+      "context": "It is important to remember that antibiotics should be taken only on the advice of a qualified doctor. Antibiotics, however, are not effective against cold and flu as these are caused by viruses.",
+      "question": "When should antibiotics be taken?"
+    },
+    {
+      "context": "The source of these medicines is microorganisms. These medicines kill or stop the growth of disease-causing microorganisms. Such medicines are called antibiotics.",
+      "question": "What are antibiotics derived from?"
+    }
+  ]
+}

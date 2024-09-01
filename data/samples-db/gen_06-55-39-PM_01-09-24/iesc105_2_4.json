@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Vacuoles are storage sacs for solid or liquid contents. Vacuoles are small sized in animal cells while plant cells have very large vacuoles. The central vacuole of some plant cells may occupy 50-90% of the cell volume.",
+      "question": "What is the function of vacuoles in cells?"
+    },
+    {
+      "context": "In plant cells, vacuoles are full of cell sap and provide turgidity and rigidity to the cell. Many substances of importance in the life of the plant cell are stored in vacuoles.",
+      "question": "What substances do plant vacuoles store?"
+    },
+    {
+      "context": "In single-celled organisms like Amoeba, the food vacuole contains the food items that the Amoeba has consumed. In some unicellular organisms, specialised vacuoles also play important roles in expelling excess water and some wastes from the cell.",
+      "question": "What role do vacuoles play in unicellular organisms?"
+    },
+    {
+      "context": "The process by which new cells are made is called cell division. There are two main types of cell division: mitosis and meiosis.",
+      "question": "What are the two main types of cell division?"
+    },
+    {
+      "context": "In this process, each cell called mother cell divides to form two identical daughter cells. The daughter cells have the same number of chromosomes as the mother cell.",
+      "question": "What do daughter cells have in common with mother cells?"
+    },
+    {
+      "context": "Specific cells of reproductive organs or tissues in animals and plants divide to form gametes, which after fertilisation give rise to offspring. They divide by a different process called meiosis which involves two consecutive divisions.",
+      "question": "What type of division forms gametes in organisms?"
+    },
+    {
+      "context": "When a cell divides by meiosis it produces four new cells instead of just two. The new cells only have half the number of chromosomes than that of the mother cells.",
+      "question": "How many cells does meiosis produce?"
+    }
+  ]
+}

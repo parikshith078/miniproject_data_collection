@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Try to recall reproduction in plants which you studied in Class VII. You will remember that plants that reproduce sexually have male and female reproductive parts. Can you name these parts? In animals also, males and females have different reproductive parts or organs.",
+      "question": "What are the reproductive parts in plants?"
+    },
+    {
+      "context": "The male reproductive organs include a pair of testes (singular, testis), two sperm ducts and a penis. The testes produce the male gametes called sperms.",
+      "question": "What do the testes produce in males?"
+    },
+    {
+      "context": "It is the zygote which develops into a new individual. This type of reproduction beginning from the fusion of male and female gametes is called sexual reproduction.",
+      "question": "What develops into a new individual after fertilization?"
+    },
+    {
+      "context": "The testes produce the male gametes called sperms. Millions of sperms are produced by the testes. Each sperm is a single cell with all the usual cell components.",
+      "question": "How many sperms are produced by the testes?"
+    },
+    {
+      "context": "Like plants, the reproductive parts in animals also produce gametes that fuse to form a zygote. ",
+      "question": "What do animal reproductive parts produce?"
+    }
+  ]
+}

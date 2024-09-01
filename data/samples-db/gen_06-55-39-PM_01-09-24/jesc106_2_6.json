@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Endocrine glands produce hormones that regulate various body functions. For example, the pituitary gland secretes growth hormone which stimulates growth in all organs. Understanding the roles of these glands is crucial for comprehending human biology.",
+      "question": "What does the pituitary gland secrete?"
+    },
+    {
+      "context": "Some important hormones include growth hormone from the pituitary gland, which stimulates growth in all organs, and insulin from the pancreas, which regulates blood sugar levels. Hormonal balance is key to maintaining health.",
+      "question": "What hormone regulates blood sugar levels?"
+    },
+    {
+      "context": "The table outlines several hormones, including testosterone from the testes, which is responsible for male sexual characteristics, and adrenaline from the adrenal gland, which prepares the body for 'fight or flight' responses in stressful situations.",
+      "question": "What hormone is produced by the testes?"
+    },
+    {
+      "context": "The endocrine system plays a vital role in regulating body functions through hormones. Hormones like insulin and testosterone affect metabolism and reproductive functions respectively, influencing both physical and emotional well-being.",
+      "question": "What function does insulin perform in the body?"
+    },
+    {
+      "context": "Libraries and textbooks provide resources about various endocrine glands beyond those mentioned, thereby offering insights into their functions such as growth regulation, metabolism control, or reproductive processes in animals.",
+      "question": "Why consult books in the library on endocrine glands?"
+    },
+    {
+      "context": "Animal hormones perform functions such as growth stimulation, metabolic regulation, and controlling reproductive cycles. Each hormone has specific effects on different tissues and organs, making them essential for homeostasis.",
+      "question": "What functions do animal hormones perform?"
+    }
+  ]
+}

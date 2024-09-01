@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The creation of two new cells from one involves copying of the DNA as well as of the cellular apparatus. The DNA copying mechanism, as we have noted, cannot be absolutely accurate, and the resultant errors are a source of variations in populations of organisms.",
+      "question": "What is a source of variations in populations?"
+    },
+    {
+      "context": "When these germ-cells from two individuals combine during sexual reproduction to form a new individual, it results in re-establishment of the number of chromosomes and the DNA content in the new generation.",
+      "question": "What happens when germ-cells combine?"
+    },
+    {
+      "context": "If the zygote is to grow and develop into an organism which has highly specialised tissues and organs, then it has to have sufficient stores of energy for doing this.",
+      "question": "What does a zygote need to develop specialized tissues?"
+    },
+    {
+      "context": "Every individual organism cannot be protected by variations, but in a population, variations are useful for ensuring the survival of the species.",
+      "question": "How do variations help species survival?"
+    },
+    {
+      "context": "The DNA copying mechanism, as we have noted, cannot be absolutely accurate, and the resultant errors are a source of variations in populations of organisms.",
+      "question": "Why can't the DNA copying mechanism be absolutely accurate?"
+    }
+  ]
+}

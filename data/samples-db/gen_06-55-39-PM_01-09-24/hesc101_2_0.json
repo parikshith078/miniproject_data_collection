@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Sufficient sunlight and nutrients and minerals from the soil are essential for crop growth. These elements interact in complex ways to support photosynthesis and soil health.",
+      "question": "What is necessary for crop growth?"
+    },
+    {
+      "context": "Kharif crops include paddy and maize, while rabi crops consist of wheat, gram, and pea. Different crops are planted in different seasons.",
+      "question": "Name two kharif crops."
+    },
+    {
+      "context": "Chemical fertilizers such as urea and super phosphate provide essential nutrients for plants, boosting their growth and yield. They are used widely in agriculture.",
+      "question": "What are examples of chemical fertilizers?"
+    },
+    {
+      "context": "Organic manure, made from animal excreta, cow dung, urine, and plant waste, enriches the soil with nutrients and helps in sustainable farming practices.",
+      "question": "What are components of organic manure?"
+    },
+    {
+      "context": "Crops like paddy and maize are categorized as kharif crops, planted during the monsoon season, while wheat and gram are rabi crops, grown in winter.",
+      "question": "Which season do rabi crops grow?"
+    },
+    {
+      "context": "Crops require sufficient sunlight, and they also rely on essential minerals from the soil to thrive and produce food for human consumption.",
+      "question": "Why is sunlight important for crops?"
+    },
+    {
+      "context": "Chemical fertilizers such as urea offer a rapid supply of nitrogen to crops, enhancing their growth rates and productivity in agricultural fields.",
+      "question": "What does urea provide to crops?"
+    },
+    {
+      "context": "Organic manure helps in improving soil fertility and structure, contributing to healthier growth conditions for various crops in an ecosystem.",
+      "question": "How does organic manure benefit soil?"
+    }
+  ]
+}

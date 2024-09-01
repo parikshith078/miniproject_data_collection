@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Tiger Reserve is unique in the sense that a significant increase in the population of tigers has been seen here. Once upon a time, animals like lions, elephants, wild animals has become difficult because of disturbances in their natural habitat.",
+      "question": "What has increased in the Tiger Reserve?"
+    },
+    {
+      "context": "Animals whose numbers are diminishing to a level that they might face extinction are known as the endangered animals. Boojho is reminded of the dinosaurs which became extinct a long time ago.",
+      "question": "What defines an endangered animal?"
+    },
+    {
+      "context": "Madhavji tells Paheli that small animals are much more in danger of becoming extinct than the bigger animals. At times, we kill snakes, frogs, lizards, bats and owls ruthlessly without realising their importance in the ecosystem.",
+      "question": "Which type of animals are more at risk of extinction?"
+    },
+    {
+      "context": "They might be small in size but their role in the ecosystem cannot be ignored. They form part of food chains and food webs. An ecosystem is made of all the plants, animals and microorganisms in an area along with non-living components such as climate, soil, river deltas etc.",
+      "question": "What components make up an ecosystem?"
+    },
+    {
+      "context": "Professor Ahmad tells them that in order to protect plants and animals strict rules are imposed in all National Parks.",
+      "question": "What is imposed in National Parks to protect wildlife?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In harvesting, crops are pulled out or cut close to the ground. It usually takes 3 to 4 months for a cereal crop to mature. Harvesting in our country is either done manually by sickle or by a machine called harvester.",
+      "question": "What are two methods of harvesting crops?"
+    },
+    {
+      "context": "This process is called threshing. This is carried out with the help of a machine called ‘combine’ which is in fact a harvester as well as a thresher.",
+      "question": "What is the purpose of threshing?"
+    },
+    {
+      "context": "If the harvested grains are to be kept for longer time, they should be safe from moisture, insects, rats and microorganisms. Harvested grains have more moisture.",
+      "question": "Why is moisture control important in grain storage?"
+    },
+    {
+      "context": "Harvested grains have more moisture. If freshly harvested grains (seeds) are stored without drying, they may get spoilt or attacked by organisms, making them unfit for use or for germination.",
+      "question": "What happens to undried harvested grains?"
+    },
+    {
+      "context": "Hence, before storing them, the grains are properly dried in the sun to reduce the moisture in them.",
+      "question": "How are grains typically dried before storage?"
+    }
+  ]
+}

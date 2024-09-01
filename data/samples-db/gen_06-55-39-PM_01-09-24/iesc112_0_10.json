@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Manure helps in enriching soil with nutrients and organic matter and increasing soil fertility. The bulk of organic matter in manure helps in improving the soil structure. This involves increasing the water holding capacity in sandy soils.",
+      "question": "What is the main benefit of manure?"
+    },
+    {
+      "context": "The process in which farm waste material like livestock excreta (cow dung, etc.), vegetable waste, animal refuse, domestic waste, sewage waste, straw, eradicated weeds etc. is decomposed in pits is known as composting.",
+      "question": "What is composting?"
+    },
+    {
+      "context": "Compost is rich in organic matter and nutrients. Compost is also prepared by using earthworms to hasten the process of decomposition of plant and animal refuse. This is called vermi-compost.",
+      "question": "What enhances the decomposition process in vermi-compost?"
+    },
+    {
+      "context": "Manure is prepared by the decomposition of animal excreta and plant waste. Manure contains large quantities of organic matter and also supplies small quantities of nutrients to the soil.",
+      "question": "What materials make up manure?"
+    },
+    {
+      "context": "The compost is rich in organic matter and nutrients. Composting helps utilize farm waste effectively to enhance soil fertility.",
+      "question": "Why is compost considered beneficial for soil?"
+    }
+  ]
+}

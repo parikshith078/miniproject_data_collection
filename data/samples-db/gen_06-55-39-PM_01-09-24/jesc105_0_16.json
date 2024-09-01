@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Guard cells regulate the stomatal pore openings to manage water loss and gas exchange. When the plant has sufficient water, the guard cells absorb water, swell, and open the stomata to allow for photosynthesis. Conversely, when water is scarce, they lose water, shrink, and close the stomatal pore, thus conserving water and limiting gas exchange.",
+      "question": "What role do guard cells play?"
+    },
+    {
+      "context": "The functioning of guard cells is crucial in stomatal regulation. These specialized cells control the opening and closing of stomata based on the plant's hydration levels. When the internal water concentration is high, guard cells take up water, swell, and open the stomatal pores, facilitating carbon dioxide intake for photosynthesis.",
+      "question": "How do guard cells affect photosynthesis?"
+    },
+    {
+      "context": "Stomatal regulation is vital for plant health as it prevents excessive water loss. In conditions where the environmental moisture level is low, guard cells respond by closing the stomata to reduce transpiration. This mechanism ensures that plants retain necessary water while still allowing for gas exchange when conditions are favorable.",
+      "question": "Why do stomata close in low moisture?"
+    },
+    {
+      "context": "The guard cells surrounding each stoma are responsible for its opening and closing. These cells can swell or shrink based on water movement. When the plant is well-watered, guard cells will swell with water, making the stomatal pore larger. This is essential for allowing carbon dioxide to enter for photosynthesis.",
+      "question": "What happens to guard cells when watered?"
+    }
+  ]
+}

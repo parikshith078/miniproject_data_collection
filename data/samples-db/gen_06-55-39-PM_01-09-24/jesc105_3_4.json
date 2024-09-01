@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Plants take in simple compounds such as CO2 and photosynthesize energy stored in their chlorophyll-containing organs, namely leaves. For plants, the soil is the nearest and richest source of raw materials like nitrogen, phosphorus and other minerals. The absorption of these substances occurs through the part in contact with the soil, namely roots.",
+      "question": "What do plants use to absorb raw materials?"
+    },
+    {
+      "context": "In xylem tissue, vessels and tracheids of the roots, stems, and leaves are interconnected to form a continuous system of water-conducting channels reaching all parts of the plant. At the roots, cells in contact with the soil actively take up ions.",
+      "question": "What connects water-conducting channels in plants?"
+    },
+    {
+      "context": "Water moves into the root from the soil to eliminate this difference. This means that there is steady movement of water into root xylem, creating a column of water that is steadily pushed upwards.",
+      "question": "How does water move into the root from the soil?"
+    },
+    {
+      "context": "Plants use another strategy to move water upwards via transpiration. Water transport is essential to provide raw materials in leaves and energy in roots.",
+      "question": "What is the strategy used by plants to move water upwards?"
+    },
+    {
+      "context": "This creates a difference in the concentration of these ions between the root and the soil. Water moves into the root from the soil to eliminate this difference.",
+      "question": "What causes water to move into the root?"
+    },
+    {
+      "context": "In xylem tissue, vessels and tracheids of the roots, stems, and leaves are interconnected to form a continuous system of water-conducting channels reaching all parts of the plant.",
+      "question": "What type of tissue conducts water in plants?"
+    }
+  ]
+}

@@ -13,7 +13,7 @@ import (
 
 type Samples struct {
 	Context  string `json:"input"`
-	Question string `json:"ouput"`
+	Question string `json:"output"`
 }
 
 func AggregateSamples(saveToFolderPath, folderPath string) error {

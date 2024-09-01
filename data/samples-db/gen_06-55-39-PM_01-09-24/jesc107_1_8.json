@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Thus the pollen needs to be transferred from the stamen to the stigma. If this transfer of pollen occurs in the same flower, it is referred to as self-pollination. On the other hand, if the pollen is transferred from one flower to another, it is known as cross-pollination.",
+      "question": "What is self-pollination?"
+    },
+    {
+      "context": "On the other hand, if the pollen is transferred from one flower to another, it is known as cross-pollination. This transfer of pollen from one flower to another is achieved by agents like wind, water, or animals.",
+      "question": "What is cross-pollination?"
+    },
+    {
+      "context": "This transfer of pollen from one flower to another is achieved by agents like wind, water, or animals. Seed Formation and Germination. The seed contains the future plant or embryo which develops into a seedling under appropriate conditions.",
+      "question": "What agents assist in cross-pollination?"
+    },
+    {
+      "context": "The seed contains the future plant or embryo which develops into a seedling under appropriate conditions. This process is known as germination.",
+      "question": "What is germination?"
+    },
+    {
+      "context": "If the pollen is transferred from one flower to another, it is known as cross-pollination. The seed contains the future plant or embryo which develops into a seedling under appropriate conditions.",
+      "question": "What does a seed contain?"
+    }
+  ]
+}

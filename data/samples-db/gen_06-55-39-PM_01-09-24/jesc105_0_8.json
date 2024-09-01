@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Energy is needed to maintain a state of order in our body. We also need materials from outside in order to grow, develop, synthesise protein and other substances needed in the body.",
+      "question": "What is needed to maintain order in our body?"
+    },
+    {
+      "context": "When we walk or ride a bicycle, we are using up energy. The source of energy and materials is the food we eat.",
+      "question": "What do we use for energy and materials?"
+    },
+    {
+      "context": "Even when we are not doing any apparent activity, energy is needed to maintain a state of order in our body.",
+      "question": "What does our body need during inactivity?"
+    },
+    {
+      "context": "We need materials from outside in order to grow, develop, synthesise protein and other substances needed in the body.",
+      "question": "Why do we need materials from outside?"
+    },
+    {
+      "context": "This source of energy and materials is the food we eat. Energy is essential for maintaining life processes.",
+      "question": "What is the source of energy and materials for life?"
+    }
+  ]
+}

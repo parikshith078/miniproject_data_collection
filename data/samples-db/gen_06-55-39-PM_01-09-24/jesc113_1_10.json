@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "In the realm of waste management, there are certain materials that are incredibly durable and can persist in the environment for hundreds or even thousands of years. Examples include plastics and metals, which do not easily breakdown and can accumulate in landfills and oceans.",
+      "question": "What materials persist in the environment for long periods?"
+    },
+    {
+      "context": "Conversely, some materials are biodegradable and undergo decomposition, changing their form and structure over time. Organic waste, such as food scraps and yard waste, can break down with the help of microorganisms, returning nutrients to the soil.",
+      "question": "Which materials change their form and structure over time?"
+    }
+  ]
+}

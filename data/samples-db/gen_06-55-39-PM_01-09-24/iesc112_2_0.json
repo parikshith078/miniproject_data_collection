@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The external parasites live on the skin and mainly cause skin diseases. The internal parasites like worms, affect stomach and intestine while flukes damage the liver. Infectious diseases are also caused by bacteria and viruses.",
+      "question": "What do internal parasites affect in animals?"
+    },
+    {
+      "context": "Improved poultry breeds are developed and farmed to produce layers for eggs and broilers for meat. The cross-breeding programmes between Indian and foreign breeds for variety improvement are focused on to develop new varieties for the following desirable traits.",
+      "question": "What is the purpose of cross-breeding in poultry farming?"
+    },
+    {
+      "context": "The ration (daily food requirement) for broilers is protein rich with adequate fat. The level of vitamins A and K is kept high in the poultry feeds.",
+      "question": "What are key components of broiler chicken diets?"
+    },
+    {
+      "context": "Poultry fowl suffer from a number of diseases caused by virus, bacteria, fungi, parasites, as well as from nutritional deficiencies.",
+      "question": "What causes diseases in poultry fowl?"
+    },
+    {
+      "context": "Vaccinations are given to farm animals against many major viral and bacterial diseases. Appropriate vaccination can prevent the occurrence of infectious diseases and reduce loss of poultry during an outbreak of disease.",
+      "question": "How do vaccinations benefit farm animals?"
+    }
+  ]
+}

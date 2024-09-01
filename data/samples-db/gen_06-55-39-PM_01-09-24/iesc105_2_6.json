@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Each cell thus acquires its structure and ability to function because of the organisation of its membrane and organelles in specific ways. The cell thus has a basic structural organisation. This helps the cells to perform functions like respiration, obtaining nutrition, and clearing of waste material, or forming new proteins.",
+      "question": "What is the basic functional unit of life?"
+    },
+    {
+      "context": "In 1872 he accepted the post of Chief Medical Officer at the Hospital for the Chronically Sick at Abbiategrasso. He first started his investigations into the nervous system in a little kitchen of this hospital, which he had converted into a laboratory.",
+      "question": "Where did Golgi begin his investigations?"
+    },
+    {
+      "context": "This method uses a weak solution of silver nitrate and is particularly valuable in tracing the processes and most delicate ramifications of cells. All through his life, he continued to work on these lines, modifying and improving this technique.",
+      "question": "What does the 'black reaction' method use?"
+    },
+    {
+      "context": "Golgi received the highest honours and awards in recognition of his work. He shared the Nobel prize in 1906 with Santiago Ramony Cajal for their work on the structure of the nervous system.",
+      "question": "With whom did Golgi share the Nobel Prize?"
+    },
+    {
+      "context": "The cell thus has a basic structural organisation. This helps the cells to perform functions like respiration, obtaining nutrition, and clearing of waste material, or forming new proteins.",
+      "question": "What functions do cells perform based on their structure?"
+    }
+  ]
+}

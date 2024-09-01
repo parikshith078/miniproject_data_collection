@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Iodine is necessary for the thyroid gland to make thyroxin hormone. Thyroxin regulates carbohydrate, protein and fat metabolism in the body so as to provide the best balance for growth.",
+      "question": "What role does thyroxin play in metabolism?"
+    },
+    {
+      "context": "In case iodine is deficient in our diet, there is a possibility that we might suffer from goitre.",
+      "question": "What condition results from iodine deficiency?"
+    },
+    {
+      "context": "Growth hormone is one of the hormones secreted by the pituitary. As its name indicates, growth hormone regulates growth and development of the body.",
+      "question": "Which gland secretes growth hormone?"
+    },
+    {
+      "context": "If there is a deficiency of this hormone in childhood, it leads to dwarfism.",
+      "question": "What does a deficiency in growth hormone cause?"
+    },
+    {
+      "context": "These changes associated with puberty are because of the secretion of testosterone in males and oestrogen in females.",
+      "question": "What hormones are involved in puberty changes?"
+    }
+  ]
+}

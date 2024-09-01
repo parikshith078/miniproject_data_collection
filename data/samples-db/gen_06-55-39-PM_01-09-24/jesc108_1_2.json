@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Women have a perfect pair of sex chromosomes, both called X. But men have a mismatched pair in which one is a normal-sized X while the other is a short one called Y. So women are XX, while men are XY.",
+      "question": "What are the sex chromosome pairs for men?"
+    },
+    {
+      "context": "A child who inherits an X chromosome from her father will be a girl, and one who inherits a Y chromosome from him will be a boy. As Fig. 8.6 shows, half the children will be boys and half will be girls.",
+      "question": "How does a child’s sex get determined?"
+    },
+    {
+      "context": "Most human chromosomes have a maternal and a paternal copy, and we have 22 such pairs. But one pair, called the sex chromosomes, is odd in not always being a perfect pair.",
+      "question": "How many pairs of chromosomes do humans have?"
+    },
+    {
+      "context": "Thus, the sex of the children will be determined by what they inherit from their father.",
+      "question": "Who determines the sex of the children?"
+    },
+    {
+      "context": "If that is the case, how can genetic inheritance determine sex? The explanation lies in the fact that all human chromosomes are not paired.",
+      "question": "Why are sex chromosomes considered unusual?"
+    }
+  ]
+}

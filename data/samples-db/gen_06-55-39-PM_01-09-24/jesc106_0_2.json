@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Reflex arcs are formed in the spinal cord itself, although the information input also goes on to reach the brain. Reflex arcs have evolved in animals because the thinking process of the brain is not fast enough.",
+      "question": "What is the purpose of reflex arcs?"
+    },
+    {
+      "context": "Rather than having to think about the sensation of heat, if the nerves that detect heat were to be connected to the nerves that move muscles in a simpler way, the process may be completed quickly.",
+      "question": "How does a reflex arc improve reaction time?"
+    },
+    {
+      "context": "Nerves from all over the body meet in a bundle in the spinal cord on their way to the brain. Reflex arcs are formed in this spinal cord itself.",
+      "question": "Where do reflex arcs form in the nervous system?"
+    },
+    {
+      "context": "In fact many animals have very little or none of the complex neuron network needed for thinking. Reflex arcs have evolved as efficient ways of functioning in the absence of true thought processes.",
+      "question": "Why are reflex arcs important for simpler animals?"
+    },
+    {
+      "context": "A common idea in all such examples is that we do something without thinking about it, or without feeling in control of our reactions.",
+      "question": "What does the term 'reflex' imply about our control?"
+    },
+    {
+      "context": "How would we respond to this? One seemingly simple way is to think consciously about the pain and the possibility of getting burnt, and therefore move our hand.",
+      "question": "What is one way to respond to pain?"
+    },
+    {
+      "context": "Touching a flame is an urgent and dangerous situation for us, or in fact, for any animal! How would we respond to this?",
+      "question": "Why is touching a flame considered dangerous?"
+    },
+    {
+      "context": "Even after complex neuron networks have come into existence, reflex arcs continue to be more efficient for quick responses.",
+      "question": "Why do reflex arcs remain useful despite advanced neuron networks?"
+    }
+  ]
+}

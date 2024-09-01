@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Autotrophic nutrition involves the intake of simple inorganic materials from the environment and using an external energy source like the Sun to synthesize complex high-energy organic materials. Heterotrophic nutrition, on the other hand, involves the intake of complex materials prepared by other organisms.",
+      "question": "What is autotrophic nutrition?"
+    },
+    {
+      "context": "During respiration, organic compounds such as glucose are broken down to provide energy in the form of ATP. This energy facilitates various cellular reactions and activities. Respiration may be aerobic or anaerobic, with aerobic respiration producing more energy for the organism.",
+      "question": "What is the difference between aerobic and anaerobic respiration?"
+    },
+    {
+      "context": "In human beings, the food eaten is broken down along the alimentary canal and the digested food is absorbed in the small intestine to be sent to all body cells.",
+      "question": "How is food digested in humans?"
+    },
+    {
+      "context": "Organ donation involves the generous act of donating an organ to someone suffering from organ failure. This process can be done with the donor's consent and can potentially save lives. Organs commonly donated include kidneys, hearts, livers, and others.",
+      "question": "What organs can be donated?"
+    },
+    {
+      "context": "Transplantation is necessary when a recipient’s organ has failed due to disease or injury, and it can significantly enhance or save lives.",
+      "question": "Why is organ transplantation important?"
+    },
+    {
+      "context": "Ask yourself about the procedures involved in organ donation and the criteria for being an organ donor.",
+      "question": "What should you know about organ donation procedures?"
+    }
+  ]
+}

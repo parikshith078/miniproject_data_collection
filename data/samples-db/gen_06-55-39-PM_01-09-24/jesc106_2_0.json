@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Chemical coordination is seen in both plants and animals. Hormones produced in one part of an organism move to another part to achieve the desired effect.",
+      "question": "What is chemical coordination?"
+    },
+    {
+      "context": "This is done in many animals, including human beings, using a hormone called adrenaline that is secreted from the adrenal glands.",
+      "question": "Which hormone is secreted from the adrenal glands?"
+    },
+    {
+      "context": "Adrenaline is secreted directly into the blood and carried to different parts of the body. The target organs or the specific tissues on which it acts include the heart.",
+      "question": "What organ does adrenaline primarily target?"
+    },
+    {
+      "context": "As a result, the heart beats faster, resulting in supply of more oxygen to our muscles.",
+      "question": "What effect does adrenaline have on the heart?"
+    },
+    {
+      "context": "The blood to the digestive system and skin is reduced due to contraction of muscles around small arteries in these organs.",
+      "question": "How does adrenaline affect blood flow to the digestive system?"
+    },
+    {
+      "context": "The breathing rate also increases because of the contractions of the diaphragm and the rib muscles.",
+      "question": "What happens to the breathing rate when adrenaline is released?"
+    },
+    {
+      "context": "Such animal hormones are part of the endocrine system which constitutes a second way of control and coordination in our body.",
+      "question": "What system do animal hormones belong to?"
+    },
+    {
+      "context": "Chemical signals are important for achieving wide-ranging changes needed in the animal body.",
+      "question": "What is the role of chemical signals in animals?"
+    }
+  ]
+}

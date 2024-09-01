@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Factors responsible for losses are biotic—insects, rodents, fungi, mites, and bacteria, and abiotic—inappropriate moisture and temperatures in the place of storage. These factors cause degradation in quality, loss in weight, poor germinability, discoloration of produce, all leading to poor marketability.",
+      "question": "What are biotic factors affecting grain storage?"
+    },
+    {
+      "context": "Preventive and control measures are used before grains are stored for future use. They include strict cleaning of the produce before storage, proper drying of the produce first in sunlight and then in shade, and fumigation using chemicals that can kill pests.",
+      "question": "What is one method to prevent grain loss?"
+    },
+    {
+      "context": "Animal husbandry is the scientific management of animal livestock. It includes various aspects such as feeding, breeding and disease control. Animal-based farming includes cattle, goat, sheep, poultry, and fish farming.",
+      "question": "What does animal husbandry involve?"
+    },
+    {
+      "context": "As the population increases and as living standards increase, the demand for milk, eggs, and meat is also going up. Therefore, livestock production also needs to be improved.",
+      "question": "Why is livestock production improvement necessary?"
+    },
+    {
+      "context": "These factors cause degradation in quality, loss in weight, poor germinability, discoloration of produce, all leading to poor marketability.",
+      "question": "What is the impact of poor storage conditions on grains?"
+    }
+  ]
+}

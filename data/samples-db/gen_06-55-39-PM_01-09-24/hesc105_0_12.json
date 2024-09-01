@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Endemic species are those species of plants and animals which are found exclusively in a particular area. They are not naturally found anywhere else. A particular type of animal or plant may be endemic to a zone, a state or a country.",
+      "question": "What defines an endemic species?"
+    },
+    {
+      "context": "Madhavji shows sal and wild mango as two examples of the endemic flora of the Pachmarhi Biosphere Reserve. Bison, Indian giant squirrel and flying squirrel are endemic fauna of this area.",
+      "question": "Give examples of endemic flora."
+    },
+    {
+      "context": "Professor Ahmad explains that the destruction of their habitat, increasing population and introduction of new species may affect the natural habitat of endemic species and endanger their existence.",
+      "question": "What threatens the existence of endemic species?"
+    },
+    {
+      "context": "A species is a group of population which are capable of interbreeding. This means that the members of a species can reproduce fertile offspring only with the members of their own species and not with members of other species.",
+      "question": "What does a species mean in biology?"
+    },
+    {
+      "context": "Members of a species have common characteristics. They share similarities in their genetic makeup and physical traits.",
+      "question": "What do members of a species share?"
+    }
+  ]
+}

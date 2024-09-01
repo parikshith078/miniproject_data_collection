@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "In tissue culture, new plants are grown by removing tissue or separating cells from the growing tip of a plant. The cells are then placed in an artificial medium where they divide rapidly to form a small group of cells or callus. The callus is transferred to another medium containing hormones for growth and differentiation.",
+      "question": "What is the purpose of the callus in tissue culture?"
+    },
+    {
+      "context": "Using tissue culture, many plants can be grown from one parent in disease-free conditions. This technique is commonly used for ornamental plants.",
+      "question": "What is a common use of tissue culture?"
+    },
+    {
+      "context": "Even in many simple multi-cellular organisms, specific reproductive parts can be identified. The thread-like structures that developed on the bread in Activity 7.2 above are the hyphae of the bread mould (Rhizopus). They are not reproductive parts.",
+      "question": "What are the thread-like structures of bread mould called?"
+    },
+    {
+      "context": "The blobs are sporangia, which contain cells, or spores, that can eventually develop into new Rhizopus individuals. The spores are covered by thick walls that protect them until they come into contact with another moist surface and can begin to grow.",
+      "question": "What role do sporangia play in reproduction?"
+    }
+  ]
+}

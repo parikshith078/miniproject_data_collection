@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Biodegradable materials are those that can be broken down by natural processes, typically by the action of enzymes produced by living organisms. Non-biodegradable materials, on the other hand, do not decompose, leading to environmental pollution. Polyethylene, for example, can take hundreds of years to degrade, while food waste can decompose in weeks.",
+      "question": "What is the difference between biodegradable and non-biodegradable?"
+    },
+    {
+      "context": "Enzymes are specialized proteins that facilitate biochemical reactions in living organisms. Each enzyme is specifically designed to catalyze a particular reaction, which is why different enzymes are necessary for breaking down various types of food. For instance, amylase helps break down starch, while lipase targets fats.",
+      "question": "Why are enzymes specific in their function?"
+    },
+    {
+      "context": "The unique specificity of enzymes is crucial for efficient digestion and metabolism. For example, if a person consumes coal, the body's enzymes cannot break it down, meaning it provides no energy or nutritional value. The human digestive system relies on a plethora of enzymes to handle diverse food molecules effectively.",
+      "question": "Why can't we digest coal?"
+    },
+    {
+      "context": "To manage waste effectively, understanding the nature of materials is vital. Biodegradable items reduce landfill space as they decompose naturally, while non-biodegradable items accumulate and can harm ecosystems. The distinction affects how waste is sorted and processed in waste management systems.",
+      "question": "Why is it important to know about biodegradability?"
+    },
+    {
+      "context": "Different substances in our diet require specific enzymes for their breakdown. The body produces a variety of enzymes, each with its own role, such as the breakdown of proteins, carbohydrates, and fats. This specialization is key to the efficient extraction of nutrients from our food.",
+      "question": "What role do enzymes play in digestion?"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Nutrition plays a crucial role in adolescents’ development, with a proper meal including balanced components. Eating junk food like chips and burgers regularly can lead to health issues, while meals consisting of chapati, dal, and vegetables provide essential nutrients.",
+      "question": "What is a proper meal for adolescents?"
+    },
+    {
+      "context": "The onset of reproductive health in women is an important indicator of their ability to bear children. This phase typically begins when their menstruation starts, which signals hormonal changes and readiness for potential reproduction.",
+      "question": "When does reproductive age in women start?"
+    }
+  ]
+}

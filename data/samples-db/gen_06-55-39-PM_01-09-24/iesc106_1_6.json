@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "All cells possess the ability to respond to stimuli. However, cells of the nervous tissue are highly specialised for being stimulated and then transmitting the stimulus very rapidly from one place to another within the body.",
+      "question": "What is the main function of nervous tissue?"
+    },
+    {
+      "context": "Tissue is a group of cells similar in structure and function. Plant tissues are of two main types – meristematic and permanent.",
+      "question": "What are the two types of plant tissues?"
+    },
+    {
+      "context": "Parenchyma, collenchyma and sclerenchyma are three types of simple tissues. Xylem and phloem are types of complex tissues.",
+      "question": "What are examples of simple and complex plant tissues?"
+    },
+    {
+      "context": "The brain, spinal cord and nerves are all composed of the nervous tissue. The cells of this tissue are called nerve cells or neurons.",
+      "question": "What are the components of nervous tissue?"
+    },
+    {
+      "context": "Animal tissues can be epithelial, connective, muscular and nervous tissue. ",
+      "question": "What types of tissues are found in animals?"
+    },
+    {
+      "context": "Permanent tissues are derived from meristematic tissue once they lose the ability to divide.",
+      "question": "How are permanent tissues formed in plants?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Mixed cropping is growing two or more crops simultaneously on the same piece of land, for example, wheat + gram, or wheat + mustard, or groundnut + sunflower. This reduces risk and provides some insurance against failure of one of the crops.",
+      "question": "What is mixed cropping's benefit?"
+    },
+    {
+      "context": "Inter-cropping is growing two or more crops simultaneously on the same field in a definite pattern. A few rows of one crop alternate with a few rows of a second crop, for example, soyabean + maize, or finger millet (bajra) + cowpea (lobia).",
+      "question": "What is inter-cropping?"
+    },
+    {
+      "context": "Crop rotation is the growing of different crops on a piece of land in a pre-planned succession, which is done for different crop combinations depending upon the duration.",
+      "question": "What is crop rotation?"
+    },
+    {
+      "context": "Field crops are infested by a large number of weeds, insect pests, and diseases. If weeds and pests are not controlled at the appropriate time, they can damage the crops so much that most of the crop is lost.",
+      "question": "What damages crops significantly?"
+    },
+    {
+      "context": "Weeds are unwanted plants in the cultivated field, which compete for food, space, and light. They take up nutrients and reduce the growth of the crop. Therefore, removal of weeds from cultivated fields during the early stages of crop growth is essential for a good harvest.",
+      "question": "Why are weeds harmful to crops?"
+    },
+    {
+      "context": "Generally, insect pests attack the plants in three ways: (i) they cut the root, stem, and leaf, (ii) they suck the cell sap from various parts of the plant, and (iii) they bore into stem and fruits.",
+      "question": "How do insect pests attack plants?"
+    },
+    {
+      "context": "Diseases in plants are caused by pathogens such as bacteria, fungi, and viruses. These pathogens can be present in and transmitted through the soil, water, and air.",
+      "question": "What causes diseases in plants?"
+    },
+    {
+      "context": "Weeds, insects, and diseases can be controlled by various methods. If not controlled at the appropriate time, they can damage the crops so much that most of the crop is lost.",
+      "question": "How can pests and diseases be managed?"
+    }
+  ]
+}

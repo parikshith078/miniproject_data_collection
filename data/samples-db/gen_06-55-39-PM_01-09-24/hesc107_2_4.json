@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Early marriage can lead to a variety of social and health problems for the couple involved. Younger individuals may not be emotionally or financially ready to handle the responsibilities of marriage and parenthood. This union can result in a cycle of poverty and decreased educational opportunities, particularly for girls, who may be forced to drop out of school.",
+      "question": "Why is early marriage problematic for couples?"
+    },
+    {
+      "context": "Amniocentesis is a medical procedure used to diagnose genetic disorders, where a small amount of amniotic fluid is sampled. This technique helps identify potential defects in the unborn child before birth, providing critical information for expecting parents. However, its use for sex identification of the fetus is banned in India due to concerns about gender discrimination and female foeticide.",
+      "question": "What is the purpose of amniocentesis?"
+    },
+    {
+      "context": "The practice of early marriage often results in negative outcomes such as domestic violence, early pregnancies, and mental health issues. Many young brides face barriers to education and career development, which restrict their personal growth and independence. Early marriage can trap individuals in a cycle of poverty that is difficult to escape.",
+      "question": "What are the consequences of early marriage?"
+    },
+    {
+      "context": "Amniocentesis is a procedure typically performed during the second trimester of pregnancy. It involves extracting amniotic fluid to assess the health of the fetus and diagnose chromosomal abnormalities. Despite its benefits, the technique is prohibited for determining the sex of unborn children in India, aimed at controlling the practice of sex-selective abortions.",
+      "question": "Why is the use of amniocentesis for sex determination prohibited?"
+    },
+    {
+      "context": "Engaging in early marriage can hinder individuals from reaching their full potential. Young couples may struggle with the responsibilities that come with marriage, such as financial pressures and raising children, often before they are mentally ready. This can lead to negative life outcomes, including health complications and social isolation.",
+      "question": "How can early marriage affect personal growth?"
+    }
+  ]
+}

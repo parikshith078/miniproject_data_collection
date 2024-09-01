@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Everyone should have a bath at least once every day. It is more necessary for teenagers because the increased activity of sweat glands sometimes makes the body smelly. All parts of the body should be washed and cleaned every day.",
+      "question": "Why is daily bathing important for teenagers?"
+    },
+    {
+      "context": "If cleanliness is not maintained there are chances of catching bacterial infection. Girls should take special care of cleanliness during the time of menstrual flow.",
+      "question": "What is a consequence of poor personal hygiene?"
+    },
+    {
+      "context": "They should keep track of their menstrual cycle and be prepared for the onset of menstruation. Use sanitary napkin or clean homemade pads.",
+      "question": "Why is tracking the menstrual cycle important?"
+    },
+    {
+      "context": "Change pads after every 4–5 hours as per the requirement. Walking and playing in fresh air keeps the body fit and healthy.",
+      "question": "How often should pads be changed during menstruation?"
+    },
+    {
+      "context": "All young boys and girls should take walks, exercise and play outdoor games. It keeps the body fit and healthy.",
+      "question": "What types of activities are recommended for fitness?"
+    }
+  ]
+}

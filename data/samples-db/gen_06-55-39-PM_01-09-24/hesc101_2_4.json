@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fertilisers are chemical substances that provide specific nutrients to crops, while manure is organic matter derived from plants and animals that improves soil structure and fertility over time.",
+      "question": "What are the characteristics of fertilisers?"
+    },
+    {
+      "context": "Irrigation is the process of supplying water to crops to aid their growth. Two methods of irrigation that conserve water include: Drip irrigation and Sprinkler irrigation.",
+      "question": "What is the purpose of irrigation?"
+    },
+    {
+      "context": "Drip irrigation involves delivering water directly to the base of the plant, minimizing evaporation and runoff. Sprinkler irrigation uses pipes and pumps to spray water like rainfall.",
+      "question": "What is drip irrigation used for?"
+    },
+    {
+      "context": "Fertilisers provide specific nutrients to crops, while manure improves soil structure and fertility over time.",
+      "question": "How does manure benefit soil?"
+    },
+    {
+      "context": "Sprinkler irrigation sprays water like rainfall, reducing waste and runoff. Drip irrigation minimizes evaporation by delivering water directly to plant bases.",
+      "question": "What is one advantage of sprinkler irrigation?"
+    }
+  ]
+}

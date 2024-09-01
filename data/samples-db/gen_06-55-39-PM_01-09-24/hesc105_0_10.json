@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Children along with Professor Ahmad and Madhavji enter the biosphere reserve area. Madhavji explains that biosphere reserves are the areas meant for conservation of biodiversity. The biosphere reserves help to maintain the biodiversity and culture of that area. A biosphere reserve may also contain other protected areas in it.",
+      "question": "What is the purpose of biosphere reserves?"
+    },
+    {
+      "context": "The Pachmarhi Biosphere Reserve consists of one national park named Satpura and two wildlife sanctuaries named Bori and Pachmarhi. Flora and Fauna Overview As the children walk around the biosphere reserve they appreciate the green wealth of the forest.",
+      "question": "What areas are included in Pachmarhi Biosphere Reserve?"
+    },
+    {
+      "context": "Professor Ahmad explains that animals are comfortable and happy in their own habitat. We should not disturb them. Madhavji explains that some animals and plants typically belong to a particular area.",
+      "question": "Why should we not disturb animals in their habitat?"
+    },
+    {
+      "context": "The plants and animals found in a particular area are termed flora and fauna respectively of that area. Sal, teak, mango, jamun, silver ferns, arjun, etc., are the flora and chinkara, blue-bull, barking deer, cheetal, leopard, wild dog, wolf, etc., are examples of the fauna of the Pachmarhi Biosphere Reserve.",
+      "question": "What are examples of flora in the Pachmarhi Biosphere Reserve?"
+    },
+    {
+      "context": "Suddenly, Paheli finds a rabbit and wants to catch it. She starts running after it. Professor Ahmad stops her. He explains that animals are comfortable and happy in their own habitat.",
+      "question": "What does Professor Ahmad tell Paheli about the rabbit?"
+    },
+    {
+      "context": "Madhavji explains that biosphere reserves are the areas meant for conservation of biodiversity. The biosphere reserves help to maintain the biodiversity and culture of that area.",
+      "question": "How do biosphere reserves help maintain culture?"
+    }
+  ]
+}

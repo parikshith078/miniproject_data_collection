@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Their aunt had told them that Kaka was suffering from ‘goitre’, a disease of the thyroid gland. Kaka’s thyroid gland was not producing the hormone thyroxine. Their aunt also told them that their uncle was suffering from ‘diabetes’ because his pancreas was not producing the hormone insulin in sufficient quantities.",
+      "question": "What hormone is missing in Kaka's condition?"
+    },
+    {
+      "context": "Thyroid and adrenals secrete their hormones when they receive orders from the pituitary through its hormones. Pituitary also secretes growth hormone which is necessary for the normal growth of a person.",
+      "question": "Which gland secretes the growth hormone?"
+    },
+    {
+      "context": "The aunt told them that adrenal glands secrete hormones which maintain the correct salt balance in the blood. Adrenals also produce the hormone adrenalin.",
+      "question": "What hormone helps the body adjust to stress?"
+    },
+    {
+      "context": "In a frog, metamorphosis is controlled by thyroxine, the hormone produced by thyroid. Thyroxine production requires the presence of iodine in water.",
+      "question": "What is required for thyroxine production in frogs?"
+    },
+    {
+      "context": "If the water in which the tadpoles are growing does not contain sufficient iodine, the tadpoles cannot become adults.",
+      "question": "What happens to tadpoles without sufficient iodine?"
+    }
+  ]
+}

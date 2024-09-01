@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "What you have learnt include details about wildlife sanctuary, national park and biosphere reserve as names given to the areas meant for conservation and preservation of forest and wild animals.",
+      "question": "What are biosphere reserves meant for?"
+    },
+    {
+      "context": "Endemic species are found only in a particular area.",
+      "question": "Where are endemic species found?"
+    },
+    {
+      "context": "Biodiversity refers to the variety of living organisms in a specific area.",
+      "question": "What does biodiversity refer to?"
+    },
+    {
+      "context": "Endangered species are those which are facing the danger of extinction.",
+      "question": "What threatens endangered species?"
+    },
+    {
+      "context": "Migration is the phenomenon of movement of a species from its own habitat to some other habitat for a particular time period every year for a specific purpose like breeding.",
+      "question": "What is the purpose of migration?"
+    },
+    {
+      "context": "Reforestation is significant for restocking destroyed forests.",
+      "question": "Why is reforestation important?"
+    },
+    {
+      "context": "Saving, reusing and recycling paper can help save trees, energy and water.",
+      "question": "What does recycling paper save?"
+    },
+    {
+      "context": "Plants and animals of a particular area are known as the flora and fauna of that area.",
+      "question": "What are plants and animals in an area called?"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Reproduction is essential for the continuation of a species. Imagine what would have happened if organisms had not reproduced. You will realise that reproduction is very important as it ensures the continuation of similar kinds of individuals, generation after generation.",
+      "question": "Why is reproduction essential for species?"
+    },
+    {
+      "context": "Just as in plants, there are two modes by which animals reproduce. These are: (i) Sexual reproduction, and (ii) Asexual reproduction.",
+      "question": "What are the two modes of animal reproduction?"
+    }
+  ]
+}

@@ -8,10 +8,7 @@ type Result struct {
 }
 
 type Topics struct {
-	Topic []struct {
-		SubTopic string `json:"sub-topic"`
-		Content  string `json:"Content"`
-	} `json:"topic"`
+	Topics []Topic `json:"topic"`
 }
 type Topic struct {
 	SubTopic string `json:"sub-topic"`

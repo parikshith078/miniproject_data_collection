@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Food security depends on both availability of food and access to it. Simply increasing grain production for storage in warehouses cannot solve the problem of malnutrition and hunger. People should have money to purchase food.",
+      "question": "What two factors influence food security?"
+    },
+    {
+      "context": "Different farmers thus have more or less land, money and access to information and technologies. In short, it is the money or financial conditions that allow farmers to take up different farming practices.",
+      "question": "What does money influence in farming?"
+    },
+    {
+      "context": "There is a correlation between higher inputs and yields. Thus, the farmer’s purchasing capacity for inputs decides cropping system and production practices.",
+      "question": "How does purchasing capacity affect farming practices?"
+    },
+    {
+      "context": "Farming ranges from small to very large farms. Economic factors in agriculture allow for varying levels of production practices among farmers.",
+      "question": "What types of farms exist in agriculture?"
+    },
+    {
+      "context": "Production practices can be at different levels, including ‘no cost’ production, ‘low cost’ production and ‘high cost’ production practices.",
+      "question": "What are the types of production practices in agriculture?"
+    }
+  ]
+}

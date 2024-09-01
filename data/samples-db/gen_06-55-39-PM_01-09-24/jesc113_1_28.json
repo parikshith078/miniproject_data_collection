@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "There is a loss of energy as we go from one trophic level to the next, this limits the number of trophic levels in a food-chain.",
+      "question": "How does energy loss affect trophic levels?"
+    },
+    {
+      "context": "The various components of an ecosystem are interdependent.",
+      "question": "Why are components of ecosystems interdependent?"
+    },
+    {
+      "context": "Human activities have an impact on the environment.",
+      "question": "What effects do human activities have on ecosystems?"
+    },
+    {
+      "context": "The producers make the energy from sunlight available to the rest of the ecosystem.",
+      "question": "What role do producers play in an ecosystem?"
+    },
+    {
+      "context": "There is a loss of energy as we go from one trophic level to the next.",
+      "question": "What happens to energy in food chains?"
+    }
+  ]
+}

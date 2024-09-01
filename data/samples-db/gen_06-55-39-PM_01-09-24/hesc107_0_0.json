@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The period of life, when the body undergoes changes, leading to reproductive maturity, is called adolescence. Adolescence begins around the age of 11 and lasts up to 18 or 19 years of age.",
+      "question": "What is the age range for adolescence?"
+    },
+    {
+      "context": "Growing up is a natural process. The human body undergoes several changes during adolescence. These changes mark the onset of puberty.",
+      "question": "What does adolescence signify in human development?"
+    },
+    {
+      "context": "In girls, adolescence may begin a year or two earlier than in boys. Also, the period of adolescence varies from person to person.",
+      "question": "How does adolescence timing differ between genders?"
+    },
+    {
+      "context": "Since this period covers the ‘teens’ (13 to 18 or 19 years of age), adolescents are also called ‘teenagers’.",
+      "question": "Why are adolescents referred to as teenagers?"
+    },
+    {
+      "context": "The most important change which marks puberty is that boys and girls become capable of reproduction.",
+      "question": "What major change occurs during puberty?"
+    }
+  ]
+}

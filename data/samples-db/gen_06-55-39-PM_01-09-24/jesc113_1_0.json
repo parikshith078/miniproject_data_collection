@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "CFCs, or chlorofluorocarbons, are chemical compounds that have been widely used in refrigeration, air conditioning, and aerosol propellants. These substances can deplete the ozone layer when released into the atmosphere, leading to an increase in harmful ultraviolet radiation reaching the Earth's surface.",
+      "question": "What are the main chemicals depleting ozone?"
+    },
+    {
+      "context": "Halons, carbon tetrachloride, and methyl chloroform are additional chemicals identified as substances that contribute to ozone depletion. Their release into the atmosphere damages the ozone layer, prompting global initiatives to reduce their usage.",
+      "question": "Which chemicals besides CFCs harm the ozone layer?"
+    },
+    {
+      "context": "The Montreal Protocol, signed in 1987, is an international agreement aimed at phasing out substances that deplete the ozone layer. This treaty has been successful in reducing the use of harmful chemicals like CFCs and halons.",
+      "question": "What is the Montreal Protocol's purpose?"
+    },
+    {
+      "context": "Many countries have taken action to replace CFCs with more environmentally friendly alternatives, such as hydrocarbons and HFCs, which do not impact the ozone layer significantly and help in eradicating ozone layer depletion.",
+      "question": "What alternatives are used instead of CFCs?"
+    },
+    {
+      "context": "Ozone depletion can lead to increased health risks such as skin cancer, cataracts, and weakened immune systems due to greater UV radiation exposure. Understanding these effects is crucial for promoting ozone layer protection.",
+      "question": "What health risks are linked to ozone depletion?"
+    }
+  ]
+}

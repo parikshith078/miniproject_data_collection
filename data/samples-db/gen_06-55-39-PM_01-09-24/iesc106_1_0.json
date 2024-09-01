@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Complex tissues are made of more than one type of cells. All these cells coordinate to perform a common function. Xylem and phloem are examples of such complex tissues. They are both conducting tissues and constitute a vascular bundle.",
+      "question": "What are complex tissues made of?"
+    },
+    {
+      "context": "Phloem transports food from leaves to other parts of the plant. Except phloem fibres, other phloem cells are living cells. Sieve plate, Sieve tube, Phloem parenchyma, Companion cell are the constituents of phloem.",
+      "question": "What does phloem transport in plants?"
+    },
+    {
+      "context": "Xylem includes Tracheid, Vessel, Xylem parenchyma. Phloem transports food from leaves to other parts of the plant.",
+      "question": "Name two types of cells found in xylem."
+    },
+    {
+      "context": "Such tissues are called simple permanent tissue. Yet another type of permanent tissue is complex tissue.",
+      "question": "What distinguishes complex tissue from simple tissue?"
+    },
+    {
+      "context": "Xylem and phloem are examples of such complex tissues. They are both conducting tissues and constitute a vascular bundle.",
+      "question": "What is the function of xylem and phloem?"
+    },
+    {
+      "context": "Except phloem fibres, other phloem cells are living cells. Sieve plate, Sieve tube, Phloem parenchyma, Companion cell are the constituents of phloem.",
+      "question": "Which phloem cells are not living?"
+    },
+    {
+      "context": "Phloem transports food from leaves to other parts of the plant. Xylem includes Tracheid, Vessel, Xylem parenchyma.",
+      "question": "What is the function of xylem in plants?"
+    },
+    {
+      "context": "Complex tissues are made of more than one type of cells. All these cells coordinate to perform a common function.",
+      "question": "What is a key characteristic of complex tissues?"
+    }
+  ]
+}

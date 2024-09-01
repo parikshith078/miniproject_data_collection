@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Adolescents feel hungry all the time due to their bodies requiring more energy for the rapid growth taking place. Additionally, taste buds are well developed in teenagers, enhancing their food preferences.",
+      "question": "Why do adolescents feel hungrier?"
+    },
+    {
+      "context": "During adolescence, noticeable physical changes occur, such as the development of the Adam’s apple and secondary sexual characteristics, which are part of reproductive development.",
+      "question": "What physical changes occur during adolescence?"
+    },
+    {
+      "context": "The Adam's apple is one of the reproductive characteristics that become prominent during adolescence, reflecting changes in the larynx as boys mature.",
+      "question": "What is the Adam's apple associated with?"
+    },
+    {
+      "context": "Sex determination in the unborn baby is a complex process that occurs early in pregnancy, influenced by the chromosomal makeup inherited from the parents.",
+      "question": "How is sex determined in an unborn baby?"
+    },
+    {
+      "context": "Secondary sexual characters, such as breast development in girls and facial hair in boys, emerge during adolescence as a result of hormonal changes in the body.",
+      "question": "What are secondary sexual characters?"
+    }
+  ]
+}

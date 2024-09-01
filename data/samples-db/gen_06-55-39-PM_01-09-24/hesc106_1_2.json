@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Asexual reproduction is where only a single parent is involved, such as in hydra where new individuals develop from buds. This method is known as budding. Amoeba reproduces by dividing into two, a process called binary fission. Other methods exist as well that will be studied later.",
+      "question": "What is asexual reproduction?"
+    },
+    {
+      "context": "In hydra, new individuals develop from bulges on the parent body, referred to as buds. Using permanent slides, one can count and observe these bulges under a microscope, comparing their sizes and number across different slides.",
+      "question": "How do new individuals develop in hydra?"
+    },
+    {
+      "context": "Hydra’s new individuals, called buds, develop as outgrowths from the parent body. When observing hydra under a microscope, you may find one or more of these bulges depending on the slide.",
+      "question": "What are the new individuals in hydra called?"
+    },
+    {
+      "context": "The method of asexual reproduction in hydra is called budding. When observing hydra, you will note the bulges, which represent developing individuals. This is also comparable to yeast's budding process.",
+      "question": "What is the process of hydra reproduction called?"
+    },
+    {
+      "context": "New individuals in hydra can develop as outgrowths referred to as buds. These can be observed using a microscope, where one should count the number of bulges present in different samples.",
+      "question": "What should students look for when observing hydra?"
+    },
+    {
+      "context": "Amoeba reproduces by binary fission, while hydra reproduces through budding. Each method involves only a single parent, which is a key feature of asexual reproduction.",
+      "question": "What is binary fission?"
+    },
+    {
+      "context": "In asexual reproduction generally, there are various methods where new individuals are produced from a single parent, including budding in hydra and binary fission in amoeba.",
+      "question": "What are two methods of asexual reproduction?"
+    }
+  ]
+}

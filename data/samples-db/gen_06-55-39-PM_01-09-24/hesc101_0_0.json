@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Agriculture emerged when people could cultivate land and produce crops like rice and wheat. Crops are classified as cereals, vegetables, and fruits based on growing seasons.",
+      "question": "What is agriculture defined as?"
+    },
+    {
+      "context": "Kharif crops are those sown in the rainy season from June to September, such as paddy and maize, while rabi crops are grown in winter from October to March, like wheat and mustard.",
+      "question": "What are kharif crops typically sown?"
+    },
+    {
+      "context": "The preparation of soil includes turning and loosening it, allowing roots to penetrate easily and breathe, aiding in the growth of beneficial organisms in the soil.",
+      "question": "Why is soil preparation important for crops?"
+    },
+    {
+      "context": "Selection of good quality seeds before sowing is crucial for ensuring optimal growth conditions and maximizing crop yield during agricultural practices.",
+      "question": "Why is seed selection important before sowing?"
+    },
+    {
+      "context": "Tools like the plough, hoe, and cultivator are used for breaking soil clumps before sowing seeds, which helps in better crop yield and soil management.",
+      "question": "What tools are essential for soil preparation?"
+    },
+    {
+      "context": "The plough is used for tilling soil, adding fertilisers, and removing weeds. It consists of a strong triangular iron strip and a wooden log called a ploughshaft.",
+      "question": "What is the purpose of a plough in agriculture?"
+    },
+    {
+      "context": "The hoe is a simple tool used for removing weeds and loosening soil, featuring a broad iron blade that works effectively when pulled by animals.",
+      "question": "What tasks is a hoe used for in farming?"
+    },
+    {
+      "context": "Modern farming often employs a tractor-driven cultivator, which saves time and labor compared to traditional hand tools for soil preparation.",
+      "question": "How has technology changed modern ploughing?"
+    },
+    {
+      "context": "Soil preparation involves breaking down clumps to aerate the soil, which is crucial for root development and nutrient absorption for plants.",
+      "question": "How does breaking soil clumps benefit crop growth?"
+    },
+    {
+      "context": "Soil contains minerals, water, air, and living organisms; turning it helps release nutrients from decomposed matter back into the soil for plants.",
+      "question": "What does turning the soil help to release?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Reproductive Health: As we have seen, the process of sexual maturation is gradual, and takes place while general body growth is still going on. Therefore, some degree of sexual maturation does not necessarily mean that the body or the mind is ready for sexual acts or for having and bringing up children.",
+      "question": "What factors affect readiness for sexual acts?"
+    },
+    {
+      "context": "There can be pressure from our friends for participating in many activities, whether we really want to or not. There can be pressure from families to get married and start having children.",
+      "question": "What types of pressures influence personal choices?"
+    },
+    {
+      "context": "We must also consider the possible health consequences of having sex. We have discussed in Class IX that diseases can be transmitted from person to person in a variety of ways.",
+      "question": "What health risks are associated with sexual activity?"
+    },
+    {
+      "context": "If the egg is not fertilised, it lives for about one day. Since the ovary releases one egg every month, the uterus also prepares itself every month to receive a fertilised egg.",
+      "question": "What occurs if the egg is unfertilized?"
+    },
+    {
+      "context": "The lining slowly breaks and comes out through the vagina as blood and mucous. This cycle takes place roughly every month and is known as menstruation.",
+      "question": "What is the process following an unfertilized egg?"
+    },
+    {
+      "context": "It usually lasts for about two to eight days. This would be required for nourishing the embryo if fertilisation had taken place.",
+      "question": "What is the typical duration of menstruation?"
+    },
+    {
+      "context": "Many diseases can be sexually transmitted, including bacterial infections such as gonorrhoea and syphilis, and viral infections such as warts and HIV-AIDS.",
+      "question": "Which infections can be sexually transmitted?"
+    },
+    {
+      "context": "Thus its lining becomes thick and spongy. This would be required for nourishing the embryo if fertilisation had taken place.",
+      "question": "What prepares the uterus for a fertilized egg?"
+    }
+  ]
+}

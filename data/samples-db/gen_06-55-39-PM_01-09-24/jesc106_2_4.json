@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Insulin is a hormone produced by the pancreas that helps in regulating blood sugar levels. If it is not secreted in proper amounts, the sugar level in the blood rises causing many harmful effects. Monitoring and regulating this hormone is crucial for maintaining health.",
+      "question": "What hormone is produced by the pancreas?"
+    },
+    {
+      "context": "The timing and amount of hormone released are regulated by feedback mechanisms. For example, if the sugar levels in blood rise, they are detected by the cells of the pancreas which respond by producing more insulin. As the blood sugar level falls, insulin secretion is reduced.",
+      "question": "How does the pancreas respond to high blood sugar?"
+    },
+    {
+      "context": "If the sugar levels in blood rise, they are detected by the cells of the pancreas which respond by producing more insulin. This feedback mechanism helps to maintain blood sugar levels within a healthy range.",
+      "question": "What happens when blood sugar levels rise?"
+    },
+    {
+      "context": "Hormones should be secreted in precise quantities, and feedback mechanisms ensure this regulation. If not regulated properly, conditions like diabetes can occur, necessitating treatments such as insulin injections.",
+      "question": "Why is hormone secretion important?"
+    },
+    {
+      "context": "Insulin helps in regulating blood sugar levels, and if it is not secreted in proper amounts, harmful effects can occur, highlighting the importance of precise hormonal regulation in the body.",
+      "question": "What can happen if insulin is improperly secreted?"
+    }
+  ]
+}

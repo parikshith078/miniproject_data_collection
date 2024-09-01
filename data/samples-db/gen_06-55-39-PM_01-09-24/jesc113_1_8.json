@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Bury this material in a pit in the school garden or if there is no space available, you can collect the material in an old bucket/ flower pot and cover with at least 15 cm of soil.",
+      "question": "What is the recommended depth for soil covering?"
+    },
+    {
+      "context": "Keep this material moist and observe at 15-day intervals.",
+      "question": "How often should you observe the buried waste material?"
+    },
+    {
+      "context": "Bury this material in a pit in the school garden or if there is no space available, you can collect the material in an old bucket/ flower pot and cover with at least 15 cm of soil.",
+      "question": "Where can waste be disposed if there is no garden?"
+    },
+    {
+      "context": "Keep this material moist and observe at 15-day intervals.",
+      "question": "What should you do to the material buried in soil?"
+    },
+    {
+      "context": "Bury this material in a pit in the school garden or if there is no space available, you can collect the material in an old bucket/ flower pot and cover with at least 15 cm of soil.",
+      "question": "What type of container can be used for waste if no garden space is available?"
+    },
+    {
+      "context": "Keep this material moist and observe at 15-day intervals.",
+      "question": "What is one important condition for the waste materials?"
+    }
+  ]
+}

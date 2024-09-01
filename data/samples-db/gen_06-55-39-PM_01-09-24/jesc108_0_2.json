@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The rules of heredity determine the process by which traits and characteristics are reliably inherited. We know that a child bears all the basic features of a human being. However, it does not look exactly like its parents, and human populations show a great deal of variation.",
+      "question": "What determines how traits are inherited?"
+    },
+    {
+      "context": "Inherited Traits The rules for inheritance of such traits in human beings are related to the fact that both the father and the mother contribute practically equal amounts of genetic material to the child.",
+      "question": "How do parents contribute to inherited traits?"
+    },
+    {
+      "context": "Mendel worked out the main rules of such inheritance, and it is interesting to look at some of his experiments from more than a century ago.",
+      "question": "Who developed the rules of inheritance?"
+    },
+    {
+      "context": "However, it does not look exactly like its parents, and human populations show a great deal of variation.",
+      "question": "Why do children not look exactly like their parents?"
+    },
+    {
+      "context": "This means that each trait can be influenced by both paternal and maternal DNA.",
+      "question": "What influences the traits of a child?"
+    }
+  ]
+}

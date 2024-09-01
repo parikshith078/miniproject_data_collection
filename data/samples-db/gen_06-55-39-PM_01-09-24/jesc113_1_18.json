@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Non-biodegradable substances, such as plastic bottles and bags, can take hundreds of years to decompose in the environment, leading to significant pollution and harm to wildlife. In contrast, biodegradable materials are designed to break down quicker, often within a year or two under the right conditions.",
+      "question": "How long do non-biodegradable substances last?"
+    },
+    {
+      "context": "While many new biodegradable plastics are marketed as environmentally friendly, the reality is that some require specific conditions to break down, and if they do not reach these conditions, they may not decompose any faster than traditional plastics.",
+      "question": "Do biodegradable plastics harm the environment?"
+    },
+    {
+      "context": "Understanding the lifespan of non-biodegradable materials is crucial for assessing their impact on ecology. For example, plastics can take centuries to break down, causing lasting damage to ecosystems and contributing to pollution problems.",
+      "question": "What is the environmental impact of non-biodegradable materials?"
+    },
+    {
+      "context": "Biodegradable materials are often made from natural sources and are capable of being decomposed by microorganisms. However, their effectiveness can depend on factors like temperature, humidity, and the presence of oxygen.",
+      "question": "What influences the decomposition of biodegradable materials?"
+    },
+    {
+      "context": "The introduction of biodegradable plastics offers an alternative to traditional plastics. Some studies suggest that they can significantly reduce litter and pollution, but they must be properly disposed of in composting facilities to be effective.",
+      "question": "What are the benefits of biodegradable materials?"
+    }
+  ]
+}

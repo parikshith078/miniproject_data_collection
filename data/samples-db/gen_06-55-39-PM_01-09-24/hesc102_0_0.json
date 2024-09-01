@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Microorganisms are so small in size that they cannot be seen with the unaided eye. Some of these, such as the fungus that grows on bread, can be seen with a magnifying glass.",
+      "question": "What is the size of microorganisms?"
+    },
+    {
+      "context": "Microorganisms may be single-celled like bacteria, some algae and protozoa, or multicellular, such as many algae and fungi.",
+      "question": "What types of microorganisms exist?"
+    },
+    {
+      "context": "Common ailments like cold, influenza (flu), and most coughs are caused by viruses. Serious diseases like polio and chicken pox are also caused by viruses.",
+      "question": "Which diseases are caused by viruses?"
+    },
+    {
+      "context": "Microorganisms are classified into four major groups: bacteria, fungi, protozoa, and some algae.",
+      "question": "What are the four major groups of microorganisms?"
+    },
+    {
+      "context": "They live in all types of environment, ranging from ice-cold climates to hot springs; and deserts to marshy lands.",
+      "question": "Where do microorganisms live?"
+    }
+  ]
+}

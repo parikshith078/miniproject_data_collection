@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "When disposing of electronic items, hazardous materials such as lead, mercury, and cadmium can be found. These substances can leach into the soil and groundwater, causing contamination and posing risks to human health and the ecosystem.",
+      "question": "What hazardous materials are in electronic items?"
+    },
+    {
+      "context": "Plastics are recycled through a series of processes that include collection, sorting, cleaning, and reprocessing. This recycling helps reduce waste and can minimize the environmental impact by conserving resources and reducing greenhouse gas emissions.",
+      "question": "How are plastics processed for recycling?"
+    },
+    {
+      "context": "The recycling process for plastics can lead to energy consumption and emissions. However, it helps divert waste from landfills and reduces the demand for virgin materials, which is beneficial for the environment in the long run.",
+      "question": "What impact does recycling plastics have?"
+    },
+    {
+      "context": "Common hazardous materials in electronics include polybrominated diphenyl ethers (PBDEs) and various types of acids which are used in circuit boards. When not disposed of properly, these can cause significant harm to wildlife and water quality.",
+      "question": "What are some hazardous materials in electronics?"
+    },
+    {
+      "context": "Plastics can be recycled into new products by melting them down and reforming them. This process can create pollutants if not managed correctly, yet overall it is a critical step towards sustainable waste management.",
+      "question": "In what ways can recycled plastics be used?"
+    }
+  ]
+}

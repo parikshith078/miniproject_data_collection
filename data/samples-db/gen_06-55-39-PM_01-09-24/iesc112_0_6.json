@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "This approach depends on finding a crop variety that can give a good yield. Varieties or strains of crops can be selected by breeding for various useful characteristics such as disease resistance, response to fertilisers, product quality and high yields.",
+      "question": "What are characteristics for crop selection?"
+    },
+    {
+      "context": "One way of incorporating desirable characters into crop varieties is by hybridization. Hybridization refers to crossing between genetically dissimilar plants. This crossing may be intervarietal (between different varieties), interspecific (between two different species of the same genus) or intergeneric (between different genera).",
+      "question": "What is hybridization in plants?"
+    },
+    {
+      "context": "In India, there has been a four times increase in the production of food grains from 1952 to 2010 with only 25% increase in the cultivable land area.",
+      "question": "What has increased in India from 1952 to 2010?"
+    },
+    {
+      "context": "Varieties or strains of crops can be selected by breeding for various useful characteristics such as disease resistance, response to fertilisers, product quality and high yields.",
+      "question": "What traits are useful for breeding crops?"
+    },
+    {
+      "context": "Hybridization refers to crossing between genetically dissimilar plants. This crossing may be intervarietal (between different varieties), interspecific (between two different species of the same genus) or intergeneric (between different genera).",
+      "question": "What types of hybridization exist?"
+    },
+    {
+      "context": "In India, there has been a four times increase in the production of food grains from 1952 to 2010 with only 25% increase in the cultivable land area. How has this increase in production been achieved?",
+      "question": "How was food production increased in India?"
+    }
+  ]
+}

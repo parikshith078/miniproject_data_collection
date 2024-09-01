@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Nutrient Management involves adding manure and fertilisers to soil for plant growth. Continuous cultivation without resting can deplete nutrients. Therefore, farmers add manure to restore soil fertility. Manure, derived from organic decomposed waste, is different from chemical fertilisers that are factory-produced. Excessive fertiliser use can degrade soil quality, necessitating the use of organic manure or fallow periods to maintain fertility.",
+      "question": "What is the purpose of adding manure?"
+    },
+    {
+      "context": "Manure is an organic substance made from decomposed plant or animal waste. Farmers promote decomposition by placing waste in pits. This natural process enhances soil health, restoring essential nutrients that crops need for optimal growth. In contrast, inorganic fertilisers contain nutrients but can harm soil if used excessively, thus organic manure is preferred for sustainable farming.",
+      "question": "How is organic manure produced?"
+    },
+    {
+      "context": "Fertilisers are chemical substances that are rich in nutrients for crop growth, aiding in higher yields for crops like wheat, paddy, and maize. However, reliance on fertilisers can result in reduced soil fertility over time. To combat this issue, it is essential to alternate fertiliser use with organic manure or to allow land to remain uncultivated for seasons, which helps replenish nutrients naturally.",
+      "question": "What are the risks of excessive fertiliser use?"
+    },
+    {
+      "context": "Crop rotation is a practice of growing different crops in succession on the same land, which also helps maintain soil fertility. This method can reduce the depletion of specific nutrients and alleviate soil diseases caused by continuous cropping of the same species. By alternating crops, farmers can enhance nutritional value and prevent soil degradation over time.",
+      "question": "What is crop rotation and its benefits?"
+    },
+    {
+      "context": "To support plant growth and soil health, the combined use of organic manure and chemical fertilisers is often recommended. While manure improves soil texture and water holding capacity, fertilisers provide concentrated nutrients quickly. Farmers need to use these resources responsibly to ensure long-term productivity and mitigate environmental impacts.",
+      "question": "What is the benefit of using organic manure?"
+    }
+  ]
+}

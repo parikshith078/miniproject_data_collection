@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The ozone layer is a region of Earth's stratosphere that contains a high concentration of ozone (O3) molecules. It plays a crucial role in absorbing the majority of the sun's harmful ultraviolet (UV) radiation. This protection is essential for maintaining the health of various ecosystems, as UV radiation can damage plants and animals, leading to ecological imbalances.",
+      "question": "What is the role of the ozone layer?"
+    },
+    {
+      "context": "Waste management involves the collection, treatment, and recycling of waste materials to reduce their impact on the environment. In many localities, sewage treatment systems utilize processes like filtration and biological breakdown to remove harmful contaminants from wastewater before it is discharged into local water bodies.",
+      "question": "How is sewage treated in local areas?"
+    },
+    {
+      "context": "Sewage treatment plants often use chlorination or UV light disinfection as a final step in the purification process. This ensures that any pathogen remnants are eliminated, preventing the spread of diseases and protecting aquatic ecosystems from pollution. Regular monitoring of effluent quality helps ensure compliance with environmental standards.",
+      "question": "What methods ensure water bodies remain uncontaminated?"
+    },
+    {
+      "context": "Ozone depletion is primarily caused by human-made chemicals known as chlorofluorocarbons (CFCs), which release chlorine atoms into the stratosphere. These atoms can destroy ozone molecules, leading to thinning of the ozone layer. The consequences of ozone depletion include increased UV radiation reaching the Earth's surface, which can harm human health and wildlife.",
+      "question": "What causes ozone depletion and its consequences?"
+    },
+    {
+      "context": "In successful waste management systems, several safety mechanisms are implemented to prevent the discharge of untreated sewage into water bodies. These include wastewater treatment processes, regulations to monitor effluent quality, and community engagement programs to promote responsible disposal practices within the locality.",
+      "question": "What safety mechanisms prevent sewage pollution?"
+    }
+  ]
+}

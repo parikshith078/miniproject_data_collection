@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "Muscle fibers can be classified into three main types: slow-twitch fibers (Type I), fast-twitch fibers (Type IIa), and fast-twitch fibers (Type IIb). Slow-twitch fibers are more resistant to fatigue and are used for endurance activities, whereas fast-twitch fibers generate quick bursts of power but fatigue faster. The structure and function of each fiber type are distinct, which influences their performance in physical activities.",
+      "question": "What are the three types of muscle fibers?"
+    },
+    {
+      "context": "Cardiac muscle is unique in that it is involuntary and striated, characterized by intercalated discs that provide strong connections between cells. Its primary function is to pump blood throughout the body continuously and rhythmically. This muscle type can contract spontaneously and is essential for maintaining the heart's function without fatigue.",
+      "question": "What is the main role of cardiac muscle?"
+    }
+  ]
+}

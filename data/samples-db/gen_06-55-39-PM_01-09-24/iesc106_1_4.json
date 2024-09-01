@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Blood is a type of connective tissue. The cells of connective tissue are loosely spaced and embedded in an intercellular matrix. The matrix may be jelly-like, fluid, dense or rigid. Blood has a fluid (liquid) matrix called plasma, in which red blood corpuscles, white blood corpuscles and platelets are suspended.",
+      "question": "What type of tissue is blood classified as?"
+    },
+    {
+      "context": "Bone is another example of a connective tissue. Bone cells are embedded in a hard matrix composed of calcium and phosphorus compounds.",
+      "question": "What are the components of the bone matrix?"
+    },
+    {
+      "context": "Muscular tissue consists of elongated cells, also called muscle fibres. This tissue is responsible for movement in our body. These muscles are called skeletal muscles as they are mostly attached to bones and help in body movement.",
+      "question": "What type of muscles are primarily attached to bones?"
+    },
+    {
+      "context": "Under the microscope, these muscles show alternate light and dark bands or striations when stained appropriately. Smooth muscles control involuntary movements.",
+      "question": "What feature distinguishes skeletal muscles under a microscope?"
+    },
+    {
+      "context": "Smooth muscles control involuntary movements. These muscles are not under conscious control and are found in various internal organs.",
+      "question": "What type of control do smooth muscles have?"
+    }
+  ]
+}

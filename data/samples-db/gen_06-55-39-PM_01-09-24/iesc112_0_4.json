@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Cereals such as wheat, rice, maize, millets and sorghum provide us carbohydrate for energy requirement. Pulses like gram (chana), pea (matar), black gram (urad), green gram (moong), pigeon pea (arhar), lentil (masoor), provide us with protein.",
+      "question": "What are examples of protein-rich food crops?"
+    },
+    {
+      "context": "The second is the nurturing of the crop plants. The third is the protection of the growing and harvested crops from loss. Thus, the major groups of activities for improving crop yields can be classified as: Crop variety improvement, Crop production improvement, Crop protection management.",
+      "question": "What is one method to improve crop yields?"
+    },
+    {
+      "context": "Vegetables, spices and fruits provide a range of vitamins and minerals in addition to small amounts of proteins, carbohydrates and fats. In addition to these food crops, fodder crops like berseem, oats or sudan grass are raised as food for the livestock.",
+      "question": "What is the purpose of fodder crops?"
+    },
+    {
+      "context": "Oil seeds including soyabean, ground nut, sesame, castor, mustard, linseed and sunflower provide us with necessary fats. Improvement in Crop Yields consists of various methods.",
+      "question": "What types of crops provide necessary fats?"
+    },
+    {
+      "context": "The first is the choice of seeds for planting. The second is the nurturing of the crop plants. The third is the protection of the growing and harvested crops from loss.",
+      "question": "What is the first step in improving crop yields?"
+    }
+  ]
+}

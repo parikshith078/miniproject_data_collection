@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Humans use a sexual mode of reproduction. How does this process work? Let us begin at an apparently unrelated point.",
+      "question": "What type of reproduction do humans use?"
+    },
+    {
+      "context": "Some of these changes are common to both boys and girls. We begin to notice thick hair growing in new parts of the body.",
+      "question": "What common physical change occurs in adolescence?"
+    },
+    {
+      "context": "Thinner hair can also appear on legs and arms, as well as on the face.",
+      "question": "Where does thinner hair appear during adolescence?"
+    },
+    {
+      "context": "We begin to notice thick hair growing in new parts of the body such as armpits and the genital area.",
+      "question": "Where does thick hair typically grow in adolescents?"
+    },
+    {
+      "context": "Physical Changes During Adolescence include various bodily developments.",
+      "question": "What are the physical changes during adolescence?"
+    }
+  ]
+}

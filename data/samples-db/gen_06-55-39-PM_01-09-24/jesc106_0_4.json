@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "The brain has three such major parts or regions, namely the fore-brain, mid-brain, and hind-brain. The fore-brain is the main thinking part of the brain. It has regions which receive sensory impulses from various receptors. Separate areas of the fore-brain are specialised for hearing, smell, sight and so on.",
+      "question": "What are the three major parts of the brain?"
+    },
+    {
+      "context": "The communication between the central nervous system and the other parts of the body is facilitated by the peripheral nervous system consisting of cranial nerves arising from the brain and spinal nerves arising from the spinal cord.",
+      "question": "What facilitates communication in the nervous system?"
+    },
+    {
+      "context": "So, the brain also has to send messages to muscles. This is the second way in which the nervous system communicates with the muscles. The communication between the central nervous system and the other parts of the body is facilitated by the peripheral nervous system.",
+      "question": "How does the nervous system communicate with muscles?"
+    },
+    {
+      "context": "Separate areas of association where this sensory information is interpreted by putting it together with information from other receptors as well as with information that is already stored in the brain.",
+      "question": "What do areas of association in the brain do?"
+    },
+    {
+      "context": "Writing, talking, moving a chair, clapping at the end of a programme are examples of voluntary actions which are based on deciding what to do next.",
+      "question": "Give examples of voluntary actions controlled by the brain."
+    },
+    {
+      "context": "The brain thus allows us to think and take actions based on that thinking. The spinal cord is made up of nerves which supply information to think about.",
+      "question": "What role does the brain play in thinking and acting?"
+    },
+    {
+      "context": "The fore-brain is the main thinking part of the brain. There are separate areas of association where this sensory information is interpreted by putting it together with information from other receptors.",
+      "question": "What is the main function of the fore-brain?"
+    }
+  ]
+}

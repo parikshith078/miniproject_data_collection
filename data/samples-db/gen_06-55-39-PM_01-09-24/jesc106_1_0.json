@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Involuntary actions are controlled by the mid-brain and hind-brain. All these involuntary actions including blood pressure, salivation and vomiting are controlled by the medulla in the hind-brain.",
+      "question": "What part of the brain controls involuntary actions?"
+    },
+    {
+      "context": "It is responsible for precision of voluntary actions and maintaining the posture and balance of the body.",
+      "question": "What is the role of the cerebellum?"
+    },
+    {
+      "context": "Think about activities like walking in a straight line, riding a bicycle, picking up a pencil. These are possible due to a part of the hind-brain called the cerebellum.",
+      "question": "Which brain part is essential for voluntary actions?"
+    },
+    {
+      "context": "The medulla in the hind-brain controls involuntary actions such as blood pressure and salivation.",
+      "question": "What actions does the medulla control?"
+    },
+    {
+      "context": "The cerebellum is responsible for maintaining the posture and balance of the body.",
+      "question": "How does the cerebellum contribute to body function?"
+    },
+    {
+      "context": "All involuntary actions including blood pressure, salivation and vomiting are controlled by the medulla in the hind-brain.",
+      "question": "Name some involuntary actions controlled by the medulla."
+    }
+  ]
+}

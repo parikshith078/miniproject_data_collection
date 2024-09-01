@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Weeds are unwanted plants that grow alongside crops. They can be controlled through methods such as manual removal, using herbicides, and implementing crop rotation to disrupt their growth cycle.",
+      "question": "What are some ways to control weeds?"
+    },
+    {
+      "context": "Weeds can be controlled through methods such as manual removal, using herbicides, and implementing crop rotation to disrupt their growth cycle.",
+      "question": "How does crop rotation help control weeds?"
+    },
+    {
+      "context": "1. Preparation of soil 2. Manuring 3. Sowing 4. Irrigation 5. Harvesting 6. Sending crop to sugar factory.",
+      "question": "What is the first step in sugarcane production?"
+    },
+    {
+      "context": "1. Preparation of soil 2. Manuring 3. Sowing 4. Irrigation 5. Harvesting 6. Sending crop to sugar factory.",
+      "question": "What happens after irrigation in sugarcane production?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "These directional, or tropic movements can be either towards the stimulus, or away from it. In two different kinds of phototropic movement, shoots respond by bending towards light while roots respond by bending away from it.",
+      "question": "What is the response of shoots to light?"
+    },
+    {
+      "context": "When light is coming from one side of the plant, auxin diffuses towards the shady side of the shoot, stimulating the cells to grow longer on that side and causing the plant to bend towards light.",
+      "question": "How does auxin affect plant growth towards light?"
+    },
+    {
+      "context": "It is vital for plants to communicate information rapidly to achieve quick responses to stimuli, which they achieve using electrical impulses or chemical communication.",
+      "question": "How do plants respond quickly to stimuli?"
+    },
+    {
+      "context": "Environmental triggers such as light, or gravity will change the directions that plant parts grow in. These directional, or tropic movements can be either towards the stimulus, or away from it.",
+      "question": "What environmental factors influence plant growth direction?"
+    },
+    {
+      "context": "Another example of chemotropism is the growth of pollen tubes towards ovules. It is vital for plants to communicate information rapidly to achieve quick responses to stimuli.",
+      "question": "What is an example of chemotropism in plants?"
+    }
+  ]
+}

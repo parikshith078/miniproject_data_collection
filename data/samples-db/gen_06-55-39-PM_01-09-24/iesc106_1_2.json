@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "When we breathe we can actually feel the movement of our chest. For this we have specialised cells called muscle cells. The contraction and relaxation of these cells result in movement. Blood flows and carries various substances from one part of the body to the other.",
+      "question": "What are muscle cells responsible for?"
+    },
+    {
+      "context": "Blood flows and carries various substances from one part of the body to the other. For example, it carries oxygen and food to all cells. Blood and muscles are both examples of tissues found in our body.",
+      "question": "What substances does blood carry throughout the body?"
+    },
+    {
+      "context": "The covering or protective tissues in the animal body are epithelial tissues. Epithelium covers most organs and cavities within the body. It also forms a barrier to keep different body systems separate.",
+      "question": "What is the function of epithelial tissues?"
+    },
+    {
+      "context": "The skin, the lining of the mouth, the lining of blood vessels, lung alveoli and kidney tubules are all made of epithelial tissue. Epithelial tissue cells are tightly packed and form a continuous sheet.",
+      "question": "Where can epithelial tissues be found in the body?"
+    },
+    {
+      "context": "Epithelial tissue covers most organs and cavities within the body. It also forms a barrier to keep different body systems separate.",
+      "question": "What is a key characteristic of epithelial tissue?"
+    }
+  ]
+}

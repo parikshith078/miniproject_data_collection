@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "The energy released during cellular respiration is immediately used to synthesise a molecule called ATP which is used to fuel all other activities in the cell. This process is essential for maintaining vital functions within the body.",
+      "question": "What is the role of ATP in cells?"
+    },
+    {
+      "context": "This build-up of lactic acid in our muscles during sudden activity causes cramps. Lactic acid forms when glucose is broken down without enough oxygen during intense exercise.",
+      "question": "What causes lactic acid buildup in muscles?"
+    },
+    {
+      "context": "Cellular respiration is crucial for the production of ATP, which is necessary for energy expenditure. Without ATP, cells cannot perform essential functions.",
+      "question": "Why is cellular respiration important for cells?"
+    },
+    {
+      "context": "When engaging in sudden physical activities, lactic acid accumulates in muscles, leading to discomfort and cramps. This is a common experience during intense workouts.",
+      "question": "What happens to muscles during intense exercise?"
+    }
+  ]
+}

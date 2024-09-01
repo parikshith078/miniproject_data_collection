@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In the case of a single-celled organism, no specific organs for taking in food, exchange of gases or removal of wastes may be needed because the entire surface of the organism is in contact with the environment.",
+      "question": "Why don't single-celled organisms need specialized organs?"
+    },
+    {
+      "context": "In multi-cellular organisms, all the cells may not be in direct contact with the surrounding environment. Thus, simple diffusion will not meet the requirements of all the cells.",
+      "question": "What limits diffusion in multi-cellular organisms?"
+    },
+    {
+      "context": "This situation creates a need for a transportation system for carrying food and oxygen from one place to another in the body.",
+      "question": "Why do multi-cellular organisms need a transportation system?"
+    },
+    {
+      "context": "When chemical reactions use the carbon source and the oxygen for energy generation, they create by-products that are not only useless for the cells of the body, but could even be harmful.",
+      "question": "What happens to by-products during energy generation?"
+    },
+    {
+      "context": "These waste by-products are therefore needed to be removed from the body and discarded outside by a process called excretion.",
+      "question": "What is the process of removing waste by-products?"
+    }
+  ]
+}

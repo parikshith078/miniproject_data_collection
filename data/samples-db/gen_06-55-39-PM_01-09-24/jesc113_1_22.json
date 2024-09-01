@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "In homes, waste generation can vary among households. On average, a family may produce about 4.4 pounds of waste daily, of which approximately 30-40% can be classified as biodegradable waste such as food scraps and yard waste.",
+      "question": "What is the average daily waste per family?"
+    },
+    {
+      "context": "Classrooms often generate waste from materials used in projects, food wrappers from snacks, and paper products. On average, a classroom may produce about 2.5 pounds of waste per day, with around 25% being biodegradable, including paper and organic materials.",
+      "question": "How much waste does a classroom generate daily?"
+    }
+  ]
+}

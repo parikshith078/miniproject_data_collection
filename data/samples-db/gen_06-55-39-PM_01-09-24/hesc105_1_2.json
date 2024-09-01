@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Red Data Book is the source book which keeps a record of all the endangered animals and plants. Red Data Book is maintained internationally by an organisation. India also maintains Red Data Book for plants and animals found in India.",
+      "question": "What is the purpose of the Red Data Book?"
+    },
+    {
+      "context": "Migratory birds fly to far away areas every year during a particular time because of climatic changes. They fly for laying eggs as the weather in their natural habitat becomes very cold and inhospitable.",
+      "question": "Why do migratory birds travel long distances?"
+    },
+    {
+      "context": "Red Data Book is maintained internationally by an organisation. India also maintains Red Data Book for plants and animals found in India.",
+      "question": "Who maintains the Red Data Book in India?"
+    },
+    {
+      "context": "These birds have flown here from other parts of the world. Birds who cover long distances to reach another land are known as migratory birds.",
+      "question": "What are birds that travel long distances called?"
+    },
+    {
+      "context": "Red Data Book is the source book which keeps a record of all the endangered animals and plants. Red Data Book is maintained internationally by an organisation.",
+      "question": "What does the Red Data Book record?"
+    },
+    {
+      "context": "They fly for laying eggs as the weather in their natural habitat becomes very cold and inhospitable. Migratory birds fly to far away areas every year during a particular time.",
+      "question": "When do migratory birds typically travel?"
+    },
+    {
+      "context": "Madhavji tells the children that these are migratory birds. These birds have flown here from other parts of the world.",
+      "question": "Who told the children about migratory birds?"
+    },
+    {
+      "context": "Red Data Book is maintained internationally by an organisation. India also maintains Red Data Book for plants and animals found in India.",
+      "question": "What type of organisms does the Red Data Book include?"
+    }
+  ]
+}

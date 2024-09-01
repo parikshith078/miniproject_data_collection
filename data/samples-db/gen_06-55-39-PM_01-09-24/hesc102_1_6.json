@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Robert Köch (1876) discovered the bacterium (Bacillus anthracis) which causes anthrax disease.",
+      "question": "Who discovered Bacillus anthracis?"
+    },
+    {
+      "context": "Food preservation methods are essential because spoiled food emits bad smell and has a bad taste and changed colour. Salts and edible oils are the common chemicals generally used to check the growth of microorganisms.",
+      "question": "Why are food preservation methods important?"
+    },
+    {
+      "context": "Sodium benzoate and sodium metabisulphite are common preservatives. Preservation by Common Salt includes covering meat and fish with dry salt to check bacterial growth.",
+      "question": "What are examples of common food preservatives?"
+    },
+    {
+      "context": "Methods of Food Preservation are essential because spoiled food emits bad smell and has a bad taste and changed colour.",
+      "question": "What happens to spoiled food?"
+    },
+    {
+      "context": "Food preservation methods are essential because spoiled food emits bad smell and has a bad taste and changed colour. Salts and edible oils are the common chemicals generally used to check the growth of microorganisms.",
+      "question": "What role do salts play in food preservation?"
+    },
+    {
+      "context": "Preservation by Common Salt includes covering meat and fish with dry salt to check bacterial growth.",
+      "question": "How does salt preserve food?"
+    }
+  ]
+}

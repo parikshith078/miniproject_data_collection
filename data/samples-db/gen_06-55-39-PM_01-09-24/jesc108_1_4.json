@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Mendel's experiments demonstrated that when he bred pea plants with different traits, the offspring would inherit distinct traits depending on whether those traits were dominant or recessive. For instance, when he crossed a pure tall plant with a pure short plant, all the first-generation offspring were tall, indicating that the tall trait was dominant. However, when the first generation was self-crossed, a mix of tall and short plants appeared in the second generation, suggesting that the short trait was recessive.",
+      "question": "How do Mendel's experiments show dominant traits?"
+    },
+    {
+      "context": "Mendel's findings indicated that traits are inherited independently when he observed the inheritance patterns of two different characteristics, such as seed shape and seed color. Through dihybrid crosses, he found that the traits for seed shape and color segregated independently into gametes, leading to a variety of combinations in the offspring. This supported the principle of independent assortment.",
+      "question": "How do Mendel's experiments show independent inheritance?"
+    },
+    {
+      "context": "When a man with blood group A (genotypes could be AA or AO) marries a woman with blood group O (genotype must be OO), their daughter has blood group O (genotype OO). This information shows that blood group O must be recessive since the daughter cannot inherit an A allele from her mother, whose only allele is O. However, it does not definitively establish the dominance of A over O, as the father could have the AO genotype.",
+      "question": "Is blood group A or O dominant based on information?"
+    },
+    {
+      "context": "In humans, the sex of a child is determined by the combination of sex chromosomes contributed by the parents. A sperm carrying an X chromosome combined with an egg carrying an X chromosome results in a female (XX), while a sperm carrying a Y chromosome combined with an egg carrying an X chromosome results in a male (XY). The presence of Y determines maleness.",
+      "question": "How is a child's sex determined in humans?"
+    },
+    {
+      "context": "In a Mendelian genetics experiment, tall pea plants with violet flowers were crossed with short pea plants with white flowers. The progeny exhibited violet flowers only, but about half of them were short. This indicates that the tall parent must carry a recessive allele, and since the offspring show a mix of one dominant trait (violet flower) and recessive traits (short), the genetic make-up of the tall parent can be understood.",
+      "question": "What is the genetic make-up of the tall parent?"
+    },
+    {
+      "context": "A study observing the inheritance of light-colored eyes noted that children with light-colored eyes had a tendency to have parents who also exhibited the same trait. This can suggest a potential hereditary linkage but does not confirm whether this trait is dominant or recessive without further genetic analysis.",
+      "question": "Is light eye color dominant or recessive?"
+    },
+    {
+      "context": "To determine the dominant coat color in dogs, a project could involve crossing various breeds known for specific coat colors. Offspring would then be evaluated for coat color traits, observing the ratios of offspring colors, conducting genetic tests to identify alleles involved, and analyzing patterns of inheritance across multiple generations to establish dominance.",
+      "question": "Outline a project to find dominant coat color in dogs."
+    },
+    {
+      "context": "The equal genetic contribution from male and female parents in offspring is ensured through the process of genetic recombination during gamete formation. Each parent contributes half of the genetic information via their gametes (sperm and egg), maintaining genetic balance and variety in the resulting offspring.",
+      "question": "How is equal genetic contribution ensured in progeny?"
+    }
+  ]
+}

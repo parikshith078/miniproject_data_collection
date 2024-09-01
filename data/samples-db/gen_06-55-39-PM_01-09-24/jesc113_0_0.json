@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Our elders tell us that the ‘environment’ is not what it used to be earlier; others say that we should work in a healthy ‘environment’; and global summits involving the developed and developing countries are regularly held to discuss ‘environmental’ issues.",
+      "question": "Why do elders believe the environment has changed?"
+    },
+    {
+      "context": "All organisms such as plants, animals, microorganisms and human beings as well as the physical surroundings interact with each other and maintain a balance in nature.",
+      "question": "What maintains balance in an ecosystem?"
+    },
+    {
+      "context": "Thus, an ecosystem consists of biotic components comprising living organisms and abiotic components comprising physical factors like temperature, rainfall, wind, soil and minerals.",
+      "question": "What are the two main components of an ecosystem?"
+    },
+    {
+      "context": "For example, if you visit a garden you will find different plants, such as grasses, trees; flower bearing plants like rose, jasmine, sunflower; and animals like frogs, insects and birds.",
+      "question": "What types of organisms can be found in a garden?"
+    },
+    {
+      "context": "All these living organisms interact with each other and their growth, reproduction and other activities are affected by the abiotic components of ecosystem.",
+      "question": "How do abiotic components affect living organisms?"
+    }
+  ]
+}

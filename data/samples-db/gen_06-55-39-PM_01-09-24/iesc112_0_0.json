@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Food provides necessary nutrients including proteins, carbohydrates, and vitamins essential for health. Plants and animals are our main food sources obtained through agriculture and animal husbandry. As the population in India exceeds one billion and grows continuously, food production must increase. India will need over a quarter of a billion tonnes of grain per year.",
+      "question": "Why do we need to increase food production?"
+    },
+    {
+      "context": "The green revolution helped improve food-grain production, while the white revolution enhanced milk availability. Despite these successes, the intensified use of natural resources poses risks of damage and imbalance to the environment. Therefore, sustainable practices are essential in agriculture and animal husbandry.",
+      "question": "What are the effects of the green and white revolutions?"
+    },
+    {
+      "context": "With a population over one billion and counting, India is faced with the challenge of producing enough food to sustain its citizens. Current agricultural practices may not meet the demands of this growing population. Farming on more land is limited because India is already intensively cultivated.",
+      "question": "Why can't we farm on more land in India?"
+    },
+    {
+      "context": "The need for increased production efficiency in crops and livestock arises from the limitations of current agriculture practices. Although food production has seen improvements, the environmental costs of such practices may lead to long-term sustainability issues, emphasizing the need for a balance.",
+      "question": "What is meant by production efficiency in agriculture?"
+    },
+    {
+      "context": "To prevent resource degradation while meeting food demand, the need for sustainable agriculture practices is critical. Sustainable agriculture maintains ecological balance and ensures the preservation of natural resources for future generations, allowing for continued food production without environmental compromise.",
+      "question": "What is sustainable agriculture?"
+    },
+    {
+      "context": "As food production attempts rise due to increasing demand, environmental concerns grow. Using resources intensively for maximum yield can lead to irreversible damage to the natural environment, highlighting the importance of sustainable practices to maintain ecological balance.",
+      "question": "Why is sustainability important in food production?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Since the aerobic respiration pathway depends on oxygen, aerobic organisms need to ensure that there is sufficient intake of oxygen.",
+      "question": "What do aerobic organisms depend on?"
+    },
+    {
+      "context": "Plants exchange gases through stomata, and the large inter-cellular spaces ensure that all cells are in contact with air.",
+      "question": "How do plants exchange gases?"
+    },
+    {
+      "context": "Carbon dioxide and oxygen are exchanged by diffusion here.",
+      "question": "Which gases are exchanged by diffusion?"
+    },
+    {
+      "context": "The large inter-cellular spaces ensure that all cells are in contact with air.",
+      "question": "Why are inter-cellular spaces important?"
+    },
+    {
+      "context": "Aerobic respiration requires sufficient intake of oxygen to function properly.",
+      "question": "Why must aerobic organisms intake oxygen?"
+    }
+  ]
+}

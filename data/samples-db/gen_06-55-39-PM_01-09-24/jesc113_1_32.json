@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Biological magnification refers to the process by which the concentration of harmful substances increases in organisms at each successive trophic level of a food chain. This occurs as smaller organisms, which may accumulate toxins, are consumed by larger predators, leading to higher concentrations in those top-level consumers. The levels of biological magnification can vary significantly between ecosystems depending on the organisms present and the environmental conditions.",
+      "question": "What is biological magnification?"
+    },
+    {
+      "context": "Biological magnification refers to the increase in concentration of substances like pesticides and heavy metals in organisms as one moves up the food chain. For instance, small fish may accumulate toxins from the water, and when larger fish eat them, the toxins concentrate even more. This results in top predators having the highest levels of these substances, which can have harmful effects on their health and reproduction.",
+      "question": "Will magnification levels differ in ecosystems?"
+    },
+    {
+      "context": "Non-biodegradable wastes, such as plastics and certain chemicals, create significant environmental problems. They persist in the ecosystem for many years without breaking down, leading to pollution of soil and waterways. Wildlife may ingest these materials, leading to injury or death, and humans can also be affected through the food chain. Additionally, these wastes can disrupt ecosystems and alter habitats, making them unsuitable for various species.",
+      "question": "What problems do non-biodegradable wastes cause?"
+    },
+    {
+      "context": "The impact of non-biodegradable wastes is profound, as these materials do not decompose and can accumulate over time. They can lead to landscape degradation, harm wildlife through ingestion or entanglement, and contribute to soil, air, and water pollution. Furthermore, these wastes can hinder plant growth and disrupt local ecosystems by changing the natural habitats of organisms.",
+      "question": "How does non-biodegradable waste affect wildlife?"
+    }
+  ]
+}

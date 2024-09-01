@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The skin is composed of multiple tissue types, primarily epithelium and connective tissues, which provide protection and support. The bark of a tree is mostly composed of cork tissue, serving protective functions. Bone is a type of connective tissue that provides structure and support. The lining of kidney tubules consists of simple cuboidal epithelium, which plays a role in absorption and secretion. Vascular bundles are made up of xylem and phloem tissues responsible for transporting water, nutrients, and sugars.",
+      "question": "What is the primary function of skin?"
+    },
+    {
+      "context": "Stomata are tiny openings on plant leaves that facilitate gas exchange. They allow for the intake of carbon dioxide needed for photosynthesis while permitting the release of oxygen. Additionally, stomata play a crucial role in transpiration, which helps regulate water loss in plants. This regulation of water helps maintain overall plant health and control of internal temperature.",
+      "question": "How do stomata help plants with gas exchange?"
+    },
+    {
+      "context": "The skin is composed of multiple tissue types, primarily epithelium and connective tissues, which provide protection and support. The bark of a tree is mostly composed of cork tissue, serving protective functions. Bone is a type of connective tissue that provides structure and support. The lining of kidney tubules consists of simple cuboidal epithelium, which plays a role in absorption and secretion. Vascular bundles are made up of xylem and phloem tissues responsible for transporting water, nutrients, and sugars.",
+      "question": "Which tissue is found in kidney tubules?"
+    },
+    {
+      "context": "Stomata are tiny openings on plant leaves that facilitate gas exchange. They allow for the intake of carbon dioxide needed for photosynthesis while permitting the release of oxygen. Additionally, stomata play a crucial role in transpiration, which helps regulate water loss in plants. This regulation of water helps maintain overall plant health and control of internal temperature.",
+      "question": "What role do stomata play in transpiration?"
+    },
+    {
+      "context": "The skin is composed of multiple tissue types, primarily epithelium and connective tissues, which provide protection and support. The bark of a tree is mostly composed of cork tissue, serving protective functions. Bone is a type of connective tissue that provides structure and support. The lining of kidney tubules consists of simple cuboidal epithelium, which plays a role in absorption and secretion. Vascular bundles are made up of xylem and phloem tissues responsible for transporting water, nutrients, and sugars.",
+      "question": "What type of tissue is bone classified as?"
+    },
+    {
+      "context": "Stomata are tiny openings on plant leaves that facilitate gas exchange. They allow for the intake of carbon dioxide needed for photosynthesis while permitting the release of oxygen. Additionally, stomata play a crucial role in transpiration, which helps regulate water loss in plants. This regulation of water helps maintain overall plant health and control of internal temperature.",
+      "question": "What gas do stomata allow to enter during photosynthesis?"
+    }
+  ]
+}

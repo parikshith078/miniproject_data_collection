@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In human beings, air is taken into the body through the nostrils. The air passing through the nostrils is filtered by fine hairs that line the passage.",
+      "question": "What filters air in the nostrils?"
+    },
+    {
+      "context": "Within the lungs, the passage divides into smaller tubes which finally terminate in balloon-like structures which are called alveoli.",
+      "question": "What are the balloon-like structures in lungs?"
+    },
+    {
+      "context": "The air passing through the nostrils is filtered by fine hairs that line the passage. Structure of the Lungs includes smaller tubes.",
+      "question": "What role do fine hairs play in respiration?"
+    },
+    {
+      "context": "Air taken into the body through the nostrils is filtered by fine hairs. These fine hairs line the passage of the nostrils.",
+      "question": "How does air enter the human respiratory system?"
+    },
+    {
+      "context": "The passage divides into smaller tubes which terminate in structures called alveoli. This occurs within the lungs.",
+      "question": "What happens to air within the lungs?"
+    }
+  ]
+}

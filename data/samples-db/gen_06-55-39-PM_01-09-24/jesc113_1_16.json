@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Substances that are not broken down in this manner are said to be non-biodegradable. These substances may be inert and simply persist in the environment for a long time or may harm the various members of the eco-system.",
+      "question": "What are non-biodegradable substances?"
+    },
+    {
+      "context": "These substances may be inert and simply persist in the environment for a long time or may harm the various members of the eco-system.",
+      "question": "How do non-biodegradable materials affect ecosystems?"
+    },
+    {
+      "context": "Find out from the library or internet to find out more about biodegradable and non-biodegradable substances.",
+      "question": "Where can you research biodegradable materials?"
+    },
+    {
+      "context": "Substances that are not broken down in this manner are said to be non-biodegradable.",
+      "question": "What does it mean for a substance to be non-biodegradable?"
+    },
+    {
+      "context": "These substances may be inert and simply persist in the environment for a long time.",
+      "question": "What does it mean for a substance to be inert?"
+    }
+  ]
+}

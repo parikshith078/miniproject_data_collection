@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Waste generated at home is collected through designated bins and scheduled pickups by local waste management services. This process may include sorting recyclables, composting organic material, and disposing of non-recyclable waste safely.",
+      "question": "How is home waste typically collected?"
+    },
+    {
+      "context": "Local bodies, such as panchayats and municipal corporations, often employ a waste management system that includes separate collection for biodegradable and non-biodegradable waste. This helps in efficient recycling and composting processes.",
+      "question": "What systems do local bodies use for waste management?"
+    },
+    {
+      "context": "In many areas, municipal corporations implement waste segregation at the source to handle biodegradable waste separately from non-biodegradable waste. This is crucial for effective recycling and reducing landfill waste.",
+      "question": "Why is waste segregation important in municipalities?"
+    },
+    {
+      "context": "Resident welfare associations often play a key role in managing local waste, ensuring members follow proper waste disposal methods, such as separating food waste for composting and recyclables for collection.",
+      "question": "What role do resident welfare associations play in waste management?"
+    },
+    {
+      "context": "Biodegradable waste is typically treated through composting, while non-biodegradable waste is sent to recycling centers or landfills. This separates recyclable materials from general trash effectively.",
+      "question": "How are biodegradable and non-biodegradable wastes treated?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The female reproductive system is responsible for making eggs and some hormones. At birth, the ovaries have thousands of immature eggs that start maturing at puberty. One egg is produced each month and travels from the ovary through the fallopian tube to the uterus. The uterus opens into the vagina, where sperm enters during intercourse.",
+      "question": "What happens to eggs at puberty?"
+    },
+    {
+      "context": "Sperms are produced in the testes, located in the scrotum to maintain a lower temperature for optimal sperm formation. Testosterone regulates sperm formation and causes physical changes in boys during puberty. The sperms are delivered through vas deferens, uniting with the urinary bladder to form a passage with urethra.",
+      "question": "Where are sperms produced in males?"
+    },
+    {
+      "context": "During sexual intercourse, sperm enter through the vaginal passage and travel to the oviduct where they may meet an egg. If fertilization occurs, the fertilized egg (zygote) divides and becomes an embryo, which implants in the uterus lining and develops into a fetus.",
+      "question": "What is formed after an egg is fertilized?"
+    },
+    {
+      "context": "The embryo generates waste products that are transferred to the maternal blood through the placenta. The female reproductive system plays a crucial role in the fertilization and development of the fetus until birth.",
+      "question": "How do embryos remove waste?"
+    },
+    {
+      "context": "The formation of germ-cells or sperms occurs in the testes. The low temperature in the scrotum is vital for sperm production. Testosterone is linked not only to sperm regulation but also to physical changes seen in boys as they reach adolescence.",
+      "question": "Why are testes located outside the body?"
+    }
+  ]
+}

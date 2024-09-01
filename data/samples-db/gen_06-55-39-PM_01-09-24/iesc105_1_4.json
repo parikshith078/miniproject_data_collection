@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Every cell has a membrane around it to keep its own contents separate from the external environment. Large and complex cells, including cells from multicellular organisms, need a lot of chemical activities to support their complicated structure and function. To keep these activities separate, these cells use membrane-bound organelles within themselves.",
+      "question": "What is the function of cell membranes?"
+    },
+    {
+      "context": "The endoplasmic reticulum (ER) is a large network of membrane-bound tubes and sheets. The ER membrane is similar in structure to the plasma membrane. There are two types of ER– rough endoplasmic reticulum (RER) and smooth endoplasmic reticulum (SER).",
+      "question": "What are the two types of endoplasmic reticulum?"
+    },
+    {
+      "context": "RER looks rough under a microscope because it has particles called ribosomes attached to its surface. The ribosomes are the sites of protein manufacture. The manufactured proteins are then sent to various places in the cell depending on need, using the ER.",
+      "question": "Why does RER appear rough under a microscope?"
+    },
+    {
+      "context": "The SER helps in the manufacture of fat molecules, or lipids, important for cell function. Some of these proteins and lipids help in building the cell membrane. This process is known as membrane biogenesis.",
+      "question": "What role does the SER play in the cell?"
+    },
+    {
+      "context": "The ER serves as channels for the transport of materials, especially proteins, between various regions of the cytoplasm or between the cytoplasm and the nucleus. The ER also functions as a cytoplasmic framework providing a surface.",
+      "question": "What is one function of the endoplasmic reticulum?"
+    },
+    {
+      "context": "Some important examples of cell organelles which we will discuss now are: endoplasmic reticulum, Golgi apparatus, lysosomes, mitochondria and plastids. They are important because they carry out some very crucial functions in cells.",
+      "question": "Name one important cell organelle."
+    },
+    {
+      "context": "Some of these proteins and lipids function as enzymes and hormones. Although the ER varies greatly in appearance in different cells, it always forms a network system.",
+      "question": "What functions do ER proteins and lipids serve?"
+    }
+  ]
+}

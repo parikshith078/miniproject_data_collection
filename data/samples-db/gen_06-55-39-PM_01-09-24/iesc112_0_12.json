@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fertilizers supply nitrogen, phosphorus and potassium. They are used to ensure good vegetative growth (leaves, branches and flowers), giving rise to healthy plants.",
+      "question": "What nutrients do fertilizers supply?"
+    },
+    {
+      "context": "Excess fertilizer can lead to water pollution and harm the soil conditions in the long run.",
+      "question": "What harm can excess fertilizer cause?"
+    },
+    {
+      "context": "Fertilizers should be applied carefully in terms of proper dose, time, and observing pre- and post-application precautions for their complete utilisation.",
+      "question": "How should fertilizers be applied?"
+    },
+    {
+      "context": "Fertilizers are commercially produced plant nutrients. They are used to ensure good vegetative growth, giving rise to healthy plants.",
+      "question": "What are fertilizers used for?"
+    },
+    {
+      "context": "Proper dose, time, and observing pre- and post-application precautions are important for complete utilisation of fertilizers.",
+      "question": "What precautions are necessary for fertilizer use?"
+    }
+  ]
+}

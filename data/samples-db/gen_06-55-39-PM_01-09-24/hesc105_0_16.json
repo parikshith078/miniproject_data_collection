@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Satpura National Park is the first Reserve Forest of India. It is a pity that even protected forests are not safe because people living in the neighbourhood encroach upon them and destroy them.",
+      "question": "What is the significance of Satpura National Park?"
+    },
+    {
+      "context": "They preserve flora, fauna, landscape and historic objects of an area. Some of the threatened wild animals like black buck, white-eyed buck, elephant, golden cat, pink-headed duck, gharial, marsh crocodile, python, rhinoceros, etc., are protected and preserved in our wildlife sanctuaries.",
+      "question": "What do wildlife sanctuaries aim to preserve?"
+    },
+    {
+      "context": "Madhavji tells them that these reserves are large and diverse enough to protect whole sets of ecosystems. Indian sanctuaries have unique landscapes—broad level forests, mountain forests and bush lands in deltas of big rivers.",
+      "question": "What ecosystems do Indian wildlife sanctuaries protect?"
+    },
+    {
+      "context": "Activity 5.7 Visit a nearby zoo. Observe the conditions provided to the animals. Were they suitable for the animals? Can animals live in artificial settings?",
+      "question": "What should be observed when visiting a zoo?"
+    },
+    {
+      "context": "It is a pity that even protected forests are not safe because people living in the neighbourhood encroach upon them and destroy them.",
+      "question": "What threat do protected forests face?"
+    }
+  ]
+}

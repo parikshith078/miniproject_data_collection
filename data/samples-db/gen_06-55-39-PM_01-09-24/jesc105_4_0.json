@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "In human beings, excretory products in the form of soluble nitrogen compounds are removed by the nephrons in the kidneys. The kidneys play a crucial role in filtering blood and eliminating waste.",
+      "question": "What role do kidneys play in humans?"
+    },
+    {
+      "context": "The nephron is the functional unit of the kidney, responsible for the filtration of blood and the excretion of wastes.",
+      "question": "What is the role of a nephron?"
+    },
+    {
+      "context": "The amount of urine produced is regulated by several factors including hydration levels, hormonal control, and the body's overall health.",
+      "question": "What regulates the amount of urine produced?"
+    },
+    {
+      "context": "Plants use completely different strategies for excretion compared to animals. They can expel waste products generated during photosynthesis, such as oxygen.",
+      "question": "How do plants excrete waste products?"
+    },
+    {
+      "context": "To manage excess water, plants utilize transpiration. Other waste products are stored in vacuoles or lost through fallen leaves.",
+      "question": "What method do plants use for excess water management?"
+    },
+    {
+      "context": "Waste material may be stored in the cytoplasm or cell vacuoles, removed via falling leaves, or excreted into the soil around them.",
+      "question": "Where can waste be stored in plants?"
+    },
+    {
+      "context": "The kidneys play a crucial role in filtering blood and eliminating waste. The initial filtrate in the kidneys is about 180 L daily.",
+      "question": "How much filtrate do kidneys produce daily?"
+    },
+    {
+      "context": "Other waste products are stored in vacuoles or lost through fallen leaves. Resins and gums may also be stored in older xylem.",
+      "question": "What types of waste products do plants store?"
+    }
+  ]
+}

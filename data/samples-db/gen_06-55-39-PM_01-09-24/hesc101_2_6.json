@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "If wheat is sown in the kharif season, it would not yield well since wheat is a rabi crop, which requires cooler temperatures to grow and is typically sown in the winter.",
+      "question": "Why is wheat unsuitable for the kharif season?"
+    },
+    {
+      "context": "Continuous plantation of crops in a field can deplete the soil of essential nutrients, leading to decreased soil fertility. Additionally, it can result in soil degradation and increased vulnerability to pests.",
+      "question": "What is the consequence of continuous crop plantation?"
+    },
+    {
+      "context": "Wheat is a rabi crop, which requires cooler temperatures to grow and is typically sown in the winter.",
+      "question": "What temperature is required for wheat growth?"
+    },
+    {
+      "context": "Continuous plantation of crops can deplete nutrients and increase vulnerability to pests and soil degradation.",
+      "question": "How does continuous cropping affect soil health?"
+    },
+    {
+      "context": "Kharif season is unsuitable for wheat cultivation due to its climatic requirements.",
+      "question": "What season is ideal for sowing wheat?"
+    }
+  ]
+}

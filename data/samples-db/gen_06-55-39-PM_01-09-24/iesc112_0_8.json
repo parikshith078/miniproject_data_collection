@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Different crops require different climatic conditions, temperature and photoperiods for their growth and completion of their life cycle. Photoperiods are related to the duration of sunlight. Growth of plants and flowering are dependent on sunlight.",
+      "question": "What do crops depend on for flowering?"
+    },
+    {
+      "context": "Just as we need food for development, growth and well-being, plants also require nutrients for growth. Nutrients are supplied to plants by air, water and soil.",
+      "question": "How do plants obtain their nutrients?"
+    },
+    {
+      "context": "There are several nutrients which are essential for plants. Air supplies carbon and oxygen, hydrogen comes from water, and soil supplies the other thirteen nutrients to plants.",
+      "question": "What role does soil play for plants?"
+    },
+    {
+      "context": "Amongst these, some are required in large quantities and are therefore called macro-nutrients. The other nutrients are used by plants in small quantities and are therefore called micro-nutrients.",
+      "question": "What are macro-nutrients in plants?"
+    },
+    {
+      "context": "Growth of plants and flowering are dependent on sunlight. As we all know, plants manufacture their food in sunlight by the process of photosynthesis.",
+      "question": "What process do plants use to make food?"
+    },
+    {
+      "context": "Nutrients are supplied to plants by air, water and soil. There are several nutrients which are essential for plants.",
+      "question": "What do plants need for growth?"
+    },
+    {
+      "context": "Different crops require different climatic conditions, temperature and photoperiods for their growth and completion of their life cycle.",
+      "question": "What factors affect crop growth?"
+    },
+    {
+      "context": "Some nutrients are required in large quantities and are therefore called macro-nutrients. The other nutrients are used by plants in small quantities.",
+      "question": "What defines micro-nutrients for plants?"
+    }
+  ]
+}

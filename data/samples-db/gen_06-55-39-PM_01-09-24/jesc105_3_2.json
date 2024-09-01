@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "To avoid leakage which would lead to a loss of pressure and reduce the efficiency of the pumping system, the blood has platelet cells which circulate around the body and plug these leaks by helping to clot the blood at these points of injury.",
+      "question": "What role do platelets play in blood?"
+    },
+    {
+      "context": "Lymph is another type of fluid involved in transportation. Through the pores present in the walls of capillaries, some amount of plasma, proteins, and blood cells escape into intercellular spaces in the tissues to form tissue fluid or lymph.",
+      "question": "How is lymph formed in the body?"
+    },
+    {
+      "context": "Lymph drains into lymphatic capillaries from the intercellular spaces, which join to form large lymph vessels that finally open into larger veins. Lymph carries digested and absorbed fat from the intestine and drains excess fluid from extracellular space back into the blood.",
+      "question": "What function does lymph perform in the body?"
+    },
+    {
+      "context": "It is similar to the plasma of blood but colorless and contains less protein. Lymph drains into lymphatic capillaries from the intercellular spaces, which join to form large lymph vessels that finally open into larger veins.",
+      "question": "How does lymph differ from blood plasma?"
+    },
+    {
+      "context": "Lymph carries digested and absorbed fat from the intestine and drains excess fluid from extracellular space back into the blood. Through the pores present in the walls of capillaries, some amount of plasma, proteins, and blood cells escape into intercellular spaces in the tissues to form tissue fluid or lymph.",
+      "question": "What does lymph transport from the intestine?"
+    }
+  ]
+}

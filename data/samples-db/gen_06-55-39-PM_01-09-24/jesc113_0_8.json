@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "In this chapter, we shall be looking at two of the environmental problems in detail, that is, depletion of the ozone layer and waste disposal.",
+      "question": "What two environmental problems are discussed?"
+    },
+    {
+      "context": "The amount of ozone in the atmosphere began to drop sharply in the 1980s. This decrease has been linked to synthetic chemicals like chlorofluorocarbons (CFCs).",
+      "question": "When did ozone levels start to decline?"
+    },
+    {
+      "context": "Ozone at the higher levels of the atmosphere shields the surface of the earth from ultraviolet (UV) radiation from the Sun.",
+      "question": "What does the ozone layer protect us from?"
+    },
+    {
+      "context": "This decrease has been linked to synthetic chemicals like chlorofluorocarbons (CFCs) which are used as refrigerants and in fire extinguishers.",
+      "question": "What are chlorofluorocarbons used for?"
+    },
+    {
+      "context": "Ozone (O3) is a molecule formed by three atoms of oxygen.",
+      "question": "What is the molecular composition of ozone?"
+    },
+    {
+      "context": "Changes in the environment affect us and our activities change the environment around us.",
+      "question": "How do human activities impact the environment?"
+    },
+    {
+      "context": "In the 1980s, the amount of ozone in the atmosphere began to drop sharply due to human actions.",
+      "question": "What caused the sharp decrease in ozone levels?"
+    },
+    {
+      "context": "We are an integral part of the environment, and waste disposal is one of the problems we face.",
+      "question": "What is one environmental problem related to human activities?"
+    }
+  ]
+}

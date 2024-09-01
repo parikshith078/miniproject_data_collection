@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Microorganisms play an important role in our lives. Some of them are beneficial in many ways whereas some others are harmful and cause diseases. Microorganisms have been used for the production of alcohol since ages. They are used in the preparation of curd, bread, and cake.",
+      "question": "What is the role of microorganisms in food production?"
+    },
+    {
+      "context": "Of these, the bacterium Lactobacillus promotes the formation of curd. It multiplies in milk and converts it into curd. Bacteria are also involved in the making of cheese, pickles, and many other food items.",
+      "question": "Which bacterium helps in curd formation?"
+    },
+    {
+      "context": "Microorganisms are also used in cleaning up the environment. For example, the organic wastes (vegetable peels, remains of animals, faeces, etc.) are broken down into harmless and usable substances by bacteria.",
+      "question": "How do microorganisms aid environmental cleanup?"
+    },
+    {
+      "context": "Yeast reproduces rapidly and produces carbon dioxide during respiration. Bubbles of the gas fill the dough and increase its volume. This is the basis of the use of yeast in the baking industry for making breads, pastries, and cakes.",
+      "question": "What gas does yeast produce during respiration?"
+    },
+    {
+      "context": "Making of Curd and Bread: You have learned in Class VII that milk is turned into curd by bacteria. Activity 2.3 Take ½ kg flour (atta or maida), add some sugar and mix with warm water.",
+      "question": "What happens when flour is mixed with yeast?"
+    },
+    {
+      "context": "Louis Pasteur discovered fermentation in 1857. Yeast reproduces rapidly and produces carbon dioxide during respiration.",
+      "question": "Who discovered fermentation and in which year?"
+    }
+  ]
+}

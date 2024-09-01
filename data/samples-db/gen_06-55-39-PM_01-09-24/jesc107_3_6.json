@@ -1,0 +1,48 @@
+{
+  "samples": [
+    {
+      "context": "Asexual reproduction takes place through budding in organisms such as yeast, which gives rise to new individuals from the parent organism. This process enables quick population increase without the need for gametes.",
+      "question": "What organism reproduces asexually through budding?"
+    },
+    {
+      "context": "The human female reproductive system comprises several organs, including the ovaries, uterus, and fallopian tubes, but does not include the vas deferens, as it is part of the male reproductive system.",
+      "question": "Which reproductive part is not female in humans?"
+    },
+    {
+      "context": "In flowering plants, the anther plays a crucial role as it contains pollen grains, which are vital for the process of fertilization and sexual reproduction in plants.",
+      "question": "What does the anther contain?"
+    },
+    {
+      "context": "Sexual reproduction has advantages over asexual reproduction, such as increased genetic diversity, which enhances the ability of a population to adapt to changing environments.",
+      "question": "What is an advantage of sexual reproduction?"
+    },
+    {
+      "context": "In human beings, the testes serve multiple functions including the production of sperm and the secretion of hormones like testosterone, which play key roles in male reproductive health.",
+      "question": "What functions do testes perform in humans?"
+    },
+    {
+      "context": "Menstruation occurs as part of the female reproductive cycle, typically in the absence of pregnancy, where the uterine lining sheds, leading to a monthly cycle of fertility and reproduction.",
+      "question": "Why does menstruation occur in females?"
+    },
+    {
+      "context": "A labelled diagram of a flower's longitudinal section shows various parts including the sepals, petals, stamens, and pistils which are essential for its reproductive function.",
+      "question": "What should be included in a flower's longitudinal section diagram?"
+    },
+    {
+      "context": "Contraception methods vary widely, including barrier methods like condoms, hormonal methods such as the pill, and surgical options like tubal ligation, to prevent unwanted pregnancies.",
+      "question": "What are some methods of contraception?"
+    },
+    {
+      "context": "Reproduction differs in unicellular organisms, which often reproduce asexually through methods like fission, while multicellular organisms typically utilize sexual reproduction involving gametes.",
+      "question": "How do unicellular and multicellular organisms reproduce differently?"
+    },
+    {
+      "context": "Reproduction stabilizes species populations by ensuring continuity through generations, allowing for population growth and the maintenance of genetic diversity necessary for survival.",
+      "question": "How does reproduction provide stability to species populations?"
+    },
+    {
+      "context": "Reasons for adopting contraceptive methods include the desire to control family size, economic considerations, health-related concerns, and personal lifestyle choices regarding parenthood.",
+      "question": "What reasons might individuals have for using contraception?"
+    }
+  ]
+}

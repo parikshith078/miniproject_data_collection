@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "In India, many measures are used to bring more and more agricultural land under irrigation to increase expected yields.",
+      "question": "Why is agricultural land brought under irrigation?"
+    },
+    {
+      "context": "India has a wide variety of water resources and a highly varied climate, leading to different kinds of irrigation systems.",
+      "question": "What types of conditions lead to different irrigation systems?"
+    },
+    {
+      "context": "Wells can be divided into two types: dug wells and tube wells, which collect water differently for irrigation.",
+      "question": "What are the two types of wells used for irrigation?"
+    },
+    {
+      "context": "Canals receive water from reservoirs or rivers and are divided into branch canals for field irrigation.",
+      "question": "How do canals supply water for irrigation?"
+    },
+    {
+      "context": "Tanks are small storage reservoirs that intercept and store run-off from smaller catchment areas.",
+      "question": "What purpose do tanks serve in irrigation?"
+    },
+    {
+      "context": "Fresh initiatives like rainwater harvesting and watershed management are important for increasing water availability.",
+      "question": "What are some new initiatives for water availability?"
+    },
+    {
+      "context": "The river lift system is used when canal flow is insufficient, drawing water directly from rivers.",
+      "question": "When is the river lift system used in irrigation?"
+    },
+    {
+      "context": "Check-dams are built to increase groundwater levels and reduce soil erosion, aiding in water conservation.",
+      "question": "What is the purpose of building check-dams?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "ATP is broken down giving rise to a fixed amount of energy which can drive the endothermic reactions taking place in the cell.",
+      "question": "What does ATP release when broken down?"
+    },
+    {
+      "context": "ATP can be used to obtain mechanical energy, light energy, electrical energy and so on.",
+      "question": "What types of energy can ATP provide?"
+    },
+    {
+      "context": "In these processes, ATP is broken down giving rise to a fixed amount of energy which can drive the endothermic reactions.",
+      "question": "What type of reactions are driven by ATP breakdown?"
+    },
+    {
+      "context": "Think of how a battery can provide energy for many different kinds of uses.",
+      "question": "How is ATP similar to a battery?"
+    },
+    {
+      "context": "ATP is broken down giving rise to a fixed amount of energy which can drive the endothermic reactions taking place in the cell.",
+      "question": "What is the role of ATP in cellular reactions?"
+    },
+    {
+      "context": "ATP as Energy Currency can provide energy for different uses such as mechanical and light energy.",
+      "question": "What does 'energy currency' refer to in ATP?"
+    },
+    {
+      "context": "In these processes, ATP is broken down giving rise to a fixed amount of energy.",
+      "question": "What happens to ATP during energy release?"
+    },
+    {
+      "context": "ATP can be used to obtain mechanical energy, light energy, electrical energy and so on.",
+      "question": "Can ATP be used for different types of energy?"
+    }
+  ]
+}

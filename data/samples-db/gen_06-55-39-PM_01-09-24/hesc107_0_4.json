@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Adolescence is also a period of change in a person’s way of thinking. Adolescents are more independent than before and are also self-conscious. Intellectual development takes place and they tend to spend considerable time thinking. It is often the time in one’s life when the brain has the greatest capacity for learning.",
+      "question": "What significant thinking changes occur during adolescence?"
+    },
+    {
+      "context": "The testes and ovaries secrete sex hormones. The male hormone or testosterone begins to be released by the testes at the onset of puberty. This causes changes in boys about which you have just learnt, for example, the growth of facial hair.",
+      "question": "What hormone is responsible for facial hair growth?"
+    },
+    {
+      "context": "Once puberty is reached in girls, ovaries begin to produce the female hormone or estrogen which makes the breasts develop. Milk secreting glands or mammary glands develop inside the breasts.",
+      "question": "What hormone triggers breast development in girls?"
+    },
+    {
+      "context": "But as adolescent learners, you should know that there is no reason to feel insecure. These changes are a natural part of growing up. The production of these hormones is under the control of another hormone secreted from an endocrine gland called pituitary gland.",
+      "question": "How do hormones influence growth during puberty?"
+    },
+    {
+      "context": "Intellectual development takes place and they tend to spend considerable time thinking. It is often the time in one’s life when the brain has the greatest capacity for learning. Sometimes, however, an adolescent may feel insecure while trying to adjust to the changes in the body and mind.",
+      "question": "How does adolescence affect intellectual development?"
+    },
+    {
+      "context": "The production of these hormones is under the control of another hormone secreted from an endocrine gland called pituitary gland. The testes and ovaries secrete sex hormones.",
+      "question": "Which gland controls hormone production during puberty?"
+    }
+  ]
+}

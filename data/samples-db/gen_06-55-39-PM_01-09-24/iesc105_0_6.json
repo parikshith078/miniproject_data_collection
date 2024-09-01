@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The plasma membrane is the outermost covering of the cell that separates the contents of the cell from its external environment. It allows or permits the entry and exit of some materials in and out of the cell, and prevents movement of some other materials, which is why it is called a selectively permeable membrane.",
+      "question": "What is the role of the plasma membrane?"
+    },
+    {
+      "context": "Some substances like carbon dioxide or oxygen can move across the cell membrane by a process called diffusion. Diffusion is the spontaneous movement of a substance from a region of high concentration to a region where its concentration is low.",
+      "question": "What is diffusion in cellular processes?"
+    },
+    {
+      "context": "The plasma membrane allows or permits the entry and exit of some materials while preventing the movement of others, hence termed a selectively permeable membrane.",
+      "question": "Why is the plasma membrane called selectively permeable?"
+    },
+    {
+      "context": "We saw that there is spontaneous movement of a substance from a region of high concentration to a region where its concentration is low, which is the fundamental concept of diffusion.",
+      "question": "What drives the process of diffusion?"
+    },
+    {
+      "context": "The cell membrane plays a critical role in controlling the movement of substances into and out of the cell, ensuring necessary materials enter and waste products leave efficiently.",
+      "question": "How does the cell membrane contribute to homeostasis?"
+    }
+  ]
+}

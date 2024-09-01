@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Many human-made materials like plastics will not be broken down by the action of bacteria or other saprophytes. These materials persist for a long time under ambient conditions.",
+      "question": "What materials do not break down easily?"
+    },
+    {
+      "context": "Substances that are broken down by biological processes are said to be biodegradable. Examples include food waste and paper.",
+      "question": "What defines a biodegradable substance?"
+    },
+    {
+      "context": "These materials will be acted upon by physical processes like heat and pressure, but under the ambient conditions found in our environment, these persist for a long time.",
+      "question": "How do non-biodegradable materials decompose?"
+    },
+    {
+      "context": "Biodegradable materials are typically broken down by microorganisms, allowing them to return to the ecosystem quickly.",
+      "question": "What breaks down biodegradable materials?"
+    },
+    {
+      "context": "Human-made materials like plastics remain intact for many years, raising concerns about their environmental impact and sustainability.",
+      "question": "Why is plastic considered non-biodegradable?"
+    }
+  ]
+}

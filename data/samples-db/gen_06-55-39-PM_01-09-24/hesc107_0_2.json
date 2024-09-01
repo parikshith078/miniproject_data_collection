@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "At this time the long bones, that is, the bones of the arms and the legs elongate and make a person tall. Sometimes the arms and legs or hands and feet of adolescents look oversized and out of proportion with the body.",
+      "question": "What elongates to increase height?"
+    },
+    {
+      "context": "In boys, the region below the waist and shoulders generally broaden as a result of growth. In girls, the region below the waist becomes wider.",
+      "question": "How do boys' and girls' body shapes change?"
+    },
+    {
+      "context": "During puberty, boys begin to grow facial hair and also develop hair on their chest. In both, boys and girls, hair grows under the arms and in the region above the thighs or the pubic region.",
+      "question": "What body hair changes occur during puberty?"
+    },
+    {
+      "context": "The growing voice box in boys can be seen as a protruding part of the throat called Adam's apple. In girls, the larynx is hardly visible from the outside because of its small size.",
+      "question": "What is Adam's apple and who has it?"
+    },
+    {
+      "context": "Generally, girls have a high pitched voice, whereas boys have a deep voice. In adolescent boys, sometimes, the muscles of the growing voice box go out of control and the voice becomes hoarse.",
+      "question": "How does puberty affect voice pitch?"
+    },
+    {
+      "context": "It is, however, very important to eat the right kind of food during these growing years. This helps the bones, muscles and other parts of the body get adequate nourishment for growth.",
+      "question": "Why is nutrition important during puberty?"
+    },
+    {
+      "context": "All parts of the body do not grow at the same rate. This is because height depends on the genes inherited from parents.",
+      "question": "What affects the rate of growth during puberty?"
+    },
+    {
+      "context": "In girls, the larynx is hardly visible from the outside because of its small size. Generally, girls have a high pitched voice, whereas boys have a deep voice.",
+      "question": "How does larynx size differ between genders?"
+    }
+  ]
+}

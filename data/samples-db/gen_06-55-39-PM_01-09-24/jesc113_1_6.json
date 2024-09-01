@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Local industries are required to follow specific regulations for waste management to prevent soil and water pollution. Many of them implement waste treatment systems that properly dispose of hazardous materials and recycle efficiently. Regular inspections ensure compliance with these laws.",
+      "question": "What do local industries do with waste?"
+    },
+    {
+      "context": "Every household generates a significant amount of waste daily, which can include food scraps, paper, and plastics. Collecting this waste helps raise awareness about the environmental impact of waste disposal and encourages recycling and composting practices.",
+      "question": "What types of waste can be collected at home?"
+    },
+    {
+      "context": "In order to safeguard the environment, waste management practices must include strategies for minimizing pollution. Effective systems not only treat waste but also promote the reuse and recycling of materials to reduce overall waste generated in the community.",
+      "question": "How do waste management practices minimize pollution?"
+    },
+    {
+      "context": "Many households are unaware of the various types of waste they produce each day. By collecting waste material systematically, families can identify patterns and work towards reducing their waste footprint through better consumption habits and recycling programs.",
+      "question": "Why is it important to collect household waste?"
+    },
+    {
+      "context": "Mechanisms for waste management in local industries include regular training for employees, maintaining proper waste disposal logs, and adhering to environmental regulations. This ensures that waste does not lead to soil or water contamination in the area.",
+      "question": "What mechanisms do industries use for waste management?"
+    }
+  ]
+}

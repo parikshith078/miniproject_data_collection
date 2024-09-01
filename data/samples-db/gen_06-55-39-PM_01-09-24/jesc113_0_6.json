@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "The flow of energy is unidirectional. The energy that is captured by the autotrophs does not revert back to the solar input and the energy which passes to the herbivores does not come back to autotrophs. The length and complexity of food chains vary greatly.",
+      "question": "How is energy flow described in ecosystems?"
+    },
+    {
+      "context": "Instead of a straight line food chain, the relationship can be shown as a series of branching lines called a food web. Pesticides and Biological Magnification.",
+      "question": "What shows the complexity of food chains?"
+    },
+    {
+      "context": "Water gets polluted by the use of several pesticides and other chemicals to protect our crops from diseases and pests. These chemicals are either washed down into the soil or into the water bodies.",
+      "question": "How do pesticides enter the environment?"
+    },
+    {
+      "context": "From the soil, these are absorbed by the plants along with water and minerals, and from the water bodies, these are taken up by aquatic plants and animals.",
+      "question": "How do plants absorb pesticides from soil?"
+    },
+    {
+      "context": "As these chemicals are not degradable, these get accumulated progressively at each trophic level. This phenomenon is known as biological magnification.",
+      "question": "What is biological magnification?"
+    },
+    {
+      "context": "These chemicals are either washed down into the soil or into the water bodies. This is one of the ways in which they enter the food chain.",
+      "question": "What happens to pesticides in the ecosystem?"
+    },
+    {
+      "context": "The energy that is captured by the autotrophs does not revert back to the solar input and the energy which passes to the herbivores does not come back to autotrophs.",
+      "question": "What happens to energy captured by autotrophs?"
+    }
+  ]
+}

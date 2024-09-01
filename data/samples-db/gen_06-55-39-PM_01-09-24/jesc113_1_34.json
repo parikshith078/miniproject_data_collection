@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Biodegradable waste naturally breaks down over time, returning nutrients to the soil. However, if all waste is biodegradable, improper management could lead to excessive organic matter in landfills, which can produce methane, a potent greenhouse gas.",
+      "question": "Does biodegradable waste impact the environment?"
+    },
+    {
+      "context": "Damage to the ozone layer increases ultraviolet radiation reaching the Earth's surface, leading to higher rates of skin cancer and harm to ecosystems. This concern has led to international agreements like the Montreal Protocol to phase out ozone-depleting substances.",
+      "question": "Why is ozone layer damage concerning?"
+    },
+    {
+      "context": "To limit ozone layer damage, countries have agreed to phase out chlorofluorocarbons (CFCs) and other harmful chemicals. The Montreal Protocol has been instrumental in reducing emissions and promoting alternatives that do not harm the ozone.",
+      "question": "What steps are taken to protect the ozone layer?"
+    },
+    {
+      "context": "Environmental scientists express concern about ozone layer depletion because it can result in increased UV radiation, which has detrimental effects on human health and the environment. This is closely monitored to enact protective measures.",
+      "question": "What are the effects of ozone layer depletion?"
+    },
+    {
+      "context": "While biodegradable materials can decompose and reduce landfill volume, their accumulation without proper management can cause odor, attract pests, and lead to leachate problems that can contaminate water supplies.",
+      "question": "What issues can arise from biodegradable waste?"
+    }
+  ]
+}

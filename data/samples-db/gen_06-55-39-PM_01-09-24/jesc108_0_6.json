@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Cellular DNA is the information source for making proteins in the cell. A section of DNA that provides information for one protein is called the gene for that protein. If the gene for an enzyme has an alteration that makes the enzyme less efficient, the amount of hormone produced will be less, resulting in a short plant.",
+      "question": "What role does DNA play in protein production?"
+    },
+    {
+      "context": "If progeny plants inherited a single whole gene set from each parent, the traits would be linked to each other and cannot be independently inherited. This is explained by the fact that each gene set is present as separate independent pieces, each called a chromosome.",
+      "question": "What happens if progeny inherit one gene set?"
+    },
+    {
+      "context": "When two germ cells combine, they will restore the normal number of chromosomes in the progeny, ensuring the stability of the DNA of the species.",
+      "question": "What is restored when germ cells combine?"
+    },
+    {
+      "context": "If the gene for an enzyme has an alteration that makes the enzyme less efficient, the amount of hormone produced will be less, resulting in a short plant.",
+      "question": "How does an altered gene affect plant height?"
+    },
+    {
+      "context": "A section of DNA that provides information for one protein is called the gene for that protein. If the gene for an enzyme has an alteration that makes the enzyme less efficient, the amount of hormone produced will be less.",
+      "question": "What defines a gene in the cellular context?"
+    },
+    {
+      "context": "This is explained by the fact that each gene set is present as separate independent pieces, each called a chromosome. When two germ cells combine, they will restore the normal number of chromosomes in the progeny.",
+      "question": "What are chromosomes in genetics?"
+    }
+  ]
+}

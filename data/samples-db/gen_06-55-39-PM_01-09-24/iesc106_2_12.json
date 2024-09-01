@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Muscles in the human body are categorized into three types: striated, unstriated, and cardiac muscles. Striated muscles, also known as skeletal muscles, are characterized by their striped appearance and are primarily attached to bones. Unstriated muscles, or smooth muscles, lack this striped look and are found in the walls of hollow organs, such as the intestines and blood vessels. Cardiac muscles are unique to the heart and have both striated and smooth muscle characteristics, allowing for involuntary contractions.",
+      "question": "What are the types of muscles in the body?"
+    },
+    {
+      "context": "In the body, striated muscles have a banded appearance, which is due to the arrangement of myofibrils and are under voluntary control. Unstriated muscles are smooth and are classified as involuntary, found in organs like the stomach. Cardiac muscles, found only in the heart, also work involuntarily and contain intercalated discs that facilitate synchronized contractions.",
+      "question": "How are striated and unstriated muscles different?"
+    },
+    {
+      "context": "Striated muscles are composed of long, cylindrical fibers that show distinct bands, making them easy to identify. In contrast, unstriated muscles appear smooth and are spindle-shaped, lacking visible striations. Cardiac muscles are branched and striated, featuring a unique structure that allows heart contractions. Their locations are crucial for body function: skeletal muscles on bones, smooth muscles in organs, and cardiac in the heart.",
+      "question": "Describe the structure of cardiac muscle."
+    },
+    {
+      "context": "To understand the types of muscle tissue in the human body, striated muscles are typically found with a clear banding pattern, crucial for movement and stability. Unstriated muscles do not display this pattern and are located in body parts needing involuntary control. Cardiac muscle, essential for heart function, shares features with striated tissue but works involuntarily to pump blood.",
+      "question": "Where is unstriated muscle found?"
+    }
+  ]
+}

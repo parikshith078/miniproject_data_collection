@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Dental caries or tooth decay causes gradual softening of enamel and dentine. It begins when bacteria acting on sugars produce acids that soften or demineralise the enamel. Masses of bacterial cells together with food particles stick to the teeth to form dental plaque.",
+      "question": "What causes dental caries to develop?"
+    },
+    {
+      "context": "Brushing the teeth after eating removes the plaque before the bacteria produce acids. If untreated, microorganisms may invade the pulp, causing inflammation and infection.",
+      "question": "What is the effect of untreated dental caries?"
+    },
+    {
+      "context": "Diverse organisms do this in different ways – some use oxygen to break down glucose completely into carbon dioxide and water, some use other pathways that do not involve oxygen.",
+      "question": "How do organisms obtain energy from food?"
+    },
+    {
+      "context": "The first step is the break-down of glucose, a six-carbon molecule, into a three-carbon molecule called pyruvate. This process takes place in the cytoplasm.",
+      "question": "What is glucose broken down into during respiration?"
+    },
+    {
+      "context": "Further, the pyruvate may be converted into ethanol and carbon dioxide. This process takes place in yeast during fermentation.",
+      "question": "What does pyruvate convert into during fermentation?"
+    },
+    {
+      "context": "Breakdown of pyruvate using oxygen takes place in the mitochondria. This process breaks up the three-carbon pyruvate molecule to give three molecules of carbon dioxide.",
+      "question": "Where does aerobic respiration occur in cells?"
+    },
+    {
+      "context": "Since this process takes place in the absence of air (oxygen), it is called anaerobic respiration. Breakdown of pyruvate using oxygen takes place in the mitochondria.",
+      "question": "What is anaerobic respiration?"
+    }
+  ]
+}

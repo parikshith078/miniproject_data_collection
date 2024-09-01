@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The zygote divides repeatedly to give rise to a ball of cells. The cells then begin to form groups that develop into different tissues and organs of the body.",
+      "question": "What do zygotes develop into during division?"
+    },
+    {
+      "context": "This developing structure is termed an embryo. The embryo gets embedded in the wall of the uterus for further development.",
+      "question": "What is formed after the zygote and gets embedded in the uterus?"
+    },
+    {
+      "context": "The new individuals which are born or hatched from the eggs continue to grow till they become adults.",
+      "question": "What happens to new individuals after they are born or hatched?"
+    },
+    {
+      "context": "The transformation of the larva into an adult through drastic changes is called metamorphosis.",
+      "question": "What is the term for larval transformation into an adult?"
+    },
+    {
+      "context": "The cells then begin to form groups that develop into different tissues and organs of the body.",
+      "question": "What do the cells in the embryo develop into?"
+    }
+  ]
+}

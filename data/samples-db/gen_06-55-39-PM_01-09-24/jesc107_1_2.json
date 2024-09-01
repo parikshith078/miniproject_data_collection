@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Asexual reproduction allows new generations to be created from a single individual. It is characterized by the absence of gametes and typically involves processes like budding or binary fission. This mode of reproduction can lead to rapid population growth, especially in favorable conditions. However, asexual reproduction can limit genetic diversity, which may affect the adaptability of a species in changing environments.",
+      "question": "What are limitations of asexual reproduction?"
+    },
+    {
+      "context": "Sexual reproduction involves two individuals and the combination of genetic material from both sexes. This form of reproduction creates new genetic combinations, which can enhance a population's ability to adapt to varying environmental conditions. While sexual reproduction can be more complex and time-consuming, it is significant for maintaining genetic diversity in populations.",
+      "question": "How does sexual reproduction enhance genetic diversity?"
+    },
+    {
+      "context": "In asexual reproduction, a single parent can generate offspring without the need for a partner, leading to rapid population increases. However, this can also lead to the buildup of harmful mutations over generations. In contrast, sexual reproduction mixes genes from two parents, which can eliminate deleterious traits and increase health and survival in offspring.",
+      "question": "Why is genetic diversity important for survival?"
+    },
+    {
+      "context": "The modes of reproduction can be classified broadly into asexual and sexual reproduction. Asexual reproduction is efficient but may pose a risk if environmental conditions change dramatically. On the other hand, sexual reproduction, while requiring more effort and time, can provide benefits like adaptability and better survival rates in the long-term through genetic variation.",
+      "question": "What are the advantages of sexual reproduction?"
+    },
+    {
+      "context": "Asexual reproduction creates offspring without the involvement of two parents, allowing for rapid colonization of environments. However, this method carries risks due to lack of genetic variation, making populations more susceptible to diseases. Sexual reproduction helps to ensure a more robust gene pool, which permits more adaptive behaviors in future generations.",
+      "question": "What does asexual reproduction lack?"
+    }
+  ]
+}

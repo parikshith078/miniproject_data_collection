@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Fish culture is sometimes done in combination with a rice crop so that fish are grown in the water in the paddy field. More intensive fish farming can be done in composite fish culture systems.",
+      "question": "What is composite fish culture?"
+    },
+    {
+      "context": "Both local and imported fish species are used in such systems. In such a system, a combination of five or six fish species is used in a single fish pond.",
+      "question": "What types of fish species are used in composite culture?"
+    },
+    {
+      "context": "As Catlas are surface feeders, Rohus feed in the middle-zone of the pond, Mrigals and Common Carps are bottom feeders, and Grass Carps feed on the weeds; together these species can use all the food in the pond without competing with each other.",
+      "question": "How do different fish species avoid competition?"
+    },
+    {
+      "context": "Since beekeeping needs low investments, farmers use it as an additional income-generating activity. In addition to honey, the beehives are a source of wax which is used in various medicinal preparations.",
+      "question": "Why do farmers engage in beekeeping?"
+    },
+    {
+      "context": "The local varieties of bees used for commercial honey production are Apis cerana indica, commonly known as the Indian bee, A. dorsata, the rock bee and A. florae, the little bee.",
+      "question": "What local bee species are used in India?"
+    },
+    {
+      "context": "An Italian bee variety, A. mellifera, has also been brought in to increase yield of honey. This is the variety commonly used for commercial honey production.",
+      "question": "Which Italian bee is preferred for honey production?"
+    },
+    {
+      "context": "The Italian bees have high honey collection capacity. They sting somewhat less. They stay in a given beehive for long periods, and breed very well.",
+      "question": "What are the benefits of using Italian bees?"
+    }
+  ]
+}

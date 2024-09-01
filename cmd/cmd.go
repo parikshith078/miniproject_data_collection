@@ -40,7 +40,7 @@ func GenerateQuestionSamples(topicsFolder string) (string, error) { // folder co
 			return "", err
 		}
 		fileName := utils.ExtractFileName(file)
-		for j, topic := range res.Topic {
+		for j, topic := range res.Topics {
 			contextString := topic.SubTopic + "\n" + topic.Content
 			questionSamples := llm.GenerateQuestionSamples(contextString)
 			filePath := fmt.Sprintf("%s/%s_%d.json", folderPath, fileName, j)

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Using oil and vinegar can prevent spoilage of pickles because bacteria cannot live in such an environment. Heat treatments like boiling milk can kill many microorganisms, and cold treatments like refrigeration inhibit microbe growth.",
+      "question": "How do oil and vinegar preserve pickles?"
+    },
+    {
+      "context": "The pasteurisation process was discovered by Louis Pasteur, which heats milk to about 70°C for 15 to 30 seconds and then suddenly cools it to store it safely.",
+      "question": "Who discovered the process of pasteurisation?"
+    },
+    {
+      "context": "Heat treatments like boiling milk can kill many microorganisms, and cold treatments like refrigeration inhibit microbe growth. The pasteurisation process was discovered by Louis Pasteur.",
+      "question": "What is the purpose of heat treatments in food preservation?"
+    },
+    {
+      "context": "Using oil and vinegar can prevent spoilage of pickles because bacteria cannot live in such an environment. The pasteurisation process was discovered by Louis Pasteur.",
+      "question": "What does the pasteurisation process involve?"
+    },
+    {
+      "context": "Heat treatments like boiling milk can kill many microorganisms, and cold treatments like refrigeration inhibit microbe growth.",
+      "question": "Which treatment slows down microbe growth in food?"
+    },
+    {
+      "context": "The pasteurisation process was discovered by Louis Pasteur, which heats milk to about 70°C for 15 to 30 seconds and then suddenly cools it to store it safely.",
+      "question": "What temperature is used in pasteurisation?"
+    }
+  ]
+}

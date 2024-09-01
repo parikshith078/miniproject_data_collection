@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Neurons are specialized cells that make up the nervous system. They are responsible for receiving and conducting impulses throughout the body. Neurons communicate with each other through synapses, allowing signals to be transmitted rapidly and efficiently.",
+      "question": "What is the primary role of neurons?"
+    },
+    {
+      "context": "Neurons are the fundamental units of the brain and nervous system. They receive stimuli from the environment, process this information, and send signals to other neurons, muscles, or glands. This process is critical for the functioning of all bodily systems.",
+      "question": "How do neurons process information?"
+    },
+    {
+      "context": "The nervous system consists of billions of neurons that work together to transmit information. Each neuron can receive signals from multiple other neurons and can send impulses to many others, creating complex networks essential for bodily functions.",
+      "question": "What enables neurons to connect and transmit signals?"
+    },
+    {
+      "context": "Neurons are composed of a cell body, dendrites, and an axon. Dendrites receive input signals, while the axon transmits impulses away from the cell body. This structure allows neurons to effectively communicate within the nervous system.",
+      "question": "What are the main parts of a neuron?"
+    }
+  ]
+}

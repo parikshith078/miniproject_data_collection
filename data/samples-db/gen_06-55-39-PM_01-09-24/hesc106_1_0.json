@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Reproduction results from the fusion of male and female gametes, called sexual reproduction. Female reproductive organs include ovaries, while males have testes. Fertilisation occurs when an ovum and sperm unite, forming a zygote.",
+      "question": "What is the fusion of gametes called?"
+    },
+    {
+      "context": "The ovary produces female gametes known as ova, while the testes produce male gametes called sperms. Internal fertilisation happens within the female body.",
+      "question": "Where does internal fertilisation occur?"
+    },
+    {
+      "context": "Internal fertilisation is seen in human beings, hens, cows, and dogs. In contrast, external fertilisation occurs outside the female body in species like frogs and fish.",
+      "question": "Which animals undergo internal fertilisation?"
+    },
+    {
+      "context": "After the zygote forms, it divides repeatedly to become an embryo. The embryo implants in the uterus for further development until it becomes a foetus.",
+      "question": "What stage follows the zygote during development?"
+    },
+    {
+      "context": "Viviparous animals give birth to young ones, like humans and dogs. Oviparous animals, such as hens and frogs, lay eggs instead.",
+      "question": "What are animals that lay eggs called?"
+    },
+    {
+      "context": "The stage of the embryo where all body parts are identifiable is known as the foetus. It develops further inside the uterus following zygote formation.",
+      "question": "What is the identifiable stage of the embryo called?"
+    },
+    {
+      "context": "Fertilisation inside the female body is termed internal fertilisation, while fertilisation outside the body is called external fertilisation, seen in fish and starfish.",
+      "question": "What is external fertilisation?"
+    }
+  ]
+}

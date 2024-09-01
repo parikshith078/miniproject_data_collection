@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Wildlife Sanctuaries like reserve forests provide protection and suitable living conditions to wild animals. Poaching or capturing animals in these areas is strictly prohibited and punishable by law.",
+      "question": "What is prohibited in wildlife sanctuaries?"
+    },
+    {
+      "context": "People living in wildlife sanctuaries can do certain activities such as grazing by their livestock, collecting medicinal plants, and gathering firewood.",
+      "question": "What activities can people do in wildlife sanctuaries?"
+    },
+    {
+      "context": "Professor Ahmad explains that killing (poaching) or capturing animals is strictly prohibited in all wildlife sanctuaries.",
+      "question": "Why is poaching prohibited in wildlife sanctuaries?"
+    },
+    {
+      "context": "In wildlife sanctuaries, people can gather firewood and collect medicinal plants to sustain their livelihood without harming animals.",
+      "question": "How do local people sustain their livelihood in sanctuaries?"
+    },
+    {
+      "context": "The sanctuary provides suitable living conditions for animals, unlike zoos where animals are confined in limited spaces.",
+      "question": "Which is better for animals, zoos or natural habitats?"
+    }
+  ]
+}

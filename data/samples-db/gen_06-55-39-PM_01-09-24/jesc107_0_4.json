@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In unicellular organisms, cell division, or fission, leads to the creation of new individuals. Many bacteria and protozoa simply split into two equal halves during cell division. Some unicellular organisms show somewhat more organization of their bodies, such as Leishmania, which have a whip-like structure at one end of the cell. In such organisms, binary fission occurs in a definite orientation.",
+      "question": "What is binary fission?"
+    },
+    {
+      "context": "Many unicellular organisms, such as the malarial parasite Plasmodium, divide into many daughter cells simultaneously by multiple fission. Yeast, on the other hand, can put out small buds that separate and grow further. These processes illustrate the diversity of fission in unicellular life.",
+      "question": "How do yeast reproduce?"
+    },
+    {
+      "context": "In multi-cellular organisms with relatively simple body organisation, simple reproductive methods can still work. Spirogyra, for example, simply breaks up into smaller pieces upon maturation. These pieces or fragments grow into new individuals, illustrating a form of reproduction called fragmentation.",
+      "question": "What is fragmentation in reproduction?"
+    },
+    {
+      "context": "Multi-cellular organisms cannot simply divide cell-by-cell. The reason is that many multi-cellular organisms are not simply a random collection of cells. Specialised cells are organised as tissues, and tissues are organised into organs, which then have to be placed at definite positions in the body.",
+      "question": "Why can't multi-cellular organisms use cell-by-cell division?"
+    },
+    {
+      "context": "In such a carefully organised situation, cell-by-cell division would be impractical. Multi-cellular organisms, therefore, need to use more complex ways of reproduction. This highlights the need for these organisms to adopt more intricate methods as their body structure is more complex compared to unicellular organisms.",
+      "question": "What do multi-cellular organisms need for reproduction?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Meristematic tissues are classified into apical, lateral, and intercalary based on their location. Apical meristem is found at the growing tips of plants and increases their length, while lateral meristem increases the girth of the stem and root. Intercalary meristem is located near the node in some plants.",
+      "question": "What type of meristem increases plant girth?"
+    },
+    {
+      "context": "The cells formed by meristematic tissue eventually lose the ability to divide and take on specific roles, leading to the formation of permanent tissue. This process is known as differentiation and leads to the development of various types of permanent tissues.",
+      "question": "What is the process called when meristematic cells become permanent?"
+    },
+    {
+      "context": "Parenchyma is the most common type of simple permanent tissue, characterized by relatively unspecialized living cells with thin walls. It is usually loosely arranged, with intercellular spaces, and functions in food storage, photosynthesis, and buoyancy in aquatic plants.",
+      "question": "What is the primary function of parenchyma tissue?"
+    },
+    {
+      "context": "Collenchyma provides flexibility to plants and is found in leaf stalks beneath the epidermis. Its cells are living and elongated with irregularly thickened corners. It allows parts of plants like tendrils to bend without breaking.",
+      "question": "What function does collenchyma tissue serve in plants?"
+    },
+    {
+      "context": "Sclerenchyma is a permanent tissue that provides hardness and rigidity to plants. It consists of dead cells with thickened walls due to lignin, which often leave no internal space inside the cells.",
+      "question": "What is the role of sclerenchyma in plants?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "During adolescence, dietary needs are heightened due to rapid growth and development. Essential nutrients such as proteins, carbohydrates, fats, and vitamins must be included in adequate proportions for optimal health and development.",
+      "question": "Why are dietary needs heightened during adolescence?"
+    },
+    {
+      "context": "A balanced diet for adolescents includes cereals for energy, proteins from milk, meat, nuts, and pulses, vitamins from fruits and vegetables, and should limit low-nutritional snacks.",
+      "question": "What does a balanced diet for adolescents include?"
+    },
+    {
+      "context": "Iron is crucial for building blood, and foods rich in iron such as leafy vegetables, jaggery, meat, and citrus fruits are especially important during adolescence for healthy growth.",
+      "question": "What role does iron play in adolescent nutrition?"
+    },
+    {
+      "context": "Regular meals should consist of a variety of foods to ensure adequate nutrition, while processed snacks like chips should not replace them due to their low nutritional value.",
+      "question": "Why should snacks like chips not replace regular meals?"
+    },
+    {
+      "context": "Determining whether a meal is balanced involves checking if it contains adequate energy from cereals, as well as proteins from diverse sources, vitamins from fruits and vegetables, and limited sugars and fats.",
+      "question": "How can you determine if a meal is balanced?"
+    }
+  ]
+}

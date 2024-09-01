@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "The blood brings carbon dioxide from the rest of the body for release into the alveoli, and the oxygen in the alveolar air is taken up by blood in the alveolar blood vessels.",
+      "question": "What is the role of blood in gas exchange?"
+    },
+    {
+      "context": "In human beings, the respiratory pigment is haemoglobin which has a very high affinity for oxygen.",
+      "question": "What pigment is responsible for oxygen transport?"
+    },
+    {
+      "context": "The blood brings carbon dioxide from the rest of the body for release into the alveoli, and the oxygen in the alveolar air is taken up by blood.",
+      "question": "What gas is released into the alveoli?"
+    },
+    {
+      "context": "This pigment is present in the red blood corpuscles, which transport oxygen to body cells.",
+      "question": "Where is haemoglobin found in the body?"
+    },
+    {
+      "context": "The dlood brings carbon dioxide from the rest of the body for release into the alveoli, and the oxygen in the alveolar air is taken up by blood in the alveolar blood vessels.",
+      "question": "What do alveolar blood vessels do?"
+    },
+    {
+      "context": "In human beings, the respiratory pigment is haemoglobin which has a very high affinity for oxygen.",
+      "question": "What is the affinity of haemoglobin for oxygen?"
+    },
+    {
+      "context": "Oxygen in the alveolar air is taken up by blood in the alveolar blood vessels to be transported to all the cells in the body.",
+      "question": "What happens to oxygen in the alveolar air?"
+    },
+    {
+      "context": "Haemoglobin has a very high affinity for oxygen and is present in red blood corpuscles.",
+      "question": "Why is haemoglobin important for respiration?"
+    }
+  ]
+}

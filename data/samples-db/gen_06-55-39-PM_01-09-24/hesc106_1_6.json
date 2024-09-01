@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In a honey bee hive, the queen bee is the only bee that lays eggs, while all other females are worker bees. Worker bees build the hive, care for the young, and feed the queen to ensure she can lay eggs. Eggs can be fertilised or unfertilised; fertilised eggs become females and unfertilised eggs become males, or drones. Worker bees also maintain the hive temperature at around 35 °C for egg incubation.",
+      "question": "What role do worker bees play in the hive?"
+    },
+    {
+      "context": "The queen bee lays thousands of eggs, which hatch into either female worker bees from fertilised eggs or male drones from unfertilised eggs. Worker bees are responsible for maintaining the hive's temperature to ensure the proper development of these eggs. This organization is crucial for the survival and efficiency of the colony.",
+      "question": "What happens to fertilised and unfertilised eggs?"
+    },
+    {
+      "context": "All female bees in a colony are worker bees, tasked with critical responsibilities like building the hive, caring for young bees, and ensuring the queen bee is healthy for egg-laying. Only the queen bee lays eggs, and the rest of the female population functions as workers to support the hive's success.",
+      "question": "Who lays eggs in a honey bee hive?"
+    },
+    {
+      "context": "The process of maintaining the correct temperature in the hive is vital for the incubation of bee eggs. Worker bees regulate the internal environment of the hive, keeping it at approximately 35 °C, which is essential for the healthy development of the eggs into young bees.",
+      "question": "Why do worker bees maintain hive temperature?"
+    },
+    {
+      "context": "In the honey bee colony, the queen bee's sole function is to reproduce by laying eggs. Worker bees, while not involved in reproduction directly, play an essential role in supporting the queen and ensuring the colony functions effectively. They take care of the queen and the eggs, working collectively to sustain the hive.",
+      "question": "What is the queen bee's primary role?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Kharif crops include those like paddy and maize which are typically sown with the onset of the southwest monsoon.",
+      "question": "What are two examples of Kharif crops?"
+    },
+    {
+      "context": "Preparation of soil involves several steps, including ploughing, leveling, and adding manure to enhance soil fertility.",
+      "question": "What steps are involved in soil preparation?"
+    },
+    {
+      "context": "Sowing can be done manually or using machines, and it is the process of planting seeds in the soil.",
+      "question": "How can sowing be carried out?"
+    },
+    {
+      "context": "Weeding is the process of removing unwanted plants that compete with crops for nutrients, light, and space.",
+      "question": "Why is weeding necessary in agriculture?"
+    },
+    {
+      "context": "Threshing is the method of separating the grain from the chaff after harvest, which can be performed by beating or using a machine.",
+      "question": "What does threshing accomplish in agriculture?"
+    },
+    {
+      "context": "Rabi crops such as wheat and gram, are usually sown after the rainy season, typically in the winter months.",
+      "question": "What are two examples of Rabi crops?"
+    }
+  ]
+}

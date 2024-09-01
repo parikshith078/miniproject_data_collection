@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Tissues are groups of cells that work together to perform a specific function in an organism. They can specialize in functions such as support, transport, and protection, and are categorized into four primary types: connective, epithelial, muscle, and nervous tissue.",
+      "question": "What is the definition of tissue?"
+    },
+    {
+      "context": "Xylem tissue is made up of four types of elements, which include tracheids, vessel elements, fibers, and xylem parenchyma. These elements function collectively to transport water and nutrients from roots to other parts of the plant.",
+      "question": "How many types of elements are in xylem tissue?"
+    },
+    {
+      "context": "Tissues are essential components of living organisms, made up of cells that share a common structure and function. For example, plant tissues like xylem and phloem transport essential nutrients and water throughout the organism.",
+      "question": "What is the function of tissues?"
+    },
+    {
+      "context": "In plants, xylem tissue performs the critical role of transporting water and dissolved minerals from the roots to the leaves. This process not only supports plant growth but also helps to maintain plant structure.",
+      "question": "What does xylem tissue do?"
+    },
+    {
+      "context": "Xylem tissue is composed of several types of cells. Tracheids help in the conduction of water, vessel elements also support water transport, while fibers provide mechanical support, and parenchyma is involved in storage and repair.",
+      "question": "What are the components of xylem tissue?"
+    }
+  ]
+}

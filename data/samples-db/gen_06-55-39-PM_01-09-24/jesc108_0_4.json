@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Mendel used a number of contrasting visible characters of garden peas – round/wrinkled seeds, tall/short plants, white/violet flowers and so on. He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny.",
+      "question": "What contrasting traits did Mendel study?"
+    },
+    {
+      "context": "There were no halfway characteristics in the first-generation, or F1 progeny – no ‘medium-height’ plants. All plants were tall. This meant that only one of the parental traits was seen, not some mixture of the two.",
+      "question": "What were the characteristics of F1 progeny?"
+    },
+    {
+      "context": "Instead, one quarter of them are short, indicating that both tallness and shortness traits were inherited in the F1 plants, but only tallness was expressed.",
+      "question": "What fraction of F2 progeny were short?"
+    },
+    {
+      "context": "What happens when pea plants showing two different characteristics, rather than just one, are bred with each other? They are all tall and have round seeds. However, some F2 progeny are tall plants with round seeds, and some were short plants with wrinkled seeds.",
+      "question": "What results from breeding two pea plants with different traits?"
+    },
+    {
+      "context": "Thus, tallness and round seeds are independently inherited. This meant that traits do not influence each other's inheritance and can combine in various ways.",
+      "question": "What does independent inheritance mean for traits?"
+    }
+  ]
+}

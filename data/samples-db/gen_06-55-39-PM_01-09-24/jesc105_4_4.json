@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "In human beings, the transport of materials such as oxygen, carbon dioxide, food, and excretory products is managed by the circulatory system which comprises the heart, blood, and blood vessels.",
+      "question": "What materials are transported by the circulatory system?"
+    },
+    {
+      "context": "In highly differentiated plants, the transport of water, minerals, food, and other materials is achieved through the vascular tissue consisting of xylem and phloem.",
+      "question": "What tissues are involved in plant material transport?"
+    },
+    {
+      "context": "Different systems and processes such as the circulatory system in animals and the vascular system in plants showcase the diverse methods organisms utilize to transport vital substances throughout their bodies.",
+      "question": "How do animals and plants differ in transport systems?"
+    },
+    {
+      "context": "The xylem in plants is responsible for (a) transport of water (b) transport of food (c) transport of amino acids (d) transport of oxygen.",
+      "question": "What is the primary function of xylem in plants?"
+    },
+    {
+      "context": "Describe double circulation of blood in human beings. Why is it necessary?",
+      "question": "What is double circulation in humans?"
+    },
+    {
+      "context": "What are the differences between the transport of materials in xylem and phloem?",
+      "question": "How does xylem transport differ from phloem?"
+    },
+    {
+      "context": "How are the alveoli designed to maximize the exchange of gases?",
+      "question": "What adaptations do alveoli have for gas exchange?"
+    },
+    {
+      "context": "Describe the structure and functioning of nephrons.",
+      "question": "What is the role of nephrons in kidneys?"
+    },
+    {
+      "context": "The kidneys in human beings are a part of the system for (a) nutrition (b) respiration (c) excretion (d) transportation.",
+      "question": "Which system do human kidneys belong to?"
+    },
+    {
+      "context": "What are the necessary conditions for autotrophic nutrition and what are its by-products?",
+      "question": "What are the conditions for autotrophic nutrition?"
+    }
+  ]
+}

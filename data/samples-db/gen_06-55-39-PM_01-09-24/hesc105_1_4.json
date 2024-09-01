@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "It takes 17 full grown trees to make one tonne of paper. Therefore, we should save paper. Paper can be recycled five to seven times for use, which significantly reduces the demand for new paper production.",
+      "question": "How many trees are needed for one tonne of paper?"
+    },
+    {
+      "context": "If each student saves at least one sheet of paper in a day, we can save many trees in a year. By saving, reusing, and recycling paper, we also save energy and water used for manufacturing.",
+      "question": "What is one benefit of recycling paper?"
+    },
+    {
+      "context": "Reforestation is restocking of the destroyed forests by planting new trees. The planted trees should generally be of the same species which were found in that forest.",
+      "question": "What is reforestation?"
+    },
+    {
+      "context": "Reforestation can take place naturally also. If the deforested area is left undisturbed, it re-establishes itself without human intervention.",
+      "question": "What is natural reforestation?"
+    },
+    {
+      "context": "Professor Ahmad told them that in India we have the Forest (Conservation) Act which aims at preservation and conservation of natural forests.",
+      "question": "What does the Forest (Conservation) Act aim to do?"
+    },
+    {
+      "context": "By saving trees through paper recycling and reforestation, we reduce the harmful chemicals used in paper making, protecting the environment.",
+      "question": "How does recycling help in reducing chemicals?"
+    },
+    {
+      "context": "If we have to retain our green wealth for future generations, plantation of more trees is the only option. We should plant at least as many trees as we cut.",
+      "question": "What is essential for future generations regarding forests?"
+    },
+    {
+      "context": "We have already caused tremendous damage to our forests, and reforestation is necessary to replenish these lost resources by planting new trees.",
+      "question": "Why is reforestation important?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Animal life is also affected by deforestation. This impact includes habitat loss, decreased food sources, and increased human-wildlife conflict. These disruptions can lead to population declines and threaten species survival. It is essential to discuss these points to understand the broader ecological implications of deforestation.",
+      "question": "How does deforestation impact animal life?"
+    },
+    {
+      "context": "Biosphere is that part of the earth in which living organisms exist or which supports life. It includes ecosystems like forests, oceans, and grasslands where biodiversity thrives. Conservation aims to protect these areas to maintain ecological balance and biodiversity.",
+      "question": "What is the biosphere and its importance?"
+    },
+    {
+      "context": "Biodiversity refers to the variety of organisms existing on the earth, their interrelationships, and their relationship with the environment. High biodiversity contributes to ecosystem resilience, productivity, and provides resources for food, medicine, and other human needs.",
+      "question": "Define biodiversity and its significance."
+    },
+    {
+      "context": "Paheli and Boojho are worried about the effects of deforestation and seek advice from Professor Ahmad about how forests and wildlife can be saved. This shows a growing awareness of environmental conservation among the younger generation.",
+      "question": "Who did Paheli and Boojho consult about saving forests?"
+    },
+    {
+      "context": "If we continue cutting trees at the current rate, we will likely face a shortage of various products obtained from forests, such as timber, medicinal plants, and food sources. This can have dire economic and ecological consequences.",
+      "question": "What will happen if we keep cutting trees?"
+    },
+    {
+      "context": "Understanding the value of forests leads to discussions on conservation strategies, such as reforestation and sustainable forestry practices. Engaging with local communities in conservation efforts is essential for the success of these initiatives.",
+      "question": "What are some conservation strategies for forests?"
+    }
+  ]
+}

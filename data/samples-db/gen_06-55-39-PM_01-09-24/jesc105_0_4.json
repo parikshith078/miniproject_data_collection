@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Since life on earth depends on carbon-based molecules, most of these food sources are also carbon-based.",
+      "question": "What do organisms rely on for food?"
+    },
+    {
+      "context": "These sources of energy, therefore, need to be broken down or built up in the body, and must be finally converted to a uniform source of energy.",
+      "question": "Why do energy sources need to be converted?"
+    },
+    {
+      "context": "The process of acquiring oxygen from outside the body, and to use it in the process of break-down of food sources for cellular needs, is what we call respiration.",
+      "question": "What is the process of acquiring oxygen called?"
+    },
+    {
+      "context": "If the body size of the organisms is to grow, additional raw material will also be needed from outside.",
+      "question": "What is necessary for organism growth?"
+    },
+    {
+      "context": "Different organisms can then use different kinds of nutritional processes depending on the complexity of these carbon sources.",
+      "question": "What do different organisms use to obtain nutrients?"
+    },
+    {
+      "context": "Oxidising-reducing reactions are some of the most common chemical means to break-down molecules.",
+      "question": "What type of reactions break down molecules?"
+    },
+    {
+      "context": "A series of chemical reactions in the body are necessary for maintaining living structures and growth.",
+      "question": "What do chemical reactions in the body support?"
+    }
+  ]
+}

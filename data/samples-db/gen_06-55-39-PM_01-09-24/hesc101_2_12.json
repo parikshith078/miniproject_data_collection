@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The visit to Shri Jiwan Patel’s farmhouse highlighted various aspects of crop production, including traditional versus modern agricultural practices, the importance of earthworms, and new techniques for enhanced crop yield.",
+      "question": "What did the field trip focus on?"
+    },
+    {
+      "context": "The visit to Shri Jiwan Patel’s farmhouse highlighted various aspects of crop production, including traditional versus modern agricultural practices, the importance of earthworms, and new techniques for enhanced crop yield.",
+      "question": "What role do earthworms play in agriculture?"
+    },
+    {
+      "context": "The visit to Shri Jiwan Patel’s farmhouse highlighted various aspects of crop production, including traditional versus modern agricultural practices, the importance of earthworms, and new techniques for enhanced crop yield.",
+      "question": "What modern techniques were discussed during the visit?"
+    },
+    {
+      "context": "The visit to Shri Jiwan Patel’s farmhouse highlighted various aspects of crop production, including traditional versus modern agricultural practices, the importance of earthworms, and new techniques for enhanced crop yield.",
+      "question": "What is the significance of traditional agricultural practices?"
+    },
+    {
+      "context": "The visit to Shri Jiwan Patel’s farmhouse highlighted various aspects of crop production, including traditional versus modern agricultural practices, the importance of earthworms, and new techniques for enhanced crop yield.",
+      "question": "How does modern agriculture differ from traditional methods?"
+    }
+  ]
+}

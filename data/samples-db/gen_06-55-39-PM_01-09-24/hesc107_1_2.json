@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "context": "Now you know that the sex chromosomes of the father determine the sex of an unborn baby. The belief that the mother is responsible for the sex of her baby is completely wrong and to blame her for this is totally unjustified.",
+      "question": "Who determines the sex of an unborn baby?"
+    },
+    {
+      "context": "The hormones secreted by the pituitary stimulate testes and ovaries to produce their hormones. You have already learnt that the pituitary gland is an endocrine gland.",
+      "question": "What stimulates testes and ovaries to produce hormones?"
+    },
+    {
+      "context": "The pituitary gland is an endocrine gland. It is attached to the brain. Apart from the pituitary, the testes and the ovaries, there are other endocrine glands in the body such as thyroid, pancreas and adrenals.",
+      "question": "Which gland is attached to the brain?"
+    },
+    {
+      "context": "The hormones secreted by the pituitary stimulate testes and ovaries to produce their hormones. You have already learnt that the pituitary gland is an endocrine gland.",
+      "question": "What do the hormones from the pituitary stimulate?"
+    },
+    {
+      "context": "The belief that the mother is responsible for the sex of her baby is completely wrong and to blame her for this is totally unjustified.",
+      "question": "Is the mother responsible for the baby's sex?"
+    },
+    {
+      "context": "Apart from the pituitary, the testes and the ovaries, there are other endocrine glands in the body such as thyroid, pancreas and adrenals.",
+      "question": "Name one gland besides the pituitary."
+    },
+    {
+      "context": "Hormones and Endocrine Glands: The hormones secreted by the pituitary stimulate testes and ovaries to produce their hormones.",
+      "question": "Which glands produce hormones in response to the pituitary?"
+    }
+  ]
+}

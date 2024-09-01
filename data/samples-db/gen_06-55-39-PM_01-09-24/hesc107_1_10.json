@@ -1,0 +1,44 @@
+{
+  "samples": [
+    {
+      "context": "Adolescence is a period of much activity in the body and mind which is a normal part of growing up. So do not feel confused or insecure. If anybody suggests that you will get relief if you take some drugs, just say ‘No’ unless prescribed by the doctor.",
+      "question": "What should you say to drug suggestions?"
+    },
+    {
+      "context": "Drugs are addictive. If you take them once, you feel like taking them again and again. They harm the body in the long run.",
+      "question": "What are the consequences of taking drugs?"
+    },
+    {
+      "context": "You must have heard about AIDS which is caused by a dangerous virus, HIV. This virus can pass on to a normal person from an infected person by sharing the syringes used for injecting drugs.",
+      "question": "How is HIV transmitted through drug use?"
+    },
+    {
+      "context": "If anybody suggests that you will get relief if you take some drugs, just say ‘No’ unless prescribed by the doctor. Drugs are addictive.",
+      "question": "When can drugs be accepted as relief?"
+    },
+    {
+      "context": "In our country, the legal age for marriage is 18 years for girls and 21 years for boys. This is because teenage mothers are not prepared mentally or physically for motherhood.",
+      "question": "What is the legal marriage age in your country?"
+    },
+    {
+      "context": "Early marriage and motherhood cause health problems in the mother and the child. It also curtails employment opportunities for the young woman and may cause mental agony.",
+      "question": "What are the effects of early motherhood?"
+    },
+    {
+      "context": "Adolescence is a period of much activity in the body and mind which is a normal part of growing up. So do not feel confused or insecure.",
+      "question": "Why is adolescence a confusing time?"
+    },
+    {
+      "context": "This virus can also be transmitted through sexual contact with a person infected with HIV.",
+      "question": "How else can HIV be transmitted?"
+    },
+    {
+      "context": "Teenage mothers are not prepared mentally or physically for motherhood. Early marriage and motherhood cause health problems in the mother and the child.",
+      "question": "Why is teen motherhood considered risky?"
+    },
+    {
+      "context": "It also curtails employment opportunities for the young woman and may cause mental agony as she is not ready for responsibilities of motherhood.",
+      "question": "What is one impact of early motherhood on a young woman?"
+    }
+  ]
+}

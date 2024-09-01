@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The maturation of the egg, its release, thickening of uterine wall and its breakdown if pregnancy does not occur.",
+      "question": "What happens to the egg if not fertilised?"
+    },
+    {
+      "context": "A female has two X chromosomes, while a male has one X and one Y chromosome.",
+      "question": "What chromosomes determine a male's sex?"
+    },
+    {
+      "context": "If the sperm contributes a Y chromosome to the egg, the zygote would develop into a male child.",
+      "question": "What chromosome results in a male baby?"
+    },
+    {
+      "context": "Inside the fertilised egg or zygote is the instruction for determining the sex of the baby.",
+      "question": "Where is the sex determination instruction found?"
+    },
+    {
+      "context": "All human beings have 23 pairs of chromosomes in the nuclei of their cells.",
+      "question": "How many chromosome pairs do humans have?"
+    },
+    {
+      "context": "The unfertilised egg always has one X chromosome, but sperms are of two kinds.",
+      "question": "What chromosome does an unfertilised egg contain?"
+    }
+  ]
+}

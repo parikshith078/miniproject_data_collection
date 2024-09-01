@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The animals which give birth to young ones are called viviparous animals. Those animals which lay eggs are called oviparous animals.",
+      "question": "What are viviparous animals?"
+    },
+    {
+      "context": "Some animals give birth to young ones while some animals lay eggs which later develop into young ones.",
+      "question": "How do viviparous animals reproduce?"
+    },
+    {
+      "context": "Asexual reproduction involves very small animals like hydra and microscopic organisms like amoeba.",
+      "question": "What types of organisms reproduce asexually?"
+    },
+    {
+      "context": "Do you know how they reproduce?",
+      "question": "How does hydra reproduce?"
+    },
+    {
+      "context": "But what about very small animals like hydra and microscopic organisms like amoeba?",
+      "question": "Which animals are mentioned in asexual reproduction?"
+    },
+    {
+      "context": "Those animals which lay eggs are called oviparous animals.",
+      "question": "What is the definition of oviparous animals?"
+    }
+  ]
+}

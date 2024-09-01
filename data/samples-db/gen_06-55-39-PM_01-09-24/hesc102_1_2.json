@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "By keeping the surroundings clean and dry we can prevent mosquitoes from breeding. Try to make a list of measures which help to avoid the spread of malaria. Vaccination to be given at suitable age. Maintain personal hygiene and good sanitary habits.",
+      "question": "What measures can prevent the spread of malaria?"
+    },
+    {
+      "context": "All mosquitoes breed in water. Hence, one should not let water collect anywhere, in coolers, tyres, flower pot, etc.",
+      "question": "Why should we not let water collect around us?"
+    },
+    {
+      "context": "We should keep a handkerchief on the nose and mouth while sneezing. It is better to keep a distance from infected persons.",
+      "question": "What should we do when we sneeze?"
+    },
+    {
+      "context": "Use mosquito net and repellents. Spray insecticides and control breeding of mosquitoes by not allowing water to collect in the surroundings.",
+      "question": "How can we control mosquito breeding?"
+    },
+    {
+      "context": "Consume properly cooked food and boiled drinking water. Maintain personal hygiene and good sanitary habits.",
+      "question": "What food safety measures should we take?"
+    }
+  ]
+}

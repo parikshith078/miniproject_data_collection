@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fishes take in water through their mouths and force it past the gills where the dissolved oxygen is taken up by blood.",
+      "question": "How do fishes obtain oxygen from water?"
+    },
+    {
+      "context": "Terrestrial organisms use the oxygen in the atmosphere for respiration. This oxygen is absorbed by different organs in different animals.",
+      "question": "Where is oxygen absorbed in terrestrial animals?"
+    },
+    {
+      "context": "Fishes take in water through their mouths and force it past the gills where the dissolved oxygen is taken up by blood.",
+      "question": "What role do gills play in fish respiration?"
+    },
+    {
+      "context": "Terrestrial organisms use the oxygen in the atmosphere for respiration. This oxygen is absorbed by different organs in different animals.",
+      "question": "What is the main source of oxygen for terrestrial animals?"
+    },
+    {
+      "context": "Fishes take in water through their mouths and force it past the gills where the dissolved oxygen is taken up by blood.",
+      "question": "Describe the process of respiration in fishes."
+    }
+  ]
+}

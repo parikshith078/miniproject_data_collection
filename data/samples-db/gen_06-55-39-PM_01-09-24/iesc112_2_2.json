@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Fish production includes the finned true fish as well as shellfish such as prawns and molluscs. There are two ways of obtaining fish: one is from natural resources, which is called capture fishing. The other way is by fish farming, which is called culture fishery.",
+      "question": "What are the two ways to obtain fish?"
+    },
+    {
+      "context": "India’s marine fishery resources include 7500 km of coastline and the deep seas beyond it. Popular marine fish varieties include pomfret, mackerel, tuna, sardines, and Bombay duck.",
+      "question": "What are some popular marine fish varieties in India?"
+    },
+    {
+      "context": "Yields are increased by locating large schools of fish in the open sea using satellites and echo-sounders. Some marine fish of high economic value are also farmed in seawater.",
+      "question": "How are large schools of fish located in the ocean?"
+    },
+    {
+      "context": "Oysters are also cultivated for the pearls they make. As marine fish stocks get further depleted, the demand for more fish can only be met by such culture fisheries, a practice called mariculture.",
+      "question": "What practice is used to meet the increasing demand for fish?"
+    },
+    {
+      "context": "Marine fish are caught using many kinds of fishing nets from fishing boats. Fishing can thus be done both by capture and culture of fish in marine and freshwater ecosystems.",
+      "question": "What methods are used to catch marine fish?"
+    }
+  ]
+}

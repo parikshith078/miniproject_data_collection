@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Sexually reproducing individuals have two copies of genes for the same trait. If the copies are not identical, the trait that gets expressed is called the dominant trait and the other is called the recessive trait.",
+      "question": "What are dominant and recessive traits?"
+    },
+    {
+      "context": "Variations arising during the process of reproduction can be inherited. These variations may lead to increased survival of the individuals.",
+      "question": "How do variations affect survival during reproduction?"
+    },
+    {
+      "context": "Different species use very different strategies for this. Some rely entirely on environmental cues. Thus, in some animals like a few reptiles, the temperature at which fertilised eggs are kept determines whether the animals developing in the eggs will be male or female.",
+      "question": "What influences sex determination in some reptiles?"
+    },
+    {
+      "context": "In other animals, such as snails, individuals can change sex, indicating that sex is not genetically determined. However, in human beings, the sex of the individual is largely genetically determined.",
+      "question": "How is sex determination different in humans and snails?"
+    },
+    {
+      "context": "Traits in one individual may be inherited separately, giving rise to new combinations of traits in the offspring of sexual reproduction.",
+      "question": "What can happen to traits during sexual reproduction?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In clayey soils, the large quantities of organic matter help in drainage and in avoiding water logging. In using manure we use biological waste material, which is advantageous in protecting soil fertility.",
+      "question": "How does organic matter benefit clayey soils?"
+    },
+    {
+      "context": "Manure for maintaining soil fertility has to be considered while aiming for optimum yields in crop production. Organic farming is a farming system with minimal or no use of chemicals as fertilizers, herbicides, pesticides, etc.",
+      "question": "What is the focus of organic farming?"
+    },
+    {
+      "context": "Organic farming is a farming system with minimal or no use of chemicals as fertilizers, herbicides, pesticides, etc., and with a maximum input of organic manures, recycled farm-wastes.",
+      "question": "What does organic farming minimize the use of?"
+    },
+    {
+      "context": "Nutrient Supply includes air carbon, oxygen, water hydrogen, and soil macronutrients like nitrogen, phosphorus, potassium, calcium, magnesium, and sulphur.",
+      "question": "What are the main macronutrients in soil?"
+    },
+    {
+      "context": "(i) Macronutrients: nitrogen, phosphorus, potassium, calcium, magnesium, sulphur (ii) Micronutrients: iron, manganese, boron, zinc, copper, molybdenum, chlorine.",
+      "question": "List two micronutrients essential for plant growth."
+    }
+  ]
+}

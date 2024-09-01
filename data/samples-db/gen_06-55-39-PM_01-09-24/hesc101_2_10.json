@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Providing water to the crops is irrigation.",
+      "question": "What is the process of watering crops?"
+    },
+    {
+      "context": "Keeping crop grains for a long time under proper conditions is storage.",
+      "question": "What is the term for holding grains long-term?"
+    },
+    {
+      "context": "Certain plants of the same kind grown on a large scale are crops.",
+      "question": "What do we call large-scale plants of the same type?"
+    },
+    {
+      "context": "A rabi crop that is also one of the pulses is gram.",
+      "question": "Which rabi crop is a type of pulse?"
+    },
+    {
+      "context": "A machine used for cutting the matured crop is a harvester.",
+      "question": "What do we use to cut matured crops?"
+    },
+    {
+      "context": "A process of separating the grain from chaff is threshing.",
+      "question": "What is the method for separating grain from chaff?"
+    },
+    {
+      "context": "Observe daily whether drip irrigation saves water and note the changes in the seed.",
+      "question": "What should be observed about drip irrigation?"
+    },
+    {
+      "context": "Collect different types of seeds, label them, and gather information about seed selection and methods of irrigation during field trips.",
+      "question": "What activities are suggested for learning about seeds?"
+    }
+  ]
+}

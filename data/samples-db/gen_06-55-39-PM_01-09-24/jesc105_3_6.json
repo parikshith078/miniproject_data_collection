@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "Transpiration helps in the absorption and upward movement of water and minerals dissolved in it from roots to leaves. It also helps in temperature regulation. The loss of water in the form of vapour from the aerial parts of the plant creates a suction that pulls water from the xylem cells of roots.",
+      "question": "What is the main role of transpiration in plants?"
+    },
+    {
+      "context": "During the day when the stomata are open, the transpiration pull becomes the major driving force in the movement of water in the xylem.",
+      "question": "How does the openness of stomata affect transpiration?"
+    },
+    {
+      "context": "The transport of soluble products of photosynthesis is called translocation and occurs in the part of the vascular tissue known as phloem. Phloem also transports amino acids and other substances.",
+      "question": "What is translocation in plants?"
+    },
+    {
+      "context": "Phloem also transports amino acids and other substances, especially to the storage organs of roots, fruits, and seeds and to growing organs.",
+      "question": "Where does phloem transport nutrients in plants?"
+    },
+    {
+      "context": "Translocation in phloem is achieved using energy, with material like sucrose transferred into phloem tissue using energy from ATP, which increases the osmotic pressure.",
+      "question": "What is required for translocation in phloem?"
+    },
+    {
+      "context": "Transpiration helps in the absorption and upward movement of water and minerals dissolved in it from roots to leaves.",
+      "question": "What substances does transpiration movement involve?"
+    },
+    {
+      "context": "Phloem also transports amino acids and other substances, especially to the storage organs of roots, fruits, and seeds.",
+      "question": "What types of substances does the phloem transport?"
+    },
+    {
+      "context": "The loss of water in the form of vapour from the aerial parts of the plant creates a suction that pulls water from the xylem cells of roots.",
+      "question": "What effect does water loss through transpiration have?"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "context": "In 1987, the United Nations Environment Programme (UNEP) succeeded in forging an agreement to freeze CFC production at 1986 levels.",
+      "question": "What agreement did UNEP achieve in 1987?"
+    },
+    {
+      "context": "It is now mandatory for countries to avoid further depletion of the ozone layer through monitoring and controlling the use of ozone-depleting substances.",
+      "question": "What are countries required to do regarding ozone-depleting substances?"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "Chemical, or hormonal, means of information transmission are also used in animals. Many different tissue types will be used and their activities integrated together in these actions.",
+      "question": "How do hormones transmit information in animals?"
+    },
+    {
+      "context": "For instance, when squirrels experience a scary situation, their bodies may have to prepare for either fighting or running away, which requires a lot of energy and coordination across different tissues.",
+      "question": "What do squirrels do in scary situations?"
+    },
+    {
+      "context": "This hormonal response allows for efficient activation of bodily processes necessary for these actions.",
+      "question": "Why is hormonal response efficient in animals?"
+    }
+  ]
+}

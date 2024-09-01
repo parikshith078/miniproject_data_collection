@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The heart is a muscular organ which is as big as our fist. Because both oxygen and carbon dioxide have to be transported by the blood, the heart has different chambers to prevent the oxygen-rich blood from mixing with the blood containing carbon dioxide.",
+      "question": "Why does the heart have different chambers?"
+    },
+    {
+      "context": "The separation of the right side and the left side of the heart is useful to keep oxygenated and deoxygenated blood from mixing. This allows a highly efficient supply of oxygen to the body.",
+      "question": "What is the benefit of separating the heart sides?"
+    },
+    {
+      "context": "The heart is a muscular organ which is as big as our fist. Because both oxygen and carbon dioxide have to be transported by the blood, the heart has different chambers to prevent the oxygen-rich blood from mixing with the blood containing carbon dioxide.",
+      "question": "What is the size of the heart compared to?"
+    },
+    {
+      "context": "The separation of the right side and the left side of the heart is useful to keep oxygenated and deoxygenated blood from mixing. This allows a highly efficient supply of oxygen to the body.",
+      "question": "How does heart structure improve circulation?"
+    },
+    {
+      "context": "Because both oxygen and carbon dioxide have to be transported by the blood, the heart has different chambers to prevent the oxygen-rich blood from mixing with the blood containing carbon dioxide.",
+      "question": "What gases are transported by the blood?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "While examining a thin slice of cork, Robert Hooke saw that the cork resembled the structure of a honeycomb consisting of many little compartments. This was in the year 1665 when Hooke made this chance observation through a self-designed microscope. Robert Hooke called these boxes cells, meaning little room in Latin.",
+      "question": "What did Robert Hooke call the boxes he observed?"
+    },
+    {
+      "context": "Chlamydomonas, Paramoecium and bacteria are unicellular organisms. On the other hand, many cells group together in a single body and assume different functions in it to form various body parts in multicellular organisms such as some fungi, plants and animals.",
+      "question": "What are Chlamydomonas and Paramoecium categorized as?"
+    },
+    {
+      "context": "Cells divide to produce cells of their own kind. All cells thus come from pre-existing cells. This concept highlights that every multicellular organism has come from a single cell during its development stages.",
+      "question": "How do multicellular organisms develop from single cells?"
+    },
+    {
+      "context": "This may seem to be a very small and insignificant incident but it is very important in the history of science. This was the very first time that someone had observed that living things appear to consist of separate units, which we now call cells.",
+      "question": "Why is Hooke's observation considered significant?"
+    },
+    {
+      "context": "Hooke's chance observation of cork in 1665 through a self-designed microscope led to the discovery of cells. The term 'cell' is still used in biology to describe the basic unit of life.",
+      "question": "What instrument did Hooke use to observe cork?"
+    },
+    {
+      "context": "Cork is a substance that comes from the bark of a tree. This material’s structure led Hooke to identify the compartments that resemble tiny boxes, which eventually were named cells.",
+      "question": "What substance did Hooke examine to discover cells?"
+    }
+  ]
+}

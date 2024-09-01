@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The carbohydrates which are not used immediately are stored in the form of starch, which serves as the internal energy reserve to be used as and when required by the plant.",
+      "question": "What do plants use to store carbohydrates?"
+    },
+    {
+      "context": "A somewhat similar situation is seen in us where some of the energy derived from the food we eat is stored in our body in the form of glycogen.",
+      "question": "How is energy stored in the human body?"
+    },
+    {
+      "context": "Let us now see what actually happens during the process of photosynthesis. The following events occur during this process – (i) Absorption of light energy by chlorophyll.",
+      "question": "What is absorbed by chlorophyll during photosynthesis?"
+    },
+    {
+      "context": "(ii) Conversion of light energy to chemical energy and splitting of water molecules into hydrogen and oxygen.",
+      "question": "What is produced from the splitting of water molecules?"
+    },
+    {
+      "context": "(iii) Reduction of carbon dioxide to carbohydrates.",
+      "question": "What does carbon dioxide get reduced to in photosynthesis?"
+    }
+  ]
+}

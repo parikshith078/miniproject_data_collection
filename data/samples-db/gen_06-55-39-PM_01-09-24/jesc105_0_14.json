@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "These green dots are cell organelles called chloroplasts which contain chlorophyll. Their primary role is to capture solar energy.",
+      "question": "What are chloroplasts responsible for?"
+    },
+    {
+      "context": "Massive amounts of gaseous exchange takes place in the leaves through these pores for the purpose of photosynthesis.",
+      "question": "What is the purpose of gas exchange in leaves?"
+    },
+    {
+      "context": "It is important to note here that exchange of gases occurs across the surface of stems, roots and leaves as well.",
+      "question": "Where else do plants exchange gases besides leaves?"
+    },
+    {
+      "context": "Chlorophyll is essential for photosynthesis, allowing plants to convert sunlight into energy.",
+      "question": "Why is chlorophyll important for plants?"
+    },
+    {
+      "context": "In Class IX, we had talked about stomata which are tiny pores present on the surface of the leaves.",
+      "question": "What are stomata and where are they located?"
+    }
+  ]
+}

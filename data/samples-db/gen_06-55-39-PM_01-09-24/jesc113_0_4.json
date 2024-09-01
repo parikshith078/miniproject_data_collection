@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "Microorganisms, comprising bacteria and fungi, break-down the dead remains and waste products of organisms. These microorganisms are the decomposers as they break down the complex organic substances into simple inorganic substances that go into the soil.",
+      "question": "What role do decomposers play in ecosystems?"
+    },
+    {
+      "context": "The autotrophs or the producers are at the first trophic level. The herbivores or the primary consumers come at the second, small carnivores or the secondary consumers at the third, and larger carnivores or the tertiary consumers form the fourth trophic level.",
+      "question": "What are the different trophic levels in a food chain?"
+    },
+    {
+      "context": "Green plants in a terrestrial ecosystem capture about 1% of the energy of sunlight that falls on their leaves and convert it into food energy.",
+      "question": "How much sunlight energy do plants capture?"
+    },
+    {
+      "context": "If decomposers were absent, organic waste would accumulate, causing harm to the ecosystem. Decomposers recycle nutrients back into the soil.",
+      "question": "What happens if decomposers are absent in an ecosystem?"
+    },
+    {
+      "context": "This series of organisms feeding on one another forms a food chain. Each step or level of the food chain forms a trophic level.",
+      "question": "What is a food chain composed of?"
+    },
+    {
+      "context": "The green plants capture energy from sunlight and convert it into food energy, supporting the entire ecosystem.",
+      "question": "How do plants support the ecosystem?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Microorganisms are harmful in many ways. Some microorganisms spoil food, clothing, and leather. Such disease-causing microorganisms are called pathogens.",
+      "question": "What are disease-causing microorganisms called?"
+    },
+    {
+      "context": "Pathogens enter our body through the air we breathe, the water we drink or the food we eat.",
+      "question": "How do pathogens enter our body?"
+    },
+    {
+      "context": "They can also get transmitted by direct contact with an infected person or carried by an animal.",
+      "question": "How can pathogens be transmitted?"
+    },
+    {
+      "context": "Pathogens stick to their bodies. When these flies sit on uncovered food, they may transfer the pathogens.",
+      "question": "How can flies transmit pathogens?"
+    },
+    {
+      "context": "So, it is advisable to always keep food covered. Another example of a carrier is the female Anopheles mosquito.",
+      "question": "What is a precaution to prevent pathogens?"
+    }
+  ]
+}

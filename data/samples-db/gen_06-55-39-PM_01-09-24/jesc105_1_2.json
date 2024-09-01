@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "context": "In single-celled organisms, the food may be taken in by the entire surface. But as the complexity of the organism increases, different parts become specialised to perform different functions. For example, Amoeba takes in food using temporary finger-like extensions of the cell surface that fuse over the food particle forming a food-vacuole.",
+      "question": "How does Amoeba obtain its food?"
+    },
+    {
+      "context": "The alimentary canal is basically a long tube extending from the mouth to the anus. In this, we can see that the tube has different parts. Various regions are specialised to perform different functions.",
+      "question": "What is the structure of the alimentary canal?"
+    },
+    {
+      "context": "This is done with the help of biological catalysts called enzymes. The saliva contains an enzyme called salivary amylase that breaks down starch which is a complex molecule to give simple sugar.",
+      "question": "What role do enzymes play in digestion?"
+    },
+    {
+      "context": "Food is moved to this spot by the movement of cilia which cover the entire surface of the cell. Nutrition in Human Beings involves a more complex mechanism than in single-celled organisms.",
+      "question": "How do Paramecium take in food?"
+    },
+    {
+      "context": "The food is mixed thoroughly with saliva and moved around the mouth while chewing by the muscular tongue. The exit of food from the stomach is regulated by a sphincter muscle which releases it in small amounts into the small intestine.",
+      "question": "What happens to food after it is chewed?"
+    },
+    {
+      "context": "The remaining undigested material is moved to the surface of the cell and thrown out. In Paramecium, which is also a unicellular organism, the cell has a definite shape and food is taken in at a specific spot.",
+      "question": "What happens to undigested material in Amoeba?"
+    },
+    {
+      "context": "Another aspect of the food we ingest is its complex nature. If it is to be absorbed from the alimentary canal, it has to be broken into smaller molecules.",
+      "question": "Why must food be broken down before absorption?"
+    },
+    {
+      "context": "From the stomach, the food now enters the small intestine. The alimentary canal has different parts that perform different functions during digestion.",
+      "question": "Where does food go after the stomach?"
+    }
+  ]
+}

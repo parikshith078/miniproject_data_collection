@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The waste we generate may be biodegradable or non-biodegradable. The disposal of the waste we generate is causing serious environmental problems. Proper waste management is crucial for maintaining ecological balance and ensuring a sustainable future.",
+      "question": "What kinds of waste are mentioned?"
+    },
+    {
+      "context": "What will happen if we kill all the organisms in one trophic level? Will the impact of removing all the organisms in a trophic level be different for different trophic levels? Can the organisms of any trophic level be removed without causing any damage to the ecosystem?",
+      "question": "What happens if we remove a trophic level?"
+    },
+    {
+      "context": "The waste we generate may be biodegradable or non-biodegradable. The disposal of the waste we generate is causing serious environmental problems. Effective waste management strategies can mitigate these issues and promote recycling and reusing materials.",
+      "question": "How can waste disposal impact the environment?"
+    },
+    {
+      "context": "Ecosystem interactions are complex; removing a single trophic level can disrupt the entire food chain. Each trophic level plays a unique role, and its removal can have varying consequences depending on the organisms involved.",
+      "question": "How does removing a trophic level affect ecosystems?"
+    },
+    {
+      "context": "Can the organisms of any trophic level be removed without causing any damage to the ecosystem? Generally, the answer is no; every level contributes to ecosystem functionality and stability, making them integral to biodiversity.",
+      "question": "Is it safe to remove organisms from any trophic level?"
+    }
+  ]
+}
