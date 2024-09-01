@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The sexual mode of reproduction means that germ-cells from two individuals have to join together. This can happen by the external release of germ-cells from the bodies of individuals, as happens in flowering plants.",
+      "question": "How do germ-cells join together in plants?"
+    },
+    {
+      "context": "If animals are to participate in this process of mating, their state of sexual maturity must be identifiable by other individuals.",
+      "question": "Why is sexual maturity important for animals?"
+    },
+    {
+      "context": "Many changes during puberty, such as new hair-growth patterns, are signals that sexual maturation is taking place.",
+      "question": "What signals indicate sexual maturation during puberty?"
+    },
+    {
+      "context": "This can happen by the external release of germ-cells from the bodies of individuals, as happens in flowering plants. Or it can happen by two individuals joining their bodies together for internal transfer of germ-cells for fusion, as happens in many animals.",
+      "question": "What are the two ways germ-cells can join?"
+    },
+    {
+      "context": "We must remember that the sexual mode of reproduction means that germ-cells from two individuals have to join together.",
+      "question": "What defines sexual reproduction?"
+    }
+  ]
+}

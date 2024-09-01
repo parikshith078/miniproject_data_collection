@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "We must also consider the possible health consequences of having sex. We have discussed in Class IX that diseases can be transmitted from person to person in a variety of ways.",
+      "question": "What health consequences arise from sexual activity?"
+    },
+    {
+      "context": "Since the sexual act is a very intimate connection of bodies, it is not surprising that many diseases can be sexually transmitted.",
+      "question": "Why are diseases often sexually transmitted?"
+    },
+    {
+      "context": "These include bacterial infections such as gonorrhoea and syphilis, and viral infections such as warts and HIV-AIDS.",
+      "question": "What types of infections can be sexually transmitted?"
+    },
+    {
+      "context": "Using a covering, called a condom, for the penis during sex helps to prevent transmission of many of these infections to some extent.",
+      "question": "How do condoms help prevent disease transmission?"
+    },
+    {
+      "context": "Is it possible to prevent the transmission of such diseases during the sexual act?",
+      "question": "Can sexually transmitted diseases be prevented?"
+    }
+  ]
+}

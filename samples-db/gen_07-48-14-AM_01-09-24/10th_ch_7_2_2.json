@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The male reproductive system consists of portions which produce the germ-cells and other portions that deliver the germ-cells to the site of fertilisation. The formation of germ-cells or sperms takes place in the testes.",
+      "question": "What produces germ-cells in males?"
+    },
+    {
+      "context": "The testes are located outside the abdominal cavity in scrotum because sperm formation requires a lower temperature than the normal body temperature.",
+      "question": "Why are testes located outside the body?"
+    },
+    {
+      "context": "In addition to regulating the formation of sperms, testosterone brings about changes in appearance seen in boys at the time of puberty.",
+      "question": "What hormone regulates sperm formation?"
+    },
+    {
+      "context": "The sperms formed are delivered through the vas deferens which unites with a tube coming from the urinary bladder.",
+      "question": "What delivers sperm to the urinary bladder?"
+    },
+    {
+      "context": "Along the path of the vas deferens, glands like the prostate and the seminal vesicles add their secretions so that the sperms are now in a fluid which makes their transport easier.",
+      "question": "What glands add secretions to the sperm?"
+    },
+    {
+      "context": "The sperms are tiny bodies that consist of mainly genetic material and a long tail that helps them to move towards the female germ-cell.",
+      "question": "What do sperms mainly consist of?"
+    }
+  ]
+}

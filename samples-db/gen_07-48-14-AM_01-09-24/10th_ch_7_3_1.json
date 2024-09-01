@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. These structures work together to facilitate reproduction and menstruation.",
+      "question": "What are the main parts of the female reproductive system?"
+    },
+    {
+      "context": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. Each component plays a unique role in the reproductive process.",
+      "question": "What roles do the ovaries play in reproduction?"
+    },
+    {
+      "context": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. Understanding this anatomy is crucial for studies in human biology.",
+      "question": "Why is the anatomy of the female reproductive system important?"
+    },
+    {
+      "context": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. These organs are vital for reproductive health.",
+      "question": "How do the fallopian tubes contribute to reproduction?"
+    },
+    {
+      "context": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. They collectively function to support pregnancy and childbirth.",
+      "question": "What is the function of the uterus in the female reproductive system?"
+    }
+  ]
+}

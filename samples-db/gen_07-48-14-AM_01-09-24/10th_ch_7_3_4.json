@@ -1,0 +1,20 @@
+{
+  "samples": [
+    {
+      "context": "Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper -T and other methods. These methods work by either preventing the sperm from reaching the egg or by stopping ovulation altogether.",
+      "question": "What is the purpose of contraception?"
+    },
+    {
+      "context": "Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper -T and other methods. Each method has its own effectiveness in preventing pregnancy, as well as potential health side effects.",
+      "question": "What are some common methods of contraception?"
+    },
+    {
+      "context": "Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper -T and other methods. It's important for individuals to choose a method that best suits their health needs and lifestyle.",
+      "question": "Why is it important to choose a suitable contraceptive method?"
+    },
+    {
+      "context": "Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper -T and other methods. Understanding how each method works can help in making informed choices.",
+      "question": "How do condoms prevent pregnancy?"
+    }
+  ]
+}

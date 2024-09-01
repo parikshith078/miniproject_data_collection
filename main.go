@@ -8,25 +8,44 @@ import (
 )
 
 func main() {
-	// generateTopicsDB()
-	// generateQuestionSamples()
-	utils.AggregateSamples("./aggregated-samples", "./samples-db/gen_04-24-58-PM_31-08-24")
+
+	err := runFullCycle("./chapter_text_files")
+	if err != nil {
+		log.Fatal(err)
+	}
 }
 
-func generateQuestionSamples() {
-	files, err := utils.GetFileFromFolder("./topics-db/gen_04-22-15-PM_31-08-24", ".json")
+func runFullCycle(txtFilesFolder string) error {
+	fmt.Println("Starting full Cycle")
+	fmt.Println("Generating Topics...")
+	topicsFolderPath, err := generateTopicsDB(txtFilesFolder)
 	if err != nil {
-		panic(err)
+		return err
+	}
+	fmt.Println("Generating Samples...")
+	sampleFolderPath, err := generateQuestionSamples(topicsFolderPath)
+	if err != nil {
+		return err
+	}
+	fmt.Println("Aggregating samples...")
+	utils.AggregateSamples("./aggregated-samples", sampleFolderPath)
+	return nil
+}
+
+func generateQuestionSamples(topicsFolder string) (string, error) { // folder containg topics db json files
+	files, err := utils.GetFileFromFolder(topicsFolder, ".json")
+	if err != nil {
+		return "", err
 	}
 	folderPath, err := utils.CreateLogFolder("./samples-db")
 	if err != nil {
-		panic(err)
+		return "", err
 	}
 	for _, file := range files {
 		fmt.Println("Working on: ", file)
 		res, err := utils.ReadJSONFile[llm.Topics](file)
 		if err != nil {
-			panic(err)
+			return "", err
 		}
 		fileName := utils.ExtractFileName(file)
 		for j, topic := range res.Topic {
@@ -35,39 +54,39 @@ func generateQuestionSamples() {
 			filePath := fmt.Sprintf("%s/%s_%d.json", folderPath, fileName, j)
 			err := utils.SaveResultToJSONFile(filePath, questionSamples)
 			if err != nil {
-				log.Fatal(err)
+				return "", err
 			}
 		}
 	}
-
+	return folderPath, nil
 }
 
-func generateTopicsDB() {
+func generateTopicsDB(txtFilesFolder string) (string, error) {
 
-	res, err := utils.GetFileFromFolder("./chapter_text_files", ".txt")
+	res, err := utils.GetFileFromFolder(txtFilesFolder, ".txt")
 	if err != nil {
-		panic(err)
+		return "", nil
 	}
-	path, err := utils.CreateLogFolder("./topics-db")
+	folderPath, err := utils.CreateLogFolder("./topics-db")
 	if err != nil {
-		panic(err)
+		return "", nil
 	}
 	for _, file := range res {
 		fileName := utils.ExtractFileName(file)
 		content, err := utils.ReadFileToString(file)
 		if err != nil {
-			panic(err)
+			return "", nil
 		}
 		chunk := utils.SplitStringByWordsLimit(content, 2000)
 		for i, contextString := range chunk {
-			filePath := fmt.Sprintf("%s/%s_%d.json", path, fileName, i)
+			filePath := fmt.Sprintf("%s/%s_%d.json", folderPath, fileName, i)
 			res := llm.GenerateTopics(contextString)
 			err := utils.SaveResultToJSONFile(filePath, res)
 			if err != nil {
-				log.Fatal(err)
+				return "", nil
 			}
 			fmt.Println("Created files: ", filePath)
 		}
 	}
-
+	return folderPath, nil
 }

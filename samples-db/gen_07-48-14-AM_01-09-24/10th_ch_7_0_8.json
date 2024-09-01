@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "There are many plants in which parts like the root, stem and leaves develop into new plants under appropriate conditions.",
+      "question": "What parts of plants can propagate?"
+    },
+    {
+      "context": "This property of vegetative propagation is used in methods such as layering or grafting to grow many plants like sugarcane, roses, or grapes for agricultural purposes.",
+      "question": "What methods use vegetative propagation?"
+    },
+    {
+      "context": "Plants raised by vegetative propagation can bear flowers and fruits earlier than those produced from seeds.",
+      "question": "What is an advantage of vegetative propagation?"
+    },
+    {
+      "context": "Such methods also make possible the propagation of plants such as banana, orange, rose and jasmine that have lost the capacity to produce seeds.",
+      "question": "Which plants benefit from vegetative propagation?"
+    },
+    {
+      "context": "Another advantage of vegetative propagation is that all plants produced are genetically similar enough to the parent plant to have all its characteristics.",
+      "question": "What is a genetic advantage of vegetative propagation?"
+    }
+  ]
+}

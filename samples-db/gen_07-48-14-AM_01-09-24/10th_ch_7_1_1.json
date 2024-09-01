@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Even in many simple multi-cellular organisms, specific reproductive parts can be identified. The thread-like structures that developed on the bread are the hyphae of the bread mould (Rhizopus). They are not reproductive parts. The tiny blob-on-a-stick structures are involved in reproduction. The blobs are sporangia, which contain cells, or spores, that can eventually develop into new Rhizopus individuals.",
+      "question": "What are sporangia involved in?"
+    },
+    {
+      "context": "The spores are covered by thick walls that protect them until they come into contact with another moist surface and can begin to grow. The sporangia contain cells, or spores, that can eventually develop into new Rhizopus individuals. They are crucial for the reproduction of the organism.",
+      "question": "What protects the spores until they grow?"
+    },
+    {
+      "context": "The tiny blob-on-a-stick structures are involved in reproduction. The blobs are sporangia, which contain cells, or spores. The spores can eventually develop into new Rhizopus individuals, contributing to the organism's life cycle.",
+      "question": "What do sporangia contain?"
+    },
+    {
+      "context": "The thread-like structures that developed on the bread are the hyphae of the bread mould (Rhizopus). They are not reproductive parts. On the other hand, the tiny blob-on-a-stick structures are sporangia that contain cells, or spores, crucial for reproduction.",
+      "question": "What are hyphae in Rhizopus?"
+    },
+    {
+      "context": "The spores are covered by thick walls that protect them until they come into contact with another moist surface. This protection is important for their survival and successful growth into new organisms, ensuring the continuation of the species.",
+      "question": "Why do spores have thick walls?"
+    }
+  ]
+}

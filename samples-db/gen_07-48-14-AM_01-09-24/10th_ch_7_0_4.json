@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "For unicellular organisms, cell division, or fission, leads to the creation of new individuals. Many different patterns of fission have been observed. Many bacteria and protozoa simply split into two equal halves during cell division.",
+      "question": "What is cell division in unicellular organisms?"
+    },
+    {
+      "context": "However, some unicellular organisms show somewhat more organisation of their bodies, such as is seen in Leishmania (which cause kala-azar), which have a whip-like structure at one end of the cell.",
+      "question": "How is Leishmania structurally organised?"
+    },
+    {
+      "context": "In such organisms, binary fission occurs in a definite orientation in relation to these structures. Other single-celled organisms, such as the malarial parasite, Plasmodium, divide into many daughter cells simultaneously by multiple fission.",
+      "question": "What is multiple fission in Plasmodium?"
+    },
+    {
+      "context": "Yeast, on the other hand, can put out small buds that separate and grow further. Many different patterns of fission have been observed.",
+      "question": "How does yeast reproduce compared to bacteria?"
+    },
+    {
+      "context": "Many bacteria and protozoa simply split into two equal halves during cell division. In organisms such as Amoeba, the splitting of the two cells during division can take place in any plane.",
+      "question": "How does fission occur in Amoeba?"
+    }
+  ]
+}

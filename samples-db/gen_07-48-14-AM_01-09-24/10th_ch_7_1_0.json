@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In tissue culture, new plants are grown by removing tissue or separating cells from the growing tip of a plant. The cells are then placed in an artificial medium where they divide rapidly to form a small group of cells or callus.",
+      "question": "What is the initial step in tissue culture?"
+    },
+    {
+      "context": "The callus is transferred to another medium containing hormones for growth and differentiation. The plantlets are then placed in the soil so that they can grow into mature plants.",
+      "question": "What is the purpose of hormones in tissue culture?"
+    },
+    {
+      "context": "Using tissue culture, many plants can be grown from one parent in disease-free conditions. This technique is commonly used for ornamental plants.",
+      "question": "Why is tissue culture beneficial for plant growth?"
+    },
+    {
+      "context": "The cells are then placed in an artificial medium where they divide rapidly to form a small group of cells or callus.",
+      "question": "What happens to the cells in the artificial medium?"
+    },
+    {
+      "context": "The plantlets are then placed in the soil so that they can grow into mature plants. Using tissue culture, many plants can be grown from one parent in disease-free conditions.",
+      "question": "What happens after the plantlets are created in tissue culture?"
+    }
+  ]
+}

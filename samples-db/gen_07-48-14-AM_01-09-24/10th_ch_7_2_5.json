@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "If the egg is not fertilised, it lives for about one day. Since the ovary releases one egg every month, the uterus also prepares itself every month to receive a fertilised egg.",
+      "question": "What happens if the egg is not fertilized?"
+    },
+    {
+      "context": "This would be required for nourishing the embryo if fertilisation had taken place. Now, however, this lining is not needed any longer.",
+      "question": "What happens to the uterine lining if fertilization doesn't occur?"
+    },
+    {
+      "context": "So, the lining slowly breaks and comes out through the vagina as blood and mucous. This cycle takes place roughly every month and is known as menstruation.",
+      "question": "What is the process called when the uterine lining is shed?"
+    },
+    {
+      "context": "It usually lasts for about two to eight days. The uterus prepares itself every month to receive a fertilised egg.",
+      "question": "How long does menstruation typically last?"
+    },
+    {
+      "context": "Since the ovary releases one egg every month, the uterus prepares itself every month to receive a fertilised egg.",
+      "question": "How often does the ovary release an egg?"
+    }
+  ]
+}

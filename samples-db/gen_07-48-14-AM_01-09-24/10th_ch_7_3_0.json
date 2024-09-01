@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.",
+      "question": "What organs are in the male reproductive system?"
+    },
+    {
+      "context": "The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.",
+      "question": "What is the function of the testes?"
+    },
+    {
+      "context": "The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.",
+      "question": "Where does sperm production occur in males?"
+    },
+    {
+      "context": "The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.",
+      "question": "What role does the vas deferens play?"
+    },
+    {
+      "context": "The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.",
+      "question": "Which organ is responsible for urine expulsion?"
+    },
+    {
+      "context": "The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.",
+      "question": "Name one function of the prostate gland."
+    }
+  ]
+}

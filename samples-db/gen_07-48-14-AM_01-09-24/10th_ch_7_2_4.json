@@ -1,0 +1,28 @@
+{
+  "samples": [
+    {
+      "context": "The embryo gets nutrition from the mother’s blood with the help of a special tissue called placenta. This is a disc which is embedded in the uterine wall.",
+      "question": "What is the role of the placenta?"
+    },
+    {
+      "context": "It contains villi on the embryo’s side of the tissue. On the mother’s side are blood spaces, which surround the villi.",
+      "question": "What structures are in contact at the placenta?"
+    },
+    {
+      "context": "This provides a large surface area for glucose and oxygen to pass from the mother to the embryo.",
+      "question": "Why is the surface area important in the placenta?"
+    },
+    {
+      "context": "The developing embryo will also generate waste substances which can be removed by transferring them into the mother’s blood through the placenta.",
+      "question": "How does the embryo remove waste?"
+    },
+    {
+      "context": "The development of the child inside the mother’s body takes approximately nine months.",
+      "question": "How long does embryonic development typically take?"
+    },
+    {
+      "context": "The child is born as a result of rhythmic contractions of the muscles in the uterus.",
+      "question": "What triggers childbirth in mammals?"
+    }
+  ]
+}

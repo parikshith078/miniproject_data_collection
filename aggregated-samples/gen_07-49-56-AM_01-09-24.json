@@ -1,0 +1,634 @@
+[
+  {
+    "input": "Before we discuss the mechanisms by which organisms reproduce, let us ask a more basic question – why do organisms reproduce? After all, reproduction is not necessary to maintain the life of an individual organism, unlike the essential life processes such as nutrition, respiration, or excretion.",
+    "ouput": "What essential processes do organisms need for survival?"
+  },
+  {
+    "input": "It is the large numbers of organisms belonging to a single species that bring them to our notice. How do we know that two different individual organisms belong to the same species? Usually, we say this because they look similar to each other.",
+    "ouput": "How do we identify organisms of the same species?"
+  },
+  {
+    "input": "If an individual organism is going to create more individuals, a lot of its energy will be spent in the process. So why should an individual organism waste energy on a process it does not need to stay alive?",
+    "ouput": "Why do organisms expend energy on reproduction?"
+  },
+  {
+    "input": "Whatever the answer to this question, it is obvious that we notice organisms because they reproduce. If there were to be only one, non-reproducing member of a particular kind, it is doubtful that we would have noticed its existence.",
+    "ouput": "Why is reproduction important for species recognition?"
+  },
+  {
+    "input": "Thus, reproducing organisms create new individuals that look very much like themselves. It is the large numbers of organisms belonging to a single species that bring them to our notice.",
+    "ouput": "What similarity do offspring have with their parents?"
+  },
+  {
+    "input": "Organisms look similar because their body designs are similar. If body designs are to be similar, the blueprints for these designs should be similar. Thus, reproduction at its most basic level will involve making copies of the blueprints of body design.",
+    "ouput": "What causes organisms to look similar?"
+  },
+  {
+    "input": "In Class IX, we learnt that the chromosomes in the nucleus of a cell contain information for inheritance of features from parents to next generation in the form of DNA (Deoxyribo Nucleic Acid) molecules.",
+    "ouput": "What do chromosomes in a cell nucleus contain?"
+  },
+  {
+    "input": "If the information is changed, different proteins will be made. Different proteins will eventually lead to altered body designs. Therefore, a basic event in reproduction is the creation of a DNA copy.",
+    "ouput": "What happens if DNA information changes?"
+  },
+  {
+    "input": "Cells use chemical reactions to build copies of their DNA. This creates two copies of the DNA in a reproducing cell, and they will need to be separated from each other.",
+    "ouput": "How are copies of DNA created in cells?"
+  },
+  {
+    "input": "However, keeping one copy of DNA in the original cell and simply pushing the other one out would not work, because the copy pushed out would not have any organised cellular structure for maintaining life processes.",
+    "ouput": "Why can't one DNA copy be pushed out?"
+  },
+  {
+    "input": "Therefore, DNA copying is accompanied by the creation of an additional cellular apparatus, and then the DNA copies separate, each with its own cellular apparatus.",
+    "ouput": "What happens during DNA copying in a cell?"
+  },
+  {
+    "input": "The answer to this question will depend on how accurately the copying reactions involved occur. No biochemical reaction is absolutely reliable.",
+    "ouput": "What factors influence DNA copying accuracy?"
+  },
+  {
+    "input": "As a result, the DNA copies generated will be similar, but may not be identical to the original. Some of these variations might be so drastic that the new DNA copy cannot work with the cellular apparatus it inherits.",
+    "ouput": "Are DNA copies always identical to the original?"
+  },
+  {
+    "input": "Thus, the surviving cells are similar to, but subtly different from each other. This inbuilt tendency for variation during reproduction is the basis for evolution, as we will discuss in the next chapter.",
+    "ouput": "What is the basis for evolution according to the text?"
+  },
+  {
+    "input": "Populations of organisms fill well-defined places, or niches, in the ecosystem, using their ability to reproduce. The consistency of DNA copying during reproduction is important for the maintenance of body design features that allow the organism to use that particular niche.",
+    "ouput": "What is the role of DNA copying during reproduction?"
+  },
+  {
+    "input": "However, if some variations were to be present in a few individuals in these populations, there would be some chance for them to survive. Thus, if there were a population of bacteria living in temperate waters, and if the water temperature were to be increased by global warming, most of these bacteria would die, but the few variants resistant to heat would survive and grow further.",
+    "ouput": "How does variation contribute to survival?"
+  },
+  {
+    "input": "Temperatures on earth can go up or down, water levels can vary, or there could be meteorite hits, to think of a few examples. If a population of reproducing organisms were suited to a particular niche and if the niche were drastically altered, the population could be wiped out.",
+    "ouput": "What can cause drastic changes in an organism's niche?"
+  },
+  {
+    "input": "Reproduction is therefore linked to the stability of populations of species. However, niches can change because of reasons beyond the control of the organisms.",
+    "ouput": "Why is reproduction linked to population stability?"
+  },
+  {
+    "input": "Variation is thus useful for the survival of species over time. If some variations were to be present in a few individuals in these populations, there would be some chance for them to survive.",
+    "ouput": "Why is variation important for species over time?"
+  },
+  {
+    "input": "Different organisms reproduce in various ways based on their body design. For example, some organisms may reproduce asexually, while others reproduce sexually. Understanding these modes is crucial for studying biodiversity.",
+    "ouput": "What factors influence reproduction methods?"
+  },
+  {
+    "input": "The modes of reproduction in organisms are determined by their structural and functional characteristics. Asexual reproduction involves a single organism, while sexual reproduction requires two. Each method has its advantages.",
+    "ouput": "What is asexual reproduction?"
+  },
+  {
+    "input": "Reproductive processes are influenced by a variety of factors that include environmental conditions and the biological makeup of the organism. The way organisms reproduce ensures the continuation of their species.",
+    "ouput": "How do environmental conditions affect reproduction?"
+  },
+  {
+    "input": "Reproduction is a fundamental process in biology, and organisms have developed various strategies based on their evolutionary adaptations. The study of these modes sheds light on evolutionary biology and ecology.",
+    "ouput": "Why is studying reproductive modes important?"
+  },
+  {
+    "input": "The reproductive methods of organisms vary widely, encompassing both asexual and sexual reproduction. These methods enable organisms to adapt to changing environments and ensure their survival over generations.",
+    "ouput": "What are the two main types of reproduction?"
+  },
+  {
+    "input": "For unicellular organisms, cell division, or fission, leads to the creation of new individuals. Many different patterns of fission have been observed. Many bacteria and protozoa simply split into two equal halves during cell division.",
+    "ouput": "What is cell division in unicellular organisms?"
+  },
+  {
+    "input": "However, some unicellular organisms show somewhat more organisation of their bodies, such as is seen in Leishmania (which cause kala-azar), which have a whip-like structure at one end of the cell.",
+    "ouput": "How is Leishmania structurally organised?"
+  },
+  {
+    "input": "In such organisms, binary fission occurs in a definite orientation in relation to these structures. Other single-celled organisms, such as the malarial parasite, Plasmodium, divide into many daughter cells simultaneously by multiple fission.",
+    "ouput": "What is multiple fission in Plasmodium?"
+  },
+  {
+    "input": "Yeast, on the other hand, can put out small buds that separate and grow further. Many different patterns of fission have been observed.",
+    "ouput": "How does yeast reproduce compared to bacteria?"
+  },
+  {
+    "input": "Many bacteria and protozoa simply split into two equal halves during cell division. In organisms such as Amoeba, the splitting of the two cells during division can take place in any plane.",
+    "ouput": "How does fission occur in Amoeba?"
+  },
+  {
+    "input": "In multi-cellular organisms with relatively simple body organisation, simple reproductive methods can still work. Spirogyra, for example, simply breaks up into smaller pieces upon maturation. These pieces or fragments grow into new individuals.",
+    "ouput": "What does Spirogyra do upon maturation?"
+  },
+  {
+    "input": "They cannot simply divide cell-by-cell. The reason is that many multi-cellular organisms, as we have seen, are not simply a random collection of cells. Specialised cells are organised as tissues, and tissues are organised into organs, which then have to be placed at definite positions in the body.",
+    "ouput": "Why can't multi-cellular organisms just divide cell-by-cell?"
+  },
+  {
+    "input": "Specialised cells are organised as tissues, and tissues are organised into organs, which then have to be placed at definite positions in the body. In such a carefully organised situation, cell-by-cell division would be impractical.",
+    "ouput": "How are cells organised in multi-cellular organisms?"
+  },
+  {
+    "input": "Multi-cellular organisms, therefore, need to use more complex ways of reproduction. A basic strategy used in multi-cellular organisms is that different cell types perform different specialised functions.",
+    "ouput": "What type of reproduction is used by multi-cellular organisms?"
+  },
+  {
+    "input": "Following this general pattern, reproduction in such organisms is also the function of a specific cell type. This indicates that not all cells are involved in the reproductive process.",
+    "ouput": "Which cell type is responsible for reproduction in multi-cellular organisms?"
+  },
+  {
+    "input": "Regeneration is carried out by specialised cells. These cells proliferate and make large numbers of cells. From this mass of cells, different cells undergo changes to become various cell types and tissues.",
+    "ouput": "What is the role of specialised cells in regeneration?"
+  },
+  {
+    "input": "For example, simple animals like Hydra and Planaria can be cut into any number of pieces and each piece grows into a complete organism. This is known as regeneration.",
+    "ouput": "Which animals are examples of those that can regenerate?"
+  },
+  {
+    "input": "However, regeneration is not the same as reproduction, since most organisms would not normally depend on being cut up to be able to reproduce.",
+    "ouput": "How does regeneration differ from reproduction?"
+  },
+  {
+    "input": "Many fully differentiated organisms have the ability to give rise to new individual organisms from their body parts. That is, if the individual is somehow cut or broken up into many pieces, many of these pieces grow into separate individuals.",
+    "ouput": "What happens when an organism is cut into pieces?"
+  },
+  {
+    "input": "From this mass of cells, different cells undergo changes to become various cell types and tissues. These changes take place in an organised sequence referred to as development.",
+    "ouput": "What is the organised sequence of cell changes called?"
+  },
+  {
+    "input": "Regeneration is carried out by specialised cells. These cells proliferate and make large numbers of cells.",
+    "ouput": "What process do specialised cells use to create new cells?"
+  },
+  {
+    "input": "Organisms such as Hydra use regenerative cells for reproduction in the process of budding. In Hydra, a bud develops as an outgrowth due to repeated cell division at one specific site.",
+    "ouput": "How does a bud form in Hydra?"
+  },
+  {
+    "input": "These buds develop into tiny individuals and when fully mature, detach from the parent body and become new independent individuals.",
+    "ouput": "What happens to buds when they mature?"
+  },
+  {
+    "input": "In Hydra, a bud develops as an outgrowth due to repeated cell division at one specific site. These buds develop into tiny individuals.",
+    "ouput": "What is the role of cell division in budding?"
+  },
+  {
+    "input": "Budding is a reproductive process where a new organism develops from an outgrowth of the parent. This is seen in Hydra.",
+    "ouput": "What type of reproduction is seen in Hydra?"
+  },
+  {
+    "input": "When fully mature, buds detach from the parent body and become new independent individuals. This is part of Hydra's reproduction.",
+    "ouput": "What occurs after buds detach from Hydra?"
+  },
+  {
+    "input": "There are many plants in which parts like the root, stem and leaves develop into new plants under appropriate conditions.",
+    "ouput": "What parts of plants can propagate?"
+  },
+  {
+    "input": "This property of vegetative propagation is used in methods such as layering or grafting to grow many plants like sugarcane, roses, or grapes for agricultural purposes.",
+    "ouput": "What methods use vegetative propagation?"
+  },
+  {
+    "input": "Plants raised by vegetative propagation can bear flowers and fruits earlier than those produced from seeds.",
+    "ouput": "What is an advantage of vegetative propagation?"
+  },
+  {
+    "input": "Such methods also make possible the propagation of plants such as banana, orange, rose and jasmine that have lost the capacity to produce seeds.",
+    "ouput": "Which plants benefit from vegetative propagation?"
+  },
+  {
+    "input": "Another advantage of vegetative propagation is that all plants produced are genetically similar enough to the parent plant to have all its characteristics.",
+    "ouput": "What is a genetic advantage of vegetative propagation?"
+  },
+  {
+    "input": "In tissue culture, new plants are grown by removing tissue or separating cells from the growing tip of a plant. The cells are then placed in an artificial medium where they divide rapidly to form a small group of cells or callus.",
+    "ouput": "What is the initial step in tissue culture?"
+  },
+  {
+    "input": "The callus is transferred to another medium containing hormones for growth and differentiation. The plantlets are then placed in the soil so that they can grow into mature plants.",
+    "ouput": "What is the purpose of hormones in tissue culture?"
+  },
+  {
+    "input": "Using tissue culture, many plants can be grown from one parent in disease-free conditions. This technique is commonly used for ornamental plants.",
+    "ouput": "Why is tissue culture beneficial for plant growth?"
+  },
+  {
+    "input": "The cells are then placed in an artificial medium where they divide rapidly to form a small group of cells or callus.",
+    "ouput": "What happens to the cells in the artificial medium?"
+  },
+  {
+    "input": "The plantlets are then placed in the soil so that they can grow into mature plants. Using tissue culture, many plants can be grown from one parent in disease-free conditions.",
+    "ouput": "What happens after the plantlets are created in tissue culture?"
+  },
+  {
+    "input": "Even in many simple multi-cellular organisms, specific reproductive parts can be identified. The thread-like structures that developed on the bread are the hyphae of the bread mould (Rhizopus). They are not reproductive parts. The tiny blob-on-a-stick structures are involved in reproduction. The blobs are sporangia, which contain cells, or spores, that can eventually develop into new Rhizopus individuals.",
+    "ouput": "What are sporangia involved in?"
+  },
+  {
+    "input": "The spores are covered by thick walls that protect them until they come into contact with another moist surface and can begin to grow. The sporangia contain cells, or spores, that can eventually develop into new Rhizopus individuals. They are crucial for the reproduction of the organism.",
+    "ouput": "What protects the spores until they grow?"
+  },
+  {
+    "input": "The tiny blob-on-a-stick structures are involved in reproduction. The blobs are sporangia, which contain cells, or spores. The spores can eventually develop into new Rhizopus individuals, contributing to the organism's life cycle.",
+    "ouput": "What do sporangia contain?"
+  },
+  {
+    "input": "The thread-like structures that developed on the bread are the hyphae of the bread mould (Rhizopus). They are not reproductive parts. On the other hand, the tiny blob-on-a-stick structures are sporangia that contain cells, or spores, crucial for reproduction.",
+    "ouput": "What are hyphae in Rhizopus?"
+  },
+  {
+    "input": "The spores are covered by thick walls that protect them until they come into contact with another moist surface. This protection is important for their survival and successful growth into new organisms, ensuring the continuation of the species.",
+    "ouput": "Why do spores have thick walls?"
+  },
+  {
+    "input": "All the modes of reproduction that we have discussed so far allow new generations to be created from a single individual. This is known as asexual reproduction.",
+    "ouput": "What is asexual reproduction?"
+  },
+  {
+    "input": "This type of reproduction does not involve the fusion of gametes and results in offspring that are genetically identical to the parent.",
+    "ouput": "What is a key characteristic of asexual reproduction?"
+  },
+  {
+    "input": "Asexual reproduction can occur through various processes such as budding, fragmentation, and binary fission.",
+    "ouput": "What processes are involved in asexual reproduction?"
+  },
+  {
+    "input": "In contrast to sexual reproduction, asexual reproduction allows for rapid population growth under favorable conditions.",
+    "ouput": "How does asexual reproduction affect population growth?"
+  },
+  {
+    "input": "Asexual reproduction is commonly seen in organisms like bacteria, certain fungi, and some plants.",
+    "ouput": "Which organisms commonly reproduce asexually?"
+  },
+  {
+    "input": "In such cases, both sexes, males and females, are needed to produce new generations. Bulls alone cannot produce new calves, nor can hens alone produce new chicks. This process requires the contribution of genetic material from both a male and a female individual.",
+    "ouput": "What is needed for sexual reproduction?"
+  },
+  {
+    "input": "We are also familiar with modes of reproduction that depend on the involvement of two individuals before a new generation can be created. In these cases, males and females are essential for generation creation.",
+    "ouput": "What does sexual reproduction depend on?"
+  },
+  {
+    "input": "Sexual reproduction involves the contribution of genetic material from both a male and a female individual. Bulls alone cannot produce new calves, nor can hens alone produce new chicks.",
+    "ouput": "Who contributes to sexual reproduction?"
+  },
+  {
+    "input": "The DNA copying mechanism, as we have noted, cannot be absolutely accurate, and the resultant errors are a source of variations in populations of organisms. Every individual organism cannot be protected by variations, but in a population, variations are useful for ensuring the survival of the species.",
+    "ouput": "What is the role of DNA copying errors?"
+  },
+  {
+    "input": "The creation of two new cells from one involves copying of the DNA as well as of the cellular apparatus. The DNA copying mechanism cannot be absolutely accurate, and the resultant errors are a source of variations in populations of organisms.",
+    "ouput": "What process results in genetic variations?"
+  },
+  {
+    "input": "The resultant errors are a source of variations in populations of organisms. Every individual organism cannot be protected by variations, but in a population, variations are useful for ensuring the survival of the species.",
+    "ouput": "How do variations benefit species survival?"
+  },
+  {
+    "input": "The creation of two new cells from one involves copying of the DNA as well as of the cellular apparatus. The DNA copying mechanism cannot be absolutely accurate, leading to variations.",
+    "ouput": "How do new cells form during reproduction?"
+  },
+  {
+    "input": "In a population, variations are useful for ensuring the survival of the species. The copying of DNA is critical in this process.",
+    "ouput": "Why are variations important for species?"
+  },
+  {
+    "input": "The reproductive parts of angiosperms are located in the flower. You have already studied the different parts of a flower – sepals, petals, stamens and pistil. Stamens and pistil are the reproductive parts of a flower which contain the germ-cells.",
+    "ouput": "What are the reproductive parts of a flower?"
+  },
+  {
+    "input": "A stamen is the male reproductive part and it produces pollen grains. The pistil is the female reproductive part.",
+    "ouput": "What does the stamen produce?"
+  },
+  {
+    "input": "Fertilization gives us the zygote which is capable of growing into a new plant, resulting in seed formation.",
+    "ouput": "What does fertilization result in?"
+  },
+  {
+    "input": "It is made of three parts: the swollen bottom part (ovary), the middle elongated part (style), and the terminal part (stigma).",
+    "ouput": "What are the three parts of a pistil?"
+  },
+  {
+    "input": "The pistil is the female reproductive part. It is made of three parts: the swollen bottom part (ovary), the middle elongated part (style), and the terminal part (stigma).",
+    "ouput": "Which part of the flower is the female reproductive part?"
+  },
+  {
+    "input": "Humans use a sexual mode of reproduction. All of us know that our bodies change as we become older. We notice that our height has increased continuously and that we acquire and lose teeth.",
+    "ouput": "What type of reproduction do humans use?"
+  },
+  {
+    "input": "In early teenage years, a whole new set of changes occurs that cannot be explained simply as body enlargement. Instead, the appearance of the body changes, new features appear, and so do new sensations.",
+    "ouput": "What changes occur in early teenage years?"
+  },
+  {
+    "input": "We notice that our height has increased continuously and that we acquire and lose teeth. In early teenage years, a whole new set of changes occurs that cannot be explained simply as body enlargement.",
+    "ouput": "What physical changes happen as we age?"
+  },
+  {
+    "input": "Instead, the appearance of the body changes, new features appear, and so do new sensations. We notice that our height has increased continuously and that we acquire and lose teeth.",
+    "ouput": "What new experiences come with body changes?"
+  },
+  {
+    "input": "All of us know that our bodies change as we become older. We notice that our height has increased continuously and that we acquire and lose teeth.",
+    "ouput": "How do our bodies change as we get older?"
+  },
+  {
+    "input": "The creation of germ-cells to participate in sexual reproduction is another specialised function, and we have seen that plants develop special cell and tissue types to create them.",
+    "ouput": "What are germ-cells responsible for?"
+  },
+  {
+    "input": "While the body of the individual organism is growing to its adult size, the resources of the body are mainly directed at achieving this growth.",
+    "ouput": "What does the body prioritize during growth?"
+  },
+  {
+    "input": "As the rate of general body growth begins to slow down, reproductive tissues begin to mature.",
+    "ouput": "What happens to reproductive tissues as growth slows?"
+  },
+  {
+    "input": "Thus, as the rate of general body growth begins to slow down, reproductive tissues begin to mature. This period during adolescence is called puberty.",
+    "ouput": "What is the term for adolescence sexual maturation?"
+  },
+  {
+    "input": "Human beings also develop special tissues for this purpose. However, while the body of the individual organism is growing to its adult size, the resources of the body are mainly directed at achieving this growth.",
+    "ouput": "What does the body develop for sexual maturation?"
+  },
+  {
+    "input": "The sexual mode of reproduction means that germ-cells from two individuals have to join together. This can happen by the external release of germ-cells from the bodies of individuals, as happens in flowering plants.",
+    "ouput": "How do germ-cells join together in plants?"
+  },
+  {
+    "input": "If animals are to participate in this process of mating, their state of sexual maturity must be identifiable by other individuals.",
+    "ouput": "Why is sexual maturity important for animals?"
+  },
+  {
+    "input": "Many changes during puberty, such as new hair-growth patterns, are signals that sexual maturation is taking place.",
+    "ouput": "What signals indicate sexual maturation during puberty?"
+  },
+  {
+    "input": "This can happen by the external release of germ-cells from the bodies of individuals, as happens in flowering plants. Or it can happen by two individuals joining their bodies together for internal transfer of germ-cells for fusion, as happens in many animals.",
+    "ouput": "What are the two ways germ-cells can join?"
+  },
+  {
+    "input": "We must remember that the sexual mode of reproduction means that germ-cells from two individuals have to join together.",
+    "ouput": "What defines sexual reproduction?"
+  },
+  {
+    "input": "The male reproductive system consists of portions which produce the germ-cells and other portions that deliver the germ-cells to the site of fertilisation. The formation of germ-cells or sperms takes place in the testes.",
+    "ouput": "What produces germ-cells in males?"
+  },
+  {
+    "input": "The testes are located outside the abdominal cavity in scrotum because sperm formation requires a lower temperature than the normal body temperature.",
+    "ouput": "Why are testes located outside the body?"
+  },
+  {
+    "input": "In addition to regulating the formation of sperms, testosterone brings about changes in appearance seen in boys at the time of puberty.",
+    "ouput": "What hormone regulates sperm formation?"
+  },
+  {
+    "input": "The sperms formed are delivered through the vas deferens which unites with a tube coming from the urinary bladder.",
+    "ouput": "What delivers sperm to the urinary bladder?"
+  },
+  {
+    "input": "Along the path of the vas deferens, glands like the prostate and the seminal vesicles add their secretions so that the sperms are now in a fluid which makes their transport easier.",
+    "ouput": "What glands add secretions to the sperm?"
+  },
+  {
+    "input": "The sperms are tiny bodies that consist of mainly genetic material and a long tail that helps them to move towards the female germ-cell.",
+    "ouput": "What do sperms mainly consist of?"
+  },
+  {
+    "input": "The female germ-cells or eggs are made in the ovaries. They are also responsible for the production of some hormones. When a girl is born, the ovaries already contain thousands of immature eggs.",
+    "ouput": "What are produced in the ovaries?"
+  },
+  {
+    "input": "One egg is produced every month by one of the ovaries. The egg is carried from the ovary to the womb through a thin oviduct or fallopian tube.",
+    "ouput": "How often is an egg produced?"
+  },
+  {
+    "input": "The uterus opens into the vagina through the cervix. The sperms enter through the vaginal passage during sexual intercourse.",
+    "ouput": "How do sperms enter the female reproductive system?"
+  },
+  {
+    "input": "The fertilised egg (zygote) starts dividing and forms a ball of cells or embryo. The embryo is implanted in the lining of the uterus where they continue to grow and develop organs.",
+    "ouput": "What is formed after the zygote divides?"
+  },
+  {
+    "input": "The two oviducts unite into an elastic bag-like structure known as the uterus. The uterus opens into the vagina through the cervix.",
+    "ouput": "What structure connects the uterus to the vagina?"
+  },
+  {
+    "input": "The embryo gets nutrition from the mother’s blood with the help of a special tissue called placenta. This is a disc which is embedded in the uterine wall.",
+    "ouput": "What is the role of the placenta?"
+  },
+  {
+    "input": "It contains villi on the embryo’s side of the tissue. On the mother’s side are blood spaces, which surround the villi.",
+    "ouput": "What structures are in contact at the placenta?"
+  },
+  {
+    "input": "This provides a large surface area for glucose and oxygen to pass from the mother to the embryo.",
+    "ouput": "Why is the surface area important in the placenta?"
+  },
+  {
+    "input": "The developing embryo will also generate waste substances which can be removed by transferring them into the mother’s blood through the placenta.",
+    "ouput": "How does the embryo remove waste?"
+  },
+  {
+    "input": "The development of the child inside the mother’s body takes approximately nine months.",
+    "ouput": "How long does embryonic development typically take?"
+  },
+  {
+    "input": "The child is born as a result of rhythmic contractions of the muscles in the uterus.",
+    "ouput": "What triggers childbirth in mammals?"
+  },
+  {
+    "input": "If the egg is not fertilised, it lives for about one day. Since the ovary releases one egg every month, the uterus also prepares itself every month to receive a fertilised egg.",
+    "ouput": "What happens if the egg is not fertilized?"
+  },
+  {
+    "input": "This would be required for nourishing the embryo if fertilisation had taken place. Now, however, this lining is not needed any longer.",
+    "ouput": "What happens to the uterine lining if fertilization doesn't occur?"
+  },
+  {
+    "input": "So, the lining slowly breaks and comes out through the vagina as blood and mucous. This cycle takes place roughly every month and is known as menstruation.",
+    "ouput": "What is the process called when the uterine lining is shed?"
+  },
+  {
+    "input": "It usually lasts for about two to eight days. The uterus prepares itself every month to receive a fertilised egg.",
+    "ouput": "How long does menstruation typically last?"
+  },
+  {
+    "input": "Since the ovary releases one egg every month, the uterus prepares itself every month to receive a fertilised egg.",
+    "ouput": "How often does the ovary release an egg?"
+  },
+  {
+    "input": "As we have seen, the process of sexual maturation is gradual and takes place while general body growth is still going on. Therefore, some degree of sexual maturation does not necessarily mean that the body or the mind is ready for sexual acts or for having and bringing up children.",
+    "ouput": "What does sexual maturation indicate about readiness?"
+  },
+  {
+    "input": "There can be pressure from our friends for participating in many activities, whether we really want to or not. There can be pressure from families to get married and start having children.",
+    "ouput": "What types of pressures can influence decisions?"
+  },
+  {
+    "input": "How do we decide if the body or the mind is ready for this major responsibility? All of us are under many different kinds of pressures about these issues.",
+    "ouput": "What question do we face regarding readiness?"
+  },
+  {
+    "input": "In this situation, making choices can become very difficult. There can be pressure from government agencies to avoid having children.",
+    "ouput": "What makes decision-making challenging in reproductive health?"
+  },
+  {
+    "input": "Some degree of sexual maturation does not necessarily mean that the body or the mind is ready for sexual acts or for having and bringing up children.",
+    "ouput": "Is maturity a sign of readiness for parenthood?"
+  },
+  {
+    "input": "We must also consider the possible health consequences of having sex. We have discussed in Class IX that diseases can be transmitted from person to person in a variety of ways.",
+    "ouput": "What health consequences arise from sexual activity?"
+  },
+  {
+    "input": "Since the sexual act is a very intimate connection of bodies, it is not surprising that many diseases can be sexually transmitted.",
+    "ouput": "Why are diseases often sexually transmitted?"
+  },
+  {
+    "input": "These include bacterial infections such as gonorrhoea and syphilis, and viral infections such as warts and HIV-AIDS.",
+    "ouput": "What types of infections can be sexually transmitted?"
+  },
+  {
+    "input": "Using a covering, called a condom, for the penis during sex helps to prevent transmission of many of these infections to some extent.",
+    "ouput": "How do condoms help prevent disease transmission?"
+  },
+  {
+    "input": "Is it possible to prevent the transmission of such diseases during the sexual act?",
+    "ouput": "Can sexually transmitted diseases be prevented?"
+  },
+  {
+    "input": "Pregnancy will make major demands on the body and the mind of the woman, and if she is not ready for it, her health will be adversely affected. Therefore, many ways have been devised to avoid pregnancy.",
+    "ouput": "What demands does pregnancy place on women?"
+  },
+  {
+    "input": "Another category of contraceptives acts by changing the hormonal balance of the body so that eggs are not released and fertilisation cannot occur.",
+    "ouput": "How do some contraceptives prevent fertilisation?"
+  },
+  {
+    "input": "Surgical methods can be used to create such blocks. While surgical methods are safe in the long run, surgery itself can cause infections and other problems if not performed properly.",
+    "ouput": "What are potential risks of surgical contraceptive methods?"
+  },
+  {
+    "input": "These drugs commonly need to be taken orally as pills. However, since they change hormonal balances, they can cause side-effects too.",
+    "ouput": "What are the side effects of hormonal contraceptives?"
+  },
+  {
+    "input": "Condoms on the penis or similar coverings worn in the vagina can serve this purpose. Another category of contraceptives acts by changing the hormonal balance of the body.",
+    "ouput": "What is a mechanical barrier method of contraception?"
+  },
+  {
+    "input": "If the vas deferens in the male is blocked, sperm transfer will be prevented. If the fallopian tube in the female is blocked, the egg will not be able to reach the uterus.",
+    "ouput": "What happens when the vas deferens or fallopian tubes are blocked?"
+  },
+  {
+    "input": "Other contraceptive devices such as the loop or the copper-T are placed in the uterus to prevent pregnancy. Again, they can cause side effects due to irritation of the uterus.",
+    "ouput": "What are loop and copper-T devices used for?"
+  },
+  {
+    "input": "The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.",
+    "ouput": "What organs are in the male reproductive system?"
+  },
+  {
+    "input": "The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.",
+    "ouput": "What is the function of the testes?"
+  },
+  {
+    "input": "The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.",
+    "ouput": "Where does sperm production occur in males?"
+  },
+  {
+    "input": "The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.",
+    "ouput": "What role does the vas deferens play?"
+  },
+  {
+    "input": "The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.",
+    "ouput": "Which organ is responsible for urine expulsion?"
+  },
+  {
+    "input": "The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.",
+    "ouput": "Name one function of the prostate gland."
+  },
+  {
+    "input": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. These structures work together to facilitate reproduction and menstruation.",
+    "ouput": "What are the main parts of the female reproductive system?"
+  },
+  {
+    "input": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. Each component plays a unique role in the reproductive process.",
+    "ouput": "What roles do the ovaries play in reproduction?"
+  },
+  {
+    "input": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. Understanding this anatomy is crucial for studies in human biology.",
+    "ouput": "Why is the anatomy of the female reproductive system important?"
+  },
+  {
+    "input": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. These organs are vital for reproductive health.",
+    "ouput": "How do the fallopian tubes contribute to reproduction?"
+  },
+  {
+    "input": "The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. They collectively function to support pregnancy and childbirth.",
+    "ouput": "What is the function of the uterus in the female reproductive system?"
+  },
+  {
+    "input": "In the body at puberty, such as increase in breast size in girls and new facial hair growth in boys, are signs of sexual maturation.",
+    "ouput": "What are signs of sexual maturation?"
+  },
+  {
+    "input": "In the body at puberty, such as increase in breast size in girls and new facial hair growth in boys, are signs of sexual maturation.",
+    "ouput": "How does puberty affect boys and girls?"
+  },
+  {
+    "input": "In the body at puberty, such as increase in breast size in girls and new facial hair growth in boys, are signs of sexual maturation.",
+    "ouput": "What physical changes occur during puberty?"
+  },
+  {
+    "input": "In the body at puberty, such as increase in breast size in girls and new facial hair growth in boys, are signs of sexual maturation.",
+    "ouput": "What changes indicate sexual maturation in adolescents?"
+  },
+  {
+    "input": "In the body at puberty, such as increase in breast size in girls and new facial hair growth in boys, are signs of sexual maturation.",
+    "ouput": "What is one sign of puberty in boys?"
+  },
+  {
+    "input": "In the body at puberty, such as increase in breast size in girls and new facial hair growth in boys, are signs of sexual maturation.",
+    "ouput": "What is one sign of puberty in girls?"
+  },
+  {
+    "input": "Sexual reproduction in human beings involves the introduction of sperm in the vagina of the female. Fertilisation occurs in the fallopian tube.",
+    "ouput": "Where does fertilisation occur in humans?"
+  },
+  {
+    "input": "Sexual reproduction in human beings involves the introduction of sperm in the vagina of the female. Fertilisation occurs in the fallopian tube.",
+    "ouput": "What is introduced into the vagina during sexual reproduction?"
+  },
+  {
+    "input": "Sexual reproduction in human beings involves the introduction of sperm in the vagina of the female. Fertilisation occurs in the fallopian tube.",
+    "ouput": "What process is mentioned that occurs in the fallopian tube?"
+  },
+  {
+    "input": "Sexual reproduction in human beings involves the introduction of sperm in the vagina of the female. Fertilisation occurs in the fallopian tube.",
+    "ouput": "What role does sperm play in human sexual reproduction?"
+  },
+  {
+    "input": "Sexual reproduction in human beings involves the introduction of sperm in the vagina of the female. Fertilisation occurs in the fallopian tube.",
+    "ouput": "What part of the female reproductive system is involved in fertilisation?"
+  },
+  {
+    "input": "Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper -T and other methods. These methods work by either preventing the sperm from reaching the egg or by stopping ovulation altogether.",
+    "ouput": "What is the purpose of contraception?"
+  },
+  {
+    "input": "Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper -T and other methods. Each method has its own effectiveness in preventing pregnancy, as well as potential health side effects.",
+    "ouput": "What are some common methods of contraception?"
+  },
+  {
+    "input": "Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper -T and other methods. It's important for individuals to choose a method that best suits their health needs and lifestyle.",
+    "ouput": "Why is it important to choose a suitable contraceptive method?"
+  },
+  {
+    "input": "Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper -T and other methods. Understanding how each method works can help in making informed choices.",
+    "ouput": "How do condoms prevent pregnancy?"
+  }
+]

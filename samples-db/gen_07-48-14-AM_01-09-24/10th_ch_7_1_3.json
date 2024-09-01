@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "context": "In such cases, both sexes, males and females, are needed to produce new generations. Bulls alone cannot produce new calves, nor can hens alone produce new chicks. This process requires the contribution of genetic material from both a male and a female individual.",
+      "question": "What is needed for sexual reproduction?"
+    },
+    {
+      "context": "We are also familiar with modes of reproduction that depend on the involvement of two individuals before a new generation can be created. In these cases, males and females are essential for generation creation.",
+      "question": "What does sexual reproduction depend on?"
+    },
+    {
+      "context": "Sexual reproduction involves the contribution of genetic material from both a male and a female individual. Bulls alone cannot produce new calves, nor can hens alone produce new chicks.",
+      "question": "Who contributes to sexual reproduction?"
+    }
+  ]
+}

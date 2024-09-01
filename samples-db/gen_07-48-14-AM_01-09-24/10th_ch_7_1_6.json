@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Humans use a sexual mode of reproduction. All of us know that our bodies change as we become older. We notice that our height has increased continuously and that we acquire and lose teeth.",
+      "question": "What type of reproduction do humans use?"
+    },
+    {
+      "context": "In early teenage years, a whole new set of changes occurs that cannot be explained simply as body enlargement. Instead, the appearance of the body changes, new features appear, and so do new sensations.",
+      "question": "What changes occur in early teenage years?"
+    },
+    {
+      "context": "We notice that our height has increased continuously and that we acquire and lose teeth. In early teenage years, a whole new set of changes occurs that cannot be explained simply as body enlargement.",
+      "question": "What physical changes happen as we age?"
+    },
+    {
+      "context": "Instead, the appearance of the body changes, new features appear, and so do new sensations. We notice that our height has increased continuously and that we acquire and lose teeth.",
+      "question": "What new experiences come with body changes?"
+    },
+    {
+      "context": "All of us know that our bodies change as we become older. We notice that our height has increased continuously and that we acquire and lose teeth.",
+      "question": "How do our bodies change as we get older?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The creation of germ-cells to participate in sexual reproduction is another specialised function, and we have seen that plants develop special cell and tissue types to create them.",
+      "question": "What are germ-cells responsible for?"
+    },
+    {
+      "context": "While the body of the individual organism is growing to its adult size, the resources of the body are mainly directed at achieving this growth.",
+      "question": "What does the body prioritize during growth?"
+    },
+    {
+      "context": "As the rate of general body growth begins to slow down, reproductive tissues begin to mature.",
+      "question": "What happens to reproductive tissues as growth slows?"
+    },
+    {
+      "context": "Thus, as the rate of general body growth begins to slow down, reproductive tissues begin to mature. This period during adolescence is called puberty.",
+      "question": "What is the term for adolescence sexual maturation?"
+    },
+    {
+      "context": "Human beings also develop special tissues for this purpose. However, while the body of the individual organism is growing to its adult size, the resources of the body are mainly directed at achieving this growth.",
+      "question": "What does the body develop for sexual maturation?"
+    }
+  ]
+}

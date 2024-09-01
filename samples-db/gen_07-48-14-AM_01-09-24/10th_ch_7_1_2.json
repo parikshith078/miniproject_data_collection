@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "All the modes of reproduction that we have discussed so far allow new generations to be created from a single individual. This is known as asexual reproduction.",
+      "question": "What is asexual reproduction?"
+    },
+    {
+      "context": "This type of reproduction does not involve the fusion of gametes and results in offspring that are genetically identical to the parent.",
+      "question": "What is a key characteristic of asexual reproduction?"
+    },
+    {
+      "context": "Asexual reproduction can occur through various processes such as budding, fragmentation, and binary fission.",
+      "question": "What processes are involved in asexual reproduction?"
+    },
+    {
+      "context": "In contrast to sexual reproduction, asexual reproduction allows for rapid population growth under favorable conditions.",
+      "question": "How does asexual reproduction affect population growth?"
+    },
+    {
+      "context": "Asexual reproduction is commonly seen in organisms like bacteria, certain fungi, and some plants.",
+      "question": "Which organisms commonly reproduce asexually?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Sexual reproduction in human beings involves the introduction of sperm in the vagina of the female. Fertilisation occurs in the fallopian tube.",
+      "question": "Where does fertilisation occur in humans?"
+    },
+    {
+      "context": "Sexual reproduction in human beings involves the introduction of sperm in the vagina of the female. Fertilisation occurs in the fallopian tube.",
+      "question": "What is introduced into the vagina during sexual reproduction?"
+    },
+    {
+      "context": "Sexual reproduction in human beings involves the introduction of sperm in the vagina of the female. Fertilisation occurs in the fallopian tube.",
+      "question": "What process is mentioned that occurs in the fallopian tube?"
+    },
+    {
+      "context": "Sexual reproduction in human beings involves the introduction of sperm in the vagina of the female. Fertilisation occurs in the fallopian tube.",
+      "question": "What role does sperm play in human sexual reproduction?"
+    },
+    {
+      "context": "Sexual reproduction in human beings involves the introduction of sperm in the vagina of the female. Fertilisation occurs in the fallopian tube.",
+      "question": "What part of the female reproductive system is involved in fertilisation?"
+    }
+  ]
+}

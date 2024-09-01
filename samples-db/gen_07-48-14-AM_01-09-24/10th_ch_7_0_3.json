@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "Different organisms reproduce in various ways based on their body design. For example, some organisms may reproduce asexually, while others reproduce sexually. Understanding these modes is crucial for studying biodiversity.",
+      "question": "What factors influence reproduction methods?"
+    },
+    {
+      "context": "The modes of reproduction in organisms are determined by their structural and functional characteristics. Asexual reproduction involves a single organism, while sexual reproduction requires two. Each method has its advantages.",
+      "question": "What is asexual reproduction?"
+    },
+    {
+      "context": "Reproductive processes are influenced by a variety of factors that include environmental conditions and the biological makeup of the organism. The way organisms reproduce ensures the continuation of their species.",
+      "question": "How do environmental conditions affect reproduction?"
+    },
+    {
+      "context": "Reproduction is a fundamental process in biology, and organisms have developed various strategies based on their evolutionary adaptations. The study of these modes sheds light on evolutionary biology and ecology.",
+      "question": "Why is studying reproductive modes important?"
+    },
+    {
+      "context": "The reproductive methods of organisms vary widely, encompassing both asexual and sexual reproduction. These methods enable organisms to adapt to changing environments and ensure their survival over generations.",
+      "question": "What are the two main types of reproduction?"
+    }
+  ]
+}

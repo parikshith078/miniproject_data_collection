@@ -1,0 +1,40 @@
+{
+  "samples": [
+    {
+      "context": "Organisms look similar because their body designs are similar. If body designs are to be similar, the blueprints for these designs should be similar. Thus, reproduction at its most basic level will involve making copies of the blueprints of body design.",
+      "question": "What causes organisms to look similar?"
+    },
+    {
+      "context": "In Class IX, we learnt that the chromosomes in the nucleus of a cell contain information for inheritance of features from parents to next generation in the form of DNA (Deoxyribo Nucleic Acid) molecules.",
+      "question": "What do chromosomes in a cell nucleus contain?"
+    },
+    {
+      "context": "If the information is changed, different proteins will be made. Different proteins will eventually lead to altered body designs. Therefore, a basic event in reproduction is the creation of a DNA copy.",
+      "question": "What happens if DNA information changes?"
+    },
+    {
+      "context": "Cells use chemical reactions to build copies of their DNA. This creates two copies of the DNA in a reproducing cell, and they will need to be separated from each other.",
+      "question": "How are copies of DNA created in cells?"
+    },
+    {
+      "context": "However, keeping one copy of DNA in the original cell and simply pushing the other one out would not work, because the copy pushed out would not have any organised cellular structure for maintaining life processes.",
+      "question": "Why can't one DNA copy be pushed out?"
+    },
+    {
+      "context": "Therefore, DNA copying is accompanied by the creation of an additional cellular apparatus, and then the DNA copies separate, each with its own cellular apparatus.",
+      "question": "What happens during DNA copying in a cell?"
+    },
+    {
+      "context": "The answer to this question will depend on how accurately the copying reactions involved occur. No biochemical reaction is absolutely reliable.",
+      "question": "What factors influence DNA copying accuracy?"
+    },
+    {
+      "context": "As a result, the DNA copies generated will be similar, but may not be identical to the original. Some of these variations might be so drastic that the new DNA copy cannot work with the cellular apparatus it inherits.",
+      "question": "Are DNA copies always identical to the original?"
+    },
+    {
+      "context": "Thus, the surviving cells are similar to, but subtly different from each other. This inbuilt tendency for variation during reproduction is the basis for evolution, as we will discuss in the next chapter.",
+      "question": "What is the basis for evolution according to the text?"
+    }
+  ]
+}

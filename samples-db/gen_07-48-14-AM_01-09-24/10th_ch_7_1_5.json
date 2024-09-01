@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "The reproductive parts of angiosperms are located in the flower. You have already studied the different parts of a flower – sepals, petals, stamens and pistil. Stamens and pistil are the reproductive parts of a flower which contain the germ-cells.",
+      "question": "What are the reproductive parts of a flower?"
+    },
+    {
+      "context": "A stamen is the male reproductive part and it produces pollen grains. The pistil is the female reproductive part.",
+      "question": "What does the stamen produce?"
+    },
+    {
+      "context": "Fertilization gives us the zygote which is capable of growing into a new plant, resulting in seed formation.",
+      "question": "What does fertilization result in?"
+    },
+    {
+      "context": "It is made of three parts: the swollen bottom part (ovary), the middle elongated part (style), and the terminal part (stigma).",
+      "question": "What are the three parts of a pistil?"
+    },
+    {
+      "context": "The pistil is the female reproductive part. It is made of three parts: the swollen bottom part (ovary), the middle elongated part (style), and the terminal part (stigma).",
+      "question": "Which part of the flower is the female reproductive part?"
+    }
+  ]
+}

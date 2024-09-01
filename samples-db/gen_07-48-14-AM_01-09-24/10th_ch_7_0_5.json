@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "context": "In multi-cellular organisms with relatively simple body organisation, simple reproductive methods can still work. Spirogyra, for example, simply breaks up into smaller pieces upon maturation. These pieces or fragments grow into new individuals.",
+      "question": "What does Spirogyra do upon maturation?"
+    },
+    {
+      "context": "They cannot simply divide cell-by-cell. The reason is that many multi-cellular organisms, as we have seen, are not simply a random collection of cells. Specialised cells are organised as tissues, and tissues are organised into organs, which then have to be placed at definite positions in the body.",
+      "question": "Why can't multi-cellular organisms just divide cell-by-cell?"
+    },
+    {
+      "context": "Specialised cells are organised as tissues, and tissues are organised into organs, which then have to be placed at definite positions in the body. In such a carefully organised situation, cell-by-cell division would be impractical.",
+      "question": "How are cells organised in multi-cellular organisms?"
+    },
+    {
+      "context": "Multi-cellular organisms, therefore, need to use more complex ways of reproduction. A basic strategy used in multi-cellular organisms is that different cell types perform different specialised functions.",
+      "question": "What type of reproduction is used by multi-cellular organisms?"
+    },
+    {
+      "context": "Following this general pattern, reproduction in such organisms is also the function of a specific cell type. This indicates that not all cells are involved in the reproductive process.",
+      "question": "Which cell type is responsible for reproduction in multi-cellular organisms?"
+    }
+  ]
+}
